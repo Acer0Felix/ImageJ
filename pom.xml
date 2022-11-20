@@ -25,3 +25,8 @@
     </plugins>
   </build>
 </project>
+
+<properties>
+  <sonar.organization>acer0felix</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
