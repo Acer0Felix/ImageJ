@@ -1,0 +1,172 @@
+
+^ij.IJ#runUserPlugIn(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)Ljava/lang/Object;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaâ â("38"39*´
+35=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaç ç(i
+g
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaç ç(
+ij.IJ"
+classLoader"__id*
+""*
+34*¡
+3=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ ƒ(0×Ô
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ ƒ(B
+%34boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+HandleExtraFileTypes*
+
+	classNamejava.lang.String2equals(Ljava/lang/Object;)*
+1*Œ
+37=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å("G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å( 
+""*Ë
+38=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å(x
+v
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å(
+%5java.applet.Applet"__id**
+ij.IJ"
+applet*
+35
+37
+34*Ý
+39=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä ä(š
+—
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä
+ ä(%
+%0java.lang.String"__concat*
+runUserPlugIn: *
+
+	classNamejava.lang.StringŠ
+‡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä
+ ä(.
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+
+, arg=¶
+³
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä/ ä(<
+%2java.lang.String"4ij.IJ#argument(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+argjava.lang.String˜
+•
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä
+ ä(<
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String“
+
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä ä(=
+
+%4void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%3java.lang.String*
+38*Ÿ
+28=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaï ï($“
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaï ï(*
+%10#ij.plugin.filter.PlugInFilterRunner"#ij.plugin.filter.PlugInFilterRunner»
+¸
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaï ï(7
+%11"cij.plugin.filter.PlugInFilterRunner#<init>(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/String;)V*,
+*
+%10#ij.plugin.filter.PlugInFilterRunner*
+
+	thePlugInjava.lang.Object*!
+
+commandNamejava.lang.String*
+
+argjava.lang.String*
+3
+1*œ
+30=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaí í(ÎË
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaí í(!
+
+%9void")ij.plugin.PlugIn#run(Ljava/lang/String;)V*
+
+	thePlugInjava.lang.Object*
+
+argjava.lang.String2run(Ljava/lang/String;)*
+3
+1*Î
+31=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(:y
+w
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(:
+	thePlugInjava.lang.Object"__id*
+
+%8	!capture!*
+3
+28
+30
+1*ø
+32=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(:¬©
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(:
+%8	!capture!"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+%7java.lang.Class2newInstance()*
+31*Î
+33=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(‚ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaë ë(+
+%7java.lang.Class"Djava.lang.ClassLoader#loadClass(Ljava/lang/String;)Ljava/lang/Class;*!
+
+loaderjava.lang.ClassLoader*
+
+	classNamejava.lang.String2loadClass(Ljava/lang/String;)*
+32*à
+34=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaè è(%™
+–
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaè è('
+%6java.lang.ClassLoader"-ij.IJ#getClassLoader()Ljava/lang/ClassLoader;*	"
+ij.IJˆ
+…
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaè è((
+loaderjava.lang.ClassLoader"__id*
+
+%6java.lang.ClassLoadern
+l
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaé é(
+	thePlugInjava.lang.Object"__id*
+""*
+33*¤
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java…  …(%"`
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java† †(
+
+	thePlugInjava.lang.Object:
+commandNamejava.lang.String:
+	classNamejava.lang.String:
+argjava.lang.String:
+""B	"
+ij.IJ

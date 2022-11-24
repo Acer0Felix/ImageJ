@@ -1,0 +1,31 @@
+
+?ij.gui.HistogramWindow#scaleDown(Lij/process/ImageProcessor;D)IN
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÎ Î("3*­
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÒ Ò("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÒ Ò(3
+""*Ç
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÏ Ï(³°
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÏ Ï(
+%0double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()³°
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÐ Ð(
+%1double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()*
+2
+1*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÔ
+ Ô("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÔ Ô(
+"":
+ipij.process.ImageProcessor:
+""B
+ij.gui.HistogramWindow

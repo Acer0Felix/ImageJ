@@ -1,0 +1,76 @@
+
+(ij.IJ#getFullVersion()Ljava/lang/String;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javañ ñ($"5*–
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaõ õ(à
+Ö
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaõ õ(
+%3java.lang.String"__concat*
+0*
+
+buildjava.lang.String|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaõ õ(
+buildjava.lang.String"__id*
+
+%3java.lang.String*
+1*›
+3=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaö ö(êç
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaö ö(	
+%2int"java.lang.String#length()I*
+
+buildjava.lang.String2length()*
+2
+1*≥
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaô ô(j
+h
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaô ô(
+buildjava.lang.String"__id*
+99*
+1*ƒ
+5=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaó ó(g
+e
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaó ó(
+%0java.lang.String"__id*
+""|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaó ó(
+buildjava.lang.String"__id*
+
+%0java.lang.Stringêç
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaò ò(	
+%1int"java.lang.String#length()I*
+
+buildjava.lang.String2length()*
+3
+4*§
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaú	 ú(g
+e
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaú	 ú(
+%4java.lang.String"__id*
+""õ
+ò
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaú	 ú(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+buildjava.lang.String"Y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaú ú(
+
+%5java.lang.StringB	"
+ij.IJ

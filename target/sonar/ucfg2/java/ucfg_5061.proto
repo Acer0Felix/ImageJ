@@ -1,0 +1,24 @@
+
+:ij.process.LUT#getReds(Ljava/awt/image/IndexColorModel;)[BD
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java ("1*×
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java   (f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java   (
+redsbyte[]"__id*
+""ÉÆ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java   (-
+
+%0void"+java.awt.image.IndexColorModel#getReds([B)V*&
+$
+cmjava.awt.image.IndexColorModel*
+
+redsbyte[]2getReds([B)"X
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java /  (;
+
+redsbyte[]:$
+cmjava.awt.image.IndexColorModelB"
+ij.process.LUT

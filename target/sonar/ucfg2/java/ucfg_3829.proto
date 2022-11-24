@@ -1,0 +1,74 @@
+
+4ij.WindowManager#getImageTitles()[Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java²% ²(3"7*Ü
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¸ ¸(«
+¨
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¸ ¸($
+%3ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""}
+{
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¸ ¸(%
+imgij.ImagePlus"__id*
+
+%3ij.ImagePlus³°
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¹ ¹(
+%4java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+imgij.ImagePlus2
+getTitle()¡
+ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¹ ¹(
+%5"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%4java.lang.String*
+3
+1*á
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¶ ¶(#zx
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¶ ¶(+
+%2java.lang.String[]"java.lang.String[]
+Š
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¶ ¶(,
+titlesjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+3
+1*±
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaµ µ(zx
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaµ
+ µ(
+%1java.lang.String[]"java.lang.String[]"f
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaµ µ(
+
+%1java.lang.String[]*è
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java³ ³(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java³ ³(
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+5
+6*¹
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java»	 »("j
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java» »(
+
+titlesjava.lang.String[]B"
+ij.WindowManager

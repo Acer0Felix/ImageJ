@@ -1,0 +1,21 @@
+
+Dij.plugin.frame.ThresholdPlot#getPreferredSize()Ljava/awt/Dimension;Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¦ ¦(%"1*™
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java§ §("Œ‰
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java§ §(
+%0java.awt.Dimension"java.awt.Dimension°
+­
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java§ §(/
+%1"java.awt.Dimension#<init>(II)V*
+
+%0java.awt.Dimension*
+""*
+"""w
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java§ §(0
+
+%0java.awt.DimensionB!
+ij.plugin.frame.ThresholdPlot

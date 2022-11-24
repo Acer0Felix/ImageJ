@@ -1,0 +1,1459 @@
+
+Oij.gui.PlotDialog#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java´ ´(!"90"91*¬
+68I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚$ ‚(.g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚2 ‚(8
+
+%56int"__id*
+""*
+66
+67*∞
+24I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé) é(-h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé) é(2
+%118int"__id*
+""o
+m
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé) é(2
+%117int"__id*
+
+%118int*
+22*¬
+69I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚ ‚(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚ ‚( 
+
+%55int"__id*
+""*
+68
+66*Ö	
+25I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaå å(∑¥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaå å(.
+%111boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaç ç(
+%112ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot°û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaç+ ç(@
+%113int"java.awt.Font#getStyle()I*
+
+
+numberFontjava.awt.Font2
+getStyle()ÿ’
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaç ç(Q
+%114java.awt.Font"+java.awt.Font#deriveFont(IF)Ljava/awt/Font;*
+
+
+numberFontjava.awt.Font*
+
+%113int*
+""2deriveFont(IF)÷”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaç ç(R
+%115void"&ij.gui.Plot#setFont(CLjava/awt/Font;)V*
+
+%112ij.gui.Plot*
+f*
+
+%114java.awt.Font2setFont(CLjava/awt/Font;)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé é(
+%116ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot*
+24
+23*¸
+26I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaã+ ã(4§°
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaã+ ã(@
+%110float"java.awt.Font#getSize2D()F*
+
+	labelFontjava.awt.Font2getSize2D()*
+25*»
+27I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaä  ä("¥±
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaä  ä(2
+%108double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()µ≤
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaã ã(
+%109boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+25
+26*ô	
+70I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‹ ‹(≥∞
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‹ ‹('
+%48double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java›$ ›((
+%49ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotùö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java›$ ›(4
+%50double[]"ij.gui.Plot#getLimits()[D*
+
+%49ij.gui.Plot2getLimits()óî
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java›$ ›(<
+%51double[]"java.lang.Object#clone()[D*
+
+%50double[]2clone()g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaﬁ ﬁ(!
+
+%52int"__id*
+""â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaﬂ ﬂ(
+%53ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot–Õ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaﬂ ﬂ(U
+%54void"$ij.gui.Plot#setLimitsNoUpdate(DDDD)V*
+
+%53ij.gui.Plot*
+""*
+""*
+""*
+""2setLimitsNoUpdate(DDDD)*
+69*¬
+71I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java€ €((g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java€, €(1
+
+%47int"__id*
+""*
+69
+70*¬
+72I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java€ €(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java€ €(
+
+%46int"__id*
+""*
+69
+71*˛
+73I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java’ ’(∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java’ ’(%
+%37boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java÷ ÷(
+%38ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot¶£
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java÷ ÷(
+%39void"ij.gui.Plot#setAxisYLog(Z)V*
+
+%38ij.gui.Plot*
+""2setAxisYLog(Z)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java◊ ◊(
+%40ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot–Õ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java◊ ◊(O
+%41void"$ij.gui.Plot#setLimitsNoUpdate(DDDD)V*
+
+%40ij.gui.Plot*
+""*
+""*
+""*
+""2setLimitsNoUpdate(DDDD)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÿ ÿ(
+%42ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotùö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÿ ÿ(#
+%43double[]"ij.gui.Plot#getLimits()[D*
+
+%42ij.gui.Plot2getLimits()ó
+î
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaŸ Ÿ((
+%44java.awt.Checkbox"__id*'*%
+ij.gui.PlotDialog"
+yLogCheckboxìê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaŸ Ÿ(M
+%45void"Bij.gui.PlotDialog#enableDisableLogCheckbox(Ljava/awt/Checkbox;DD)V*
+ij.gui.PlotDialog*
+
+%44java.awt.Checkbox*
+""*
+""2/enableDisableLogCheckbox(Ljava/awt/Checkbox;DD)*
+72*⁄
+74I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘ ‘(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘ ‘(
+%32ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotâ
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘! ‘(%
+%33ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotg
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘5 ‘(A
+
+%34int"__id*
+""∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘C ‘(V
+%35boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()»≈
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‘ ‘(W
+
+%36int"ij.gui.PlotDialog#setFlag(IIZ)I*
+ij.gui.PlotDialog*
+""*
+
+
+%34int*
+
+%35boolean2setFlag(IIZ)*
+73*Ç
+76I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaœ œ(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaœ œ(
+%30ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotöó
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaœ œ(
+%31void"ij.gui.Plot#saveMinMax()V*
+
+%30ij.gui.Plot2saveMinMax()*
+73
+74*˝
+32I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaá, á(6•¢
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaá, á(B
+%107float"java.awt.Font#getSize2D()F*
+
+
+numberFontjava.awt.Font2getSize2D()*
+27*»
+33I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÜ! Ü(#¥±
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÜ! Ü(3
+%105double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()µ≤
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaá á(
+%106boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+27
+32*§
+78I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÕ" Õ('"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÕ Õ((
+""*Ê
+34I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÑ( Ñ(0é
+ã
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÑ Ñ(0
+
+numberFontjava.awt.Font"__id*
+
+plotFontjava.awt.Font*
+33*˘
+79I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∆ ∆( â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∆ ∆( 
+%26ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotùö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∆ ∆(,
+%27double[]"ij.gui.Plot#getLimits()[D*
+
+%26ij.gui.Plot2getLimits()≥∞
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java« «(&
+%28double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()≥∞
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java   (&
+%29double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+73
+74
+76
+78*¨
+35I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÉ É(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÉ É(
+%103ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÉ É(&
+%104java.awt.Font"%ij.gui.Plot#getFont(C)Ljava/awt/Font;*
+
+%103ij.gui.Plot*
+f2
+getFont(C)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÉ É('
+
+numberFontjava.awt.Font"__id*
+
+%104java.awt.Font*
+33
+34*Â
+36I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÇ& Ç(.ç
+ä
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÇ Ç(.
+	labelFontjava.awt.Font"__id*
+
+plotFontjava.awt.Font*
+35*µ
+37I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ Ä(Tá
+Ñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ Ä(T
+plotFontjava.awt.Font"__id*
+
+%96java.awt.Fontä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÅ Å(
+%101ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÅ Å(%
+%102java.awt.Font"%ij.gui.Plot#getFont(C)Ljava/awt/Font;*
+
+%101ij.gui.Plot*
+x2
+getFont(C)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÅ Å(&
+	labelFontjava.awt.Font"__id*
+
+%102java.awt.Font*
+35
+36*˚
+38I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄC Ä(Gä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄC Ä(G
+%100ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotí
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄC Ä(S
+%98java.awt.Font"__id*&*$
+
+%100ij.gui.Plot"
+defaultFontÅ
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄC Ä(S
+%96java.awt.Font"__id*
+
+%98java.awt.Font*
+37*˘
+39I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ0 Ä(4â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ0 Ä(4
+%99ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ0 Ä(@
+%97java.awt.Font"__id*%*#
+
+%99ij.gui.Plot"
+currentFontÅ
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ0 Ä(@
+%96java.awt.Font"__id*
+
+%97java.awt.Font*
+37*¬
+80I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≈! ≈(+g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≈/ ≈(5
+
+%25int"__id*
+""*
+79
+72*¬
+81I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≈ ≈(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≈ ≈(
+
+%24int"__id*
+""*
+79
+80*˛
+82I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaø ø(∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaø ø(%
+%15boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¿ ¿(
+%16ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot¶£
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¿ ¿(
+%17void"ij.gui.Plot#setAxisXLog(Z)V*
+
+%16ij.gui.Plot*
+""2setAxisXLog(Z)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¡ ¡(
+%18ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot–Õ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¡ ¡(O
+%19void"$ij.gui.Plot#setLimitsNoUpdate(DDDD)V*
+
+%18ij.gui.Plot*
+""*
+""*
+""*
+""2setLimitsNoUpdate(DDDD)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¬ ¬(
+%20ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotùö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¬ ¬(#
+%21double[]"ij.gui.Plot#getLimits()[D*
+
+%20ij.gui.Plot2getLimits()ó
+î
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java√ √((
+%22java.awt.Checkbox"__id*'*%
+ij.gui.PlotDialog"
+xLogCheckboxìê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java√ √(M
+%23void"Bij.gui.PlotDialog#enableDisableLogCheckbox(Ljava/awt/Checkbox;DD)V*
+ij.gui.PlotDialog*
+
+%22java.awt.Checkbox*
+""*
+""2/enableDisableLogCheckbox(Ljava/awt/Checkbox;DD)*
+81*⁄
+83I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæ æ(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæ æ(
+%10ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotâ
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæ! æ(%
+%11ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotg
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæ5 æ(A
+
+%12int"__id*
+""∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæC æ(V
+%13boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()»≈
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaæ æ(W
+
+%14int"ij.gui.PlotDialog#setFlag(IIZ)I*
+ij.gui.PlotDialog*
+""*
+
+
+%12int*
+
+%13boolean2setFlag(IIZ)*
+82*˘
+40I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ Ä(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ Ä(
+%94ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÄ Ä($
+%95java.awt.Font"__id*%*#
+
+%94ij.gui.Plot"
+currentFont*
+38
+39*ˇ
+85I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∫ ∫(à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∫ ∫(
+%8ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotòï
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∫ ∫(
+
+%9void"ij.gui.Plot#saveMinMax()V*
+
+%8ij.gui.Plot2saveMinMax()*
+82
+83*¬
+41I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaˇ ˇ(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaˇ ˇ( 
+
+%93int"__id*
+""*
+40
+21*å
+42I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˝ ˝(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˝ ˝(
+%91ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot®•
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˝ ˝(+
+%92void">ij.gui.Plot#setXYLabels(Ljava/lang/String;Ljava/lang/String;)V*
+
+%91ij.gui.Plot* 
+
+
+xAxisLabeljava.lang.String* 
+
+
+yAxisLabeljava.lang.String21setXYLabels(Ljava/lang/String;Ljava/lang/String;)*
+41*§
+87I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∏" ∏('"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∏ ∏((
+""*∏
+43I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˙ ˙(ŒÀ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˙ ˙(#
+%90java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˙ ˙(#
+
+yAxisLabeljava.lang.String"__id*
+
+%90java.lang.String*
+42*Ù
+88I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java± ±( à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java± ±( 
+%4ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotõò
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java± ±(,
+%5double[]"ij.gui.Plot#getLimits()[D*
+
+%4ij.gui.Plot2getLimits()≤Ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≤ ≤(&
+%6double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()≤Ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaµ µ(&
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+82
+83
+85
+87*¬
+44I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˘% ˘(/g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˘3 ˘(9
+
+%89int"__id*
+""*
+42
+43*¡
+89I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∞! ∞(+f
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∞/ ∞(5	
+%3int"__id*
+""*
+81
+88*¬
+45I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˘ ˘(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java˘ ˘(!
+
+%88int"__id*
+""*
+43
+44*∏
+46I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaˆ ˆ(ŒÀ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaˆ ˆ(#
+%87java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaˆ ˆ(#
+
+xAxisLabeljava.lang.String"__id*
+
+%87java.lang.String*
+45*¬
+47I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaı% ı(/g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaı3 ı(9
+
+%86int"__id*
+""*
+46
+45*∑
+48I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÒ Ò(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÒ Ò(
+%79ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot¨©
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÒ Ò(
+%80void"ij.gui.Plot#setFormatFlags(I)V*
+
+%79ij.gui.Plot*
+""2setFormatFlags(I)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÛ Û(
+%81ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotºπ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÛ Û()
+%82java.lang.String")ij.gui.Plot#getLabel(C)Ljava/lang/String;*
+
+%81ij.gui.Plot*
+x2getLabel(C)è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÛ Û(*
+
+xAxisLabeljava.lang.String"__id*
+
+%82java.lang.Stringâ
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÙ Ù(
+%83ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotºπ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÙ Ù()
+%84java.lang.String")ij.gui.Plot#getLabel(C)Ljava/lang/String;*
+
+%83ij.gui.Plot*
+y2getLabel(C)è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÙ Ù(*
+
+yAxisLabeljava.lang.String"__id*
+
+%84java.lang.Stringg
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaı ı(!
+
+%85int"__id*
+""*
+46
+47*ﬂ
+90I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÆ Æ(à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÆ Æ(
+%0ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotê
+ç
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÆ Æ(#
+%1ij.gui.PlotMaker"__id*"* 
+
+%0ij.gui.Plot"
+	plotMakerf
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java∞ ∞(	
+%2int"__id*
+""*
+88
+89*§
+91I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≠
+ ≠("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≠ ≠(
+""*í
+51I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÔ	 Ô(∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÔ	 Ô(
+%78boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+57
+48*∆
+52I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÓ& Ó(0g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÓ4 Ó(:
+
+%77int"__id*
+""*
+57
+48
+51*¬
+53I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÓ Ó(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÓ Ó("
+
+%76int"__id*
+""*
+51
+52*¡
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java• •(h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java• •(
+%156int"__id*
+""*
+9
+1*ø
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java† †(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java† †(
+%145ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plots
+q
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java† †(
+%146java.awt.Color"__id*
+""“œ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java† †(
+%147void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+%145ij.gui.Plot*
+
+%146java.awt.Color2setColor(Ljava/awt/Color;)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java° °(
+%148ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot®•
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java° °(
+%149void"ij.gui.Plot#setLineWidth(I)V*
+
+%148ij.gui.Plot*22setLineWidth(I)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¢ ¢(
+%150ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotÊ„
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¢ ¢(!
+%151void"+ij.gui.Plot#setLegend(Ljava/lang/String;I)V*
+
+%150ij.gui.Plot*
+
+labelsjava.lang.String*
+""2setLegend(Ljava/lang/String;I)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £(
+%152ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot°û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£+ £(@
+%153int"java.awt.Font#getStyle()I*
+
+
+legendFontjava.awt.Font2
+getStyle()ÿ’
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £(Q
+%154java.awt.Font"+java.awt.Font#deriveFont(IF)Ljava/awt/Font;*
+
+
+legendFontjava.awt.Font*
+
+%153int*
+""2deriveFont(IF)÷”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £(R
+%155void"&ij.gui.Plot#setFont(CLjava/awt/Font;)V*
+
+%152ij.gui.Plot*
+l*
+
+%154java.awt.Font2setFont(CLjava/awt/Font;)*
+10*é
+55I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÌ	 Ì(∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÌ	 Ì(
+%75boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+53*ø
+12I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaü ü(
+h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaü ü(%
+%144int"__id*
+""*
+11*¬
+56I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÏ& Ï(0g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÏ4 Ï(:
+
+%74int"__id*
+""*
+53
+55*¬
+57I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÏ Ï(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÏ Ï("
+
+%73int"__id*
+""*
+55
+56*√
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaù ù(
+h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaù ù(#
+%143int"__id*
+""*
+11
+12*è
+
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javañ ñ(À»
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javañ ñ(#
+%137java.lang.String"4ij.gui.GenericDialog#getNextText()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextText()å
+â
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javañ ñ($
+labelsjava.lang.String"__id*
+
+%137java.lang.Stringª∏
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaó ó(,
+%138int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()j
+h
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaò ò(!
+%139int[]"__id*
+""¥±
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaô! ô(3
+%140double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∑¥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaö ö(.
+%141boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()∑¥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaõ õ(!
+%142boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+14
+11
+12*‚
+16I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaî î(hä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaî î(h
+
+legendFontjava.awt.Font"__id*
+
+%132java.awt.Font*
+15*ˇ
+17I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîX î(\ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîX î(\
+%136ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîX î(h
+%134java.awt.Font"__id*&*$
+
+%136ij.gui.Plot"
+defaultFontÑ
+Å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîX î(h
+%132java.awt.Font"__id*
+
+%134java.awt.Font*
+16*ˇ
+18I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîE î(Iä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîE î(I
+%135ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîE î(U
+%133java.awt.Font"__id*&*$
+
+%135ij.gui.Plot"
+currentFontÑ
+Å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaîE î(U
+%132java.awt.Font"__id*
+
+%133java.awt.Font*
+16*¸
+19I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaî) î(-ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaî) î(-
+%130ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaî) î(9
+%131java.awt.Font"__id*&*$
+
+%130ij.gui.Plot"
+currentFont*
+17
+18*—
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≤ ≤(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≤ ≤(
+%171ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotûõ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≤ ≤(
+%172void"ij.gui.Plot#updateImage()V*
+
+%171ij.gui.Plot2updateImage()"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≥ ≥(
+""*¬
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≠ ≠(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≠ ≠(
+%165ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot≤Ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java≠ ≠(
+%166void"$ij.gui.Plot#restorePlotProperties()V*
+
+%165ij.gui.Plot2restorePlotProperties()ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÆ Æ(
+%167ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot¨©
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÆ Æ(
+%168void"!ij.gui.Plot#restorePlotObjects()V*
+
+%167ij.gui.Plot2restorePlotObjects()ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaØ Ø(
+%169ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot·ﬁ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaØ Ø(0
+%170void"(ij.gui.Plot#useTemplate(Lij/gui/Plot;I)V*
+
+%169ij.gui.Plot*
+
+templatePlotij.gui.Plot*
+""2useTemplate(Lij/gui/Plot;I)*
+1*ø
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¨ ¨(j
+h
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¨ ¨($
+%164int[]"__id*
+""*
+6*ê
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java´ ´(
+∑¥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java´ ´(
+%163boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+4
+6*¬
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java™ ™(j
+h
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java™ ™(!
+%162int[]"__id*
+""*
+2
+5*Ë
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java®! ®($íè
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java®! ®(,
+%161int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()*
+6*î
+9I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¶ ¶($ï
+í
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¶ ¶($
+%157ij.gui.Plot[]"__id*(*&
+ij.gui.PlotDialog"
+templatePlotsª∏
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¶% ¶(<
+%158int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ó
+î
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¶ ¶(=
+%159ij.gui.Plot"
+__arrayGet*
+
+%157ij.gui.Plot[]*
+
+%158intà
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¶ ¶(>
+templatePlotij.gui.Plot"__id*
+
+%159ij.gui.PlotΩ∫
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaß ß(.
+%160ij.ImagePlus"(ij.gui.Plot#getImagePlus()Lij/ImagePlus;*
+
+templatePlotij.gui.Plot2getImagePlus()Ä
+~
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaß ß(/
+impij.ImagePlus"__id*
+
+%160ij.ImagePlus*
+6
+8*˝
+60I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÍ Í(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÍ Í(
+%71ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotïí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÍ Í(
+
+%72int"ij.gui.Plot#getFlags()I*
+
+%71ij.gui.Plot2
+getFlags()*
+57
+48*∆
+61I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÈ È(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÈ È(
+
+%70int"__id*
+""*
+57
+48
+60*˘
+62I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaË Ë(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaË Ë(
+%68ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plotïí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaË Ë(
+
+%69int"ij.gui.Plot#getFlags()I*
+
+%68ij.gui.Plot2
+getFlags()*
+61*¬
+63I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ Â(4g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÁ Á(
+
+%67int"__id*
+""*
+61
+62*ƒ
+64I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ2 Â(3m
+k
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ2 Â(3
+
+%64int"__id*
+
+
+%66int*
+63*¨
+20I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaì ì(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaì ì(
+%128ij.gui.Plot"__id**
+ij.gui.PlotDialog"
+plot∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaì ì(&
+%129java.awt.Font"%ij.gui.Plot#getFont(C)Ljava/awt/Font;*
+
+%128ij.gui.Plot*
+l2
+getFont(C)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaì ì('
+
+legendFontjava.awt.Font"__id*
+
+%129java.awt.Font*
+15
+19*ƒ
+65I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ. Â(/m
+k
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ. Â(/
+
+%64int"__id*
+
+
+%65int*
+63*√
+21I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaí í(h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaí í(
+%127int"__id*
+""*
+20
+10*œ
+66I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„# „('g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„# „(.
+
+%58int"__id*
+""g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„0 „(<
+
+%59int"__id*
+""g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„> „(P
+
+%60int"__id*
+""g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„R „(b
+
+%61int"__id*
+""g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java„d „(r
+
+%62int"__id*
+""g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaÂ Â(+
+
+%63int"__id*
+""*
+64
+65*¬
+22I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaéA é(N√¿
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé é(O
+%120void"!ij.gui.Plot#setAxisLabelFont(IF)V*
+
+%116ij.gui.Plot*
+
+%117int*
+""2setAxisLabelFont(IF)h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaè* è(4
+%121int"__id*
+""Ö
+Ç
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaè? è(R
+%122double"ij.Prefs#getGuiScale()D*"
+
+ij.Prefssq
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaè è(
+%123java.awt.Font"java.awt.Font¬
+ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaè è(T
+%124"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%123java.awt.Font*
+	SansSerif*
+
+%121int*
+""â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaè è(U
+	smallFontjava.awt.Font"__id*
+
+%123java.awt.Fonts
+q
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaêK ê(U
+%125java.awt.Color"__id*
+""˜Ù
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaê ê(V
+%126void"Sij.gui.GenericDialog#addMessage(Ljava/lang/String;Ljava/awt/Font;Ljava/awt/Color;)V*
+
+gdij.gui.GenericDialog*/-
++Labels support !!sub-!! and ^^superscript^^*
+
+	smallFontjava.awt.Font*
+
+%125java.awt.Color2=addMessage(Ljava/lang/String;Ljava/awt/Font;Ljava/awt/Color;)*
+21*¬
+67I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚< ‚(Fg
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java‚J ‚(P
+
+%57int"__id*
+""*
+41
+66*∞
+23I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé5 é(9h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé5 é(?
+%119int"__id*
+""o
+m
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.javaé5 é(?
+%117int"__id*
+
+%119int*
+22:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.gui.PlotDialog

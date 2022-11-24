@@ -1,0 +1,23 @@
+
+4ij.ImagePlus#getNumericProperty(Ljava/lang/String;)DD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java» »(!"1*Î
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¼	 ¼(ûø
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¼ ¼(1
+%0java.lang.String"Dij.ImagePlus#getStringProperty(Ljava/lang/String;)Ljava/lang/String;*
+ij.ImagePlus*
+
+keyjava.lang.String2%getStringProperty(Ljava/lang/String;)´
+±
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¼	 ¼(2
+%1double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%0java.lang.String"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¼ ¼(3
+"":
+keyjava.lang.StringB
+ij.ImagePlus

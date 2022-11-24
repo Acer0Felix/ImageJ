@@ -1,0 +1,49 @@
+
+-ij.macro.Interpreter#isSimpleFunctionCall(Z)ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaó	 ó("12*©
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java§
+ §("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java§ §(
+""*Å
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¢ ¢(
+•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¢ ¢(
+
+%2void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()*
+4
+1*≤
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java† †(	’“
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java† †(
+
+%1void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+ij.macro.Interpreter*
+')' expected2error(Ljava/lang/String;)*
+5
+12*Ü
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö ö(•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö ö(
+
+%0void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()*
+
+5
+7
+12*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¶ ¶(!"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¶ ¶(!
+"":
+""B
+ij.macro.Interpreter

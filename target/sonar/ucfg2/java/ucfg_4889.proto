@@ -1,0 +1,46 @@
+
+`ij.io.DragAndDropHandler#canImport(Ljavax/swing/JComponent;[Ljava/awt/datatransfer/DataFlavor;)ZN
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java ("2*Â
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java   (‘
+Ž
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java   (.
+
+dataFlavor java.awt.datatransfer.DataFlavor"__id*
+""Ð
+Í
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java   (.
+
+dataFlavor java.awt.datatransfer.DataFlavor"
+__arrayGet*7
+5
+transferFlavors"java.awt.datatransfer.DataFlavor[]*
+""*
+4
+1*­
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java" "("X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java" "(
+""*¨
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java! !( ÊÇ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java! !(,
+%0boolean"Wij.io.DragAndDropHandler#isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)Z*
+ij.io.DragAndDropHandler*0
+.
+
+dataFlavor java.awt.datatransfer.DataFlavor2=isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)*
+2
+3*­
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java$	 $("X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java$ $(
+"":
+compjavax.swing.JComponent:5
+transferFlavors"java.awt.datatransfer.DataFlavor[]B
+ij.io.DragAndDropHandler

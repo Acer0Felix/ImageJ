@@ -1,0 +1,537 @@
+
+&ij.plugin.FFT#run(Ljava/lang/String;)VC
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java2 2("40*ò
+24C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaJ J(
+"M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaJ J(
+
+""*î
+25C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaI I(¬
+ø
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaI I(5
+%21void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Swap Quadrants*
+Image must be square*
+24*Ï
+26C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaF F(~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaF F(
+%16ij.ImagePlus"__id**
+ij.plugin.FFT"
+imp©¶
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaF F( 
+%17ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%16ij.ImagePlus2
+getStack()œÃ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaF F(!
+%18void"-ij.plugin.FFT#swapQuadrants(Lij/ImageStack;)V*
+ij.plugin.FFT*
+
+%17ij.ImageStack2swapQuadrants(Lij/ImageStack;)~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaG G(
+%19ij.ImagePlus"__id**
+ij.plugin.FFT"
+impúô
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaG G(
+%20void"ij.ImagePlus#updateAndDraw()V*
+
+%19ij.ImagePlus2updateAndDraw()*
+24*˝
+27C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaE E(
+~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaE E(
+
+%12ij.ImagePlus"__id**
+ij.plugin.FFT"
+impëé
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaE E(
+
+%13int"ij.ImagePlus#getWidth()I*
+
+%12ij.ImagePlus2
+getWidth()~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaE E(
+%14ij.ImagePlus"__id**
+ij.plugin.FFT"
+impìê
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaE E(&
+
+%15int"ij.ImagePlus#getHeight()I*
+
+%14ij.ImagePlus2getHeight()*
+25
+26*ù
+28C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaD D(	«ƒ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaD D(
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+swap2equals(Ljava/lang/Object;)*
+27
+23*∆
+29C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaA A(´®
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaA A(
+%10void"'ij.plugin.FFT#redisplayPowerSpectrum()V*
+ij.plugin.FFT2redisplayPowerSpectrum()"M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaB B(
+
+""*°
+30C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java@ @(	À»
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java@ @(
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+	redisplay2equals(Ljava/lang/Object;)*
+28
+29*ò
+31C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java> >("M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java> >(
+""*†
+32C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java= =(}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java=" =(%
+%7ij.ImagePlus"__id**
+ij.plugin.FFT"
+impÀ
+»
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java= =(,
+%8boolean"Cij.gui.GUI#showCompositeAdvisory(Lij/ImagePlus;Ljava/lang/String;)Z*"
+
+ij.gui.GUI*
+
+%7ij.ImagePlus*
+FFT*
+30
+31*Û
+10C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javac c(
+~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javac c(
+
+%42ij.ImagePlus"__id**
+ij.plugin.FFT"
+impüú
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javac c(
+%43
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%42ij.ImagePlus2getRoi()*
+8
+9*Ó
+33C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java< <(}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java< <(
+%5ij.ImagePlus"__id**
+ij.plugin.FFT"
+impôñ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java< <(,
+%6boolean"ij.ImagePlus#isComposite()Z*
+
+%5ij.ImagePlus2isComposite()*
+30
+32*Ë
+11C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java` `(~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaa a(
+%40ij.ImagePlus"__id**
+ij.plugin.FFT"
+impîë
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaa a(
+%41void"ij.ImagePlus#deleteRoi()V*
+
+%40ij.ImagePlus2deleteRoi()*
+5
+6*õ
+34C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java< <(	≈¬
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java< <(
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+fft2equals(Ljava/lang/Object;)*
+30
+33*ÿ
+35C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java;	 ;(á
+Ñ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java;	 ;(
+%3ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJ}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java; ;(
+ij.plugin.FFT"
+imp"__id*
+
+%3ij.ImagePlus*
+34*›
+13C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java\ \(¬
+ø
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java\ \(5
+%39void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+FFT*#!
+Frequency domain image required"M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java] ](
+
+""*“
+36C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java: :(	}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java: :(	
+%2ij.ImagePlus"__id**
+ij.plugin.FFT"
+imp*
+35
+34*§
+14C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java[ [( «
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java[ [((
+%38boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+inverse2equals(Ljava/lang/Object;)*
+13
+10
+11*ò
+37C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java8 8("M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java8 8(
+""*Ú
+15C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX X(/}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX X(/
+fhtij.process.FHT"__id*
+
+%34ij.process.FHT~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaY Y(
+%36ij.ImagePlus"__id**
+ij.plugin.FFT"
+impôñ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaY Y( 
+
+%37int"ij.ImagePlus#getStackSize()I*
+
+%36ij.ImagePlus2getStackSize()*
+14
+10
+11*¿
+38C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java6 6(o
+m
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java6 6(
+argjava.lang.String"__id*
+fft*
+36* 
+16C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX* X(.y
+w
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX* X(.
+%34ij.process.FHT"__id*
+
+%35
+<nulltype>*
+15*Ë
+39C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java4 4(íè
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java4 4(
+
+%1void"ij.plugin.FFT#showDialog()V*
+ij.plugin.FFT2showDialog()*
+37
+38*—
+17C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX& X()
+}
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX& X()
+%34ij.process.FHT"__id*
+
+objjava.lang.Object
+}
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaX! X()
+%34ij.process.FHT"__id*
+
+objjava.lang.Object*
+15*û
+18C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaV V(~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaV V(
+%30ij.ImagePlus"__id**
+ij.plugin.FFT"
+imp…∆
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaV V(( 
+%31ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%30ij.ImagePlus2getProcessor()ì
+ê
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaV V()
+ipij.process.ImageProcessor"__id*"
+ 
+%31ij.process.ImageProcessor~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaW W(
+%32ij.ImagePlus"__id**
+ij.plugin.FFT"
+imp‚ﬂ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaW W(%
+%33java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+%32ij.ImagePlus*
+FHT2getProperty(Ljava/lang/String;)Å
+
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaW W(&
+objjava.lang.Object"__id*
+
+%33java.lang.Object*
+16
+17*Ã
+19C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaR R(±Æ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaR R(
+%29void"*ij.plugin.FFT#doComplexInverseTransform()V*
+ij.plugin.FFT2doComplexInverseTransform()"M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaS S(
+""*a
+0 "Z
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javau u(
+implicit return*ƒ
+1C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javas s(Ù
+Ò
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javas s(_
+%52void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*EC
+Aimp = FFT.forward(imp); //see Help/Examples/JavaScript/FFT Filter*
+0*ö
+2C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaq q( 
+«
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaq q(5
+%51void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+imp = FFT.inverse(imp);*
+0*‘
+4C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javan n(
+}
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javan n(
+%50void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*	
+2
+0
+1*È
+5C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javak k(~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javak k(
+%47ij.ImagePlus"__id**
+ij.plugin.FFT"
+impØ¨
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javak k(
+%48java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%47ij.ImagePlus2
+getTitle()à
+Ö
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javak k(
+ij.plugin.FFT"
+
+fileName"__id*
+
+%48java.lang.String‹Ÿ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javal l(
+%49void"3ij.plugin.FFT#doForwardTransform(Lij/process/FHT;)V*
+ij.plugin.FFT*
+
+fhtij.process.FHT2$doForwardTransform(Lij/process/FHT;)*
+4*¨
+6C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javai i(‹Ÿ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javai i(
+%46void"3ij.plugin.FFT#doInverseTransform(Lij/process/FHT;)V*
+ij.plugin.FFT*
+
+fhtij.process.FHT2$doInverseTransform(Lij/process/FHT;)*
+4*œ
+8C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javae	 e(˝˙
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javae	 e(
+%45ij.process.FHT"Aij.plugin.FFT#newFHT(Lij/process/ImageProcessor;)Lij/process/FHT;*
+ij.plugin.FFT*!
+
+ipij.process.ImageProcessor2#newFHT(Lij/process/ImageProcessor;)}
+{
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javae e(
+fhtij.process.FHT"__id*
+
+%45ij.process.FHT*
+5
+6*∏
+9C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javad	 d(“œ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javad	 d( 
+%44ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2crop()ì
+ê
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javad d(
+ipij.process.ImageProcessor"__id*"
+ 
+%44ij.process.ImageProcessor*
+8*ü
+40C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java3 3(	…∆
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java3 3(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+options2equals(Ljava/lang/Object;)*
+36
+39*Ô
+20C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaQ Q(
+~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaQ Q(
+
+%27ij.ImagePlus"__id**
+ij.plugin.FFT"
+impôñ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaQ Q(
+
+%28int"ij.ImagePlus#getStackSize()I*
+
+%27ij.ImagePlus2getStackSize()*
+18
+19*ƒ
+21C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaN N(©¶
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaN N(
+%26void"&ij.plugin.FFT#doFHTInverseTransform()V*
+ij.plugin.FFT2doFHTInverseTransform()"M
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaO O(
+""*Ÿ
+22C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaM M(
+~
+|
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaM M(
+
+%23ij.ImagePlus"__id**
+ij.plugin.FFT"
+impØ¨
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaM M(
+%24java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%23ij.ImagePlus2
+getTitle()—Œ
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaM M(*
+%25boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%24java.lang.String*
+
+FHT of2startsWith(Ljava/lang/String;)*
+20
+21*†
+23C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaL L( «
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaL L(
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+inverse2equals(Ljava/lang/Object;)*
+18
+22:
+argjava.lang.StringB
+ij.plugin.FFT

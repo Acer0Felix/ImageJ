@@ -1,0 +1,61 @@
+
+ij.gui.Plot#scaleXtoPxl(D)DC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaå å("2"5"6"8"1*¶
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaí
+ í(å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaí í(!
+%3double"java.lang.Math#log10(D)D*"
+java.lang.Math*
+"""M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaí í(/
+""*ó
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(L"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(L
+""*ü
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè3 è(9c
+a
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè3 è(K
+%2double"__id*
+""k
+i
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè3 è(K
+%0double"__id*
+
+%2double*
+4*ü
+6C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(c
+a
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(0
+%1double"__id*
+""k
+i
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(0
+%0double"__id*
+
+%1double*
+4*ó
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé é("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé é( 
+""*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaî
+ î("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaî î(#
+"":
+""B
+ij.gui.Plot

@@ -1,0 +1,32 @@
+
+Cij.plugin.filter.ImageMath#setup(Ljava/lang/String;Lij/ImagePlus;)IP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java- -("1*à
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java. .(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java. .(%
+ij.plugin.filter.ImageMath"
+arg"__id*
+
+argjava.lang.Stringô
+ñ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java/ /(%
+ij.plugin.filter.ImageMath"
+imp"__id*
+
+impij.ImagePlusò
+ï
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java0 0(
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+"""Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java1 1(
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.ImageMath

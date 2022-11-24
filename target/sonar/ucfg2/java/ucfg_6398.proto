@@ -1,0 +1,230 @@
+
+%ij.plugin.frame.RoiManager#delete(Z)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaƒ	 ƒ("32*Ë
+25R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÕ Õ(É
+Ä
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaŒ Œ(
+%3boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+19
+23*˜
+26R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ
+ Ã(&ñ
+ì
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ Ã(&
+msgjava.lang.String"__id*
+Replace items on the list?*
+25*û
+16R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java◊ ◊(¢
+ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java◊ ◊(
+%9java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+roisè
+å
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java◊ ◊(
+%10void"__arrayClear*
+
+%9java.util.ArrayList±
+Æ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÿ ÿ(#
+%11javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModel”–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÿ ÿ( 
+%12void"1javax.swing.DefaultListModel#removeAllElements()V*%
+#
+%11javax.swing.DefaultListModel2removeAllElements()*
+3*˛
+27R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java   (/ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java   (0
+msgjava.lang.String"__id*!
+Delete all items on the list?*
+25
+26*™
+19R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‘ ‘(√¿
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‘ ‘(
+%8int[]",ij.plugin.frame.RoiManager#getAllIndexes()[I*
+ij.plugin.frame.RoiManager2getAllIndexes()*
+
+3
+16
+7*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ	 Ô("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ Ô(
+""*≈
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÓ Ó(Ê
+„
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÓ Ó(*
+%22void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+roiManager*
+
+Delete*
+1*ã
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ È(¥
+±
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ È(1
+%19ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager¬ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÏ Ï(
+%20void"+ij.plugin.frame.RoiManager#updateShowAll()V*
+ij.plugin.frame.RoiManager2updateShowAll()≠
+™
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ Ì(
+%21boolean"$ij.plugin.frame.RoiManager#record()Z*
+ij.plugin.frame.RoiManager*
+2
+1*ö
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÂ Â(∏
+µ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÂ Â(
+%18void"*ij.plugin.frame.RoiManager#deleteOnEDT(I)V*
+ij.plugin.frame.RoiManager*
+""*
+3
+7*»
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚(£
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚(
+%14java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois•
+¢
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚(
+%15java.lang.Object"__arrayRemove*
+
+%14java.util.ArrayList*
+""±
+Æ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java„ „(#
+%16javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModel‰·
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java„ „(
+%17java.lang.Object"8javax.swing.DefaultListModel#remove(I)Ljava/lang/Object;*%
+#
+%16javax.swing.DefaultListModel*
+""2	remove(I)*
+3
+7*ã
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java·	 ·(©
+¶
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java·	 ·(&
+%13boolean"'java.awt.EventQueue#isDispatchThread()Z*"
+java.awt.EventQueue*
+5
+6*∏
+30R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java» »("Õ 
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java» »($
+%2int[]"1ij.plugin.frame.RoiManager#getSelectedIndexes()[I*
+ij.plugin.frame.RoiManager2getSelectedIndexes()*
+3
+27
+16
+7*∂
+20R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java“  “(%"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java“ “(&
+""*∞
+31R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java«
+ «(˜Ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java«
+ «(,
+%1boolean"5ij.plugin.frame.RoiManager#error(Ljava/lang/String;)Z*
+ij.plugin.frame.RoiManager*
+The ROI Manager is empty.2error(Ljava/lang/String;)"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java« «(-
+""*¢
+21R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java“	 “(
+Ω∫
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java“	 “(
+%7boolean"&ij.gui.YesNoCancelDialog#yesPressed()Z*
+
+dij.gui.YesNoCancelDialog2yesPressed()*
+19
+20*õ
+32R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java≈ ≈(∂≥
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java≈ ≈(	
+%0int"&ij.plugin.frame.RoiManager#getCount()I*
+ij.plugin.frame.RoiManager2
+getCount()*
+30
+31*∂
+22R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —($
+""*É
+23R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ0 œ(4ëé
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(/
+%4ij.gui.YesNoCancelDialog"ij.gui.YesNoCancelDialog£
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(I
+%5"Vij.gui.YesNoCancelDialog#<init>(Ljava/awt/Frame;Ljava/lang/String;Ljava/lang/String;)V* 
+
+%4ij.gui.YesNoCancelDialog*
+ij.plugin.frame.RoiManager*
+ROI Manager*
+
+msgjava.lang.Stringû
+õ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(J
+dij.gui.YesNoCancelDialog"__id* 
+
+%4ij.gui.YesNoCancelDialog√¿
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –(
+%6boolean")ij.gui.YesNoCancelDialog#cancelPressed()Z*
+
+dij.gui.YesNoCancelDialog2cancelPressed()*
+21
+22:
+""B
+ij.plugin.frame.RoiManager

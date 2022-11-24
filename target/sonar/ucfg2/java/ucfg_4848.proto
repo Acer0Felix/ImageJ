@@ -1,0 +1,49 @@
+
+!ij.plugin.AVI_Reader#readShort()SL
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÈ
+ È
+("1*—
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÍ
+ Í
+(ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÍ
+ Í
+(
+%0java.io.RandomAccessFile"__id*$*"
+ij.plugin.AVI_Reader"
+raFile±Æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÍ
+ Í
+( 
+
+%1byte"$java.io.RandomAccessFile#readByte()B* 
+
+%0java.io.RandomAccessFile2
+readByte()ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÎ
+ Î
+(
+%2java.io.RandomAccessFile"__id*$*"
+ij.plugin.AVI_Reader"
+raFile±Æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÎ
+ Î
+( 
+
+%3byte"$java.io.RandomAccessFile#readByte()B* 
+
+%2java.io.RandomAccessFile2
+readByte()"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaÏ
+ Ï
+(#
+""B
+ij.plugin.AVI_Reader

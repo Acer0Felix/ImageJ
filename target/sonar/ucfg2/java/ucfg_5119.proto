@@ -1,0 +1,85 @@
+
+Jij.io.Opener#createColorModel(Lij/io/FileInfo;)Ljava/awt/image/ColorModel;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÌ
+ Ì
+("2"1*π
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+(~
+|
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+- Ô
+(4
+%0byte[]"__id* *
+
+fiij.io.FileInfo"
+redsÄ
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+6 Ô
+(?
+%1byte[]"__id*"* 
+
+fiij.io.FileInfo"
+greens
+}
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+A Ô
+(I
+%2byte[]"__id*!*
+
+fiij.io.FileInfo"
+bluesèå
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+($
+%3java.awt.image.IndexColorModel"java.awt.image.IndexColorModelÁ
+‰
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+
+ Ô
+(J
+%4"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%3java.awt.image.IndexColorModel*2*
+""*
+
+%0byte[]*
+
+%1byte[]*
+
+%2byte[]"n
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+(K&
+$
+%3java.awt.image.IndexColorModel*Ö
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ
+
+ Ò
+(Œ
+À
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ
+
+ Ò
+(?
+%5java.awt.image.ColorModel"Fij.LookUpTable#createGrayscaleColorModel(Z)Ljava/awt/image/ColorModel;*"
+ij.LookUpTable*
+"""i
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ
+ Ò
+(@!
+
+%5java.awt.image.ColorModel:
+fiij.io.FileInfoB
+ij.io.Opener

@@ -1,0 +1,53 @@
+
+0ij.ImagePlus#getInfoProperty()Ljava/lang/String;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‘ ‘("5*¿
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java⁄ ⁄(p
+n
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java⁄ ⁄(
+infojava.lang.String"__id*
+""*
+1*Ò
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÿ ÿ(Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÿ ÿ(
+infojava.lang.String"__id*
+
+objjava.lang.Objectñì
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŸ Ÿ(	
+%1int"java.lang.String#length()I*
+
+infojava.lang.String2length()*
+2
+1*®
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java’ ’(p
+n
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java’ ’(
+infojava.lang.String"__id*
+""ﬁ€
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java÷ ÷("
+%0java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+ij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)Å
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java÷ ÷(#
+objjava.lang.Object"__id*
+
+%0java.lang.Object*
+3
+1*≠
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹	 ‹("b
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(
+
+infojava.lang.StringB
+ij.ImagePlus

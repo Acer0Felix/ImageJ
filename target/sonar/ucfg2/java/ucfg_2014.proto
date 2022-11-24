@@ -1,0 +1,80 @@
+
+>ij.IJ#createHyperStack(Ljava/lang/String;IIIIII)Lij/ImagePlus;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÁ Á(*"4*Á
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÅ Å(Z
+X
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÅ! Å(-	
+%2int"__id*
+""mk
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÅ Å(
+%3ij.CompositeImage"ij.CompositeImage³
+°
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÅ	 Å(.
+%4"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%3ij.CompositeImage*
+
+impij.ImagePlus*
+	
+%2intw
+u
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÅ Å(.
+impij.ImagePlus"__id*
+
+%3ij.CompositeImage*
+1*Î
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÂ Â(×
+Ô
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÂ Â(U
+%0ij.ImagePlus"7ij.IJ#createImage(Ljava/lang/String;IIII)Lij/ImagePlus;*	"
+ij.IJ*
+
+titlejava.lang.String*
+""*
+""*
+""*
+""r
+p
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÂ Â(V
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus³°
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÃ Ã(-
+
+%1void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)*
+2
+1*Æ
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ Æ(©¦
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ Æ(
+
+%5void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+impij.ImagePlus*22setOpenAsHyperStack(Z)"V
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÇ Ç(
+
+impij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+"":
+"":
+""B	"
+ij.IJ

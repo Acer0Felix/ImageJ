@@ -1,0 +1,80 @@
+
+ij.macro.Functions#showPlot()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaö ö("4*±
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(ÇÄ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(&
+%3ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*!
+
+
+plotWindowij.gui.PlotWindow2getImagePlus()
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(.	
+%4int"ij.ImagePlus#getID()I*
+
+%3ij.ImagePlus2getID()*
+1*§
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(
+%1ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(&
+%2ij.gui.PlotWindow"%ij.gui.Plot#show()Lij/gui/PlotWindow;*
+
+%1ij.gui.Plot2show()‘
+Ž
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø('
+
+plotWindowij.gui.PlotWindow"__id*
+
+%2ij.gui.PlotWindow*
+2
+1*ä
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷(
+Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷(
+
+%0ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot*
+3
+1*Ó
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü	 ü(|
+z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+ij.macro.Functions"
+plot"__id*
+""•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(
+%5ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(
+
+%6void"!ij.macro.Interpreter#getParens()V*
+
+%5ij.macro.Interpreter2getParens()j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ	 þ(
+%7double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(
+""B
+ij.macro.Functions

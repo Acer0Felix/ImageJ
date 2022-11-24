@@ -1,0 +1,71 @@
+
+Fij.plugin.filter.GaussianBlur#setup(Ljava/lang/String;Lij/ImagePlus;)IS
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java> >("6*œ
+2S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaC C(p
+n
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaC C(!	
+%4int"__id*
+""*
+1*ê
+3S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaB! B((≠™
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaB< B(O
+%3int[]"ij.ImagePlus#getDimensions()[I*
+
+impij.ImagePlus2getDimensions()*
+2
+1*˚
+4S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(#Æ´
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(,
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()À»
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(>
+%2java.awt.Rectangle"0ij.gui.Roi#getBoundingRect()Ljava/awt/Rectangle;*
+
+%1
+ij.gui.Roi2getBoundingRect()ô
+ñ
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA A(?
+roiRectjava.awt.Rectangle"__id*
+
+%2java.awt.Rectangle*
+2
+3*ë
+5S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java@ @(Æ´
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java@ @(%
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()*
+4
+1*Ç
+6S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java? ?(ü
+ú
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java? ?((
+ij.plugin.filter.GaussianBlur"
+imp"__id*
+
+impij.ImagePlus*
+5
+1*∑
+1S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaE E("]
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaE E(
+"":
+argjava.lang.String:
+impij.ImagePlusB!
+ij.plugin.filter.GaussianBlur

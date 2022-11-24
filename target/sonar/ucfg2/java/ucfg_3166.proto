@@ -1,0 +1,102 @@
+
+0ij.macro.Functions#addPlotLegend(Lij/gui/Plot;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¼ ¼("4* 
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÂ Â(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÂ Â(	
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÂ Â(
+
+%5void"%ij.macro.Interpreter#getRightParen()V*
+
+%4ij.macro.Interpreter2getRightParen()*
+1*¬
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ À(ÆÃ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ À(
+%3java.lang.String"4ij.macro.Functions#getLastString()Ljava/lang/String;*
+ij.macro.Functions2getLastString()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ À(
+optionsjava.lang.String"__id*
+
+%3java.lang.String*
+1*ð
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½ ½( ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½ ½("
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½ ½(#
+labelsjava.lang.String"__id*
+
+%0java.lang.String{
+y
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¾ ¾(
+optionsjava.lang.String"__id*
+auto•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¿ ¿(
+%1ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¿ ¿(	
+%2int"!ij.macro.Interpreter#nextToken()I*
+
+%1ij.macro.Interpreter2nextToken()*
+2
+3*£
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ Ã(r
+p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ Ã(
+%6java.awt.Color"__id*
+""ÏÌ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ Ã(
+
+%7void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+%6java.awt.Color2setColor(Ljava/awt/Color;)§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ Ä(
+
+%8void"ij.gui.Plot#setLineWidth(I)V*
+
+plotij.gui.Plot*22setLineWidth(I)ž›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(!
+
+%9void"<ij.gui.Plot#addLegend(Ljava/lang/String;Ljava/lang/String;)V*
+
+plotij.gui.Plot*
+
+labelsjava.lang.String*
+
+optionsjava.lang.String2/addLegend(Ljava/lang/String;Ljava/lang/String;)k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ	 Æ(
+%10double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ Æ(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

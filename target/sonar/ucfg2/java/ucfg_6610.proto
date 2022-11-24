@@ -1,0 +1,71 @@
+
+"ij.plugin.filter.Analyzer#reset()ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java©	 ©("7*À
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÆ Æ(¢
+ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÆ Æ(
+%6ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rt»≈
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÆ Æ(
+
+%7void"-ij.measure.ResultsTable#setDefaultHeadings()V*
+
+%6ij.measure.ResultsTable2setDefaultHeadings()*
+1*Ê
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java≠ ≠(¢
+ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java≠ ≠(
+%3ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rtn
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java≠  ≠(9	
+%4int"__id*
+""Ì
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java≠ ≠(:
+%5java.lang.String"=ij.measure.ResultsTable#getColumnHeading(I)Ljava/lang/String;*
+
+%3ij.measure.ResultsTable*
+	
+%4int2getColumnHeading(I)*
+2
+1*ê
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java¨ ¨(Ø
+¨
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java¨ ¨(
+%2boolean")ij.plugin.filter.Analyzer#resetCounter()Z*"
+ij.plugin.filter.Analyzer*
+3
+1*¥
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java™ ™(¢
+ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java´ ´(
+%0ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rt´®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java´ ´(	
+%1int"ij.measure.ResultsTable#size()I*
+
+%0ij.measure.ResultsTable2size()*	
+3
+5
+1*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaØ	 Ø("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaØ Ø(
+""B
+ij.plugin.filter.Analyzer

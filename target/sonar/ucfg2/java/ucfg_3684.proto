@@ -1,0 +1,104 @@
+
+2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˝ ˝('"3*ı
+
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˇ ˇ(nl
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˇ ˇ(
+%2ij.io.FileInfo"ij.io.FileInfoÄ
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˇ ˇ(
+%3"ij.io.FileInfo#<init>()V*
+
+%2ij.io.FileInfoÖ
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˇ ˇ(
+ij.ImagePlus"
+
+fileInfo"__id*
+
+%2ij.io.FileInfoÖ
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ Ä(
+%4ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfoÖ
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å(
+%5ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfoÖ
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+%6ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfoÅ
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+%7java.lang.String"__id**
+ij.ImagePlus"
+urlà
+Ö
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+
+%6ij.io.FileInfo"
+url"__id*
+
+%7java.lang.StringÖ
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÉ É(
+%8ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfo{
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÉ É(#
+
+%8ij.io.FileInfo"
+	directory"__id*
+""*
+1*›
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˛	 ˛(Ö
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˛	 ˛(
+%0ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfoÅ
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˛ ˛(
+%1java.lang.String"__id**
+ij.ImagePlus"
+url*
+2
+1*±
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ Ö(Ö
+Ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ Ö(
+%9ij.io.FileInfo"__id**
+ij.ImagePlus"
+
+fileInfo"^
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ Ö(
+
+%9ij.io.FileInfoB
+ij.ImagePlus

@@ -1,0 +1,287 @@
+
+Wij.gui.PlotContentsDialog#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaç ç(!"30"31*Õ
+24Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaõ õ(∂
+≥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaõ õ(
+%11void"2ij.gui.PlotContentsDialog#makeSourcePlotObjects()V*
+ij.gui.PlotContentsDialog≤
+Ø
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaú ú(
+%12void".ij.gui.PlotContentsDialog#addObjectFromPlot()V*
+ij.gui.PlotContentsDialog*
+2
+1*Ä
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java®	 ®(
+À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java®	 ®(
+%22java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()ß
+§
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java® ®(&
+%23java.awt.Choice[]"__id*/*-
+ij.gui.PlotContentsDialog"
+columnChoiceû
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java® ®()
+%24java.awt.Choice"
+__arrayGet*
+
+%23java.awt.Choice[]*
+""*
+2
+14
+10
+1*‘
+25Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö( «
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö(
+%9java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()£
+†
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö("
+%10java.awt.Choice"__id*-*+
+ij.gui.PlotContentsDialog"
+
+plotChoice*
+24
+23*—
+26Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaô ô(n
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaô ô((	
+%8int"__id*
+""*
+25
+20* 
+17Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java£ £(≤
+Ø
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java£ £(
+%20void".ij.gui.PlotContentsDialog#makeSourceColumns()V*
+ij.gui.PlotContentsDialog≥
+∞
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java§ §(
+%21void"/ij.gui.PlotContentsDialog#addObjectFromTable()V*
+ij.gui.PlotContentsDialog*
+2
+1*ü
+28Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaï ï(Ω
+∫
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaï ï(%
+
+%7void"2ij.gui.PlotContentsDialog#setDialogStyleFields(I)V*
+ij.gui.PlotContentsDialog*
+""*
+2
+1*‡
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(
+%18java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(#
+%19java.awt.Choice"__id*.*,
+ij.gui.PlotContentsDialog"
+tableChoice*
+2
+14
+17
+10
+1*®	
+29Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(!§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(!
+%1java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice≥∞
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(4	
+%2int"#java.awt.Choice#getSelectedIndex()I*
+
+%1java.awt.Choice2getSelectedIndex() «
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaì ì(
+%3java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaì  ì(,
+%4java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice «
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaî î(
+%5java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaî î($
+%6java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice*
+
+2
+28
+1*—
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java°- °(7o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java°; °(J
+
+%17int"__id*
+""*
+18
+8*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaπ	 π("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaπ π(
+""*ë
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java∏ ∏(≥
+∞
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java∏ ∏(
+%32void"/ij.gui.PlotContentsDialog#setPlotObjectStyle()V*
+ij.gui.PlotContentsDialog*
+1*ç
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≥ ≥(¨
+©
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≥ ≥(
+%31void"(ij.gui.PlotContentsDialog#addFitCurve()V*
+ij.gui.PlotContentsDialog*
+2
+1*‹
+6Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤) ≤(*À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤) ≤(6
+%29java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()™
+ß
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤: ≤(K
+%30java.awt.Choice"__id*4*2
+ij.gui.PlotContentsDialog"
+fitFunctionChoice*	
+2
+5
+1*’
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(
+%27java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()¶
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(%
+%28java.awt.Choice"__id*0*.
+ij.gui.PlotContentsDialog"
+fitDataChoice*
+5
+6*“
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java± ±(o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java± ±("
+
+%26int"__id*
+""*	
+2
+7
+1*—
+30Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaê ê(n
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaë ë(	
+%0int"__id*
+""*
+26
+29*“
+20Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java° °(o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java° °()
+
+%16int"__id*
+""*
+18
+19*¥
+31Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaè
+ è("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaè è(
+""*ï
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≠ ≠(≥
+∞
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≠ ≠(
+%25void"/ij.gui.PlotContentsDialog#addObjectFromTable()V*
+ij.gui.PlotContentsDialog*
+2
+1*î
+22Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaû û(≤
+Ø
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaû û(
+%15void".ij.gui.PlotContentsDialog#addObjectFromPlot()V*
+ij.gui.PlotContentsDialog*
+2
+1*Ÿ
+23Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(
+%13java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()•
+¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(+
+%14java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice*
+
+2
+22
+1:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.gui.PlotContentsDialog

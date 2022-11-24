@@ -1,0 +1,86 @@
+
+;ij.measure.ResultsTable#getColumnIndex(Ljava/lang/String;)IO
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaó ó("7*Ø
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaú ú("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaú ú(
+""*Ü
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ(
+%4java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ(
+%5java.lang.String"
+__arrayGet*
+
+%4java.lang.String[]*
+""Ê„
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ('
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+headingjava.lang.String2equals(Ljava/lang/Object;)*
+3
+7*ù
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaö ö(l
+j
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaö ö(	
+%3int"__id*
+"""Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaö ö(
+""*ù
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô ô(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô ô(
+%1java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô ô(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""*
+4
+5*˛
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò ò(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò ò(
+%0java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings*
+6
+1*ù
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû	 û(l
+j
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû	 û(	
+%7int"__id*
+"""Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(
+"":
+headingjava.lang.StringB
+ij.measure.ResultsTable

@@ -1,0 +1,433 @@
+
+oij.plugin.filter.RankFilters#showDialog(Lij/ImagePlus;Ljava/lang/String;Lij/plugin/filter/PlugInFilterRunner;)IR
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javat t("33*Ø
+24R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java} }(;ÖÇ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java~ ~(:
+%12void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+	Threshold*
+""*
+""2%addNumericField(Ljava/lang/String;DI)
+}
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java# (1
+%13java.lang.String[]"__id*
+""
+}
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java3 (A
+%14java.lang.String[]"__id*
+""°
+û
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java3 (T
+%15java.lang.String"
+__arrayGet*
+
+%14java.lang.String[]*
+""ÏÈ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java (U
+%16void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Which outliers*
+
+%13java.lang.String[]*
+
+%15java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)
+}
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÄ Ä(
+%17java.lang.String"__id*
+""æ
+ª
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÄ Ä(9
+%18java.lang.String"__concat*
+
+%17java.lang.String*%#
+!/docs/menus/process.html#outliersÔÏ
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÄ Ä(:
+%19void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%18java.lang.String2addHelp(Ljava/lang/String;)*
+19*’
+25R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java}9 }(:u
+s
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java}9 }(:	
+%9int"__id*
+
+
+%11int*
+24*’
+26R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java}5 }(6u
+s
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java}5 }(6	
+%9int"__id*
+
+
+%10int*
+24*Û
+27R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java} }(ùö
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java} }(	
+%7int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java}" }(2	
+%8int"__id*
+""*
+25
+26*ç
+28R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaz z(C∑¥
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java{ {(7
+
+%5void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Radius*
+""*2*2*
+
+pixels28addNumericField(Ljava/lang/String;DIILjava/lang/String;)o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java| |(	
+%6int"__id*
+""*
+27
+23*⁄
+29R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaz- z(7z
+x
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaz- z(C
+%2double"__id*
+
+%4double*
+28*◊
+30R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaz( z()w
+u
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaz( z()
+%2double"__id*
+	
+%3int*
+28*ë
+31R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javay y(í
+è
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javay y(;
+%1ij.gui.GenericDialog"Wij.gui.GUI#newNonBlockingDialog(Ljava/lang/String;Lij/ImagePlus;)Lij/gui/GenericDialog;*"
+
+ij.gui.GUI*
+
+commandjava.lang.String*
+
+impij.ImagePlusó
+î
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javay y(<
+gdij.gui.GenericDialog"__id*
+
+%1ij.gui.GenericDialog*
+29
+30*¬
+10T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaü ü(¬ø
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaü ü('
+%42java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()õ
+ò
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaü ü((
+roiRectjava.awt.Rectangle"__id*
+
+%42java.awt.Rectangle*
+9*”
+33R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javau u(o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javau u(	
+%0int"__id*
+""*
+31
+12*Ï
+11T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaú ú(¢ü
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaú ú(
+
+%39int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()§°
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaú ú(.
+
+%40int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()∞≠
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaù ù(
+%41
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()á
+Ñ
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaù ù(
+roi
+ij.gui.Roi"__id*
+
+%41
+ij.gui.Roi*
+9
+10*«
+12T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaô ô(∂
+≥
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaô ô('
+ij.plugin.filter.RankFilters"
+pfr"__id*,
+*
+pfr#ij.plugin.filter.PlugInFilterRunner¥
+±
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaö
+ ö($
+
+%37int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+""r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaõ õ(
+
+%38int"__id*
+""*
+11
+1*‘
+14T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaì ì(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaì ì("
+
+%36int"__id*
+""*
+12*ÿ
+16T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaè è(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaê ê(
+
+%35int"__id*
+""*
+14
+12*í
+17T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaç ç(Õ 
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaç ç(
+%32java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;* 
+ij.plugin.filter.RankFilters2
+getClass()Ø
+¨
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaç ç(
+%33void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+
+%32java.lang.Class©
+¶
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaé é(
+%34java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+16
+12*Æ
+18T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaå  å($r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaå  å($
+
+%31int"__id*
+"""^
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaå å(%
+""*≥
+19T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaá á(æª
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaá á(
+%27void"Oij.gui.GenericDialog#addPreviewCheckbox(Lij/plugin/filter/PlugInFilterRunner;)V*
+
+gdij.gui.GenericDialog*,
+*
+pfr#ij.plugin.filter.PlugInFilterRunner29addPreviewCheckbox(Lij/plugin/filter/PlugInFilterRunner;)îë
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaà à(
+%28void"@ij.gui.GenericDialog#addDialogListener(Lij/gui/DialogListener;)V*
+
+gdij.gui.GenericDialog* 
+ij.plugin.filter.RankFilters2*addDialogListener(Lij/gui/DialogListener;)∂≥
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaä ä(
+%29void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ª∏
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaå å(
+%30boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+17
+18*π
+1T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java™	 ™("^
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java™ ™(
+""*“
+2T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java¶ ¶(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaß ß(
+
+%47int"__id*
+""*
+1*ò
+3T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java• •(¥±
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java• •(0
+
+%46int"!ij.ImagePlus#getImageStackSize()I*
+
+impij.ImagePlus2getImageStackSize()*
+2
+1*’
+6T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java§ §(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java§ §(
+
+%45int"__id*
+""*
+3
+1*ÿ
+8T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java£ £(%r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java£' £(/
+
+%44int"__id*
+""*	
+3
+6
+1*ÿ
+9T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java¢ ¢(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.java£ £(
+
+%43int"__id*
+""*	
+3
+8
+1*Ì
+20T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÑ Ñ(¸˘
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÑ Ñ(;
+%25void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Light Background*
+""2 addCheckbox(Ljava/lang/String;Z)ãà
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÖ Ö(G
+%26void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*#!
+Don't subtract (grayscale open)*
+""2 addCheckbox(Ljava/lang/String;Z)*
+19*ÿ
+21T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÉ É(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÉ É(!
+
+%24int"__id*
+""*
+19
+20*ê
+22T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÇ Ç(
+}
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÇ Ç(
+%21java.lang.String"__id*
+""∫
+∑
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÇ Ç(5
+%22java.lang.String"__concat*
+
+%21java.lang.String*!
+/docs/menus/process.html#nansÔÏ
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÇ Ç(6
+%23void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%22java.lang.String2addHelp(Ljava/lang/String;)*
+19*ÿ
+23T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÅ Å(r
+p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RankFilters.javaÅ Å($
+
+%20int"__id*
+""*
+21
+22:
+impij.ImagePlus:
+commandjava.lang.String:*
+pfr#ij.plugin.filter.PlugInFilterRunnerB 
+ij.plugin.filter.RankFilters

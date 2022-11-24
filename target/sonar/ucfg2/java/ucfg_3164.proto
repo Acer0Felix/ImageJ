@@ -1,0 +1,59 @@
+
+5ij.macro.Functions#setPlotFormatFlags(Lij/gui/Plot;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java’ ’("6*ô
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java— —(š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java— —(
+
+%3void"ij.gui.Plot#updateImage()V*
+
+plotij.gui.Plot2updateImage()*
+1*„
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java• •(/­ª
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java– –(
+
+%2void"ij.gui.Plot#setFormatFlags(I)V*
+
+plotij.gui.Plot*
+""2setFormatFlags(I)*
+3*¢
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java• •(Ë
+È
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java• •(.	
+%1int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer* 
+
+
+flagStringjava.lang.String*2*
+4*­
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “("ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “($
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “(%
+
+flagStringjava.lang.String"__id*
+
+%0java.lang.String*
+5*‘
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java›	 ›(j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java›	 ›(
+%6double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

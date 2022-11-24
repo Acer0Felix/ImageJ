@@ -1,0 +1,28 @@
+
+Hij.plugin.ZProjector#run(Lij/ImagePlus;Ljava/lang/String;)Lij/ImagePlus;J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaD D("1*é
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaE E(Ÿœ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaE  E(2	
+%0int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaE E(3
+%1ij.ImagePlus"Jij.plugin.ZProjector#run(Lij/ImagePlus;Ljava/lang/String;II)Lij/ImagePlus;*"
+ij.plugin.ZProjector*
+
+impij.ImagePlus*
+
+methodjava.lang.String*2*
+	
+%0int"b
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaE E(4
+
+%1ij.ImagePlus:
+impij.ImagePlus:
+methodjava.lang.StringB"
+ij.plugin.ZProjector

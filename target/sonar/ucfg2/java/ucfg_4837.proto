@@ -1,0 +1,50 @@
+
+Nij.plugin.AVI_Reader#readFrame(Ljava/io/RandomAccessFile;JI)Ljava/lang/Object;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaï ï("3*Ç
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaõ
+ õ(‰
+†
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaõ
+ õ(*
+%1java.lang.Object"Wij.plugin.AVI_Reader#readCompressedFrame(Ljava/io/RandomAccessFile;I)Ljava/lang/Object;*
+ij.plugin.AVI_Reader*#
+!
+rFilejava.io.RandomAccessFile*
+"""h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javaõ õ(+
+
+%1java.lang.Object*’
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javañ ñ(¶³
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.javañ ñ(
+
+%0void"!java.io.RandomAccessFile#seek(J)V*#
+!
+rFilejava.io.RandomAccessFile*
+""2seek(J)*
+2
+1*È
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.java÷
+ ÷(Š
+‡
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.java÷
+ ÷(+
+%2java.lang.Object"Xij.plugin.AVI_Reader#readFixedLengthFrame(Ljava/io/RandomAccessFile;I)Ljava/lang/Object;*
+ij.plugin.AVI_Reader*#
+!
+rFilejava.io.RandomAccessFile*
+"""h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AVI_Reader.java÷ ÷(,
+
+%2java.lang.Object:!
+rFilejava.io.RandomAccessFile:
+"":
+""B
+ij.plugin.AVI_Reader

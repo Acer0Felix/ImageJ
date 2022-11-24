@@ -1,0 +1,71 @@
+
+%ij.ImageJ#getInfo()Ljava/lang/String;A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaö ö("1*◊
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(î
+ë
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(
+%0java.lang.String"%ij.ImageJ#version()Ljava/lang/String;*
+	ij.ImageJ≈
+¬
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ õ(0
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.nameú
+ô
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(0
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.Stringâ
+Ü
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(4
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ »
+≈
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ5 õ(U
+%4java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+os.versionú
+ô
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(U
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.Stringä
+á
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(Z
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+; è
+å
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ[ õ(j
+%7java.lang.String"$ij.IJ#freeMemory()Ljava/lang/String;*	"
+ij.IJú
+ô
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ	 õ(j
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String"]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ õ(k
+
+%8java.lang.StringB
+	ij.ImageJ

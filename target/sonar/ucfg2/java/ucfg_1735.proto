@@ -1,0 +1,111 @@
+
+1ij.gui.Plot#getMultiplySymbol()Ljava/lang/String;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java° °("6*Ω
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java•3 •(Bm
+k
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java•3 •(B
+%9java.lang.String"__id*
+""
+}
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java•3 •(B
+%8java.lang.String"__id*
+
+%9java.lang.String*
+1*‹
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java•" •(0å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java•" •(0
+%8java.lang.String"__id*$
+"
+multiplySymboljava.lang.String*
+1*â
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§ §(Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§, §(.
+%4ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+ppë
+é
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§, §(4
+%5ij.gui.PlotObject"__id*(*&
+
+%4ij.gui.PlotProperties"
+frameé
+ã
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§, §(<
+%6java.lang.String"__id*&*$
+
+%5ij.gui.PlotObject"	
+options˚
+¯
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§ §(P
+%7java.lang.String"Wij.util.Tools#getStringFromList(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.Tools*
+
+%6java.lang.String*
+multiplysymbol=å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§ §(P"
+multiplySymboljava.lang.String"__id*
+
+%7java.lang.String*
+2
+3*Ö
+6C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢ ¢(Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢2 ¢(4
+%0ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+ppë
+é
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢2 ¢(:
+%1ij.gui.PlotObject"__id*(*&
+
+%0ij.gui.PlotProperties"
+frameé
+ã
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢2 ¢(B
+%2java.lang.String"__id*&*$
+
+%1ij.gui.PlotObject"	
+optionsÙ
+Ò
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢ ¢(O
+%3java.lang.String"Wij.util.Tools#getStringFromList(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.Tools*
+
+%2java.lang.String*
+
+msymbol=å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¢ ¢(P"
+multiplySymboljava.lang.String"__id*
+
+%3java.lang.String*	
+2
+3
+5*©
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java• •(C"_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java• •(C
+
+%8java.lang.StringB
+ij.gui.Plot

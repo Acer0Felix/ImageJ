@@ -1,0 +1,20 @@
+
+,ij.gui.Arrow#getBounds()Ljava/awt/Rectangle;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.java– –("1*‡
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.java—	 —(Ÿ
+œ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.java—	 —(
+%0ij.gui.ShapeRoi"+ij.gui.Arrow#getShapeRoi()Lij/gui/ShapeRoi;*
+ij.gui.Arrowµ²
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.java—	 —("
+%1java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%0ij.gui.ShapeRoi2getBounds()"b
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.java— —(#
+
+%1java.awt.RectangleB
+ij.gui.Arrow

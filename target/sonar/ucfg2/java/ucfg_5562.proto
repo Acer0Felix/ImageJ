@@ -1,0 +1,231 @@
+
+!ij.text.TextCanvas#getChars(II)[CH
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java ("35*ë
+35J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java€ €(Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java€ €(
+%0ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp*
+33
+34*÷
+24J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.javaˆ ˆ(
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.javaˆ ˆ(
+%14ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp*
+14
+5
+17
+23
+12*Í
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —(	x
+v
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —(
+%15java.io.PrintStream"__id*
+""†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —($
+%16java.lang.String"__concat*
+
+start=*
+""¢
+Ÿ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —(6
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+, chars.length=•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —(C
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+""äá
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java— —(D
+%19void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%15java.io.PrintStream*
+
+%18java.lang.String2println(Ljava/lang/String;)"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java˜ ˜(
+""*¦
+25J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java†
+ †("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java† †(
+""*Ñ
+27J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „(Lu
+s
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „(L
+charschar[]"__id*
+
+%9char[]*
+24
+25*¦
+17J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java” ”("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java” ”(
+""*Ï
+28J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„G „(Kw
+u
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„G „(K
+%9char[]"__id*
+
+%11
+<nulltype>*
+27*Ë
+29J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„. „(0
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„. „(0
+%12ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„. „(6
+%13java.util.Vector"__id*%*#
+
+%12ij.text.TextPanel"
+vDataÊÇ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„. „(E
+%10java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%13java.util.Vector*
+""2elementAt(I)}
+{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„. „(E
+%9char[]"__id*
+
+%10java.lang.Object}
+{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„% „(F
+%9char[]"__id*
+
+%10java.lang.Object*
+27*±
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java§	 §("`
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java§ §(
+
+chars2char[]*Ä
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java£ £(!n
+l
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java£ £(+
+chars2char[]"__id*
+""*
+1*š
+30J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „(Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „(
+%6ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „(
+%7java.util.Vector"__id*$*"
+
+%6ij.text.TextPanel"
+vData–“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java„ „($	
+%8int"java.util.Vector#size()I*
+
+%7java.util.Vector2size()*
+28
+29*¦
+31J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.javaƒ
+ ƒ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.javaƒ ƒ(
+""*š
+32J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‚ ‚(	Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‚ ‚(
+%3ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‚ ‚(
+%4java.util.Vector"__id*$*"
+
+%3ij.text.TextPanel"
+vData–“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‚ ‚(	
+%5int"java.util.Vector#size()I*
+
+%4java.util.Vector2size()*
+30
+31*¦
+33J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java
+ ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java (
+""*
+34J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java€ €(Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java€ €(
+%1ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java€ €(
+%2java.util.Vector"__id*$*"
+
+%1ij.text.TextPanel"
+vData*
+32
+33*¦
+12J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java› ›("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java› ›(
+""*±
+23J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‰
+ ‰("_
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/text/TextCanvas.java‰ ‰(
+
+charschar[]:
+"":
+""B
+ij.text.TextCanvas

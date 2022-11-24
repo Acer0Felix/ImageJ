@@ -1,0 +1,79 @@
+
+/ij.macro.Functions#matches(Ljava/lang/String;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¾+ ¾+("8*¥
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+ Ã+(%"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+ Ã+(%
+""*È
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+! Ã+($r
+p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+! Ã+($
+%5double"__id*
+
+%7double*
+3*È
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+ Ã+( r
+p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+ Ã+( 
+%5double"__id*
+
+%6double*
+3*¼
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+
+ Ã+(âß
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ+
+ Ã+(
+%4boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+strjava.lang.String*
+
+regexjava.lang.String2matches(Ljava/lang/String;)*
+4
+5*å
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¿+ ¿+(é
+æ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¿+ ¿+(!
+%0java.lang.String"Mij.macro.Functions#getStringFunctionArg(Ljava/lang/String;)Ljava/lang/String;*
+ij.macro.Functions*
+
+strjava.lang.Stringˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¿+ ¿+(!
+strjava.lang.String"__id*
+
+%0java.lang.String¾»
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ+ À+(
+%1java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ+ À+(
+regexjava.lang.String"__id*
+
+%1java.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÁ+ Á+(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÁ+ Á+(
+
+%3void"%ij.macro.Interpreter#getRightParen()V*
+
+%2ij.macro.Interpreter2getRightParen()*
+7:
+strjava.lang.StringB
+ij.macro.Functions

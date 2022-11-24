@@ -1,0 +1,232 @@
+
+4ij.plugin.ScreenGrabber#captureImage()Lij/ImagePlus;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java9 9("12*Í
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaS S(π∂
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaS. S(<
+%16java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()‚
+ﬂ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaS S(=
+%17java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+%16java.lang.Stringé
+ã
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaS S(>
+titlejava.lang.String"__id*
+
+%17java.lang.Stringtr
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaT T(
+%18ij.ImagePlus"ij.ImagePlus‡
+›
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaT
+ T(#
+%19"8ij.ImagePlus#<init>(Ljava/lang/String;Ljava/awt/Image;)V*
+
+%18ij.ImagePlus*
+
+titlejava.lang.String*
+
+imgjava.awt.ImageÖ
+Ç
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaT T(#
+imp2ij.ImagePlus"__id*
+
+%18ij.ImagePlus*
+1*£
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaQ Q(∆√
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaQ Q(!
+%15boolean"(ij.gui.ImageCanvas#hideZoomIndicator(Z)Z*
+
+icij.gui.ImageCanvas*
+""2hideZoomIndicator(Z)*
+2
+1*
+4M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaO O(%ñ
+ì
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaO O(%
+imgjava.awt.Image"__id*%
+#
+%14java.awt.image.BufferedImage*
+3*ó
+6M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaN N(ä
+á
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaN N(
+robotjava.awt.Robot"__id*
+
+%12java.awt.Robot∞≠
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaO	 O(%#
+%14java.awt.image.BufferedImage"Vjava.awt.Robot#createScreenCapture(Ljava/awt/Rectangle;)Ljava/awt/image/BufferedImage;*
+
+robotjava.awt.Robot*
+
+rjava.awt.Rectangle2)createScreenCapture(Ljava/awt/Rectangle;)*
+4*‡
+7M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaN N(xv
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaN N(
+%12java.awt.Robot"java.awt.Robotå
+â
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaN N(
+%13"java.awt.Robot#<init>()V*
+
+%12java.awt.Robot*
+6*í
+8M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaA A(¢ü
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaA A(
+
+%3void"java.awt.Window#toFront()V*
+
+winij.gui.ImageWindow2	toFront()
+}
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaB B(
+
+%4void"ij.IJ#wait(I)V*	"
+ij.IJ*2Ù∆√
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaC C(
+%5java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+
+winij.gui.ImageWindow2getLocation()á
+Ñ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaC C( 
+locjava.awt.Point"__id*
+
+%5java.awt.Point «
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaD D("
+%6ij.gui.ImageCanvas"2ij.gui.ImageWindow#getCanvas()Lij/gui/ImageCanvas;*
+
+winij.gui.ImageWindow2getCanvas()é
+ã
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaD D(#
+icij.gui.ImageCanvas"__id*
+
+%6ij.gui.ImageCanvas…∆
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaE E(#
+%7java.awt.Rectangle"2java.awt.Component#getBounds()Ljava/awt/Rectangle;*
+
+icij.gui.ImageCanvas2getBounds()í
+è
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaE E($
+boundsjava.awt.Rectangle"__id*
+
+%7java.awt.Rectangle}
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaH H(
+%8java.awt.Rectangle"java.awt.Rectangle∂
+≥
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaH H(H
+%9" java.awt.Rectangle#<init>(IIII)V*
+
+%8java.awt.Rectangle*
+""*
+""*
+""*
+""ç
+ä
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaH H(I
+rjava.awt.Rectangle"__id*
+
+%8java.awt.Rectangleu
+s
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaI I(
+imp2ij.ImagePlus"__id*
+""v
+t
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaJ J(
+imgjava.awt.Image"__id*
+""ƒ¡
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaK K(0
+%10boolean"(ij.gui.ImageCanvas#hideZoomIndicator(Z)Z*
+
+icij.gui.ImageCanvas*22hideZoomIndicator(Z)Ä
+~
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaL L(
+%11void"ij.IJ#wait(I)V*	"
+ij.IJ*2˙*
+7*´
+9M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java@ @("W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java@ @(
+""*Æ
+10M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java? ?(æª
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java? ?(#
+%2ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()è
+å
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java? ?($
+winij.gui.ImageWindow"__id*
+
+%2ij.gui.ImageWindow*
+8
+9*®
+11M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java< <(z
+x
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java< <(
+
+%1void"ij.IJ#noImage()V*	"
+ij.IJ"W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java= =(
+""*˜
+12M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java: :(ë
+é
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java: :(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJÉ
+Ä
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.java: :( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+10
+11*ª
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaV	 V("g
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScreenGrabber.javaV V(
+
+imp2ij.ImagePlusB
+ij.plugin.ScreenGrabber

@@ -1,0 +1,244 @@
+
+3ij.plugin.filter.Calibrator#doCurveFitting([D[DI)[DS
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaï
+ ï("13"12*ú
+13S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javañ ñ(ñ
+î
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ó(=
+%0java.lang.String"__concat*97
+5To create a calibration curve, the left column must\n*:8
+6contain a list of measured mean pixel values and the\nÔ
+Ñ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ô(A
+%1java.lang.String"__concat*
+
+%0java.lang.String*><
+:right column must contain the same number of calibration\nĞ
+Í
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò õ(=
+%2java.lang.String"__concat*
+
+%1java.lang.String*:8
+6standard values. Use the Measure command to add mean\nÈ
+Å
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ö(5
+%3java.lang.String"__concat*
+
+%2java.lang.String*20
+.pixel value measurements to the left column.\n
+š
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ÷(
+
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+ \n«
+¨
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ø(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+    Left column: œ
+™
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ø(!
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""£
+ 
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ø(-
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+	 values\n¬
+©
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ù(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+    Right column: œ
+™
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ù("
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+""¤
+¡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaò ù(.
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+	 values\nÎ
+Ë
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javañ ú(
+%11void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+	Calibrate*
+
+%10java.lang.String"]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaû û(
+""*¯	
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaŒ Œ(¼¹
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaŒ Œ(
+
+%24int"&ij.measure.CurveFitter#getNumParams()I*
+
+cfij.measure.CurveFitter2getNumParams()¼¹
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java (
+%25double[]"$ij.measure.CurveFitter#getParams()[D*
+
+cfij.measure.CurveFitter2getParams()½º
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java ('
+%26double"%ij.measure.CurveFitter#getRSquared()D*
+
+cfij.measure.CurveFitter2getRSquared()´
+±
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java (*
+%27java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+
+%26double*2©
+¦
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java (*.
+ij.plugin.filter.Calibrator"
+fitGoodness"__id*
+
+%27java.lang.String®
+«
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java (.
+ij.plugin.filter.Calibrator"
+curveFitter"__id*
+
+cfij.measure.CurveFitter*
+1*î
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‹ ‹(àİ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‹! ‹(5
+%22java.lang.String":ij.measure.CurveFitter#getResultString()Ljava/lang/String;*
+
+cfij.measure.CurveFitter2getResultString()«
+¨
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‹ ‹(6
+%23void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%22java.lang.String*
+5*È
+8S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaˆ ˆ(àİ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaˆ ˆ(*
+%21java.lang.String":ij.measure.CurveFitter#getStatusString()Ljava/lang/String;*
+
+cfij.measure.CurveFitter2getStatusString()«
+¨
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaˆ ˆ(*0
+ij.plugin.filter.Calibrator"
+curveFitError"__id*
+
+%21java.lang.String"]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‰ ‰(
+""*æ	
+9S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaƒ ƒ(£
+ 
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaƒ ƒ(!
+%15double[]"ij.util.Tools#getMinMax([D)[D*"
+ij.util.Tools*
+""Œ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java… …("
+%16ij.measure.CurveFitter"ij.measure.CurveFitter¶
+³
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java… …((
+%17"$ij.measure.CurveFitter#<init>([D[D)V*
+
+%16ij.measure.CurveFitter*
+""*
+""
+š
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java… …()
+cfij.measure.CurveFitter"__id*
+
+%16ij.measure.CurveFitterÃÀ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java† †(!
+%18void"!ij.measure.CurveFitter#doFit(IZ)V*
+
+cfij.measure.CurveFitter*
+""*
+""2	doFit(IZ)¶³
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‡ ‡(
+
+%19int"#ij.measure.CurveFitter#getStatus()I*
+
+cfij.measure.CurveFitter2getStatus()q
+o
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java‡ ‡(8
+
+%20int"__id*
+""*	
+5
+6
+8*“
+12S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaı
+ ı(
+š
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÿ ÿ(	
+%12ij.ImagePlus"__id*(*&
+ij.plugin.filter.Calibrator"
+impŸœ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÿ ÿ(
+
+%13int"ij.ImagePlus#getType()I*
+
+%12ij.ImagePlus2	getType()q
+o
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÿ ÿ(%
+
+%14int"__id*
+""*
+9*·
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java“	 “("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java“ “(
+"":
+"":
+"":
+""B
+ij.plugin.filter.Calibrator

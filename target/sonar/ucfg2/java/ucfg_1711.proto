@@ -1,0 +1,45 @@
+
+(ij.gui.Plot#isColored(Ljava/awt/Color;)ZC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaË	 Ë("3"4*ı
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ' Í((íè
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ' Í(3	
+%2int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()êç
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ7 Í(B	
+%3int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+1*ˆ
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ	 Í(
+éã
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ	 Í(	
+%0int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()íè
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ Í(#	
+%1int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()*
+2
+1*ó
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ È("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ È(
+""*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ Í(C"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÍ Í(C
+"":
+cjava.awt.ColorB
+ij.gui.Plot

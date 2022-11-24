@@ -1,0 +1,79 @@
+
+"ij.gui.Plot#getNumPlotObjects(IZ)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã
+ ã
+("7*Â
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç
+ ç
+(v
+t
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç
+ ç
+(
+
+plotObjectij.gui.PlotObject"__id*
+""ó
+î
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç
+ ç
+(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""*	
+2
+4
+1*‰
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé
+; é
+(E`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé
+N é
+(_	
+%1int"__id*
+""≤Ø
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé
+; é
+(`
+%2boolean"ij.gui.PlotObject#hasFlag(I)Z*!
+
+
+plotObjectij.gui.PlotObject*
+	
+%1int2
+hasFlag(I)*
+2*€
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç
+ ç
+(-ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç
+ ç
+(-
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+2*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaê
+	 ê
+("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaê
+ ê
+(
+"":
+"":
+""B
+ij.gui.Plot

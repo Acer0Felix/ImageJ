@@ -1,0 +1,35 @@
+
+Eij.plugin.filter.ScaleDialog#setup(Ljava/lang/String;Lij/ImagePlus;)IR
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java ("1*‘
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java (ù
+ö
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java ('
+ij.plugin.filter.ScaleDialog"
+imp"__id*
+
+impij.ImagePlusö
+ó
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java ( 
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java	 (	
+%1int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java (	
+%2int"__id*
+"""\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ScaleDialog.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB 
+ij.plugin.filter.ScaleDialog

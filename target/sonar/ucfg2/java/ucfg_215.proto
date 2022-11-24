@@ -1,0 +1,39 @@
+
+Jij.gui.PlotContentsDialog#getIndex([Ljava/lang/String;Ljava/lang/String;)IQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaú ú("4"1*³
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaü. ü(/"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaü' ü(0
+""*ö
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaü ü(¤
+¡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaü ü(
+%0java.lang.String"
+__arrayGet* 
+
+strArrayjava.lang.String[]*
+""ëè
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaü ü(%
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String* 
+
+
+searchTermjava.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*³
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaý
+ ý("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaý ý(
+"":
+strArrayjava.lang.String[]:
+
+searchTermjava.lang.StringB"
+ij.gui.PlotContentsDialog

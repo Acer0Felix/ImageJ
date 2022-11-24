@@ -1,0 +1,117 @@
+
+*ij.ImageStack#toString()Ljava/lang/String;E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‰ ‰("4*Ó
+2E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(!
+
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(!
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*Ó
+3E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(
+
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*ê
+4E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(•’
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(
+%0boolean"ij.ImageStack#isVirtual()Z*
+ij.ImageStack2isVirtual()*
+2
+3*î
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š("€
+~
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š("
+vjava.lang.String"__id*
+
+%1java.lang.StringŒ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹ ‹(	
+%4int"ij.ImageStack#getWidth()I*
+ij.ImageStack2
+getWidth()…
+‚
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(
+%5java.lang.String"__concat*
+
+stack[*
+	
+%4int
+Š
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(!
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+x‘Ž
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹" ‹(-	
+%7int"ij.ImageStack#getHeight()I*
+ij.ImageStack2getHeight()“
+
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(-
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+	
+%7int
+Š
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(1
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+xˆ…
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹2 ‹(8
+
+%10int"ij.ImageStack#size()I*
+ij.ImageStack2size()•
+’
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(8
+%11java.lang.String"__concat*
+
+%9java.lang.String*
+
+
+%10int¡
+ž
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(:
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+
+vjava.lang.String
+Œ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹
+ ‹(>
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+]"b
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‹ ‹(@
+
+%13java.lang.StringB
+ij.ImageStack

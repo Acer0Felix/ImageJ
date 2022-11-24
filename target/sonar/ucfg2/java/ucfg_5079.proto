@@ -1,0 +1,73 @@
+
+,ij.io.Opener#isFullPath(Ljava/lang/String;)ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaž ž(!"9"10*¨
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢j ¢(n×Ô
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢j ¢(~
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+://2"contains(Ljava/lang/CharSequence;)*
+1*ª
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢S ¢(WÖÓ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢S ¢(f
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+:/2"contains(Ljava/lang/CharSequence;)*
+2
+1*®
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢; ¢(?×Ô
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢; ¢(O
+%2boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+:\\2"contains(Ljava/lang/CharSequence;)*	
+2
+4
+1*¨
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢" ¢(&ÎË
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢" ¢(7
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+\\2startsWith(Ljava/lang/String;)*
+2
+4
+6
+1*ª
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢
+ ¢(ÍÊ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢
+ ¢(
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+/2startsWith(Ljava/lang/String;)*
+2
+4
+6
+8
+1*š
+10D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java 
+  ("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java   (
+""*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢ ¢("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¢ ¢(
+"":
+pathjava.lang.StringB"
+ij.io.Opener

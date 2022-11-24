@@ -1,0 +1,61 @@
+
+.ij.gui.OvalRoi#getPolygon(Z)Ljava/awt/Polygon;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¿	 ¿("6*—
+6F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÀ À(À½
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÀ À(!
+%0ij.process.ImageProcessor"3ij.gui.OvalRoi#getMask()Lij/process/ImageProcessor;*
+ij.gui.OvalRoi2	getMask()—
+”
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÀ À("!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorjh
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÁ Á(
+%1ij.gui.Wand"ij.gui.Wand½
+º
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÁ Á(
+%2"0ij.gui.Wand#<init>(Lij/process/ImageProcessor;)V*
+
+%1ij.gui.Wand*#
+!
+maskij.process.ImageProcessorz
+x
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÁ Á(
+wandij.gui.Wand"__id*
+
+%1ij.gui.Wand¿¼
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÂ Â(.
+
+%3void"ij.gui.Wand#autoOutline(IIII)V*
+
+wandij.gui.Wand*
+""*
+""*2ÿ*2ÿ2autoOutline(IIII)*
+1*Ì
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÈ È(tr
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÈ È(
+%4java.awt.Polygon"java.awt.Polygon¤
+¡
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÈ	 È(>
+%5"java.awt.Polygon#<init>([I[II)V*
+
+%4java.awt.Polygon*
+""*
+""*
+"""b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÈ È(?
+
+%4java.awt.Polygon:
+""B
+ij.gui.OvalRoi

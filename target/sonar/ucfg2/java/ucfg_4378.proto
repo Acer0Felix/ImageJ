@@ -1,0 +1,45 @@
+
+4ij.plugin.URLOpener#noExtension(Ljava/lang/String;)ZI
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javaj	 j("7*£
+2I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javao
+ o("S
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javao o(
+""*ó
+3I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javan+ n(.š—
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javan+ n(7	
+%2int"java.lang.String#length()I*
+
+urljava.lang.String2length()*
+2
+1*¨
+5I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javam m(ÏÌ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javam m($	
+%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+urljava.lang.String*
+.2lastIndexOf(Ljava/lang/String;)*
+2
+3*¥
+7I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javak k(ÏÌ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javak k(&	
+%0int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+urljava.lang.String*
+/2lastIndexOf(Ljava/lang/String;)*
+5*£
+1I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javaq
+ q("S
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/URLOpener.javaq q(
+"":
+urljava.lang.StringB
+ij.plugin.URLOpener

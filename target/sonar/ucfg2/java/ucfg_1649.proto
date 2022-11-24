@@ -1,0 +1,50 @@
+
++ij.gui.Plot#getCurrentFont()Ljava/awt/Font;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¦	 ¦	("4*Ð
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	- §	(8…
+‚
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	- §	(8
+%3java.awt.Font"__id* *
+ij.gui.Plot"
+defaultFonty
+w
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	- §	(8
+%1java.awt.Font"__id*
+
+%3java.awt.Font*
+1*Ð
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	 §	(*…
+‚
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	 §	(*
+%2java.awt.Font"__id* *
+ij.gui.Plot"
+currentFonty
+w
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	 §	(*
+%1java.awt.Font"__id*
+
+%2java.awt.Font*
+1*Ø
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§		 §	(…
+‚
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§		 §	(
+%0java.awt.Font"__id* *
+ij.gui.Plot"
+currentFont*
+2
+3*¦
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	 §	(9"\
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§	 §	(9
+
+%1java.awt.FontB
+ij.gui.Plot

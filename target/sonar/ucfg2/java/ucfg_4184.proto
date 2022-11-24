@@ -1,0 +1,825 @@
+
+0ij.plugin.filter.ParticleAnalyzer#showResults()VY
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÃ Ã("65*¶
+46Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java› ›(Ø
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java› ›(
+%26ij.ImageStack"__id*3*1#
+!ij.plugin.filter.ParticleAnalyzer"
+
+outlines*
+14
+17
+44
+22
+0*â
+47Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java⁄ ⁄(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java⁄ ⁄(
+%24ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impÍÁ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java⁄ ⁄(
+%25void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+%24ij.ImagePlus*
+
+overlay0ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+14
+17
+22
+0*«
+26Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÚ Ú(±
+Æ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÚ Ú(
+%62ij.ImagePlus"__id*6*4#
+!ij.plugin.filter.ParticleAnalyzer"
+outputImage†ù
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÚ Ú(
+%63void"ij.ImagePlus#show()V*
+
+%62ij.ImagePlus2show()*
+14
+17
+22
+0*Æ
+49Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaŸ Ÿ(Ø
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaŸ Ÿ(
+%21ij.gui.Overlay"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+overlayΩ∫
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaŸ Ÿ(!
+%22
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+
+%21ij.gui.Overlay*
+""2get(I)‘—
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaŸ Ÿ("
+%23void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlay0ij.gui.Overlay*
+
+%22
+ij.gui.Roi2add(Lij/gui/Roi;)*
+50*±
+28Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java (©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java (
+%60ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impíè
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java ($
+%61void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+%60ij.ImagePlus*
+""*
+
+outputStackij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)*
+14
+17
+22
+0*ù
+29Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÓ Ó(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÓ Ó(
+%57ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impÒÓ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÓ Ó(1 
+%58ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+outputStackij.ImageStack*22getProcessor(I)äá
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÓ Ó(2
+%59void"7ij.ImagePlus#setProcessor(Lij/process/ImageProcessor;)V*
+
+%57ij.ImagePlus*"
+ 
+%58ij.process.ImageProcessor2)setProcessor(Lij/process/ImageProcessor;)*
+14
+17
+22
+0*¡
+50Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÿ ÿ(Ø
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÿ ÿ(
+%19ij.gui.Overlay"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+overlay£†
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÿ ÿ(#
+
+%20int"ij.gui.Overlay#size()I*
+
+%19ij.gui.Overlay2size()*
+47
+49*∂
+52Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java÷ ÷(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java÷ ÷(
+%16ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java÷ ÷(
+%17ij.gui.Overlay"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+overlayÂ‚
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java÷ ÷(
+%18void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+%16ij.ImagePlus*
+
+%17ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+14
+17
+22
+0*≈
+30Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ< Ì(?©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ< Ì(?
+%55ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp≠™
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ< Ì(M
+
+%56int"ij.ImagePlus#getBitDepth()I*
+
+%55ij.ImagePlus2getBitDepth()*
+28
+29*«
+53Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java’ ’(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java’ ’(
+%14ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java’ ’(,
+
+%15int"ij.ImagePlus#getStackSize()I*
+
+%14ij.ImagePlus2getStackSize()*
+50
+52*õ
+31Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ  Ì(+Ø¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ  Ì(5
+
+%54int"ij.ImageStack#getSize()I*
+
+outputStackij.ImageStack2	getSize()*
+28
+30*˘
+54Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘(
+%12ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp≈¬
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘('
+%13ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+%12ij.ImagePlus2getOverlay()ô
+ñ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘((
+overlay0ij.gui.Overlay"__id*
+
+%13ij.gui.Overlay*
+52
+53*⁄
+32Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÏ Ï((±
+Æ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÏ Ï((
+%50ij.ImagePlus"__id*6*4#
+!ij.plugin.filter.ParticleAnalyzer"
+outputImageøº
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÏ Ï(3
+%51ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%50ij.ImagePlus2
+getStack()ö
+ó
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÏ Ï(4
+outputStackij.ImageStack"__id*
+
+%51ij.ImageStack©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ Ì(
+%52ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ Ì(
+
+%53int"ij.ImagePlus#getStackSize()I*
+
+%52ij.ImagePlus2getStackSize()*
+28
+31*¥
+55Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(®
+•
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(
+%9ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(
+%10ij.gui.Overlay"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+overlay‰·
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(
+%11void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+%9ij.ImagePlus*
+
+%10ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+14
+17
+22
+0*À
+33Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÎ Î(	w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÎ Î(
+
+%47int"__id*
+""©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÎ  Î(#
+%48ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impæ
+ª
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÎ Î($
+%49void"ij.Undo#setup(ILij/ImagePlus;)V*"	
+ij.Undo*
+
+
+%47int*
+
+%48ij.ImagePlus*
+32*«
+35Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÍ Í(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÍ Í(
+%45ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÍ Í(
+
+%46int"ij.ImagePlus#getStackSize()I*
+
+%45ij.ImagePlus2getStackSize()*
+32
+33*Õ
+57Z
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–| –(Å™
+ß
+[
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–É –(Ü
+%7ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ¨
+[
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–É –(ï	
+%8int"ij.ImagePlus#getStackSize()I*
+
+%7ij.ImagePlus2getStackSize()*
+46
+54
+55*˚
+13Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛' ˛()ã
+à
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛' ˛(3
+%73boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+5
+6
+9
+0*ƒ
+36Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÊ Ê(Ø
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÊ Ê(
+%34ij.ImageStack"__id*3*1#
+!ij.plugin.filter.ParticleAnalyzer"
+
+outlinesπ
+∂
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÊ Ê( 
+%35ij.process.ImageProcessor"__id*1*/#
+!ij.plugin.filter.ParticleAnalyzer"
+drawIPÄ˝
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÊ Ê(
+%36void"2ij.ImageStack#update(Lij/process/ImageProcessor;)V*
+
+%34ij.ImageStack*"
+ 
+%35ij.process.ImageProcessor2#update(Lij/process/ImageProcessor;)º
+π
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(+
+%37java.lang.String"__concat*
+
+prefixjava.lang.String*
+
+titlejava.lang.StringØ
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ- Á(5
+%38ij.ImageStack"__id*3*1#
+!ij.plugin.filter.ParticleAnalyzer"
+
+outlinesÄ~
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(
+%39ij.ImagePlus"ij.ImagePlusË
+Â
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(6
+%40"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%39ij.ImagePlus*
+
+%37java.lang.String*
+
+%38ij.ImageStack±
+Æ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(64#
+!ij.plugin.filter.ParticleAnalyzer"
+outputImage"__id*
+
+%39ij.ImagePlus±
+Æ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaË Ë(
+%41ij.ImagePlus"__id*6*4#
+!ij.plugin.filter.ParticleAnalyzer"
+outputImage©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaË Ë(!
+%42ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp›⁄
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaË Ë(2
+%43ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%42ij.ImagePlus2getCalibration()ÖÇ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaË Ë(3
+%44void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+%41ij.ImagePlus*
+
+%43ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+35
+14
+26
+17
+22
+0*÷
+14Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(≥
+∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(
+%71ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rtµ≤
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(
+
+%72int"ij.measure.ResultsTable#size()I* 
+
+%71ij.measure.ResultsTable2size()*
+13
+0*˘
+37Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÂ Â(ë
+é
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÂ Â(
+prefixjava.lang.String"__id*
+Drawing of *
+36*˝
+38Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java„ „(ï
+í
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java„ „(
+prefixjava.lang.String"__id*
+Count Masks of *
+36*‚
+39Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‚ ‚(w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‚ ‚(#
+
+%33int"__id*
+""*
+37
+38*ù
+17Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˙ ˙(≤
+Ø
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˚ ˚(0
+
+%70int"'ij.plugin.filter.Analyzer#getCounter()I*"
+ij.plugin.filter.Analyzer*
+14
+0*Ö
+18Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ¯(≥
+∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ¯(
+%68ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rtÁ‰
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ¯(
+%69void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V* 
+
+%68ij.measure.ResultsTable*	
+Results2show(Ljava/lang/String;)*
+17*§
+19Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˜( ˜(*∏µ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˜( ˜(9
+
+%67int"!ij.text.TextPanel#getLineCount()I*
+
+tpij.text.TextPanel2getLineCount()*
+17
+18*w
+0 "p
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ	 Ñ	(
+implicit return*‹	
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	 Å	(.ù
+ö
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	 Å	(.
+assummedjava.lang.String"__id*
+
+%83java.lang.String«
+ƒ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ	' Ç	(R
+%86java.lang.String"__concat*$"
+ No particles were detected. The *
+
+assummedjava.lang.StringØ
+¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ	' Ç	(b
+%87java.lang.String"__concat*
+
+%86java.lang.String*
+\nthreshold (π
+∂
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ	' Ç	(h
+%88java.lang.String"__concat*
+
+%87java.lang.String*
+
+rangejava.lang.String∏
+µ
+Z
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ	' Ç	(Ä
+%89java.lang.String"__concat*
+
+%88java.lang.String*
+) may not be correct.„
+‡
+Z
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ	 Ç	(Å
+%90void"8ij.IJ#showMessage(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Particle Analyzer*
+
+%89java.lang.String*
+0*˛
+2Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	+ Å	(-ò
+ï
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	+ Å	(-
+%83java.lang.String"__id*
+
+%85java.lang.String*
+1*˛
+3Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	! Å	(*ò
+ï
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ	! Å	(*
+%83java.lang.String"__id*
+
+%84java.lang.String*
+1*œ
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ ˇ(=≥
+∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ	 Ä	('
+%79java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""£
+†
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ	 Ä	(+
+%80java.lang.String"__concat*
+
+%79java.lang.String*
+-≥
+∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ	, Ä	(A
+%81java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""∑
+¥
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ	 Ä	(A
+%82java.lang.String"__concat*
+
+%80java.lang.String*
+
+%81java.lang.Stringö
+ó
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ	 Ä	(B
+rangejava.lang.String"__id*
+
+%82java.lang.String*
+2
+3*‚
+5Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ; ˇ(<}
+{
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ; ˇ(<
+
+%76int"__id*
+
+
+%78int*
+4*‚
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ9 ˇ(:}
+{
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ9 ˇ(:
+
+%76int"__id*
+
+
+%77int*
+4*«
+9Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛X ˛(]©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛_ ˛(b
+%74ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+impØ¨
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛_ ˛(q
+
+%75int"ij.ImagePlus#getStackSize()I*
+
+%74ij.ImagePlus2getStackSize()*	
+5
+6
+0*¢
+60Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–P –(WÆ
+´
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–P –(W
+%6ij.gui.Overlay"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+overlay*
+46
+57
+54
+55*·
+61Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–2 –(<v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–> –(K	
+%5int"__id*
+""*
+46
+60*ˆ
+40Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java· ·(é
+ã
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java· ·(
+prefixjava.lang.String"__id*
+
+Mask of *
+36*·
+62Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java– –(v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java–  –(0	
+%4int"__id*
+""*
+60
+61*ä
+41Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(6ö
+ó
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(6
+titlejava.lang.String"__id*
+
+%28java.lang.Stringà
+Ö
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬂ ﬂ(
+prefixjava.lang.String"__id*
+""w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‡ ‡(
+
+%32int"__id*
+""*
+39
+40*Ä
+42Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ+ ﬁ(5ò
+ï
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ+ ﬁ(5
+%28java.lang.String"__id*
+
+%30java.lang.String*
+41*ƒ
+64Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaœ% œ(*®
+•
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaœ, œ(/
+%2ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp≠™
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaœ, œ(>	
+%3int"ij.ImagePlus#getStackSize()I*
+
+%2ij.ImagePlus2getStackSize()*
+60
+62*Ù
+43Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(
+%31ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp≈¬
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(*
+%29java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%31ij.ImagePlus2
+getTitle()ò
+ï
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(*
+%28java.lang.String"__id*
+
+%29java.lang.String*
+41*ÿ
+65Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÕ Õ(≤
+Ø
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÕ Õ(
+%0ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rt≥∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÕ Õ(	
+%1int"ij.measure.ResultsTable#size()I*
+
+%0ij.measure.ResultsTable2size()*
+60
+62
+64*¥
+21Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ ˆ(¨
+©
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ ˆ($
+%66ij.text.TextPanel"'ij.IJ#getTextPanel()Lij/text/TextPanel;*	"
+ij.IJô
+ñ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ ˆ(%
+tpij.text.TextPanel"__id*
+
+%66ij.text.TextPanel*
+17
+19*ï
+44Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(©
+¶
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaﬁ ﬁ(
+%27ij.ImagePlus"__id*.*,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp*
+42
+43*◊
+22Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaı ı(≥
+∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaı ı(
+%64ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rtµ≤
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaı ı($
+
+%65int"ij.measure.ResultsTable#size()I* 
+
+%64ij.measure.ResultsTable2size()*
+17
+21B%#
+!ij.plugin.filter.ParticleAnalyzer

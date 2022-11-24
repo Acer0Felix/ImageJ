@@ -1,0 +1,38 @@
+
+7ij.plugin.frame.RoiManager#getName(I)Ljava/lang/String;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaü ü("3"1*ë
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaþ þ(°
+­
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaþ þ("
+%1javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModelîë
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaþ þ(/
+%2java.lang.Object">javax.swing.DefaultListModel#getElementAt(I)Ljava/lang/Object;*$
+"
+%1javax.swing.DefaultListModel*
+""2getElementAt(I)"n
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaþ þ(0
+
+%2java.lang.Object*˜
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaý ý(¶³
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaý ý("	
+%0int"&ij.plugin.frame.RoiManager#getCount()I*
+ij.plugin.frame.RoiManager2
+getCount()*
+2
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java€
+ €("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java€ €(
+"":
+""B
+ij.plugin.frame.RoiManager

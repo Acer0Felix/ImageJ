@@ -1,0 +1,25 @@
+
+!ij.plugin.GifDecoder#getDelay(I)IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.java„ „("2"1*»
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.java‡ ‡(•
+’
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.java‡ ‡(
+%0java.util.Vector"__id*$*"
+ij.plugin.GifDecoder"
+framesÊÇ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.java‡ ‡(*
+%1java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%0java.util.Vector*
+""2elementAt(I)*
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaˆ	 ˆ("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaˆ ˆ(
+"":
+""B
+ij.plugin.GifDecoder

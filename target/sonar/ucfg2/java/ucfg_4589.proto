@@ -1,0 +1,164 @@
+
+:ij.measure.ResultsTable#getFreeColumn(Ljava/lang/String;)IO
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java§ §("13*Ä
+13O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java• •(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java• •(
+%0java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings*
+3
+12*˚
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaµ µ(	p
+n
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaµ$ µ(.
+%12double"__id*
+""≠
+™
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaµ µ(/
+%13void"java.util.Arrays#fill([DD)V*"
+java.util.Arrays*
+""*
+
+%12double*
+1*í
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java± ±(≥∞
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java± ±(
+%11void"%ij.measure.ResultsTable#addColumns()V*
+ij.measure.ResultsTable2addColumns()*
+2
+1*û
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaØ Ø(m
+k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaØ Ø(
+
+%10int"__id*
+"""Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaØ Ø(
+""*á
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÆ Æ(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÆ Æ(
+%7java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÆ Æ(
+%8java.lang.String"
+__arrayGet*
+
+%7java.lang.String[]*
+""Ê„
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÆ Æ("
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%8java.lang.String*
+
+headingjava.lang.String2equals(Ljava/lang/Object;)*
+13
+5*Ø
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¨ ¨("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¨ ¨(
+""*ß
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java™ ™(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java™ ™(
+%5java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings©
+¶
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java™ ™(
+%6"
+__arraySet*
+
+%5java.lang.String[]*
+""*
+
+headingjava.lang.String*
+7*˘
+10O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©(o
+m
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©('
+%3double"__id*
+""´
+®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©((
+
+%4void"java.util.Arrays#fill([DD)V*"
+java.util.Arrays*
+""*
+
+%3double*
+9*¢
+12O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(
+%1java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""*
+
+6
+9
+10*Ä
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java∂ ∂(
+†
+ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java∂ ∂(
+
+%14java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings´
+®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java∂ ∂( 
+%15"
+__arraySet*
+
+%14java.lang.String[]*
+""*
+
+headingjava.lang.String"Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java∑ ∑(
+"":
+headingjava.lang.StringB
+ij.measure.ResultsTable

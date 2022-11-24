@@ -1,0 +1,116 @@
+
+9ij.macro.Functions#overlaySetFillColor(Lij/gui/Overlay;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¯6 ¯6("7*â
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹6 ¹6(
+±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹6 ¹6(
+%9
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+
+overlayij.gui.Overlay*
+""2get(I)×Ô
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹6 ¹6(*
+%10void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+%9
+ij.gui.Roi*
+
+colorjava.awt.Color2setFillColor(Ljava/awt/Color;)*
+1*ñ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java·6 ·6(—”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java·6 ·6(	
+%8int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()*
+2
+1*Ä
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¶6 ¶6(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¶6 ¶6(	
+%6ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÕÒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¶6 ¶6(
+
+%7void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%6ij.macro.Interpreter*
+
+No overlay2error(Ljava/lang/String;)*
+3*þ
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java´6 ´6(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java´6 ´6(
+%5ij.gui.Overlay"__id*,**
+ij.macro.Functions"
+offscreenOverlayˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java´6 ´6(
+overlayij.gui.Overlay"__id*
+
+%5ij.gui.Overlay*
+3
+4*¨
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java°6 °6(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java°6 °6(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java°6 °6(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()¬
+©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java±6 ±6(
+%2java.awt.Color"-ij.macro.Functions#getColor()Ljava/awt/Color;*
+ij.macro.Functions†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java±6 ±6(
+colorjava.awt.Color"__id*
+
+%2java.awt.Color•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²6 ²6(
+%3ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²6 ²6(
+
+%4void"%ij.macro.Interpreter#getRightParen()V*
+
+%3ij.macro.Interpreter2getRightParen()*	
+3
+4
+6*’
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº6	 º6(k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº6	 º6(
+%11double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº6 º6(
+"":
+overlayij.gui.OverlayB
+ij.macro.Functions

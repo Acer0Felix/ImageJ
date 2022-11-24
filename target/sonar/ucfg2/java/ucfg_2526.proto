@@ -1,0 +1,84 @@
+
+=ij.gui.Roi#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å()"3*å
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç! ç('‘
+Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç! ç('&
+%1 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds‘
+Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç+ ç(1&
+%2 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds‘
+Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç5 ç(;&
+%3 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds‘
+Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaçC ç(I&
+%4 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds‘Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç( &
+%5 java.awt.geom.Rectangle2D$Double" java.awt.geom.Rectangle2D$DoubleÇ
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç
+ ç(Q
+%6".java.awt.geom.Rectangle2D$Double#<init>(DDDD)V*(
+&
+%5 java.awt.geom.Rectangle2D$Double*
+""*
+""*
+""*
+"""n
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(R(
+&
+%5 java.awt.geom.Rectangle2D$Double*ã
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ æ(‘
+Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ æ(&
+%0 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+1*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaé! é("‘Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaé é( &
+%7 java.awt.geom.Rectangle2D$Double" java.awt.geom.Rectangle2D$DoubleÇ
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaé
+ é(5
+%8".java.awt.geom.Rectangle2D$Double#<init>(DDDD)V*(
+&
+%7 java.awt.geom.Rectangle2D$Double*
+""*
+""*
+""*
+"""n
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaé é(6(
+&
+%7 java.awt.geom.Rectangle2D$DoubleB
+
+ij.gui.Roi

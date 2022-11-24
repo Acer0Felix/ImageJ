@@ -1,0 +1,30 @@
+
+;ij.process.FloatProcessor#crop()Lij/process/ImageProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javañ ñ("8*â
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaò ò(&…‚
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaò ò(;
+%0ij.process.ImageProcessor"Hij.process.FloatProcessor#createProcessor(II)Lij/process/ImageProcessor;*
+ij.process.FloatProcessor*
+""*
+""2createProcessor(II)¡
+ž
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaò ò(< 
+ip2ij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorØÕ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaó ó(,
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+ip2ij.process.ImageProcessor2getPixels()*
+1*Ï
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaú	 ú("w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaú ú("
+ 
+ip2ij.process.ImageProcessorB
+ij.process.FloatProcessor

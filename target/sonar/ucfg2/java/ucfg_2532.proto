@@ -1,0 +1,60 @@
+
+Gij.gui.Roi#getFloatPolygon(Ljava/lang/String;)Lij/process/FloatPolygon;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java… …($"11*à
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —(π∂
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —(-
+
+%4void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+fpij.process.FloatPolygon*
+""*
+""2addPoint(FF)*
+1*¿
+11B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (øº
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (!
+%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+optionsjava.lang.String2toLowerCase()Ñ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (!
+optionsjava.lang.String"__id*
+
+%0java.lang.String»≈
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À(5	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*	
+close2indexOf(Ljava/lang/String;)¿Ω
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÃ Ã(%
+%2ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPolygon()ç
+ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÃ Ã(&
+fpij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygonÜÉ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŒ Œ(
+%3boolean"ij.gui.Roi#isArea()Z*
+
+ij.gui.Roi2isArea()*
+5
+1*Æ
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’	 ’("e
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(
+
+fpij.process.FloatPolygon:
+optionsjava.lang.StringB
+
+ij.gui.Roi

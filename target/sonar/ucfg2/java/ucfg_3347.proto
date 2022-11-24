@@ -1,0 +1,151 @@
+
+=ij.macro.Functions#overlayDrawRectOrEllipse(Lij/ImagePlus;Z)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç6 ç6( "4*Ü
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ6! ñ6("˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ6 ñ6( &
+%11java.awt.geom.Rectangle2D$Float"java.awt.geom.Rectangle2D$FloatÏ
+Ì
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ6 ñ6(,
+%12"-java.awt.geom.Rectangle2D$Float#<init>(FFFF)V*(
+&
+%11java.awt.geom.Rectangle2D$Float*
+""*
+""*
+""*
+""˜
+•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ6 ñ6(,
+shapejava.awt.Shape"__id*(
+&
+%11java.awt.geom.Rectangle2D$Float*
+1*Ï
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï6 ï6( “
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï6 ï6(#
+%9java.awt.geom.Ellipse2D$Float"java.awt.geom.Ellipse2D$FloatÊ
+Ç
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï6 ï6(*
+%10"+java.awt.geom.Ellipse2D$Float#<init>(FFFF)V*%
+#
+%9java.awt.geom.Ellipse2D$Float*
+""*
+""*
+""*
+""•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï6 ï6(*
+shapejava.awt.Shape"__id*%
+#
+%9java.awt.geom.Ellipse2D$Float*
+1*Ë
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè6 è6(èå
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè6 è6(
+
+%0void"7ij.macro.Functions#addDrawingToOverlay(Lij/ImagePlus;)V*
+ij.macro.Functions*
+
+impij.ImagePlus2#addDrawingToOverlay(Lij/ImagePlus;)§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé6 é6(+
+%1double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé6 é6(,
+
+%2long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%1double¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê6 ê6(*
+%3double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê6 ê6(+
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%3double¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë6 ë6(*
+%5double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë6 ë6(+
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%5double¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì6 ì6(*
+%7double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì6 ì6(+
+
+%8long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%7doubleu
+s
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí6 í6(
+shapejava.awt.Shape"__id*
+""*
+2
+3*Ç
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò6 ò6(wu
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò6 ò6(
+%13ij.gui.ShapeRoi"ij.gui.ShapeRoi¶
+³
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò6 ò6(
+%14")ij.gui.ShapeRoi#<init>(Ljava/awt/Shape;)V*
+
+%13ij.gui.ShapeRoi*
+
+shapejava.awt.Shape
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò6 ò6( 
+roi
+ij.gui.Roi"__id*
+
+%13ij.gui.ShapeRoiüù
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó6 ó6(
+%15void"6ij.macro.Functions#addRoi(Lij/ImagePlus;Lij/gui/Roi;)V*
+ij.macro.Functions*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi2"addRoi(Lij/ImagePlus;Lij/gui/Roi;)k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô6	 ô6(
+%16double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô6 ô6(
+"":
+impij.ImagePlus:
+""B
+ij.macro.Functions

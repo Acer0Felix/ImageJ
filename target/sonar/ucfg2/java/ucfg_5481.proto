@@ -1,0 +1,551 @@
+
+5ij.plugin.CompositeConverter#run(Ljava/lang/String;)VR
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java ("38*à
+24R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java( ((p
+n
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java($ ((,
+
+%23int"__id*
+""µ≤
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java( ((-
+%24void"ij.CompositeImage#setMode(I)V*
+
+imp2ij.ImagePlus*
+
+
+%23int2
+setMode(I)*
+23*º
+25R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java' '(◊‘
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java' '((
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+color2equals(Ljava/lang/Object;)*
+24
+23*ñ
+27R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java$ $(ôñ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java$ $(
+%19void"ij.ImagePlus#hide()V*
+
+impij.ImagePlus2hide()≈¬
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java%# %(3
+%20ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+imp2ij.ImagePlus2getWindow()—
+Œ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java% %(4
+%21void"8ij.WindowManager#setCurrentWindow(Lij/gui/ImageWindow;)V*"
+ij.WindowManager*
+
+%20ij.gui.ImageWindow*
+22*É
+28R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java! !(öó
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java! !(
+%18void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*
+25
+27
+23*≠
+29R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java   (Ã
+…
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java   (2
+%17void"5ij.gui.ImageWindow#setNextLocation(Ljava/awt/Point;)V*"
+ij.gui.ImageWindow*
+
+locjava.awt.Point*
+28*¢
+30R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (0ç
+ä
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (0
+locjava.awt.Point"__id*
+
+%12java.awt.PointÆ´
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java ($
+
+%15int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()Ô
+Ï
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (&
+%16ij.ImagePlus"Hij.plugin.CompositeConverter#makeComposite(Lij/ImagePlus;)Lij/ImagePlus;* "
+ij.plugin.CompositeConverter*
+
+impij.ImagePlusä
+á
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java ('
+imp2ij.ImagePlus"__id*
+
+%16ij.ImagePlus*
+28
+29*Í
+31R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java+ (/â
+Ü
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java+ (/
+%12java.awt.Point"__id*
+
+%14
+<nulltype>*
+30*Ω
+32R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (Ã…
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (*
+%13java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+
+winij.gui.ImageWindow2getLocation()ç
+ä
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (*
+%12java.awt.Point"__id*
+
+%13java.awt.Point*
+30*≈
+10R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java: :(§°
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java: :(
+%46void"ij.CompositeImage#reset()V*
+
+ciij.CompositeImage2reset()æª
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java; ;(
+%47void"'ij.CompositeImage#resetDisplayRanges()V*
+
+ciij.CompositeImage2resetDisplayRanges()*
+9*¡
+33R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (ƒ¡
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java ($
+%11ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()ï
+í
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (%
+winij.gui.ImageWindow"__id*
+
+%11ij.gui.ImageWindow*
+31
+32*¥
+11R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java7 7(√¿
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java7 7(&
+
+%42int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ÑÅ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java8 8()
+%43ij.CompositeImage"ij.CompositeImage≈
+¬
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java8 8(7
+%44"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%43ij.CompositeImage*
+
+impij.ImagePlus*
+""í
+è
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java8 8(8
+ciij.CompositeImage"__id*
+
+%43ij.CompositeImage¶£
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java9 9(
+
+%45int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+9
+10*Ö
+34R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java
+ (ß§
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%7int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()£†
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%8int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()£†
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%9int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()¶£
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%10int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+16
+18
+33*∂
+12R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java6 6( "\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java6 6( 
+""*∂
+35R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+"\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+""*¥
+
+13R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java3( 3(8äá
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java3 3('
+%37ij.gui.GenericDialog"ij.gui.GenericDialog√
+¿
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java3 3(9
+%38"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%37ij.gui.GenericDialog*
+Make Compositeò
+ï
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java3 3(:
+gdij.gui.GenericDialog"__id*
+
+%37ij.gui.GenericDialogÓÎ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java4 4(-
+%39void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Display Mode:*
+
+modesjava.lang.String[]*
+
+modejava.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)¥±
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java5 5(
+%40void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()π∂
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java6 6(
+%41boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+11
+12*æ
+36R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (	
+%4int"__id*
+""∂≥
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%5void"ij.CompositeImage#setMode(I)V*
+
+ciij.CompositeImage*
+	
+%4int2
+setMode(I)≥∞
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%6void""ij.CompositeImage#updateAndDraw()V*
+
+ciij.CompositeImage2updateAndDraw()*
+35*ó
+14R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java2 2(°
+û
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java2 2(
+%36java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*2í
+è
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java2 2(
+modejava.lang.String"__id*
+
+%36java.lang.String*
+13*å
+37R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java' (*ç
+ä
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (+
+ciij.CompositeImage"__id*
+
+impij.ImagePlus¶£
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (	
+%2int"ij.CompositeImage#getMode()I*
+
+ciij.CompositeImage2	getMode()o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (!	
+%3int"__id*
+""*
+35
+36*≤
+38R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (ñ
+ì
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJà
+Ö
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java ( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus©¶
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java (
+%1boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+37
+34*ì	
+16R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /( ÜÉ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%31java.lang.String[]"java.lang.String[]ö
+ó
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%32"
+__arraySet*
+
+%31java.lang.String[]*2 *
+	Compositeò
+ï
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%33"
+__arraySet*
+
+%31java.lang.String[]*2*	
+Colorú
+ô
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%34"
+__arraySet*
+
+%31java.lang.String[]*2*
+	Grayscaleó
+î
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java/ /(8
+modesjava.lang.String[]"__id*
+
+%31java.lang.String[]ü
+ú
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java0 0(
+%35java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*2 í
+è
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java0 0(
+modejava.lang.String"__id*
+
+%35java.lang.String*
+13
+14*Ì
+18R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java. .(â
+Ü
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java. .('
+%30boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+16
+1*p
+0 "i
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaG G(
+implicit return*ﬁ
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaF F(ˇ
+¸
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaF F(w
+%57void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*lj
+hTo create a composite, the current image must be\n a stack with at least 2 channels or be in RGB format.*
+0*¸
+2R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaD D(ùö
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaD D(
+%56void"ij.ImagePlus#show()V*
+
+ciij.CompositeImage2show()*
+0*Â
+3R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaC C(Ü
+É
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaC C(
+%55void"ij.IJ#wait(I)V*	"
+ij.IJ*2˙*
+2*Ê
+4R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaB B(	Ñ
+Å
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaB B(
+%54boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+2
+3*∞
+5R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaA A(—
+Œ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.javaA A()
+%53void"5ij.gui.ImageWindow#setNextLocation(Ljava/awt/Point;)V*"
+ij.gui.ImageWindow*
+
+locationjava.awt.Point*
+4*ê
+6R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java> >(5í
+è
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java> >(5
+locationjava.awt.Point"__id*
+
+%49java.awt.Pointôñ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java? ?(
+%52void"ij.ImagePlus#hide()V*
+
+impij.ImagePlus2hide()*
+4
+5*Ë
+7R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java>0 >(4â
+Ü
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java>0 >(4
+%49java.awt.Point"__id*
+
+%51
+<nulltype>*
+6*ª
+8R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java> >(!Ã…
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java> >(/
+%50java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+
+winij.gui.ImageWindow2getLocation()ç
+ä
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java> >(/
+%49java.awt.Point"__id*
+
+%50java.awt.Point*
+6*æ
+9R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java= =(ƒ¡
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java= =($
+%48ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()ï
+í
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java= =(%
+winij.gui.ImageWindow"__id*
+
+%48ij.gui.ImageWindow*
+7
+8*Ê
+20R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java- -(Ü
+É
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java- -(
+%29void"ij.IJ#wait(I)V*	"
+ij.IJ*2Ù*
+0*ä
+21R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java, ,(#¶
+£
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java, ,(1
+%28boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+20
+0*Ë
+22R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java, ,(	Ñ
+Å
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java, ,(
+%27boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+21
+0*´
+23R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java) )(¨©
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java) )(
+%25void"ij.ImagePlus#setSlice(I)V*
+
+imp2ij.ImagePlus*
+""2setSlice(I)õò
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CompositeConverter.java* *(
+%26void"ij.ImagePlus#close()V*
+
+impij.ImagePlus2close()*
+22:
+argjava.lang.StringB 
+ij.plugin.CompositeConverter

@@ -1,0 +1,142 @@
+
+<ij.macro.Functions#getProcessor()Lij/process/ImageProcessor;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java™ ™("9*–
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(ž
+›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £( 
+%12ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIP¯
+¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(3
+%13java.awt.Color"3ij.gui.Toolbar#getForegroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbarìé
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(4
+%14void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*"
+ 
+%12ij.process.ImageProcessor*
+
+%13java.awt.Color2setColor(Ljava/awt/Color;)*
+1*µ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(ž
+›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡( 
+%10ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIP½º
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(#
+%11void"&ij.process.ImageProcessor#setValue(D)V*"
+ 
+%10ij.process.ImageProcessor*
+""2setValue(D)*
+1*ò
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (˜
+•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (&
+%9boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+3*÷
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(
+š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(
+%6ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIP”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ("
+%7java.awt.Color"__id*'*%
+ij.macro.Functions"
+globalColoréæ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(#
+
+%8void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+%6ij.process.ImageProcessor*
+
+%7java.awt.Color2setColor(Ljava/awt/Color;)*
+1*î
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž(”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž(
+%5java.awt.Color"__id*'*%
+ij.macro.Functions"
+globalColor*
+4
+5*º
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (
+š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (
+%3ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIPÃÀ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (+
+
+%4void"*ij.process.ImageProcessor#setLineWidth(I)V*!
+
+%3ij.process.ImageProcessor*
+""2setLineWidth(I)*
+6*ÿ
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›(´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›(
+%1ij.ImagePlus"+ij.macro.Functions#getImage()Lij/ImagePlus;*
+ij.macro.Functions2
+getImage()ÎË
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›((
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%1ij.ImagePlus2getProcessor()
+š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›((#
+ij.macro.Functions"
+	defaultIP"__id*!
+
+%2ij.process.ImageProcessor*
+6
+7*÷
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š(
+š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š(
+%0ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIP*
+8
+1*â
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥	 ¥(ž
+›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥	 ¥( 
+%15ij.process.ImageProcessor"__id*%*#
+ij.macro.Functions"
+	defaultIP"p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥ ¥("
+ 
+%15ij.process.ImageProcessorB
+ij.macro.Functions

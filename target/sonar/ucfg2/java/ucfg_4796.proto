@@ -1,0 +1,79 @@
+
+Cij.process.TypeConverter#convertToByte()Lij/process/ImageProcessor;N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java! !($"1*≠
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java+ ,("X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java, ,(
+""*∂
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java) *(ÏÈ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java* *(
+%7ij.process.ByteProcessor"Eij.process.TypeConverter#convertRGBToByte()Lij/process/ByteProcessor;*
+ij.process.TypeConverter2convertRGBToByte()"r
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java* *( 
+
+%7ij.process.ByteProcessor*∫
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java' (( Ì
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java( ((
+%6ij.process.ByteProcessor"Gij.process.TypeConverter#convertFloatToByte()Lij/process/ByteProcessor;*
+ij.process.TypeConverter2convertFloatToByte()"r
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java( ((  
+
+%6ij.process.ByteProcessor*∫
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java% &( Ì
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java& &(
+%5ij.process.ByteProcessor"Gij.process.TypeConverter#convertShortToByte()Lij/process/ByteProcessor;*
+ij.process.TypeConverter2convertShortToByte()"r
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java& &(  
+
+%5ij.process.ByteProcessor*Î
+6N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java# $(†
+ù
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java$ $(
+%4ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip"s
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java$ $(!
+
+%4ij.process.ImageProcessor*ò
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java"
+ "(k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java# #(	
+%0int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java% %(	
+%1int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java' '(	
+%2int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java) )(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6B
+ij.process.TypeConverter

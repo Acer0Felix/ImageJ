@@ -1,0 +1,55 @@
+
+Fij.io.ImageReader#readPixels(Ljava/io/InputStream;J)Ljava/lang/Object;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java⁄ ⁄("6*£
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬂ
+ ﬂ("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬂ ﬂ(
+""*√
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬁ% ﬁ(&k
+i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬁ% ﬁ(&	
+%1int"__id*
+	
+%3int*
+2
+1*√
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬁ# ﬁ($k
+i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaﬁ# ﬁ($	
+%1int"__id*
+	
+%2int*
+2
+1*Í
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java€ €(ÑÅ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java› ›( 
+%0java.lang.Object"Eij.io.ImageReader#readPixels(Ljava/io/InputStream;)Ljava/lang/Object;*
+ij.io.ImageReader*
+
+injava.io.InputStream2!readPixels(Ljava/io/InputStream;)ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java› ›(!
+pixelsjava.lang.Object"__id*
+
+%0java.lang.Object*
+4
+5*π
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java·
+ ·("i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java· ·(
+
+pixelsjava.lang.Object:
+injava.io.InputStream:
+""B
+ij.io.ImageReader

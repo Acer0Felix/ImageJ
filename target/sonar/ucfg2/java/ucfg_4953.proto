@@ -1,0 +1,151 @@
+
+7ij.util.DicomTools#sort(Lij/ImageStack;)Lij/ImageStack;H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ("11"12*Ö
+2H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ("
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ("
+%9ij.ImageStack"__id*
+
+stackij.ImageStack*
+1*Ø
+3H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (ƒ
+€
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (
+%9ij.ImageStack"__id*
+
+stack2ij.ImageStack*
+1*ä
+5H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (†
+ƒ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (%
+%8ij.ImageStack"Oij.util.DicomTools#sortStack(Lij/ImageStack;[Ljava/lang/String;)Lij/ImageStack;*"
+ij.util.DicomTools*
+
+stackij.ImageStack*
+
+stringsjava.lang.String[]ƒ
+€
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (%
+stack2ij.ImageStack"__id*
+
+%8ij.ImageStack*
+2
+3*«
+6H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ( –
+“
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java5 (@
+%5java.lang.String[]"__id*'*%
+ij.util.DicomTools"
+sliceLabelse
+c
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaB (L	
+%6int"__id*
+""ÍÊ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (M
+%7ij.ImageStack"Qij.VirtualStack#sortDicom([Ljava/lang/String;[Ljava/lang/String;I)Lij/ImageStack;*
+
+stackij.ImageStack*
+
+stringsjava.lang.String[]*
+
+%5java.lang.String[]*
+	
+%6int22sortDicom([Ljava/lang/String;[Ljava/lang/String;I)ƒ
+€
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (M
+stack2ij.ImageStack"__id*
+
+%7ij.ImageStack*
+2
+3*´
+7H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (Å
+Â
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (
+
+%3void"/ij.util.StringSorter#sort([Ljava/lang/String;)V*"
+ij.util.StringSorter*
+
+stringsjava.lang.String[]s
+q
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (
+stack2ij.ImageStack"__id*
+""Ÿœ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (
+%4boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+5
+6*³
+8H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (!"d
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ("
+
+stackij.ImageStack*ê
+9H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (#
+þ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (7
+%2java.lang.String[]"Wij.util.DicomTools#getSortStrings(Lij/ImageStack;Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.DicomTools*
+
+stackij.ImageStack*
+	0020,0013Ž
+‹
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (8
+stringsjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+7
+8*´
+10H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (#"d
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java ($
+
+stackij.ImageStack*ë
+11H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (‘Ž
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (	
+%1int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()*
+9
+10*þ
+12H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (§
+¤
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (;
+
+%0void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*!
+Sorting by DICOM image number*
+11*°
+1H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (#"a
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (#
+
+%9ij.ImageStack:
+stackij.ImageStackB"
+ij.util.DicomTools

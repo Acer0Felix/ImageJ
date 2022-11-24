@@ -1,0 +1,73 @@
+
+3ij.macro.Functions#openAsString()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java…# …#("5*Ï
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‹# ‹#(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‹# ‹#(	
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpàÝ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‹# ‹#(
+
+%5void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%4ij.macro.Interpreter*
+
+strjava.lang.String2error(Ljava/lang/String;)*
+1*²
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŠ# Š#(ØÕ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŠ# Š#($
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+strjava.lang.String*	
+Error: 2startsWith(Ljava/lang/String;)*
+2
+1*ì
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‰# ‰#(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‰# ‰#(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp*
+1*€
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†# †#(ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†# †#(
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†# †#(
+pathjava.lang.String"__id*
+
+%0java.lang.StringÈ
+Å
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡# ‡#($
+%1java.lang.String"8ij.IJ#openAsString(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.Stringˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡# ‡#(%
+strjava.lang.String"__id*
+
+%1java.lang.String*
+3
+4*¸
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŒ#	 Œ#("g
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŒ# Œ#(
+
+strjava.lang.StringB
+ij.macro.Functions

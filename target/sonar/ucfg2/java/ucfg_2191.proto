@@ -1,0 +1,115 @@
+
+Iij.macro.Interpreter#getBatchModeRoiManager()Lij/plugin/frame/RoiManager;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÁ Á(0"7*ç
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÏ
+ Ï(ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÏ
+ Ï(
+%8ij.macro.Functions"__id***(
+
+interpij.macro.Interpreter"
+func•
+¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÏ
+ Ï(  
+%9ij.plugin.frame.RoiManager"__id***(
+
+%8ij.macro.Functions"
+
+roiManager"r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÏ Ï(!"
+ 
+%9ij.plugin.frame.RoiManager*€
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÎ Î(
+ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÎ Î(
+%5ij.macro.Functions"__id***(
+
+interpij.macro.Interpreter"
+funcèå
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÎ! Î(+ 
+%6ij.plugin.frame.RoiManager"ij.plugin.frame.RoiManager®
+•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÎ Î(1
+%7"%ij.plugin.frame.RoiManager#<init>(Z)V*"
+ 
+%6ij.plugin.frame.RoiManager*2•
+¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÎ Î(1(
+
+%5ij.macro.Functions"
+
+roiManager"__id*"
+ 
+%6ij.plugin.frame.RoiManager*
+2*°
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÍ Í(ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÍ Í(
+%3ij.macro.Functions"__id***(
+
+interpij.macro.Interpreter"
+func•
+¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÍ Í( 
+%4ij.plugin.frame.RoiManager"__id***(
+
+%3ij.macro.Functions"
+
+roiManager*
+2
+3*∏
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÈ' È(1‹
+Ÿ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÈ' È(B 
+%2ij.plugin.frame.RoiManager"Gij.plugin.frame.RoiManager#getRawInstance()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManager*
+4
+1*˚
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÈ È(!ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÈ È(#
+%1boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+5
+1*µ
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaË Ë("¡
+æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaË Ë($
+%0ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreterï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaË Ë(%
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*
+6
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÓ
+ Ó("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÓ Ó(
+""B"
+ij.macro.Interpreter

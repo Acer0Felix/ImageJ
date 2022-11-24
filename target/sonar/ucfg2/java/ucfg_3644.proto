@@ -1,0 +1,78 @@
+
+.ij.ImagePlus#createEmptyStack()Lij/ImageStack;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÃ Ã(#"4*‡
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java— —(®•
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java— —(
+%3ij.LookUpTable"(ij.ImagePlus#createLut()Lij/LookUpTable;*
+ij.ImagePlus2createLut()ŒÀ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java— —(#
+%4java.awt.image.ColorModel"9ij.LookUpTable#getColorModel()Ljava/awt/image/ColorModel;*
+
+%3ij.LookUpTable2getColorModel()ì
+ê
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java— —(#
+cmjava.awt.image.ColorModel"__id*!
+
+%4java.awt.image.ColorModel*
+1*ÿ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaœ œ(
+ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaœ œ(
+
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip‰·
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaœ œ(
+%2java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+%1ij.process.ImageProcessor2getColorModel()ì
+ê
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaœ œ(
+cmjava.awt.image.ColorModel"__id*!
+
+%2java.awt.image.ColorModel*
+1*◊
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(w
+u
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(
+cmjava.awt.image.ColorModel"__id*
+""ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ Œ(
+%0ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+2
+3*Ë
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java“ “(lj
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java“ “(
+%5ij.ImageStack"ij.ImageStackœ
+Ã
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java“	 “(*
+%6"4ij.ImageStack#<init>(IILjava/awt/image/ColorModel;)V*
+
+%5ij.ImageStack*
+""*
+""*!
+
+cmjava.awt.image.ColorModel"]
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java“ “(+
+
+%5ij.ImageStackB
+ij.ImagePlus

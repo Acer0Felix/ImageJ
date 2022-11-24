@@ -1,0 +1,60 @@
+
++ij.ImagePlus#getImageStack()Lij/ImageStack;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ Ä( "3*œ
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ
+ Ç(§°
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ
+ Ç(
+%1ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+ij.ImagePlus2
+getStack()"]
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+
+%1ij.ImageStack*‘
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å(Ä
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å(
+%0ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+2
+1*¶
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(Ä
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+%2ij.ImageStack"__id**
+ij.ImagePlus"
+stackä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+%3ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipËÂ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+
+%4void"2ij.ImageStack#update(Lij/process/ImageProcessor;)V*
+
+%2ij.ImageStack*!
+
+%3ij.process.ImageProcessor2#update(Lij/process/ImageProcessor;)Ä
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ
+ Ö(
+%5ij.ImageStack"__id**
+ij.ImagePlus"
+stack"]
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ Ö(
+
+%5ij.ImageStackB
+ij.ImagePlus

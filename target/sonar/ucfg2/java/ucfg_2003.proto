@@ -1,0 +1,873 @@
+
+Aij.IJ#saveAs(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)V=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¶ ¶("58"54"56*í
+24=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÕ Õ(¬ø
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÕ Õ(#
+
+%32int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+fits2indexOf(Ljava/lang/String;)*
+22
+23*ò
+25=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÀ
+ À(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÀ
+ À('
+%31java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.bmp|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÀ À('
+pathjava.lang.String"__id*
+
+%31java.lang.Stringo
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÃ Ã(
+formatjava.lang.String"__id*
+
+BMP...*
+3
+4*ë
+26=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java   (¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java   ("
+
+%30int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+bmp2indexOf(Ljava/lang/String;)*
+24
+25*ô
+27=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java»
+ »(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java»
+ »('
+%29java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.avi|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »('
+pathjava.lang.String"__id*
+
+%29java.lang.Stringp
+n
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java… …(
+formatjava.lang.String"__id*	
+AVI... *
+3
+4*ë
+28=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java« «(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java« «("
+
+%28int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+avi2indexOf(Ljava/lang/String;)*
+26
+27*¡
+29=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∆ ∆(t
+r
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∆ ∆(
+formatjava.lang.String"__id*
+Raw Data...*
+3
+4*ë
+30=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ ƒ(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ ƒ("
+
+%27int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+raw2indexOf(Ljava/lang/String;)*
+28
+29*ò
+31=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬
+ ¬(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬
+ ¬('
+%26java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.zip|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬ ¬('
+pathjava.lang.String"__id*
+
+%26java.lang.Stringo
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java√ √(
+formatjava.lang.String"__id*
+
+ZIP...*
+3
+4*ë
+32=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¡ ¡(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¡ ¡("
+
+%25int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+zip2indexOf(Ljava/lang/String;)*
+30
+31*Ω
+33=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿ ¿(p
+n
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿ ¿(
+formatjava.lang.String"__id*	
+Text...*
+3
+4*•
+34=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø ø(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø ø((
+%24java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.txt|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø ø((
+pathjava.lang.String"__id*
+
+%24java.lang.String*
+33*ñ
+35=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæJ æ(N∆√
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæJ æ(_
+%23boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.tsv2endsWith(Ljava/lang/String;)*
+33
+34*ñ
+36=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ0 æ(4∆√
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ0 æ(E
+%22boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.csv2endsWith(Ljava/lang/String;)*
+35
+33*ñ
+37=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ æ(∆√
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ æ(+
+%21boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.xls2endsWith(Ljava/lang/String;)*
+36
+33*ï
+39=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ+ Ω(1¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ+ Ω(@
+
+%20int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+txt2indexOf(Ljava/lang/String;)*
+37
+32
+33*ñ
+40=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ Ω(¬ø
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ Ω(#
+
+%19int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+text2indexOf(Ljava/lang/String;)*
+37
+39
+33*ü
+41=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaª
+ ª(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaª
+ ª('
+%18java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.txt|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaª ª('
+pathjava.lang.String"__id*
+
+%18java.lang.Stringv
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaº º(
+formatjava.lang.String"__id*
+Text Image...*
+3
+4*ò
+42=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫ ∫(»≈
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫ ∫()
+
+%17int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+
+text image2indexOf(Ljava/lang/String;)*
+40
+41*‡
+43=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∑
+ ∑(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∑
+ ∑('
+%15java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.gif|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∑ ∑('
+pathjava.lang.String"__id*
+
+%15java.lang.Stringı
+Ú
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∏ ∏(
+%16java.lang.String"Lij.plugin.GifWriter#save(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;*"
+ij.plugin.GifWriter*
+
+impij.ImagePlus*
+
+pathjava.lang.String"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaπ π(
+
+""*ë
+44=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∂ ∂(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∂ ∂("
+
+%14int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+gif2indexOf(Ljava/lang/String;)*
+42
+43*˙
+45=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≥
+ ≥(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≥
+ ≥('
+%11java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.jpg|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≥ ≥('
+pathjava.lang.String"__id*
+
+%11java.lang.StringÜ
+É
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥ ¥(8
+
+%12int"!ij.io.FileSaver#getJpegQuality()I*"
+ij.io.FileSaverÜ
+É
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥ ¥(9
+%13java.lang.String"Nij.plugin.JpegWriter#save(Lij/ImagePlus;Ljava/lang/String;I)Ljava/lang/String;*"
+ij.plugin.JpegWriter*
+
+impij.ImagePlus*
+
+pathjava.lang.String*
+
+
+%12int"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaµ µ(
+
+""*ë
+46=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤+ ≤(1¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤+ ≤(@
+
+%10int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+jpg2indexOf(Ljava/lang/String;)*
+44
+45*ë
+47=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤ ≤(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤ ≤(#	
+%9int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+jpeg2indexOf(Ljava/lang/String;)*
+46
+45*”
+48=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∞ ∞(ƒ
+¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∞ ∞(
+%8boolean"3ij.IJ#saveAsTiff(Lij/ImagePlus;Ljava/lang/String;)Z*	"
+ij.IJ*
+
+impij.ImagePlus*
+
+pathjava.lang.String"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java± ±(
+
+""*ê
+49=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaØ Ø(¿Ω
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaØ Ø(	
+%7int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+tif2indexOf(Ljava/lang/String;)*
+47
+48*‘
+50=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ Æ(àÖ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ Æ(
+
+%6void"ij.gui.Roi#endPaste()V*
+
+roi2
+ij.gui.Roi2
+endPaste()*
+49*æ
+51=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨()o
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨()
+roi2
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roi*
+49
+50*∏
+52=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨$ ¨((m
+k
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨$ ¨((
+%3
+ij.gui.Roi"__id*
+
+%5
+<nulltype>*
+51*”
+53=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(òï
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(#
+%4
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()m
+k
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(#
+%3
+ij.gui.Roi"__id*
+
+%4
+ij.gui.Roi*
+51*Ø
+54=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´(g
+e
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´('
+%1java.util.Locale"__id*
+""˜Ù
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´((
+%2java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+formatjava.lang.String*
+
+%1java.util.Locale2toLowerCase(Ljava/util/Locale;)}
+{
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´((
+formatjava.lang.String"__id*
+
+%2java.lang.String*
+52
+53*û
+10=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‹
+ ‹(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‹
+ ‹('
+%45java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.roi|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‹ ‹('
+pathjava.lang.String"__id*
+
+%45java.lang.Stringu
+s
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java› ›(
+formatjava.lang.String"__id*
+Selection...*
+3
+4*¥
+55=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java™
+ ™(i
+g
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java™ ™(
+pathjava.lang.String"__id*
+""*
+54*¢
+11=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java€- €(3”–
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java€- €(C
+%44boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+formatjava.lang.String*
+roi2"contains(Ljava/lang/CharSequence;)*
+9
+10*ﬂ
+56=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java© ©(èå
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java© ©(!	
+%0int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*
+54
+55*©
+12=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java€ €(Ÿ÷
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java€ €()
+%43boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+formatjava.lang.String*
+	selection2"contains(Ljava/lang/CharSequence;)*
+10
+11*¿
+13=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java⁄ ⁄(s
+q
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java⁄ ⁄(
+formatjava.lang.String"__id*
+
+Results...*
+3
+4*å
+58=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java® ®(
+"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java® ®(
+
+""*•
+14=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸN Ÿ(T’“
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸN Ÿ(f
+%42boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+formatjava.lang.String*	
+table2"contains(Ljava/lang/CharSequence;)*
+13
+12*¨
+15=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸ+ Ÿ(1‹Ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸ+ Ÿ(J
+%41boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+formatjava.lang.String*
+measurements2"contains(Ljava/lang/CharSequence;)*
+13
+14*ß
+16=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸ Ÿ(◊‘
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŸ Ÿ('
+%40boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+formatjava.lang.String*	
+results2"contains(Ljava/lang/CharSequence;)*
+13
+15*ò
+17=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java◊
+ ◊(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java◊
+ ◊('
+%39java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.lut|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java◊ ◊('
+pathjava.lang.String"__id*
+
+%39java.lang.Stringo
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÿ ÿ(
+formatjava.lang.String"__id*
+
+LUT...*
+3
+4*ë
+18=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java÷ ÷(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java÷ ÷("
+
+%38int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+lut2indexOf(Ljava/lang/String;)*
+16
+17*ò
+19=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‘
+ ‘(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‘
+ ‘('
+%37java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.pgm|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‘ ‘('
+pathjava.lang.String"__id*
+
+%37java.lang.Stringo
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java’ ’(
+formatjava.lang.String"__id*
+
+PGM...*
+3
+4*[
+0 "T
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÎ Î(
+implicit return*√
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÈ È(å
+â
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÈ È(!
+%59java.lang.String"__concat*	
+save=*
+
+pathjava.lang.StringÍ
+Á
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÈ È("
+%60void">ij.IJ#run(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+impij.ImagePlus*
+
+formatjava.lang.String*
+
+%59java.lang.String*
+0*Œ
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÁ Á(ç
+ä
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÁ Á("
+%56java.lang.String"__concat*
+
+save=[*
+
+pathjava.lang.Stringá
+Ñ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÁ Á(&
+%57java.lang.String"__concat*
+
+%56java.lang.String*
+]Í
+Á
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÁ Á('
+%58void">ij.IJ#run(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+impij.ImagePlus*
+
+formatjava.lang.String*
+
+%57java.lang.String*
+0*ú
+3=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÊ Ê(œÃ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÊ Ê(
+%55boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+ 2"contains(Ljava/lang/CharSequence;)*
+2
+1*‚
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‰ ‰(ò
+ï
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‰ ‰(
+%54void"ij.IJ#run(Ljava/lang/String;)V*	"
+ij.IJ*
+
+formatjava.lang.String*
+0*⁄
+6=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚ ‚(∑
+¥
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚	 ‚(@
+%49java.lang.String"__concat*20
+.Unsupported save() or saveAs() file format: \"*
+
+formatjava.lang.Stringè
+å
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚	 ‚(L
+%50java.lang.String"__concat*
+
+%49java.lang.String*
+	\"\n \n\"ú
+ô
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚	 ‚(Q
+%51java.lang.String"__concat*
+
+%50java.lang.String*
+
+pathjava.lang.Stringà
+Ö
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚	 ‚(V
+%52java.lang.String"__concat*
+
+%51java.lang.String*
+\"ó
+î
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‚ ‚(W
+%53void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%52java.lang.String*
+3
+4*¢
+7=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬂ
+ ﬂ(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬂ
+ ﬂ('
+%48java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.txt|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬂ ﬂ('
+pathjava.lang.String"__id*
+
+%48java.lang.Stringz
+x
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‡ ‡(
+formatjava.lang.String"__id*
+XY Coordinates...*
+3
+4*ñ
+8=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬁ) ﬁ(/…∆
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬁ) ﬁ(F
+
+%47int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+coordinates2indexOf(Ljava/lang/String;)*
+6
+7*ç
+9=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬁ ﬁ(¿Ω
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaﬁ ﬁ(!
+
+%46int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+xy2indexOf(Ljava/lang/String;)*
+7
+8*ë
+20=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java” ”(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java” ”("
+
+%36int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+pgm2indexOf(Ljava/lang/String;)*
+18
+19*ò
+21=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java—
+ —(€
+ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java—
+ —('
+%35java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*
+.png|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java— —('
+pathjava.lang.String"__id*
+
+%35java.lang.Stringo
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java“ “(
+formatjava.lang.String"__id*
+
+PNG...*
+3
+4*ë
+22=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java– –(¡æ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java– –("
+
+%34int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+formatjava.lang.String*
+png2indexOf(Ljava/lang/String;)*
+20
+21*ö
+23=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ
+ Œ(‹
+Ÿ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ
+ Œ((
+%33java.lang.String"Mij.IJ#updateExtension(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+pathjava.lang.String*	
+.fits|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ Œ((
+pathjava.lang.String"__id*
+
+%33java.lang.Stringp
+n
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaœ œ(
+formatjava.lang.String"__id*	
+FITS...*
+3
+4:
+impij.ImagePlus:
+formatjava.lang.String:
+pathjava.lang.StringB	"
+ij.IJ

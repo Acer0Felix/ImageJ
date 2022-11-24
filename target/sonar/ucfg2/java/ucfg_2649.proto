@@ -1,0 +1,87 @@
+
+&ij.gui.Roi#equals(Ljava/lang/Object;)ZB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java± ±("8"1*•
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java·
+ ·("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java· ·(
+""*•
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶- ¶(2"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶& ¶(3
+""*ñ
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶ ¶(‹ˆ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶ ¶(
+%4double"ij.gui.Roi#getLength()D*
+
+ij.gui.Roi2getLength()‘Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶ ¶($
+%5double"ij.gui.Roi#getLength()D*
+
+roi2
+ij.gui.Roi2getLength()*
+2
+3*•
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ5 µ(:"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ. µ(;
+""*Œ
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(ª§
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(
+%1java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+ij.gui.Roi2getBounds()°­
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(+
+%2java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi2
+ij.gui.Roi2getBounds()Ú×
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(,
+%3boolean".java.awt.Rectangle#equals(Ljava/lang/Object;)Z*
+
+%1java.awt.Rectangle*
+
+%2java.awt.Rectangle2equals(Ljava/lang/Object;)*
+4
+5*•
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java´$ ´()"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java´ ´(*
+""*Ù
+8B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java³ ³({
+y
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java³ ³(
+roi2
+ij.gui.Roi"__id*
+
+objjava.lang.ObjectŠ‡
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java´ ´(	
+%0int"ij.gui.Roi#getType()I*
+
+roi2
+ij.gui.Roi2	getType()*
+6
+7*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¹
+ ¹("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¹ ¹(
+"":
+objjava.lang.ObjectB
+
+ij.gui.Roi

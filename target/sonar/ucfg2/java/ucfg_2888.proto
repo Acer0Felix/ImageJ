@@ -1,0 +1,92 @@
+
+Xij.plugin.filter.Convolver#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.java` `($"3*À
+2P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f(è
+å
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f( 
+%4java.lang.String"__concat*
+
+Convolve: *
+""ò
+ï
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f($
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+xô
+ñ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f('
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""û
+õ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f(1
+%7java.lang.String"__concat*
+
+%6java.lang.String*	
+ kernel≠
+™
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaf f(2
+
+%8void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%7java.lang.String"Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javag g(
+""*º
+3P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaa a(–Õ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaa a(
+%0java.lang.String"4ij.gui.GenericDialog#getNextText()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextText()£
+†
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaa a(,
+ij.plugin.filter.Convolver"
+
+kernelText"__id*
+
+%0java.lang.Stringºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javab b(%
+%1boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()£
+†
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javad d((
+%2java.lang.String"__id*.*,
+ij.plugin.filter.Convolver"
+
+kernelText˛˚
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javad d()
+%3boolean"<ij.plugin.filter.Convolver#decodeKernel(Ljava/lang/String;)Z*
+ij.plugin.filter.Convolver*
+
+%2java.lang.String2 decodeKernel(Ljava/lang/String;)*
+2
+1*Ú
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javai i(æª
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javai i(
+%9boolean"'ij.gui.GenericDialog#isPreviewActive()Z*
+
+gdij.gui.GenericDialog2isPreviewActive()"Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javai i( 
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.filter.Convolver

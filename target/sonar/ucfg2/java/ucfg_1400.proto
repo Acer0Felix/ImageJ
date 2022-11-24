@@ -1,0 +1,82 @@
+
++ij.io.ImageReader#packBitsUncompress([BI)[BI
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java— —(!"15*˚
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java’	 ’(ôñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java’	 ’(	
+%2int"ij.io.ByteVector#size()I*
+
+outputij.io.ByteVector2size()*
+14
+3
+11
+1*¸
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java‡ ‡($¢ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java‡ ‡(-
+
+%4void"ij.io.ByteVector#add(B)V*
+
+outputij.io.ByteVector*
+""2add(B)*
+3
+14*
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java”% ”()wu
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java” ”($
+%0ij.io.ByteVector"ij.io.ByteVectorí
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java” ”(*
+%1"ij.io.ByteVector#<init>(I)V*
+
+%0ij.io.ByteVector*2Ää
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java” ”(+
+outputij.io.ByteVector"__id*
+
+%0ij.io.ByteVector*
+14*Ï
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java€ €(
+´®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java€ €(
+
+%3void"ij.io.ByteVector#add([B)V*
+
+outputij.io.ByteVector*
+
+bbyte[]2add([B)h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java‹ ‹(
+bbyte[]"__id*
+""*
+14*æ
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaÿ ÿ(h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaÿ ÿ(
+bbyte[]"__id*
+""*
+7*Ÿ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java„	 „(´®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java„	 „(
+%5byte[]" ij.io.ByteVector#toByteArray()[B*
+
+outputij.io.ByteVector2toByteArray()"[
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java„ „(
+
+%5byte[]:
+inputbyte[]:
+""B
+ij.io.ImageReader

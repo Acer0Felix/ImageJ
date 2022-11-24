@@ -1,0 +1,44 @@
+
+3ij.gui.Plot#getPlotObjectLabel(I)Ljava/lang/String;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaË
+ Ë
+(!"1*ÿ
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ
+	 È
+(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ
+	 È
+(
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsè
+å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ
+	 È
+(
+%1ij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ
+	 È
+($
+%2java.lang.String"__id*$*"
+
+%1ij.gui.PlotObject"
+label"_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÈ
+ È
+(%
+
+%2java.lang.String:
+""B
+ij.gui.Plot

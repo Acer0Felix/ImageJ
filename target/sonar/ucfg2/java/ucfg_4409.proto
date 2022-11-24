@@ -1,0 +1,67 @@
+
+ij.io.FileSaver#saveAsRaw()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‹ ‹("5*˝
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java·
+ ·(€ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java·
+ ·(
+%3boolean".ij.io.FileSaver#saveAsRaw(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsRaw(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java· ·(
+""*˘
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‡ ‡(	Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‡ ‡(	
+%1ij.ImagePlus"__id**
+ij.io.FileSaver"
+impõò
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‡ ‡(	
+%2int"ij.ImagePlus#getStackSize()I*
+
+%1ij.ImagePlus2getStackSize()*
+2
+1*ü
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬂ
+ ﬂ("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬂ ﬂ(
+""*Ï
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›(åâ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›(&
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+Raw*
+.raw2-getPath(Ljava/lang/String;Ljava/lang/String;)Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›('
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+3
+4*á
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java„
+ „(Â‚
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java„
+ „(
+%4boolean"3ij.io.FileSaver#saveAsRawStack(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2"saveAsRawStack(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java„ „(
+""B
+ij.io.FileSaver

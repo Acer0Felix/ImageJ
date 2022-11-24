@@ -1,0 +1,75 @@
+
+?ij.gui.TextRoi#getColorArgs(Ljava/awt/Color;)Ljava/lang/String;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÛ Û("1*Ω
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù(ëé
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ Ù(	
+%0int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()ù
+ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù(#
+%1java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2è
+å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù((
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, ïí
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ0 Ù(<	
+%3int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()ù
+ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ) Ù(E
+%4java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2°
+û
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù(E
+%5java.lang.String"__concat*
+
+%2java.lang.String*
+
+%4java.lang.Stringè
+å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù(J
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+, ìê
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙR Ù(]	
+%7int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()ù
+ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙK Ù(f
+%8java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2°
+û
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ	 Ù(f
+%9java.lang.String"__concat*
+
+%6java.lang.String*
+
+%8java.lang.String"b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÙ Ù(g
+
+%9java.lang.String:
+cjava.awt.ColorB
+ij.gui.TextRoi

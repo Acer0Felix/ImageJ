@@ -1,0 +1,129 @@
+
+=ij.macro.Functions#getOverlayElementBounds(Lij/gui/Overlay;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ5 Û5('"3*‘
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã5
+ ã5(j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã5
+ ã5(
+%6double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã5 ã5(
+""*£
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ5 Ü5(§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ5 Ü5( 
+%0double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()ÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ5 Ý5( 
+%1ij.macro.Variable"7ij.macro.Functions#getNextVariable()Lij/macro/Variable;*
+ij.macro.Functions2getNextVariable()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ5 Ý5(!
+xij.macro.Variable"__id*
+
+%1ij.macro.VariableÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ5 Þ5( 
+%2ij.macro.Variable"7ij.macro.Functions#getNextVariable()Lij/macro/Variable;*
+ij.macro.Functions2getNextVariable()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ5 Þ5(!
+yij.macro.Variable"__id*
+
+%2ij.macro.VariableÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaß5 ß5($
+%3ij.macro.Variable"7ij.macro.Functions#getNextVariable()Lij/macro/Variable;*
+ij.macro.Functions2getNextVariable()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaß5 ß5(%
+widthij.macro.Variable"__id*
+
+%3ij.macro.VariableÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà5 à5(%
+%4ij.macro.Variable"7ij.macro.Functions#getLastVariable()Lij/macro/Variable;*
+ij.macro.Functions2getLastVariable()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà5 à5(&
+heightij.macro.Variable"__id*
+
+%4ij.macro.Variable±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá5 á5(
+%5
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+
+overlayij.gui.Overlay*
+""2get(I){
+y
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá5 á5(
+roi
+ij.gui.Roi"__id*
+
+%5
+ij.gui.Roi*
+2
+1*Ú
+
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä5 ä5(ÝÚ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä5 ä5(-&
+%7 java.awt.geom.Rectangle2D$Double"=ij.gui.Roi#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;*
+
+roi
+ij.gui.Roi2getFloatBounds()¦
+£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä5 ä5(.%
+r java.awt.geom.Rectangle2D$Double"__id*(
+&
+%7 java.awt.geom.Rectangle2D$Doubleª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaå5 å5(
+
+%8void"ij.macro.Variable#setValue(D)V*
+
+xij.macro.Variable*
+""2setValue(D)ª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaæ5 æ5(
+
+%9void"ij.macro.Variable#setValue(D)V*
+
+yij.macro.Variable*
+""2setValue(D)¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç5 ç5(
+%10void"ij.macro.Variable#setValue(D)V*
+
+widthij.macro.Variable*
+""2setValue(D)°­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè5 è5(
+%11void"ij.macro.Variable#setValue(D)V*
+
+heightij.macro.Variable*
+""2setValue(D)k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé5	 é5(
+%12double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé5 é5(
+"":
+overlayij.gui.OverlayB
+ij.macro.Functions

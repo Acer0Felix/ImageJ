@@ -1,0 +1,30 @@
+
+5ij.plugin.frame.RoiManager#error(Ljava/lang/String;)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaö	 ö("1*æ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java÷ ÷(‰†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java÷ ÷(
+%0ij.gui.MessageDialog"ij.gui.MessageDialog›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java÷ ÷(-
+%1"Rij.gui.MessageDialog#<init>(Ljava/awt/Frame;Ljava/lang/String;Ljava/lang/String;)V*
+
+%0ij.gui.MessageDialog*
+ij.plugin.frame.RoiManager*
+ROI Manager*
+
+msgjava.lang.String„
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaø ø(
+
+%2void"ij.Macro#abort()V*"
+
+ij.Macro"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaù ù(
+"":
+msgjava.lang.StringB
+ij.plugin.frame.RoiManager

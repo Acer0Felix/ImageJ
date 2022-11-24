@@ -1,0 +1,114 @@
+
+Gij.util.Tools#getNumberFromList(Ljava/lang/String;Ljava/lang/String;D)DE
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÏ Ï('"10"11*ø
+2E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ* Ù(/n
+l
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ* Ù(/
+%8double"__id*
+
+%10double*
+1*æ
+3E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ Ù()m
+k
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ Ù()
+%8double"__id*
+
+%9double*
+1*Ú
+4E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÛ Û(œÃ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÛ Û(5
+%5java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+listjava.lang.String*
+""*
+""2substring(II)µ
+≤
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÛ Û(6
+%6double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%5java.lang.Stringì
+ê
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ	 Ù(
+%7boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+3*ì
+6E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÚ Ú(*¢ü
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÚ+ Ú(9
+
+%3char"java.lang.String#charAt(I)C*
+
+listjava.lang.String*
+""2	charAt(I)ô
+ñ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÚ Ú(:
+%4boolean"ij.util.Tools#isDelimiter(C)Z*"
+ij.util.Tools*
+
+
+%3char*
+4
+7*Ï
+7E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÚ	 Ú(
+óî
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÚ Ú(	
+%2int"java.lang.String#length()I*
+
+listjava.lang.String2length()*
+4
+6*Ë
+8E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java (ñì
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java (	
+%1int"java.lang.String#length()I*
+
+keyjava.lang.String2length()*
+7*õ
+9E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÔ Ô( "O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÔ Ô(!
+""*Æ
+10E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÓ
+ Ó(ÿ’
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÓ
+ Ó(	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+listjava.lang.String*
+
+keyjava.lang.String2indexOf(Ljava/lang/String;)*
+8
+9*ú
+11E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÌ Ì('"O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÌ Ì((
+""*õ
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ Ù(0"O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaÙ Ù(0
+"":
+listjava.lang.String:
+keyjava.lang.String:
+""B"
+ij.util.Tools

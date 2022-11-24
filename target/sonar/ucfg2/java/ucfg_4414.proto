@@ -1,0 +1,69 @@
+
+ij.io.FileSaver#saveAsLut()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‹ ‹("5*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java„
+ „("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java„ „(
+""*Ï
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java· ·(åâ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java· ·(&
+%4java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+LUT*
+.lut2-getPath(Ljava/lang/String;Ljava/lang/String;)Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java· ·('
+pathjava.lang.String"__id*
+
+%4java.lang.String*
+2
+1*ﬁ
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(º
+π
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ()
+
+%3void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*!
+RGB Images do not have a LUT."Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬂ ﬂ(
+""*’
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›(	Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›(	
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+impëé
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›(	
+%1int"ij.ImagePlus#getType()I*
+
+%0ij.ImagePlus2	getType()d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java› ›((	
+%2int"__id*
+""*
+3
+4*˝
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‰	 ‰(€ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‰	 ‰(
+%5boolean".ij.io.FileSaver#saveAsLut(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsLut(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‰ ‰(
+""B
+ij.io.FileSaver

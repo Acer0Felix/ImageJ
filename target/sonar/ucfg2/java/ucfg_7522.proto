@@ -1,0 +1,30 @@
+
+5ij.text.TextPanel#getTextWindow()Lij/text/TextWindow;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÆ Æ(!"4*£
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÉ
+ É("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÉ É(
+""*¨
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÇ Ç(À½
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÇ Ç(
+%0java.awt.Container"2java.awt.Component#getParent()Ljava/awt/Container;*
+ij.text.TextPanel2getParent()Œ
+‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÇ Ç(
+compjava.awt.Component"__id*
+
+%0java.awt.Container*
+2
+1*¹
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaË Ë("i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaË Ë(
+
+compjava.awt.ComponentB
+ij.text.TextPanel

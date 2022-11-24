@@ -1,0 +1,53 @@
+
+Eij.WindowManager#makeUniqueName(Ljava/lang/String;)Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaý ý($"4*Ü
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ6 þ(:‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ6 þ(:
+%1java.lang.String"__id*
+
+namejava.lang.String*
+1*Ä
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ" þ(/‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ0 þ(4
+%1java.lang.String"__id*
+
+namejava.lang.StringÝ
+Ú
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ" þ(5
+%2java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+namejava.lang.String…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ" þ(5
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ þ(Å
+Â
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ þ(!
+%0boolean"5ij.WindowManager#isDuplicateName(Ljava/lang/String;)Z*"
+ij.WindowManager*
+
+namejava.lang.String*
+2
+3*³
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ þ(;"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaþ þ(;
+
+%1java.lang.String:
+namejava.lang.StringB"
+ij.WindowManager

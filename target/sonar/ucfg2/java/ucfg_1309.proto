@@ -1,0 +1,23 @@
+
+-ij.process.ColorSpaceConverter#LABtoRGB([D)[IT
+J/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorSpaceConverter.javas s("1*ê
+1T
+J/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorSpaceConverter.javat
+ t(ÒÏ
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorSpaceConverter.javat t( 
+%0double[]"-ij.process.ColorSpaceConverter#LABtoXYZ([D)[D*" 
+ij.process.ColorSpaceConverter*
+""2LABtoXYZ([D)ÙÖ
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorSpaceConverter.javat
+ t(!
+%1int[]"-ij.process.ColorSpaceConverter#XYZtoRGB([D)[I*" 
+ij.process.ColorSpaceConverter*
+
+%0double[]2XYZtoRGB([D)"^
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorSpaceConverter.javat t("
+"":
+""B" 
+ij.process.ColorSpaceConverter

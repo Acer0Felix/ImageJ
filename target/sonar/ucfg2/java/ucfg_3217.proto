@@ -1,0 +1,49 @@
+
+)ij.macro.Functions#getScreenDimension(I)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaß ß("3*¥
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã
+ ã("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã ã(
+""*¸
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()Ÿ
+œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá á('
+%2java.awt.Dimension")ij.IJ#getScreenSize()Ljava/awt/Dimension;*	"
+ij.IJ
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá á((
+screenjava.awt.Dimension"__id*
+
+%2java.awt.Dimensiong
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaâ â(	
+%3int"__id*
+""*
+2
+1*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaå
+ å("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaå å(
+"":
+""B
+ij.macro.Functions

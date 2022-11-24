@@ -1,0 +1,2037 @@
+
+<ij.plugin.filter.ImageProperties#showDialog(Lij/ImagePlus;)VV
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java$ $("145*ç
+69X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö, ö(2≠
+™
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö: ö(>
+%139java.lang.String"__id*.*,"
+ ij.plugin.filter.ImageProperties"
+SAMEÚÔ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö, ö(?
+%140boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+zunit2java.lang.String*
+
+%139java.lang.String2equals(Ljava/lang/Object;)*
+66
+67*˛
+70X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö ö(ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö! ö(&
+%53java.lang.String"__id*
+
+zunitjava.lang.StringÛ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaö ö('
+%138boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+zunit2java.lang.String*
+
+zunitjava.lang.String2equals(Ljava/lang/Object;)*
+69
+66
+67*Â
+71X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaô ô(˛˚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaô ô(
+%137void"4ij.measure.Calibration#setYUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+yunit2java.lang.String2setYUnit(Ljava/lang/String;)*
+70*ç
+73X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó, ó(2≠
+™
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó: ó(>
+%135java.lang.String"__id*.*,"
+ ij.plugin.filter.ImageProperties"
+SAMEÚÔ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó, ó(?
+%136boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+yunit2java.lang.String*
+
+%135java.lang.String2equals(Ljava/lang/Object;)*
+70
+71*˛
+74X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó ó(ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó! ó(&
+%47java.lang.String"__id*
+
+yunitjava.lang.StringÛ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaó ó('
+%134boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+yunit2java.lang.String*
+
+yunitjava.lang.String2equals(Ljava/lang/Object;)*
+70
+71
+73*Â
+75X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javañ ñ(˛˚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javañ ñ(
+%133void"4ij.measure.Calibration#setXUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+xunit2java.lang.String2setXUnit(Ljava/lang/String;)*
+74*ﬁ
+76X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaî î(Û
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaî î('
+%132boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+xunit2java.lang.String*
+
+xunitjava.lang.String2equals(Ljava/lang/Object;)*
+74
+75*·
+77X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaí í(˙˜
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaí í(
+%131void"3ij.measure.Calibration#setUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+unitjava.lang.String2setUnit(Ljava/lang/String;)*
+65*∫
+78X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(ËÂ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(
+%129void"4ij.measure.Calibration#setYUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+""2setYUnit(Ljava/lang/String;)ËÂ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaê ê(
+%130void"4ij.measure.Calibration#setZUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+""2setZUnit(Ljava/lang/String;)*
+77*µ
+79X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé é(◊‘
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé é(!
+%127java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()Ì
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé é("
+%128boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+
+%127java.lang.String2equals(Ljava/lang/Object;)*
+77
+78*ë
+100V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javai i(≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javai i(
+%94java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields÷”
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javai i($
+%95java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%94java.util.Vector*
+""2elementAt(I)°û
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javai i(;
+%96void"Fjava.awt.TextComponent#addTextListener(Ljava/awt/event/TextListener;)V*
+
+%95java.lang.Object*$"
+ ij.plugin.filter.ImageProperties2.addTextListener(Ljava/awt/event/TextListener;)*
+101*ø
+101V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javah h(≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javah h(
+%92java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields§°
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javah h(!
+
+%93int"java.util.Vector#size()I*
+
+%92java.util.Vector2size()*	
+98
+100*¢
+102V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javae! e((≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javae! e((
+%86java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields‘—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javae! e(5
+%87java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%86java.util.Vector*22elementAt(I)µ
+≤
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javae e(57"
+ ij.plugin.filter.ImageProperties"
+pixelWidthField"__id*
+
+%87java.lang.Object≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaf" f()
+%88java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields‘—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaf" f(6
+%89java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%88java.util.Vector*22elementAt(I)∂
+≥
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaf f(68"
+ ij.plugin.filter.ImageProperties"
+pixelHeightField"__id*
+
+%89java.lang.Object≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javag! g((
+%90java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields‘—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javag! g(5
+%91java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%90java.util.Vector*22elementAt(I)µ
+≤
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javag g(57"
+ ij.plugin.filter.ImageProperties"
+pixelDepthField"__id*
+
+%91java.lang.Object*
+101*é
+103V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java_ _(ü
+ú
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java_( _(.
+%76java.lang.String"__concat*
+
+xojava.lang.String*
+,≥
+∞
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java_( _(1
+%77java.lang.String"__concat*
+
+%76java.lang.String*
+
+yojava.lang.String≥
+∞
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java_( _(4
+%78java.lang.String"__concat*
+
+%77java.lang.String*
+
+zojava.lang.Stringπ∂
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java_ _(5
+%79void"Jij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Origin (pixels):*
+
+%78java.lang.String24addStringField(Ljava/lang/String;Ljava/lang/String;)Ã…
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java` `(
+%80void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2*2 2setInsets(III)¿Ω
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaa) a(9
+%81boolean"$ij.measure.Calibration#getInvertY()Z*
+
+calij.measure.Calibration2getInvertY()åâ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaa a(:
+%82void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Invert Y coordinates*
+
+%81boolean2 addCheckbox(Ljava/lang/String;Z)ÙÒ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javab b(#
+%83void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+
+Global*
+""2 addCheckbox(Ljava/lang/String;Z)·ﬁ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javac c(!
+%84java.util.Vector"9ij.gui.GenericDialog#getNumericFields()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getNumericFields()≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javac c(!/"
+ ij.plugin.filter.ImageProperties"	
+nfields"__id*
+
+%84java.util.Vector≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javad d(
+%85java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+nfields*	
+102
+98*¥
+104V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\ \(Qî
+ë
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\ \(Q
+zojava.lang.String"__id*
+
+%72java.lang.Stringü
+ú
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java] ](
+%75java.lang.String"__concat*
+,*
+
+zojava.lang.Stringî
+ë
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java] ](
+zojava.lang.String"__id*
+
+%75java.lang.String*
+103*≠
+105V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\< \(>Æ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\< \(Q
+%74java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\< \(Q
+%72java.lang.String"__id*
+
+%74java.lang.String*
+104*´
+106V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\& \((¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\& \(;
+%73java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2 ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java\& \(;
+%72java.lang.String"__id*
+
+%73java.lang.String*
+104*∑
+80X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö(√¿
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö()
+%121double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ Ü(%
+%122java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()õ
+ò
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ Ü(&
+xunit2java.lang.String"__id*
+
+%122java.lang.String√¿
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(*
+%123double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaà à(%
+%124java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()õ
+ò
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaà à(&
+yunit2java.lang.String"__id*
+
+%124java.lang.String√¿
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â()
+%125double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaä ä(%
+%126java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()õ
+ò
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaä ä(&
+zunit2java.lang.String"__id*
+
+%126java.lang.String*
+79
+76*Æ
+108V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaY Y(Xî
+ë
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaY Y(X
+yojava.lang.String"__id*
+
+%68java.lang.String|
+z
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaZ Z(
+zojava.lang.String"__id* ®•
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java[ [(
+
+%71int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()*
+103
+105
+106*·
+81X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(
+%120java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ Ñ(
+unitjava.lang.String"__id*
+
+%120java.lang.String*
+80*≠
+109V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaYB Y(DÆ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaYB Y(W
+%70java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaYB Y(W
+%68java.lang.String"__id*
+
+%70java.lang.String*
+108*Î
+82X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ Ç(Ä
+~
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ Ç(
+unitjava.lang.String"__id* *
+80
+81*≤
+83X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(?
+%111java.lang.String"__concat*
+The product of channels (*
+""Æ
+´
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(M
+%112java.lang.String"__concat*
+
+%111java.lang.String*
+), slices (•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(T
+%113java.lang.String"__concat*
+
+%112java.lang.String*
+""≥
+∞
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(
+%114java.lang.String"__concat*
+
+%113java.lang.String*
+)\n and frames (•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(
+%115java.lang.String"__concat*
+
+%114java.lang.String*
+""¿
+Ω
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(?
+%116java.lang.String"__concat*
+
+%115java.lang.String*!
+) must equal the stack size (•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(I
+%117java.lang.String"__concat*
+
+%116java.lang.String*
+""•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(N
+%118java.lang.String"__concat*
+
+%117java.lang.String*
+).÷
+”
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Å(O
+%119void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+Properties*
+
+%118java.lang.String*
+82*≥
+84V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java~ ~(ŒÀ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java~ ~(/
+%110void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)*
+82*™
+87V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java{ {(¡æ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java{ {(#
+%109double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+83
+84*¶
+89V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javay y(¡æ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javay y(#
+%108double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+87*´
+110V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaY, Y(.¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaY, Y(A
+%69java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2 ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaY, Y(A
+%68java.lang.String"__id*
+
+%69java.lang.String*
+108*Ä
+111V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaX X(Xî
+ë
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaX X(X
+xojava.lang.String"__id*
+
+%65java.lang.String*
+
+109
+110*≠
+112V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaXB X(DÆ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaXB X(W
+%67java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaXB X(W
+%65java.lang.String"__id*
+
+%67java.lang.String*
+111*´
+113V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaX, X(.¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaX, X(A
+%66java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2 ï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaX, X(A
+%65java.lang.String"__id*
+
+%66java.lang.String*
+111*æ
+
+114V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV V(D∂
+≥
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV V(D
+%60java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+
+
+%57int†
+ù
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV V(J
+%61java.lang.String"__concat*
+
+%60java.lang.String*
+ ‹Ÿ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaVM V(^
+%62java.lang.String"6ij.measure.Calibration#getTimeUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getTimeUnit()¥
+±
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV V(^
+%63java.lang.String"__concat*
+
+%61java.lang.String*
+
+%62java.lang.Stringù
+ö
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV V(_
+intervalStrjava.lang.String"__id*
+
+%63java.lang.String¿Ω
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaW W(3
+%64void"Jij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Frame interval:*!
+
+intervalStrjava.lang.String24addStringField(Ljava/lang/String;Ljava/lang/String;)*
+
+112
+113*‡
+115V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaVB V(Cz
+x
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaVB V(C
+
+%57int"__id*
+
+
+%59int*
+114*‡
+116V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV@ V(Az
+x
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaV@ V(A
+
+%57int"__id*
+
+
+%58int*
+114*Ì
+117V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS9 S(:≤Ø
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS S(;
+%55void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+_*
+
+%53java.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)Ã…
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaT T(
+%56void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2
+*2 *22setInsets(III)*
+
+115
+116*˛
+118V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS2 S(7ó
+î
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS2 S(7
+%53java.lang.String"__id*
+
+zunitjava.lang.String*
+117*¶
+91V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaw w(¡æ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaw w(%
+%107double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+89*©
+119V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS- S(1™
+ß
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS- S(1
+%54java.lang.String"__id*.*,"
+ ij.plugin.filter.ImageProperties"
+SAMEï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS- S(1
+%53java.lang.String"__id*
+
+%54java.lang.String*
+117*æ
+92V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javav v(
+"`
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javav v(
+
+""*Ï
+93V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javap p(’“
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javap p(
+%104java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()Æ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javap p(/"
+ ij.plugin.filter.ImageProperties"	
+calUnit"__id*
+
+%104java.lang.Stringπ∂
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javat t(
+%105void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()æª
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javau u(
+%106boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+91
+92*î
+95V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javan n( Æ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javan n( 
+%101java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+sfieldsÿ’
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javan n(-
+%102java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%101java.util.Vector*
+""2elementAt(I)£†
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javan n(D
+%103void"Fjava.awt.TextComponent#addTextListener(Ljava/awt/event/TextListener;)V*
+
+%102java.lang.Object*$"
+ ij.plugin.filter.ImageProperties2.addTextListener(Ljava/awt/event/TextListener;)*
+96*æ
+96V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javam m(≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javam m( 
+%99java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+sfields•¢
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javam m('
+%100int"java.util.Vector#size()I*
+
+%99java.util.Vector2size()*
+93
+95*®
+98V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javak k(ﬂ‹
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javak k(&
+%97java.util.Vector"8ij.gui.GenericDialog#getStringFields()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getStringFields()≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javak k(&/"
+ ij.plugin.filter.ImageProperties"	
+sfields"__id*
+
+%97java.util.Vector≠
+™
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javal l(
+%98java.util.Vector"__id*1*/"
+ ij.plugin.filter.ImageProperties"	
+sfields*
+93
+96*ƒ
+11X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java– –(≈
+¬
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java– –(B
+%203java.lang.String"__concat*$"
+ imp.getCalibration().setXUnit(\"*
+
+xunit2java.lang.Stringß
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java– –(I
+%204java.lang.String"__concat*
+
+%203java.lang.String*
+\");Ê
+„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java– –(P
+%205void"9ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;Z)V*"
+ij.plugin.frame.Recorder*
+
+%204java.lang.String*2*	
+7
+9
+0*≠
+13X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaŒ Œ(¥
+±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaŒ Œ(
+%202boolean"&ij.plugin.frame.Recorder#scriptMode()Z*"
+ij.plugin.frame.Recorder*
+3
+5
+7
+9
+11
+0
+1*û
+15X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÀ À(¥
+±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÀ À(*
+%201void"+ij.io.FileOpener#setShowConflictMessage(Z)V*"
+ij.io.FileOpener*2*
+13
+0*†
+18X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java… …(≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java… …(
+%200void"ij.ImagePlus#repaintWindow()V*
+
+impij.ImagePlus2repaintWindow()*
+13
+15
+0*ò
+19X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java« «(™
+ß
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java« «(&
+%199void"'ij.WindowManager#repaintImageWindows()V*"
+ij.WindowManager*
+13
+15
+0*î	
+120V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP9 P(:≤Ø
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP P(;
+%49void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+_*
+
+%47java.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)¬ø
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaQ Q(N
+%50void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Voxel_depth:*
+""*
+""*
+""*
+""28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ºπ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaR R(
+%51void"$ij.gui.GenericDialog#addToSameRow()V*
+
+gdij.gui.GenericDialog2addToSameRow()ÔÏ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaS S(,
+%52boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+zunitjava.lang.String*
+
+xunitjava.lang.String2equals(Ljava/lang/Object;)*
+
+118
+119*˛
+121V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP2 P(7ó
+î
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP2 P(7
+%47java.lang.String"__id*
+
+yunitjava.lang.String*
+120*v
+0 "o
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaﬂ ﬂ(
+implicit return*©
+122V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP- P(1™
+ß
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP- P(1
+%48java.lang.String"__id*.*,"
+ ij.plugin.filter.ImageProperties"
+SAMEï
+í
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP- P(1
+%47java.lang.String"__id*
+
+%48java.lang.String*
+120*Ë
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java€ €(É
+Ä
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java€ €(.
+%214void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+Stack.setZUnit*
+
+zunit2java.lang.String*
+0*õ
+123V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaJ J(¬ø
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaK K(N
+%41void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Pixel_width:*
+""*
+""*
+""*
+""28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ºπ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaL L(
+%42void"$ij.gui.GenericDialog#addToSameRow()V*
+
+gdij.gui.GenericDialog2addToSameRow()¥±
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaM M("
+%43void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+_*
+
+xunitjava.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)√¿
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaN N(P
+%44void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Pixel_height:*
+""*
+""*
+""*
+""28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ºπ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaO O(
+%45void"$ij.gui.GenericDialog#addToSameRow()V*
+
+gdij.gui.GenericDialog2addToSameRow()ÔÏ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaP P(,
+%46boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+yunitjava.lang.String*
+
+xunitjava.lang.String2equals(Ljava/lang/Object;)*
+
+121
+122*ˆ
+124V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaI I(‘—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaI( I(5
+%39java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()∏µ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaI I(6
+%40void"Jij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Unit of length:*
+
+%39java.lang.String24addStringField(Ljava/lang/String;Ljava/lang/String;)*
+123*Î
+3X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaŸ Ÿ(É
+Ä
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaŸ Ÿ(.
+%213void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+Stack.setYUnit*
+
+yunit2java.lang.String*
+0
+1*È
+125V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaA' A(*¬ø
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaA' A(5
+%28java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()éã
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaA A(&
+%29ij.gui.GenericDialog"ij.gui.GenericDialogŒ
+À
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaA A(6
+%30"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%29ij.gui.GenericDialog*
+
+%28java.lang.Stringú
+ô
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaA A(7
+gdij.gui.GenericDialog"__id*
+
+%29ij.gui.GenericDialogâÜ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaB B(2
+%31void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Channels (c):*
+""*2 2%addNumericField(Ljava/lang/String;DI)áÑ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaC C(.
+%32void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Slices (z):*
+""*2 2%addNumericField(Ljava/lang/String;DI)áÑ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaD D(.
+%33void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Frames (t):*
+""*2 2%addNumericField(Ljava/lang/String;DI) «
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaE E(
+%34void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2 *2*2 2setInsets(III)£
+†
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaF F(3
+%35java.lang.String"__concat*
+Note: c*z*t must equal *
+""
+}
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaF; F(I
+%36java.awt.Color"__id*
+""÷”
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaF F(J
+%37void"Sij.gui.GenericDialog#addMessage(Ljava/lang/String;Ljava/awt/Font;Ljava/awt/Color;)V*
+
+gdij.gui.GenericDialog*
+
+%35java.lang.String*
+""*
+
+%36java.awt.Color2=addMessage(Ljava/lang/String;Ljava/awt/Font;Ljava/awt/Color;) «
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaG G(
+%38void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2 *2 2setInsets(III)*
+
+123
+124*Ó
+126V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@? @(Dá
+Ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@7 @(D
+projectjava.lang.String"__id*
+Sum*
+125*Ó
+5X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java◊ ◊(É
+Ä
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java◊ ◊(.
+%212void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+Stack.setXUnit*
+
+xunit2java.lang.String*	
+3
+0
+1*…
+128V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@ @(&›⁄
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@ @(4
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+projectjava.lang.String*
+Max2equals(Ljava/lang/Object;)*
+
+125
+126*Ω
+7X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java‘ ‘(≈
+¬
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java‘ ‘(B
+%209java.lang.String"__concat*$"
+ imp.getCalibration().setZUnit(\"*
+
+zunit2java.lang.Stringß
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java‘ ‘(I
+%210java.lang.String"__concat*
+
+%209java.lang.String*
+\");Ê
+„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java‘ ‘(P
+%211void"9ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;Z)V*"
+ij.plugin.frame.Recorder*
+
+%210java.lang.String*2*
+0*Œ
+129V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@ @(›⁄
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java@ @(
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+projectjava.lang.String*
+Min2equals(Ljava/lang/Object;)*
+125
+126
+128*¿
+9X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java“ “(≈
+¬
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java“ “(B
+%206java.lang.String"__concat*$"
+ imp.getCalibration().setYUnit(\"*
+
+yunit2java.lang.Stringß
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java“ “(I
+%207java.lang.String"__concat*
+
+%206java.lang.String*
+\");Ê
+„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java“ “(P
+%208void"9ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;Z)V*"
+ij.plugin.frame.Recorder*
+
+%207java.lang.String*2*
+7
+0*˝
+21X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈ ≈(-íè
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈ ≈(-
+%198void"<ij.ImagePlus#setGlobalCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus* 
+
+%196ij.measure.Calibration2.setGlobalCalibration(Lij/measure/Calibration;)*
+18
+19*Ä
+22X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈( ≈(,ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈( ≈(,
+%196ij.measure.Calibration"__id*
+
+%197
+<nulltype>*
+21*ã
+23X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈$ ≈('§
+°
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≈$ ≈('
+%196ij.measure.Calibration"__id*
+
+calij.measure.Calibration*
+21*
+25X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaƒ ƒ(ÖÇ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaƒ ƒ(
+%195void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus*
+
+calij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+22
+23*È
+26X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø ø($∆√
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¡ ¡(%
+%191boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¡ ¡(&
+%192void"%ij.measure.Calibration#setInvertY(Z)V*
+
+calij.measure.Calibration*
+
+%191boolean2setInvertY(Z)∆√
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¬ ¬( 
+%193boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()êç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java√ √(
+%194boolean"8ij.measure.Calibration#equals(Lij/measure/Calibration;)Z*
+
+calij.measure.Calibration*#
+!
+calOrigij.measure.Calibration2 equals(Lij/measure/Calibration;)*
+25
+22
+23*Ï
+27X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø# ø($Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø# ø($
+%188double"__id*
+
+%190double*
+26*Ï
+28X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø ø("Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø ø("
+%188double"__id*
+
+%189double*
+26*ì
+29X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ æ(,®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaø ø(
+%187boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+27
+28*Ó
+130V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java?@ ?(Eá
+Ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java?8 ?(E
+projectjava.lang.String"__id*
+Max*
+129*Ÿ
+131V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java? ?(&ÌÍ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java? ?(6
+%25boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+projectjava.lang.String*
+max2"contains(Ljava/lang/CharSequence;)*
+
+129
+130*Ÿ
+132V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java? ?(ÌÍ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java? ?(
+%24boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+projectjava.lang.String*
+Max2"contains(Ljava/lang/CharSequence;)*
+
+130
+131*Ó
+133V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java>@ >(Eá
+Ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java>8 >(E
+projectjava.lang.String"__id*
+Min*
+132*Ÿ
+134V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java> >(&ÌÍ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java> >(6
+%23boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+projectjava.lang.String*
+min2"contains(Ljava/lang/CharSequence;)*
+
+132
+133*Ÿ
+135V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java> >(ÌÍ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java> >(
+%22boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+projectjava.lang.String*
+Min2"contains(Ljava/lang/CharSequence;)*
+
+134
+133*Ë
+136V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java= =(Å
+
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java= =(
+projectjava.lang.String"__id* *
+135*ﬁ
+137V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java8 8(O÷”
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java9 9(
+%18java.lang.String"3ij.measure.Calibration#getXUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getXUnit()ó
+î
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java9 9( 
+xunitjava.lang.String"__id*
+
+%18java.lang.String÷”
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java: :(
+%19java.lang.String"3ij.measure.Calibration#getYUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getYUnit()ó
+î
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java: :( 
+yunitjava.lang.String"__id*
+
+%19java.lang.String÷”
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java; ;(
+%20java.lang.String"3ij.measure.Calibration#getZUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getZUnit()ó
+î
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java; ;( 
+zunitjava.lang.String"__id*
+
+%20java.lang.String˝˙
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java< <(5
+%21java.lang.String":ij.ImagePlus#getProp(Ljava/lang/String;)Ljava/lang/String;*
+
+impij.ImagePlus*
+CompositeProjection2getProp(Ljava/lang/String;)ô
+ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java< <(6
+projectjava.lang.String"__id*
+
+%21java.lang.String*
+
+135
+136*‡
+138V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java8M 8(Nz
+x
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java8M 8(N
+
+%15int"__id*
+
+
+%17int*
+137*‡
+139V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java8K 8(Lz
+x
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java8K 8(L
+
+%15int"__id*
+
+
+%16int*
+137*Ï
+30X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ+ æ(,Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ+ æ(,
+%184double"__id*
+
+%186double*
+29*Ï
+31X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ æ("Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ æ(*
+%184double"__id*
+
+%185double*
+29*ì
+32X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ Ω($®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaæ æ(
+%183boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+30
+31*Ï
+33X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ# Ω($Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ# Ω($
+%180double"__id*
+
+%182double*
+32*Ï
+34X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ Ω("Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ Ω("
+%180double"__id*
+
+%181double*
+32*ì
+35X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº º(F®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaΩ Ω(
+%179boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+33
+34*Ë
+36X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº; º(Az
+x
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº; º(E
+%177double"__id*
+""Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº; º(E
+%175double"__id*
+
+%177double*
+35*Á
+37X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº º(#©
+¶
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº0 º(9
+%178java.lang.String"
+__arrayGet*
+
+originjava.lang.String[]*2Ã
+…
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº º(:
+%176double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%178java.lang.StringÖ
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaº º(:
+%175double"__id*
+
+%176double*
+35*Ï
+39X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª; ª(Az
+x
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª; ª(E
+%173double"__id*
+""Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª; ª(E
+%171double"__id*
+
+%173double*
+36
+37*£
+142V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java. .(Ÿ÷
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java. .((
+%5ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()†
+ù
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java. .()
+calij.measure.Calibration"__id*
+
+%5ij.measure.CalibrationŸ÷
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java/ /("
+%6ij.measure.Calibration"5ij.measure.Calibration#copy()Lij/measure/Calibration;*
+
+calij.measure.Calibration2copy()§
+°
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java/ /(#!
+calOrigij.measure.Calibration"__id*
+
+%6ij.measure.Calibration”–
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java0 0(+
+%7java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()Í
+Á
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java0 0(,	
+%8int"Bij.plugin.filter.ImageProperties#getUnitIndex(Ljava/lang/String;)I*$""
+ ij.plugin.filter.ImageProperties*
+
+%7java.lang.StringÀ
+»
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java1 1(-
+%9double"2ij.plugin.filter.ImageProperties#getUnitsPerCm(I)D*$""
+ ij.plugin.filter.ImageProperties*
+""∂≥
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java2 2()
+
+%10int"!ij.ImagePlus#getImageStackSize()I*
+
+impij.ImagePlus2getImageStackSize()¨©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java3 3(#
+
+%11int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()®•
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java4 4(
+
+%12int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()®•
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java5 5(
+
+%13int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()Ê„
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java6 6(.
+%14ij.measure.Calibration";ij.ImagePlus#getGlobalCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getGlobalCalibration()*
+
+138
+139*¿
+144V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java( ((¥±
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java( ((>
+%1java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*	
+ depth=*
+
+ slices=20replaceAll(Ljava/lang/String;Ljava/lang/String;)ô
+ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java( ((?
+options2java.lang.String"__id*
+
+%1java.lang.String∑¥
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java) )(:
+%2java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+options2java.lang.String*
+
+ interval=*	
+ frame=20replaceAll(Ljava/lang/String;Ljava/lang/String;)ô
+ñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java) )(:
+options2java.lang.String"__id*
+
+%2java.lang.Stringø
+º
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java* *(
+
+%3void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*
+
+options2java.lang.StringÓÎ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java+ +( 
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+optionsjava.lang.String*	
+unit=2"contains(Ljava/lang/CharSequence;)*
+142*±
+145V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java% %(™
+ß
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java% %(%
+%0java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macroò
+ï
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java% %(&
+optionsjava.lang.String"__id*
+
+%0java.lang.String*
+
+142
+144*Î
+40X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª ª(#©
+¶
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª0 ª(9
+%174java.lang.String"
+__arrayGet*
+
+originjava.lang.String[]*2Ã
+…
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª ª(:
+%172double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%174java.lang.StringÖ
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaª ª(:
+%171double"__id*
+
+%172double*
+36
+37*Ï
+42X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫; ∫(Az
+x
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫; ∫(E
+%169double"__id*
+""Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫; ∫(E
+%167double"__id*
+
+%169double*
+39
+40*È
+43X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫ ∫(#ß
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫0 ∫(9
+%170java.lang.String"
+__arrayGet*
+
+originjava.lang.String[]*2 Ã
+…
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫ ∫(:
+%168double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%170java.lang.StringÖ
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∫ ∫(:
+%167double"__id*
+
+%168double*
+39
+40*î	
+44X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∑ ∑(F”–
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∑ ∑(F
+%163void"*ij.gui.GenericDialog#setSmartRecording(Z)V*
+
+gdij.gui.GenericDialog*
+""2setSmartRecording(Z)ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∏& ∏(8
+%164java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()˛
+˚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∏ ∏(?
+%165java.lang.String[]"Lij.util.Tools#split(Ljava/lang/String;Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.Tools*
+
+%164java.lang.String*
+ ,ü
+ú
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∏ ∏(@
+originjava.lang.String[]"__id*
+
+%165java.lang.String[]œÃ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaπ π(
+%166void"*ij.gui.GenericDialog#setSmartRecording(Z)V*
+
+gdij.gui.GenericDialog*2 2setSmartRecording(Z)*
+42
+43*Ì
+48X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaµ µ(ÜÉ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaµ µ(
+%162void"7ij.measure.Calibration#setTimeUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+timeUnitjava.lang.String2setTimeUnit(Ljava/lang/String;)*
+44*õ
+49X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¥ ¥(x
+v
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¥ ¥(
+%160char"__id*
+""ö
+ó
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¥ ¥(%
+%161java.lang.String"__concat*
+
+%160char*
+secù
+ö
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¥ ¥(%
+timeUnitjava.lang.String"__id*
+
+%161java.lang.String*
+48*Õ
+50X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≥ ≥(‚ﬂ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≥ ≥(
+%159boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+timeUnitjava.lang.String*
+usec2equals(Ljava/lang/Object;)*
+48
+49*Ë
+54X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞ ∞(=ù
+ö
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞ ∞(=
+timeUnitjava.lang.String"__id*
+
+%155java.lang.String·ﬁ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java± ±(
+%158boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+timeUnitjava.lang.String*
+sec2equals(Ljava/lang/Object;)*
+50*Ä
+55X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞7 ∞(<ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞7 ∞(<
+%155java.lang.String"__id*
+
+%157java.lang.String*
+54*∞
+56X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞) ∞(3≠
+™
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞) ∞(6
+%156java.lang.String"
+__arrayGet*"
+ 
+
+intAndUnitjava.lang.String[]*2ô
+ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java∞) ∞(6
+%155java.lang.String"__id*
+
+%156java.lang.String*
+54*
+58X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaØ1 Ø(9Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaØ1 Ø(9
+%152double"__id*
+
+%154double*
+55
+56*
+59X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaØ- Ø(0Ö
+Ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaØ- Ø(0
+%152double"__id*
+
+%153double*
+55
+56*◊
+60X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java´ ´(”–
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java´ ´(#
+%145void"*ij.gui.GenericDialog#setSmartRecording(Z)V*
+
+gdij.gui.GenericDialog*
+""2setSmartRecording(Z)ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¨* ¨(<
+%146java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()∏µ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¨ ¨(=
+%147java.lang.String"Wij.plugin.filter.ImageProperties#validateInterval(Ljava/lang/String;)Ljava/lang/String;*$"
+ ij.plugin.filter.ImageProperties*
+
+%146java.lang.String2$validateInterval(Ljava/lang/String;)¢
+ü
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java¨ ¨(>!
+frameIntervaljava.lang.String"__id*
+
+%147java.lang.Stringá
+Ñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≠ ≠(8
+%148java.lang.String[]"Lij.util.Tools#split(Ljava/lang/String;Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.Tools*#
+!
+frameIntervaljava.lang.String*
+ -£
+†
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java≠ ≠(9 
+
+intAndUnitjava.lang.String[]"__id*
+
+%148java.lang.String[]´
+®
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÆ Æ(,
+%149java.lang.String"
+__arrayGet*"
+ 
+
+intAndUnitjava.lang.String[]*2 Ã
+…
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÆ Æ(-
+%150double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%149java.lang.String®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaØ Ø(,
+%151boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+58
+59*Õ
+62X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java° °(Ê„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.java° °(
+%144void"3ij.measure.Calibration#setUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+""2setUnit(Ljava/lang/String;)*
+60*›
+64X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaü ü(ÚÔ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaü ü(6
+%143boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+none2$equalsIgnoreCase(Ljava/lang/String;)*
+60
+62*√
+65X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaü ü(
+ÿ’
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaü ü(
+%142boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String* 2equals(Ljava/lang/Object;)*
+62
+64*Ç
+66X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaù
+ ù(õ
+ò
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaù ù(
+unitjava.lang.String"__id*
+
+xunit2java.lang.String*
+65*Â
+67X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaú ú(˛˚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaú ú(
+%141void"4ij.measure.Calibration#setZUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+zunit2java.lang.String2setZUnit(Ljava/lang/String;)*
+66:
+impij.ImagePlusB$"
+ ij.plugin.filter.ImageProperties

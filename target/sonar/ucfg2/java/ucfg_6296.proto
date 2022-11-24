@@ -1,0 +1,24 @@
+
+(ij.plugin.filter.SaltAndPepper#rand(II)IT
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/SaltAndPepper.java ("1*‘
+1T
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/SaltAndPepper.java	 (¢
+Ÿ
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/SaltAndPepper.java (
+%0java.util.Random"__id*)*' 
+ij.plugin.filter.SaltAndPepper"
+r°­
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/SaltAndPepper.java (!	
+%1int"java.util.Random#nextInt(I)I*
+
+%0java.util.Random*
+""2
+nextInt(I)"^
+T
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/SaltAndPepper.java ("
+"":
+"":
+""B" 
+ij.plugin.filter.SaltAndPepper

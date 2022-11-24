@@ -1,0 +1,52 @@
+
+=ij.gui.ShapeRoi#qplength(Ljava/awt/geom/QuadCurve2D$Double;)DG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÄ Ä("1*Á
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÅ
+ Å(Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÅ Å(%
+%0double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÅ( Å(9
+%1double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""è
+å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÅ
+ Å(:
+%2double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÇ Ç(
+%3double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÇ" Ç(3
+%4double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""è
+å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÇ Ç(4
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÅ Ç(5
+"":%
+c java.awt.geom.QuadCurve2D$DoubleB
+ij.gui.ShapeRoi

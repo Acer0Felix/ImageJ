@@ -1,0 +1,39 @@
+
+.ij.VirtualStack#getPixels(I)Ljava/lang/Object;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÄ Ä("3*Å
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÉ
+ É(Õ 
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÉ
+ É(
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()"c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÉ É(
+
+%1java.lang.Object*«
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÅ Å("◊‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÅ Å(%
+%0ij.process.ImageProcessor":ij.VirtualStack#getProcessor(I)Lij/process/ImageProcessor;*
+ij.VirtualStack*
+""2getProcessor(I)ñ
+ì
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÅ Å(&
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+1*ü
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ
+ Ö("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ Ö(
+"":
+""B
+ij.VirtualStack

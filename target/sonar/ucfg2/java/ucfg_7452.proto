@@ -1,0 +1,113 @@
+
+9ij.gui.ImageWindow#getMaximumBounds()Ljava/awt/Rectangle;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý ý(""10*´
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java‰ ‰($ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java‰ ‰(&
+%6java.awt.Dimension"5ij.gui.ImageWindow#getExtraSize()Ljava/awt/Dimension;*
+ij.gui.ImageWindow2getExtraSize()’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java‰ ‰('
+	extraSizejava.awt.Dimension"__id*
+
+%6java.awt.Dimension*
+1*È
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java (Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java (
+%2ij.ImagePlus"__id**
+ij.gui.ImageWindow"
+imp–“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java (	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java‚ ‚(
+%4ij.ImagePlus"__id**
+ij.gui.ImageWindow"
+imp˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java‚ ‚(!	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()£
+ 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java„ „()
+ij.gui.ImageWindow"
+maxWindowBounds"__id*!
+
+	maxWindowjava.awt.Rectangle*
+6*À
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java€
+ €("o
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java€ €(!
+
+	maxWindowjava.awt.Rectangle*×
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaþ þ(Ú
+×
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaþ þ(4
+%0java.awt.Rectangle"Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+ij.gui.ImageWindow’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaþ þ(5
+	maxWindowjava.awt.Rectangle"__id*
+
+%0java.awt.RectangleŠ
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaÿ ÿ(	
+%1ij.ImagePlus"__id**
+ij.gui.ImageWindow"
+imp*
+8
+9*¢
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaš š(—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaš š(=	
+%7int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.java› ›(/	
+%8int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""|z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaœ œ(
+%9java.awt.Rectangle"java.awt.Rectangle´
+±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaœ	 œ(:
+%10" java.awt.Rectangle#<init>(IIII)V*
+
+%9java.awt.Rectangle*
+""*
+""*
+""*
+"""h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaœ œ(;
+
+%9java.awt.RectangleB
+ij.gui.ImageWindow

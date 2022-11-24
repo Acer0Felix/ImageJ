@@ -1,0 +1,106 @@
+
+xij.plugin.filter.LineGraphAnalyzer#extrapolated(Lij/util/FloatArray;ILij/plugin/filter/LineGraphAnalyzer$Extrapolator;)FZ
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaœ œ("14*›
+14Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java– –(ÒÓ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java– –(
+
+%0void"8ij.plugin.filter.LineGraphAnalyzer$Extrapolator#clear()V*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator2clear()*
+1
+12*Ï
+3Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaŸ Ÿ(Å˛
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaŸ Ÿ(
+
+%8void"8ij.plugin.filter.LineGraphAnalyzer$Extrapolator#add(DD)V*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator*
+""*
+""2add(DD)*
+1
+12*ñ
+4Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaÿ ÿ(®
+•
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaÿ ÿ(
+%7boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+
+3
+1
+12*‡
+6Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java÷ ÷(	w
+u
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java÷ ÷(	
+%6int"__id*
+""*
+4
+1*¿
+7Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(y
+w
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(
+%5float"__id*
+"""d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(
+""*‡
+9Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘ ‘(w
+u
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘! ‘(0	
+%4int"__id*
+""*
+6
+7*À
+10Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java” ”(µ≤
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java” ”(
+%2float"ij.util.FloatArray#get(I)F*
+
+arrij.util.FloatArray*
+""2get(I)®
+•
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘ ‘(
+%3boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+6
+9*õ
+12Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java“ “(	´®
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java“ “(	
+%1int"ij.util.FloatArray#size()I*
+
+arrij.util.FloatArray2size()*
+10
+1
+12*—
+1Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(âÜ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(+
+%9double"?ij.plugin.filter.LineGraphAnalyzer$Extrapolator#extrapolate(D)D*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator*
+""2extrapolate(D)"d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(,
+"":
+arrij.util.FloatArray:
+"":?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$ExtrapolatorB&$
+"ij.plugin.filter.LineGraphAnalyzer

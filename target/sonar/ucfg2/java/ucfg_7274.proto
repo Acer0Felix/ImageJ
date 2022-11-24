@@ -1,0 +1,30 @@
+
+ij.io.TiffDecoder#readLong()JG
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javav v("2"1*Ï
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javax x(•’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javax x(	
+%0int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()•’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javax6 x(>	
+%1int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javax	 x(D
+""*Ï
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaz z(•’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaz z(	
+%2int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()•’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaz( z(0	
+%3int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaz z(>
+""B
+ij.io.TiffDecoder

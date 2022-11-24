@@ -1,0 +1,65 @@
+
+[ij.process.ColorProcessor#getChannel(ILij/process/ByteProcessor;)Lij/process/ByteProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaü ü( "8"10*ø
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java£ £(’“
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java£ £()
+%4java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;* 
+
+bpij.process.ByteProcessor2getPixels()â
+Ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java£ £(*
+bPixelsbyte[]"__id*
+
+%4java.lang.Object*
+1*∆
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java¢ ¢(êç
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java¢ ¢(
+%2ij.process.ByteProcessor"ij.process.ByteProcessor¥
+±
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java¢ ¢((
+%3"$ij.process.ByteProcessor#<init>(II)V* 
+
+%2ij.process.ByteProcessor*
+""*
+""û
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java¢ ¢((
+bpij.process.ByteProcessor"__id* 
+
+%2ij.process.ByteProcessor*
+7*ô
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java°, °(.∏µ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java°, °(:	
+%1int"&ij.process.ImageProcessor#getHeight()I* 
+
+bpij.process.ByteProcessor2getHeight()*
+7
+8*ò
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java° °(∂≥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java° °(!	
+%0int"%ij.process.ImageProcessor#getWidth()I* 
+
+bpij.process.ByteProcessor2
+getWidth()*
+8
+9*Õ
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java®	 ®("u
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java® ®( 
+
+bpij.process.ByteProcessor:
+"":
+bpij.process.ByteProcessorB
+ij.process.ColorProcessor

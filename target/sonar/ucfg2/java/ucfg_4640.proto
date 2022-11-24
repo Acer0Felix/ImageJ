@@ -1,0 +1,60 @@
+
+>ij.measure.ResultsTable#getDefaultHeading(I)Ljava/lang/String;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÜ
+ Ü
+('"3"1*Ý
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÞ
+
+ Þ
+({
+y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÞ
+
+ Þ
+(
+%1java.lang.String[]"__id*
+""œ
+™
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÞ
+
+ Þ
+( 
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+"""k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÞ
+ Þ
+(!
+
+%2java.lang.String*Ù
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÝ
+ Ý
+({
+y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÝ
+ Ý
+('
+%0java.lang.String[]"__id*
+""*
+2
+1*±
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaà
+
+ à
+("[
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaà
+ à
+(
+null:
+""B"
+ij.measure.ResultsTable

@@ -1,0 +1,50 @@
+
+)ij.measure.CurveFitter#userFunction([DD)DN
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¨ ¨(!"2"6"1*è
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java∏ ∏(√
+¿
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java∏ ∏(,
+
+%2void"8ij.measure.CurveFitter#minimizerParamsToFullParams([DZ)V*
+ij.measure.CurveFitter*
+""*2≠
+™
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaπ π(
+
+%3void"(ij.measure.CurveFitter#doRegression([D)V*
+ij.measure.CurveFitter*
+""æ
+ª
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java∫ ∫(8
+%4double"7ij.measure.CurveFitter#fullParamsToMinimizerParams([D)D*
+ij.measure.CurveFitter*
+""*
+1*ª
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java∞ ∞(µ≤
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java∞ ∞(&
+%0double"ij.measure.CurveFitter#f([DD)D*
+ij.measure.CurveFitter*
+""*
+""2f([DD)•
+¢
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java± ±((
+%1double"ij.measure.CurveFitter#sqr(D)D*
+ij.measure.CurveFitter*
+""*
+6
+1*≠
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaº	 º("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaº º(
+"":
+"":
+""B
+ij.measure.CurveFitter

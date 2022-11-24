@@ -1,0 +1,44 @@
+
+Fij.LookUpTable#createGrayscaleColorModel(Z)Ljava/awt/image/ColorModel;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.javas s(3"10*‡
+10D
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.javat t(f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.javat t(
+rLUTbyte[]"__id*
+""f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.javau u(
+gLUTbyte[]"__id*
+""f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.javav v(
+bLUTbyte[]"__id*
+""*
+1*Â
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.java„ „(‘Ž
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.java„ „($
+%0java.awt.image.IndexColorModel"java.awt.image.IndexColorModelî
+ë
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.java„	 „(6
+%1"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%0java.awt.image.IndexColorModel*2*2€*
+
+rLUTbyte[]*
+
+gLUTbyte[]*
+
+bLUTbyte[]"p
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/LookUpTable.java„ „(8&
+$
+%0java.awt.image.IndexColorModel:
+""B"
+ij.LookUpTable

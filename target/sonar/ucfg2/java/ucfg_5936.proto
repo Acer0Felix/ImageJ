@@ -1,0 +1,44 @@
+
+Wij.plugin.Macro_Runner#runMacro(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.javaŸ Ÿ("18*À
+16N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java¢ ¢(!"j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java¢ ¢(!
+
+%2java.lang.String*Ÿ
+17N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java¢
+ ¢(Â¿
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java¢
+ ¢( 
+%2java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+macrojava.lang.String*
+
+argjava.lang.String2)run(Ljava/lang/String;Ljava/lang/String;)*
+16*–
+18N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java   ((…‚
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java   (&
+%0ij.macro.Interpreter"ij.macro.Interpreter—
+”
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java   ((
+%1"ij.macro.Interpreter#<init>()V*
+
+%0ij.macro.Interpreter—
+”
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Macro_Runner.java   ()
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*
+17:
+macrojava.lang.String:
+argjava.lang.StringB
+ij.plugin.Macro_Runner

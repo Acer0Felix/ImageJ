@@ -1,0 +1,134 @@
+
+Dij.util.DicomTools#getSliceLabel(Lij/ImageStack;I)Ljava/lang/String;H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaR R($"6*œ
+2H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaZ Z(“
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaZ Z(
+%9java.lang.String"__concat*
+
+namejava.lang.String*
+\n¦
+£
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaZ Z(
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+
+infojava.lang.Stringˆ
+…
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaZ Z(
+infojava.lang.String"__id*
+
+%10java.lang.String*
+1*°
+3H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaU U($Á¾
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaU U(4
+%3java.lang.String"0ij.VirtualStack#getDirectory()Ljava/lang/String;*
+
+stackij.ImageStack2getDirectory()†
+ƒ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaU U(5
+dirjava.lang.String"__id*
+
+%3java.lang.StringÉÆ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaV V(5
+%4java.lang.String"0ij.VirtualStack#getFileName(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getFileName(I)‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaV V(6
+namejava.lang.String"__id*
+
+%4java.lang.Stringtr
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaW W(
+%5ij.plugin.DICOM"ij.plugin.DICOM‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaW W(
+%6"ij.plugin.DICOM#<init>()V*
+
+%5ij.plugin.DICOM‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaW W(
+readerij.plugin.DICOM"__id*
+
+%5ij.plugin.DICOM¦
+£
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaX X(!
+%7java.lang.String"__concat*
+
+dirjava.lang.String*
+
+namejava.lang.Stringøõ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaX
+ X("
+%8java.lang.String"=ij.plugin.DICOM#getInfo(Ljava/lang/String;)Ljava/lang/String;*
+
+readerij.plugin.DICOM*
+
+%7java.lang.String2getInfo(Ljava/lang/String;)‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaX X("
+infojava.lang.String"__id*
+
+%8java.lang.String*
+2
+1*÷
+4H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaT+ T(0Ÿœ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaT+ T(<
+%2boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+3
+1*ò
+5H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaT T(š—
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaT T("	
+%1int"java.lang.String#length()I*
+
+infojava.lang.String2length()*
+4
+1*­
+6H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaS S(ËÈ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaS S(&
+%0java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getSliceLabel(I)‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaS S('
+infojava.lang.String"__id*
+
+%0java.lang.String*
+4
+5*µ
+1H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java\	 \("f
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java\ \(
+
+infojava.lang.String:
+stackij.ImageStack:
+""B"
+ij.util.DicomTools

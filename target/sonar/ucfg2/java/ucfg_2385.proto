@@ -1,0 +1,32 @@
+
+ij.gui.NewImage#getSize(II)IG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÍ Í("3*Å
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(ﬂ
+‹
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(c
+
+%1void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*XV
+TImage is too large. ImageJ does not support\nsingle images larger than 2 gigapixels."Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÓ Ó(
+""*∫
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÎ Î(d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÏ Ï(	
+%0int"__id*
+""*
+2
+1*ü
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java ("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java (
+"":
+"":
+""B"
+ij.gui.NewImage

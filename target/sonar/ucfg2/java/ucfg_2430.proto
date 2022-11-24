@@ -1,0 +1,35 @@
+
+*ij.process.AutoThresholder#Percentile([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaþ þ("6*Ñ
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java‘ ‘(ÓÐ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java‘ ‘((
+%1double"+ij.process.AutoThresholder#partialSum([II)D*
+ij.process.AutoThresholder*
+""*
+""2partialSum([II)™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java‘ ‘(6
+%2double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+4
+1*´
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŽ Ž(ÒÏ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŽ Ž(%
+%0double"+ij.process.AutoThresholder#partialSum([II)D*
+ij.process.AutoThresholder*
+""*2ÿ2partialSum([II)*
+4
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java˜	 ˜("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java˜ ˜(
+"":
+""B
+ij.process.AutoThresholder

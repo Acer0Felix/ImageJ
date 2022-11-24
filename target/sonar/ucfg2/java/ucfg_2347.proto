@@ -1,0 +1,85 @@
+
+6ij.plugin.frame.Fitter#getEquation()Ljava/lang/String;L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java} }("3*≠
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÇ
+ Ç("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÇ Ç(
+""*ﬂ
+
+3L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java~' ~(0ÉÄ
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(&
+%0ij.gui.GenericDialog"ij.gui.GenericDialog¥
+±
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(1
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*	
+Formulaë
+é
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(2
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialogô
+ñ
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java  ((
+%2java.lang.String"__id*(*&
+ij.plugin.frame.Fitter"
+
+equation≠™
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java (-
+
+%3void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+
+Formula:*
+
+%2java.lang.String*2&25addStringField(Ljava/lang/String;Ljava/lang/String;I)Ø¨
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÄ Ä(
+
+%4void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()¥±
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÅ Å(
+%5boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*–
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(“œ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(
+%6java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()õ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(&
+ij.plugin.frame.Fitter"
+
+equation"__id*
+
+%6java.lang.Stringõ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÑ	 Ñ(
+%7java.lang.String"__id*(*&
+ij.plugin.frame.Fitter"
+
+equation"j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.javaÑ Ñ(
+
+%7java.lang.StringB
+ij.plugin.frame.Fitter

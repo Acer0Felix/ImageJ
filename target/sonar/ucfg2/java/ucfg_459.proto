@@ -1,0 +1,80 @@
+
+*ij.process.ImageProcessor#isInvertedLut()ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥ ¥("8"9*¬
+
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java® ®(ÈÅ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java® ®(	
+%1int")java.awt.image.IndexColorModel#getRed(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2	getRed(I)ÌÉ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java® ®()	
+%2int"+java.awt.image.IndexColorModel#getGreen(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2getGreen(I)ÊÇ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java®* ®(:	
+%3int"*java.awt.image.IndexColorModel#getBlue(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2
+getBlue(I)ÈÅ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(	
+%4int")java.awt.image.IndexColorModel#getRed(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2	getRed(I)ÌÉ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(%	
+%5int"+java.awt.image.IndexColorModel#getGreen(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2getGreen(I)ÊÇ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¯& ¯(4	
+%6int"*java.awt.image.IndexColorModel#getBlue(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2
+getBlue(I)*
+4
+1*³
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaª
+ ª("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaª ª(
+""*ý
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(*ë
+è
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(,$
+%0java.awt.image.IndexColorModel"Nij.process.ImageProcessor#getIndexColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ImageProcessor«
+¨
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(-%
+icmjava.awt.image.IndexColorModel"__id*&
+$
+%0java.awt.image.IndexColorModel*	
+4
+7
+1*³
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java§
+ §("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java§ §(
+""*³
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaµ µ(!"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java· ·(
+""B
+ij.process.ImageProcessor

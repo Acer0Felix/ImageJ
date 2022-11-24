@@ -1,0 +1,544 @@
+
+[ij.plugin.Scaler#createNewStack(Lij/ImagePlus;Lij/process/ImageProcessor;III)Lij/ImagePlus;F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javag g(!"30*ò
+13H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaå å(¥±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaé é($
+%30ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()á
+Ñ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaé é(%
+overlayij.gui.Overlay"__id*
+
+%30ij.gui.Overlay*
+7
+12*Á
+15H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaá á(Õ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaá á()
+%28ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()ì
+ê
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaá á(*
+calij.measure.Calibration"__id*
+
+%28ij.measure.Calibration™ß
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaà à(
+%29boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+13*ë
+16H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÜ Ü(∫∑
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÜ Ü(!
+%27void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+imp2ij.ImagePlus*
+""*
+""2setDisplayRange(DD)*
+15*˚
+17H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÑ Ñ(ç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÑ Ñ(
+%25java.lang.String"__id**
+ij.plugin.Scaler"
+titleêç
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÑ Ñ(
+%26void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+imp2ij.ImagePlus*
+
+%25java.lang.String*
+
+stack2ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)*
+15
+16*Ü
+28F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javal l(F´®
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javam m($
+%7ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()Ä
+~
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javam m(%
+stack1ij.ImageStack"__id*
+
+%7ij.ImageStacknl
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javan n($
+%8ij.ImageStack"ij.ImageStackì
+ê
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javan n(9
+%9"ij.ImageStack#<init>(II)V*
+
+%8ij.ImageStack*
+""*
+""Ä
+~
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javan n(:
+stack2ij.ImageStack"__id*
+
+%8ij.ImageStacküú
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javao o(+
+%10boolean"ij.ImageStack#isVirtual()Z*
+
+stack1ij.ImageStack2isVirtual()´®
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javap p('
+%11double""ij.ImagePlus#getDisplayRangeMin()D*
+
+impij.ImagePlus2getDisplayRangeMin()´®
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaq q('
+%12double""ij.ImagePlus#getDisplayRangeMax()D*
+
+impij.ImagePlus2getDisplayRangeMax()z
+x
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javar r( 
+ip1ij.process.ImageProcessor"__id*
+""z
+x
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javar r( 
+ip2ij.process.ImageProcessor"__id*
+""*
+17
+23*Í
+29F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javal, l(-ïí
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javal6 l(E	
+%6int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+28*È
+19H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÇ Ç(é
+ã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÇ Ç(
+%24void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""*
+17
+23*±
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaß	 ß("b
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaß ß(
+
+imp2ij.ImagePlus*Î
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java† †(üú
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java† †('
+
+%49int"ij.ImagePlus#getStackSize()I*
+
+imp2ij.ImagePlus2getStackSize()yw
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java° °( 
+%50ij.plugin.Resizer"ij.plugin.Resizerç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java° °("
+%51"ij.plugin.Resizer#<init>()V*
+
+%50ij.plugin.Resizerç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java° °(#
+resizerij.plugin.Resizer"__id*
+
+%50ij.plugin.ResizerœÃ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java¢ ¢(:
+%52void".ij.plugin.Resizer#setAverageWhenDownsizing(Z)V*
+
+resizerij.plugin.Resizer*
+""2setAverageWhenDownsizing(Z)˛˚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java£
+ £(=
+%53ij.ImagePlus"8ij.plugin.Resizer#zScale(Lij/ImagePlus;II)Lij/ImagePlus;*
+
+resizerij.plugin.Resizer*
+
+imp2ij.ImagePlus*
+""*
+""2zScale(Lij/ImagePlus;II)
+}
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java£ £(=
+imp2ij.ImagePlus"__id*
+
+%53ij.ImagePlusÕ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java§	 §(
+%54ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()ì
+ê
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java§ §(
+calij.measure.Calibration"__id*
+
+%54ij.measure.Calibrationüú
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java• •(%
+
+%55int"ij.ImagePlus#getStackSize()I*
+
+imp2ij.ImagePlus2getStackSize()*
+1*é
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaû û(∂≥
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaû û(!
+%48void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+imp2ij.ImagePlus*22setOpenAsHyperStack(Z)*
+2
+1*˝
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaù ù(	¢ü
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaù ù(
+%47boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*	
+2
+4
+1*â
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaö ö(!ôñ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaö# ö(B
+
+%43int"ij.CompositeImage#getMode()I*
+
+impij.ImagePlus2	getMode()yw
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaö ö(
+%44ij.CompositeImage"ij.CompositeImage¬
+ø
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaö
+ ö(C
+%45"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%44ij.CompositeImage*
+
+imp2ij.ImagePlus*
+
+
+%43intÖ
+Ç
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaö ö(C
+imp2ij.ImagePlus"__id*
+
+%44ij.CompositeImage–Õ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaõ õ('
+%46void"+ij.CompositeImage#copyLuts(Lij/ImagePlus;)V*
+
+imp2ij.ImagePlus*
+
+impij.ImagePlus2copyLuts(Lij/ImagePlus;)*
+5*È
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javañ ñ(Ö
+Ç
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javañ ñ(
+%39void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""£†
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaó ó(!
+%40int[]"ij.ImagePlus#getDimensions()[I*
+
+impij.ImagePlus2getDimensions()¿Ω
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaò ò(,
+%41void" ij.ImagePlus#setDimensions(III)V*
+
+imp2ij.ImagePlus*
+""*
+""*
+""2setDimensions(III)†ù
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaô ô(
+%42boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+5
+6*Û
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaî î(∆√
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaî î(0
+%37ij.gui.Overlay"(ij.gui.Overlay#scale(DD)Lij/gui/Overlay;*
+
+overlayij.gui.Overlay*
+""*
+""2	scale(DD)’“
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaî î(1
+%38void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+imp2ij.ImagePlus*
+
+%37ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+7*§
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaì ì(Õ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaì ì(&
+%35java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+ipij.process.ImageProcessor2getRoi()ıÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaì ì('
+%36ij.gui.Overlay"9ij.gui.Overlay#crop(Ljava/awt/Rectangle;)Lij/gui/Overlay;*
+
+overlayij.gui.Overlay*
+
+%35java.awt.Rectangle2crop(Ljava/awt/Rectangle;)á
+Ñ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaì ì('
+overlayij.gui.Overlay"__id*
+
+%36ij.gui.Overlay*
+8*∆
+
+30F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javah h(õò
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javah h("	
+%0int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()ìê
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javai i(	
+%1int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()ïí
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javai i()	
+%2int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()∑¥
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaj j((
+%3ij.ImagePlus",ij.ImagePlus#createImagePlus()Lij/ImagePlus;*
+
+impij.ImagePlus2createImagePlus()|
+z
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaj j()
+imp2ij.ImagePlus"__id*
+
+%3ij.ImagePlus «
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javak k(
+%4java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+ipij.process.ImageProcessor2getRoi()Ü
+É
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javak k(
+rjava.awt.Rectangle"__id*
+
+%4java.awt.Rectangleìê
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javal l((	
+%5int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+28
+29*é
+20H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÅ Å(
+∑¥
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaÅ Å(
+%23void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+labeljava.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+19*√
+21F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java~ ~(’“
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java~ ~(%
+%21void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*"
+ 
+ip1ij.process.ImageProcessor*
+""2setInterpolationMethod(I)¯ı
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java	 (? 
+%22ij.process.ImageProcessor"@ij.process.ImageProcessor#resize(IIZ)Lij/process/ImageProcessor;*"
+ 
+ip1ij.process.ImageProcessor*
+""*
+""*
+""2resize(IIZ)ó
+î
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java (? 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%22ij.process.ImageProcessor*
+19
+20*Õ
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaê ê(∫∑
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaê ê( 
+%32ij.gui.Overlay"*ij.gui.Overlay#duplicate()Lij/gui/Overlay;*
+
+overlayij.gui.Overlay2duplicate()á
+Ñ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaê ê( 
+overlayij.gui.Overlay"__id*
+
+%32ij.gui.OverlayŒÀ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaë ë(% 
+%33ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ŒÀ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaë ë(.
+%34java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*"
+ 
+%33ij.process.ImageProcessor2getRoi()ã
+à
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaë ë(/
+roijava.awt.Rectangle"__id*
+
+%34java.awt.Rectangle*
+8
+9*∂
+22F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java{ {(ÓÎ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java{ {(
+%19void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+ip1ij.process.ImageProcessor*
+
+rjava.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)÷”
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java|
+ |( 
+%20ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*"
+ 
+ip1ij.process.ImageProcessor2crop()ó
+î
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.java| |( 
+ip1ij.process.ImageProcessor"__id*"
+ 
+%20ij.process.ImageProcessor*
+21*Ä
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaè è(¶£
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaè è(,
+%31boolean"ij.ImagePlus#getHideOverlay()Z*
+
+impij.ImagePlus2getHideOverlay()*
+7
+10*˚
+
+23F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaw w(É
+Ä
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaw w(
+%13java.lang.String"__concat*	
+Scale: *
+""ê
+ç
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaw w($
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+/ë
+é
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaw w(.
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+""•
+¢
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javaw w(/
+%16void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%15java.lang.String€ÿ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javax	 x( 
+%17ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stack1ij.ImageStack*
+""2getProcessor(I)ó
+î
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javax x( 
+ip1ij.process.ImageProcessor"__id*"
+ 
+%17ij.process.ImageProcessorÀ»
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javay y()
+%18java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stack1ij.ImageStack*
+""2getSliceLabel(I)á
+Ñ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Scaler.javay y(*
+labeljava.lang.String"__id*
+
+%18java.lang.String*
+21
+22:
+impij.ImagePlus:
+ipij.process.ImageProcessor:
+"":
+"":
+""B
+ij.plugin.Scaler

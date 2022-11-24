@@ -1,0 +1,49 @@
+
+Bij.CompositeImage#getChannelProcessor()Lij/process/ImageProcessor;G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javay y(*"4*û
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java{
+ {(•
+’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java{
+ {(!
+%1ij.process.ImageProcessor[]"__id**
+ij.CompositeImage"
+cip¦
+£
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java{
+ {(
+%2ij.process.ImageProcessor"
+__arrayGet*#
+!
+%1ij.process.ImageProcessor[]*
+"""l
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java{ {(!
+
+%2ij.process.ImageProcessor*ì
+4G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaz z(	•
+’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaz z(	!
+%0ij.process.ImageProcessor[]"__id**
+ij.CompositeImage"
+cip*
+2
+1*‰
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java}
+ }(ÌÉ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java}
+ }(
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+ij.CompositeImage2getProcessor()"l
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java} }(!
+
+%3ij.process.ImageProcessorB
+ij.CompositeImage

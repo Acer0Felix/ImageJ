@@ -1,0 +1,352 @@
+
+Bij.plugin.filter.ImageProperties#getUnitIndex(Ljava/lang/String;)IX
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaˇ ˇ("29*π
+24X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(u
+s
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(	
+%7int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ Ñ(
+""*–
+25X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É("Â‚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(6
+%6boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+milli2startsWith(Ljava/lang/String;)*
+24
+23*≈
+26X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(⁄◊
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+mm2equals(Ljava/lang/Object;)*
+24
+25*π
+27X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ
+ Ç(u
+s
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ
+ Ç(	
+%4int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ Ç(
+""*œ
+28X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(‰·
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(0
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+cent2startsWith(Ljava/lang/String;)*
+26
+27*¯
+29X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ	 Ä(É
+Ä
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(#
+%0java.util.Locale"__id*
+""êç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ	 Ä($
+%1java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+unitjava.lang.String*
+
+%0java.util.Locale2toLowerCase(Ljava/util/Locale;)ó
+î
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä($
+unitjava.lang.String"__id*
+
+%1java.lang.String⁄◊
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+cm2equals(Ljava/lang/Object;)*
+27
+28*Œ
+10X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç("Â‚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(5
+%23boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+kilo2startsWith(Ljava/lang/String;)*
+8
+9*≈
+11X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(€ÿ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+km2equals(Ljava/lang/Object;)*
+9
+10*∫
+12X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaå
+ å(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaå
+ å(
+
+%21int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaå å(
+""*—
+13X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(#Ê„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(7
+%20boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+meter2startsWith(Ljava/lang/String;)*
+11
+12*≈
+14X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(⁄◊
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+m2equals(Ljava/lang/Object;)*
+13
+12*∫
+15X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaä
+ ä(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaä
+ ä(
+
+%18int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaä ä(
+""*–
+16X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â("Â‚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(5
+%17boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+nano2startsWith(Ljava/lang/String;)*
+14
+15*∆
+17X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(€ÿ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+nm2equals(Ljava/lang/Object;)*
+15
+16*∫
+18X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaà
+ à(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaà
+ à(
+
+%15int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaà à(
+""*—
+19X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaáF á(JÊ„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaáF á(^
+%14boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+micro2startsWith(Ljava/lang/String;)*
+17
+18*π
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaî
+ î(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaî
+ î(
+
+%32int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaî î(
+""*π
+2X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaí
+ í(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaí
+ í(
+
+%31int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaí í(
+""*Õ
+3X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë("Â‚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(5
+%30boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+mile2startsWith(Ljava/lang/String;)*
+2
+1*√
+4X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(€ÿ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+mi2equals(Ljava/lang/Object;)*
+2
+3*π
+5X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaê
+ ê(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaê
+ ê(
+
+%28int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaê ê(
+""*≈
+6X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè3 è(7›⁄
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè3 è(F
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+feet2equals(Ljava/lang/Object;)*
+4
+5*≈
+7X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è("›⁄
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(1
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+foot2equals(Ljava/lang/Object;)*
+5
+6*√
+8X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(€ÿ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(
+%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+ft2equals(Ljava/lang/Object;)*
+5
+7*π
+9X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé
+ é(v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé
+ é(
+
+%24int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaé é(
+""*Õ
+20X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá0 á(4‚ﬂ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá0 á(D
+%13boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+u2startsWith(Ljava/lang/String;)*
+18
+19*
+21X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(w
+u
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(-
+%10char"__id*
+""ì
+ê
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(-
+%11java.lang.String"__concat* *
+
+%10charˆÛ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(.
+%12boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+
+%11java.lang.String2startsWith(Ljava/lang/String;)*
+18
+20*π
+22X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ
+ Ü(u
+s
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ
+ Ü(	
+%9int"__id*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ Ü(
+""*œ
+23X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö(‰·
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö("
+%8boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+inch2startsWith(Ljava/lang/String;)*
+21
+22:
+unitjava.lang.StringB$""
+ ij.plugin.filter.ImageProperties

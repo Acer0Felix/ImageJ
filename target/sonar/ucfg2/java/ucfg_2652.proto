@@ -1,0 +1,48 @@
+
+ij.gui.Roi#offScreenXD(I)DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÏ Ï("5*«
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÑ Ñ(~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÑ Ñ(
+%1ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic­ª
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÑ Ñ(,
+%2double""ij.gui.ImageCanvas#offScreenXD(I)D*
+
+%1ij.gui.ImageCanvas*
+""2offScreenXD(I)¬©
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÒ Ò(!
+%3boolean"'ij.gui.Roi#useLineSubpixelConvention()Z*
+
+ij.gui.Roi2useLineSubpixelConvention()*
+1*•
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÐ Ð("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÐ Ð(
+""*Ï
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÐ Ð(~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÐ Ð(
+%0ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic*
+3
+4*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÔ	 Ô("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÔ Ô(
+"":
+""B
+
+ij.gui.Roi

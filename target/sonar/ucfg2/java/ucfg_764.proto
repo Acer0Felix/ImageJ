@@ -1,0 +1,125 @@
+
+#ij.ImageStack#getVoxels(IIIIII[F)[FE
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java   ("27"5"17"32"22"1*ï
+5E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaÓ Ó(∞≠
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaÓ Ó(,
+%8double"ij.ImageStack#getVoxel(III)D*
+ij.ImageStack*
+""*
+""*
+""2getVoxel(III)*
+5
+27
+17
+32
+22
+1*É
+27E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŸ ›(à
+Ö
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java⁄! ⁄(&
+%2java.lang.Object[]"__id**
+ij.ImageStack"
+stackí
+è
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java⁄! ⁄()
+%3java.lang.Object"
+__arrayGet*
+
+%2java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*É
+17E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java„ Á(à
+Ö
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‰ ‰( 
+%6java.lang.Object[]"__id**
+ij.ImageStack"
+stackí
+è
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‰ ‰(#
+%7java.lang.Object"
+__arrayGet*
+
+%6java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*ˇ
+32E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java‘ ÿ(à
+Ö
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java’ ’(#
+%0java.lang.Object[]"__id**
+ij.ImageStack"
+stackí
+è
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java’ ’(&
+%1java.lang.Object"
+__arrayGet*
+
+%0java.lang.Object[]*
+""z
+x
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java’ ’('
+bytesbyte[]"__id*
+
+%1java.lang.Object*
+27
+5
+17
+32
+22
+1*É
+22E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaﬁ ‚(à
+Ö
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaﬂ! ﬂ(&
+%4java.lang.Object[]"__id**
+ij.ImageStack"
+stackí
+è
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaﬂ! ﬂ()
+%5java.lang.Object"
+__arrayGet*
+
+%4java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*õ
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaÚ	 Ú("O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaÚ Ú(
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B
+ij.ImageStack

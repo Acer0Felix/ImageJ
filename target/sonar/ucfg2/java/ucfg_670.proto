@@ -1,0 +1,165 @@
+
++ij.ImageJ#deleteOverlayRoi(Lij/ImagePlus;)ZA
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java√ √(!"14"15*ï
+13A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java… …(øº
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java… …( 
+%1ij.gui.Overlay"3ij.gui.ImageCanvas#getShowAllList()Lij/gui/Overlay;*
+
+icij.gui.ImageCanvas2getShowAllList()~
+|
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java… …( 
+overlayij.gui.Overlay"__id*
+
+%1ij.gui.Overlay*
+
+8
+9
+11*Ä
+14A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆ ∆(n
+l
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆ ∆(
+overlayij.gui.Overlay"__id*
+""≤Ø
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java« «("
+%0ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()Å
+
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java« «(#
+icij.gui.ImageCanvas"__id*
+
+%0ij.gui.ImageCanvas*
+13
+8
+9
+11*ì
+3A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java◊ ◊("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java◊ ◊(
+""*î
+15A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≈
+ ≈("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≈ ≈(
+""*∞
+4A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java÷ ÷(‚ﬂ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java÷ ÷(#
+%9boolean"3ij.gui.ImageCanvas#roiManagerSelect(Lij/gui/Roi;Z)Z*
+
+icij.gui.ImageCanvas*
+
+roi
+ij.gui.Roi*22roiManagerSelect(Lij/gui/Roi;Z)*
+3*ª
+5A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java“ “(ùö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java“ “(
+
+%6void"ij.gui.Overlay#remove(I)V*
+
+overlayij.gui.Overlay*
+""2	remove(I)ëé
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java” ”(
+
+%7void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()≤Ø
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‘	 ‘(
+%8ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()Å
+
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‘ ‘(
+icij.gui.ImageCanvas"__id*
+
+%8ij.gui.ImageCanvas*
+3
+4*Ó
+6A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java– –(®•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java– –(
+%5
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+
+overlayij.gui.Overlay*
+""2get(I)s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java– –(
+roi2
+ij.gui.Roi"__id*
+
+%5
+ij.gui.Roi*
+5
+7*ﬂ
+7A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaœ œ(éã
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaœ œ( 	
+%4int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()*
+6
+1*ﬁ
+8A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŒ Œ(úô
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŒ Œ(
+%3
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()r
+p
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŒ Œ(
+roi
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roi*
+7*ì
+9A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÕ
+ Õ("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÕ Õ(
+""*˛
+11A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÀ À(¨©
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÀ À(
+%2ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()~
+|
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÀ À(
+overlayij.gui.Overlay"__id*
+
+%2ij.gui.Overlay*
+8
+9*ì
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java⁄	 ⁄("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java⁄ ⁄(
+"":
+impij.ImagePlusB
+	ij.ImageJ

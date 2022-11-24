@@ -1,0 +1,76 @@
+
+Oij.plugin.filter.Analyzer#getRedirectImageOrStack(Lij/ImagePlus;)Lij/ImagePlus;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÇ Ç(*"6*½
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÌ Ì(­ª
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÌ Ì((	
+%5int"ij.ImagePlus#getCurrentSlice()I*
+
+cimpij.ImagePlus2getCurrentSlice()¯¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÌ Ì()
+
+%6void"ij.ImagePlus#setSlice(I)V*
+
+rimpij.ImagePlus*
+	
+%5int2setSlice(I)*
+1*¾
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaË0 Ë(4­ª
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaË0 Ë(F	
+%3int"ij.ImagePlus#getCurrentSlice()I*
+
+rimpij.ImagePlus2getCurrentSlice()­ª
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaËH Ë(^	
+%4int"ij.ImagePlus#getCurrentSlice()I*
+
+cimpij.ImagePlus2getCurrentSlice()*
+2
+1*ˆ
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaË Ë(§¤
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaË Ë(,	
+%2int"ij.ImagePlus#getStackSize()I*
+
+cimpij.ImagePlus2getStackSize()*
+3
+1*ˆ
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÊ Ê(§¤
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÊ Ê("	
+%1int"ij.ImagePlus#getStackSize()I*
+
+rimpij.ImagePlus2getStackSize()*
+4
+1*×
+6Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÈ È(#ë
+è
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÈ È()
+%0ij.ImagePlus"Hij.plugin.filter.Analyzer#getRedirectImage(Lij/ImagePlus;)Lij/ImagePlus;*"
+ij.plugin.filter.Analyzer*
+
+cimpij.ImagePlusˆ
+…
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÈ È(*
+rimpij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+5
+1*Ã
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÎ	 Î("k
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÎ Î(
+
+rimpij.ImagePlus:
+cimpij.ImagePlusB
+ij.plugin.filter.Analyzer

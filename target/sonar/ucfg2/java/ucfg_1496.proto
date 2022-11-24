@@ -1,0 +1,20 @@
+
+*ij.plugin.ControlPanel#hasVisiblePanels()ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÓ	 Ó("1*Ì
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ	 Ô(†
+ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ	 Ô(
+%0java.util.Vector"__id*-*+
+ij.plugin.ControlPanel"
+visiblePanelsöó
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ	 Ô(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ Ô( 
+""B
+ij.plugin.ControlPanel

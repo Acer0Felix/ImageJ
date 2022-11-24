@@ -1,0 +1,50 @@
+
+/ij.plugin.Startup#runMacro(Ljava/lang/String;)ZG
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaH H("3*ü
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaL
+ L("Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaL L(
+""*“
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaI I((}{
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaI I(&
+%0ij.macro.Interpreter"ij.macro.Interpreterê
+ç
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaI I((
+%1"ij.macro.Interpreter#<init>()V*
+
+%0ij.macro.Interpreterê
+ç
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaI I()
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter®•
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaJ J(
+%2java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+macrojava.lang.String*
+""2)run(Ljava/lang/String;Ljava/lang/String;)´®
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaK K(
+%3boolean" ij.macro.Interpreter#wasError()Z* 
+
+interpij.macro.Interpreter2
+wasError()*
+2
+1*ü
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaN
+ N("Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Startup.javaN N(
+"":
+macrojava.lang.StringB
+ij.plugin.Startup

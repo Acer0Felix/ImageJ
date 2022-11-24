@@ -1,0 +1,163 @@
+
+oij.plugin.filter.UnsharpMask#showDialog(Lij/ImagePlus;Ljava/lang/String;Lij/plugin/filter/PlugInFilterRunner;)IR
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java< <("12*§
+4R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaN% N()p
+n
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaN% N()
+
+%13int"__id*
+"""\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaN N(*
+""*ø
+5R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaI I(
+¿¼
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaI I(C
+
+%7void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Radius (Sigma)*
+""*2*2*
+
+pixels28addNumericField(Ljava/lang/String;DIILjava/lang/String;)Ž‹
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaJ J(=
+
+%8void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Mask Weight (0.1-0.9)*
+""*22%addNumericField(Ljava/lang/String;DI)»¸
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaK K("
+
+%9void"Oij.gui.GenericDialog#addPreviewCheckbox(Lij/plugin/filter/PlugInFilterRunner;)V*
+
+gdij.gui.GenericDialog*,
+*
+pfr#ij.plugin.filter.PlugInFilterRunner29addPreviewCheckbox(Lij/plugin/filter/PlugInFilterRunner;)’
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaL L("
+%10void"@ij.gui.GenericDialog#addDialogListener(Lij/gui/DialogListener;)V*
+
+gdij.gui.GenericDialog* 
+ij.plugin.filter.UnsharpMask2*addDialogListener(Lij/gui/DialogListener;)´±
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaM M(
+%11void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()¹¶
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaN N(
+%12boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+4
+1*í
+9R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaE- E(4‰†
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaE E(,
+%4ij.gui.GenericDialog"ij.gui.GenericDialogÌ
+É
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaE E(5
+%5"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%4ij.gui.GenericDialog*
+
+commandjava.lang.String—
+”
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaE E(6
+gdij.gui.GenericDialog"__id*
+
+%4ij.gui.GenericDialog™
+–
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaF F(
+%6double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+5*É
+10R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaA A(±®
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaB! B(K
+%2java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*
+	gaussian=*	
+radius=20replaceAll(Ljava/lang/String;Ljava/lang/String;)µ
+²
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaB B(L
+
+%3void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*
+
+%2java.lang.String*
+9*À
+11R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java@ @(ÜÙ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java@ @(,	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*
+	gaussian=2indexOf(Ljava/lang/String;)*
+9
+10*¡
+12R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java= =(¦
+£
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java= =(+
+%0java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro”
+‘
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.java= =(,
+optionsjava.lang.String"__id*
+
+%0java.lang.String*
+9
+11*è
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaP P(
+ËÈ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaP P(#
+%14java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;* 
+ij.plugin.filter.UnsharpMask2
+getClass()­
+ª
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaP P($
+%15void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+
+%14java.lang.Class²
+¯
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaQ Q()
+
+%16int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/UnsharpMask.javaQ Q(*
+"":
+impij.ImagePlus:
+commandjava.lang.String:*
+pfr#ij.plugin.filter.PlugInFilterRunnerB 
+ij.plugin.filter.UnsharpMask

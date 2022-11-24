@@ -1,0 +1,78 @@
+
+Yij.plugin.filter.Translator#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZQ
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaB B(!"7*≥
+2Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaJ
+ J("[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaJ J(
+""*Ö
+3Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaI I(ß
+§
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaI I(3
+
+%7void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+Offset is invalid.*
+2*ê
+4Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaI I(	Ø¨
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaI I(
+%6boolean"ij.gui.GenericDialog#wasOKed()Z*
+
+gdij.gui.GenericDialog2	wasOKed()*
+2
+3*ú
+5Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaH H(ª∏
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaH H(
+%5boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+4
+1*õ
+6Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaG G(Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaG G($
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+5*√
+7Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaC C(∫∑
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaC C(
+%0double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∫∑
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaD D(
+%1double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¡æ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaE E(/	
+%2int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()§
+°
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaF F(
+%3ij.gui.Overlay"__id*0*.
+ij.plugin.filter.Translator"
+origOverlay*
+5
+6*≥
+1Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaL	 L("[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.javaL L(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.filter.Translator

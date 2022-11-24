@@ -1,0 +1,38 @@
+
+6ij.process.ByteProcessor#createImage()Ljava/awt/Image;N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javah h("3*„
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaj j(þ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaj j($
+%1java.awt.image.IndexColorModel"Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ByteProcessor2getDefaultColorModel()¥
+¢
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaj j("
+ij.process.ByteProcessor"
+cm"__id*&
+$
+%1java.awt.image.IndexColorModel*
+1*þ
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javai i( 
+
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javai i(
+%0java.awt.image.ColorModel"__id*$*"
+ij.process.ByteProcessor"
+cm*
+2
+1*ž
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javak	 k(ÞÛ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javak	 k(
+%2java.awt.Image">ij.process.ByteProcessor#createBufferedImage()Ljava/awt/Image;*
+ij.process.ByteProcessor2createBufferedImage()"h
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javak k(
+
+%2java.awt.ImageB
+ij.process.ByteProcessor

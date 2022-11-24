@@ -1,0 +1,673 @@
+
+)ij.plugin.OverlayCommands#addSelection()VO
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaa a("48*Ω
+46O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javad1 d(=€ÿ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javad1 d(O	
+%3int"-java.lang.String#indexOf(Ljava/lang/String;)I*"
+ 
+macroOptionsjava.lang.String*
+
+remove2indexOf(Ljava/lang/String;)*
+44
+45*Í
+24Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÉ É(TÜ
+É
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(
+%37boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+21
+23*Á
+47O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javad d(Ö
+Ç
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javad d(-
+%2boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+46
+44*ê
+25Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÉ; É(>∞≠
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÉ. É(Q
+
+%36int"$ij.gui.PolygonRoi#getNCoordinates()I*
+
+roi
+ij.gui.Roi2getNCoordinates()*
+24*º
+48O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javab b(ì
+ê
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javab b(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJÖ
+Ç
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javab b( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus£
+†
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javac c(*
+%1java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macroñ
+ì
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javac c(+ 
+macroOptionsjava.lang.String"__id*
+
+%1java.lang.String*
+47
+44*÷
+26Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÇ Ç(Ú
+Ô
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÇ Ç(
+%35void"Bij.plugin.OverlayCommands#setPosition(Lij/ImagePlus;Lij/gui/Roi;)V*
+ij.plugin.OverlayCommands*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi*
+24
+25*û
+27Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(û
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(
+%32
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiΩ∫
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(.
+%33java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+%32
+ij.gui.Roi2getFillColor()›⁄
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(/
+%34void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%33java.awt.Color2setFillColor(Ljava/awt/Color;)*
+26*ù
+28O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java (
+ª∏
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java (
+%31java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getFillColor()*
+26
+27*û
+29O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(ú
+ô
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(!
+%28
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiøº
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(2
+%29java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+%28
+ij.gui.Roi2getStrokeColor()ﬂ‹
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(3
+%30void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%29java.awt.Color2 setStrokeColor(Ljava/awt/Color;)*
+28*¿
+30O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(Bú
+ô
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(B
+%26
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiøº
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(S
+%27java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+%26
+ij.gui.Roi2getStrokeColor()*
+28
+29*Ï
+31O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java}% }()ä
+á
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java}% }(4
+
+%25int"ij.gui.Line#getWidth()I*"
+ij.gui.Line*
+28
+30*È
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaî5 î(<ì
+ê
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaî5 î(H
+
+%63int"ij.gui.Toolbar#getToolId()I*"
+ij.gui.Toolbaro
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaîJ î(V
+
+%64int"__id*
+""*	
+2
+8
+1*°
+32O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java} }(
+øº
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java} }(
+%24java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()*
+29
+31*•
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaí í(	À»
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaí í(
+%59void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlayij.gui.Overlay*
+
+roi
+ij.gui.Roi2add(Lij/gui/Roi;)·ﬁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaì ì(
+%60void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+
+overlayij.gui.Overlay2setOverlay(Lij/gui/Overlay;)ôñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaî î("
+
+%61int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaî$ î(1
+
+%62int"__id*
+""*
+2
+8
+10
+1*ﬂ
+33O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java| |(ú
+ô
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java| |(!
+%21
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiß§
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java| |(2
+%22float"ij.gui.Roi#getStrokeWidth()F*
+
+%21
+ij.gui.Roi2getStrokeWidth()∏µ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java| |(3
+%23void"ij.gui.Roi#setStrokeWidth(F)V*
+
+roi
+ij.gui.Roi*
+
+%22float2setStrokeWidth(F)*
+32*£
+34O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java{ {(
+¡æ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.java{ {(
+%20java.awt.BasicStroke",ij.gui.Roi#getStroke()Ljava/awt/BasicStroke;*
+
+roi
+ij.gui.Roi2getStroke()*
+32
+33*∂
+12Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(√
+¿
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(*
+%58ij.gui.Overlay"7ij.plugin.OverlayLabels#createOverlay()Lij/gui/Overlay;*"
+ij.plugin.OverlayLabelsê
+ç
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(*
+overlayij.gui.Overlay"__id*
+
+%58ij.gui.Overlay*
+11*ó
+35O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javax x(±Æ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javax x(
+%17java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()à
+Ö
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javax x(
+roi
+ij.gui.Roi"__id*
+
+%17java.lang.Objectª∏
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javay y($
+%18ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()é
+ã
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javay y(%
+overlayij.gui.Overlay"__id*
+
+%18ij.gui.Overlayß§
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaz z(
+%19boolean"ij.gui.Roi#isDrawingTool()Z*
+
+roi
+ij.gui.Roi2isDrawingTool()*
+26
+34*È
+36O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javau u(∂
+≥
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javau u(1
+%16void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*&$
+"This command requires a selection."Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javav v(
+
+""*Ï
+15Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaè è(§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaè è($
+%56java.awt.Color"%ij.gui.Roi#getColor()Ljava/awt/Color;*"
+
+ij.gui.Roi·ﬁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaè è(%
+%57void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%56java.awt.Color2 setStrokeColor(Ljava/awt/Color;)*
+11
+12*∞
+38O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javar r(
+"Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javar r(
+
+""*ﬂ
+16Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaå å(@≥∞
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaç ç(!
+%54java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()¡æ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaé é(
+%55java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()*
+15
+11
+12*®
+39O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaq q( «
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaq q(
+%15void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)*
+38*Ω
+17Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaå% å()›⁄
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaå% å(?
+%53boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+new-overlay2equals(Ljava/lang/Object;)*
+16*Ø
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(∑¥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(
+%52java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()ë
+é
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(
+namejava.lang.String"__id*
+
+%52java.lang.String*
+16
+17*Ò
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaá á(û
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaá á(
+%43
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi¡æ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaá á(1
+%44java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()·ﬁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaá á(2
+%45void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+%43
+ij.gui.Roi*
+
+%44java.awt.Color2 setStrokeColor(Ljava/awt/Color;)û
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaà à(
+%46
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi©¶
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaà à(1
+%47float"ij.gui.Roi#getStrokeWidth()F*
+
+roi
+ij.gui.Roi2getStrokeWidth()∫∑
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaà à(2
+%48void"ij.gui.Roi#setStrokeWidth(F)V*
+
+%46
+ij.gui.Roi*
+
+%47float2setStrokeWidth(F)û
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(
+%49
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiΩ∫
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(-
+%50java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getFillColor()›⁄
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(.
+%51void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+%49
+ij.gui.Roi*
+
+%50java.awt.Color2setFillColor(Ljava/awt/Color;)*
+18*o
+0 "h
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaò ò(
+implicit return*Ö
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaó ó(o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaó ó("
+
+%67int"__id*
+""∂
+≥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaó ó((
+%68void"ij.Undo#setup(ILij/ImagePlus;)V*"	
+ij.Undo*
+
+
+%67int*
+
+impij.ImagePlus*
+0*Ä
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javañ ñ(¢ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javañ ñ(
+%66void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()*
+1*˜
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaîZ î(añ
+ì
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaîZ î(p
+
+%65int"ij.gui.Toolbar#getBrushSize()I*"
+ij.gui.Toolbar*
+2
+1*û
+40O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javap p(	ºπ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javap p(
+%14boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+38
+39*∞
+41O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javao o( "Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javao o( 
+""*Ú
+42O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaj( j(6ÜÉ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaj j('
+%7ij.gui.GenericDialog"ij.gui.GenericDialogº
+π
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaj j(7
+%8"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%7ij.gui.GenericDialog*
+No Selectionî
+ë
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaj j(8
+gdij.gui.GenericDialog"__id*
+
+%7ij.gui.GenericDialogˇ¸
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javak k(9
+
+%9void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*)'
+%\"Overlay>Add\" requires a selection.2addMessage(Ljava/lang/String;)≈¬
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javal l(
+%10void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2(*2 2setInsets(III)˙˜
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javam m(3
+%11void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Remove existing overlay*2 2 addCheckbox(Ljava/lang/String;Z)±Æ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javan n(
+%12void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()∂≥
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javao o(
+%13boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+40
+41*¥
+20Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü( "[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü( 
+""*†
+43O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javai i(∫∑
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javai i(#
+%6ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+35
+36
+42*¶
+21Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÖ( Ö(8âÜ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö('
+%40ij.gui.RoiProperties"ij.gui.RoiProperties„
+‡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö(>
+%41"<ij.gui.RoiProperties#<init>(Ljava/lang/String;Lij/gui/Roi;)V*
+
+%40ij.gui.RoiProperties*
+Add to Overlay*
+
+roi
+ij.gui.Roió
+î
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö(?
+rpij.gui.RoiProperties"__id*
+
+%40ij.gui.RoiProperties∂≥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü(
+%42boolean""ij.gui.RoiProperties#showDialog()Z*
+
+rpij.gui.RoiProperties2showDialog()*
+19
+20*ì
+44O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javah h(™ß
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javah h(
+%5
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()Ä
+~
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javah h(
+roi
+ij.gui.Roi"__id*
+
+%5
+ij.gui.Roi*
+35
+36
+43*ä
+22Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÑ/ Ñ(4¶
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÑ/ Ñ(A
+%39java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+18
+21*¸
+45O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javae e(…∆
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javae e(
+
+%4void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)"Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaf f(
+
+""*Ï
+23Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(à
+Ö
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(+
+%38boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+18
+22B
+ij.plugin.OverlayCommands

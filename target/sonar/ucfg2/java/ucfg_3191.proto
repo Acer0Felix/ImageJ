@@ -1,0 +1,103 @@
+
+Dij.macro.Functions#setMultipleIndexes(Lij/plugin/frame/RoiManager;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ Æ("9*ã
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÐ Ð(
+•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÐ Ð(
+
+%8ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpŽ
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÐ Ð(5
+%9java.lang.String"__concat*
+Invalid index: *
+""àÝ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÐ Ð(6
+%10void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%8ij.macro.Interpreter*
+
+%9java.lang.String2error(Ljava/lang/String;)*
+3
+1*
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É($²¯
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(&
+%4double[]"&ij.macro.Functions#getNumericArray()[D*
+ij.macro.Functions2getNumericArray()•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ Ê(
+%5ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ Ê(
+
+%6void"%ij.macro.Interpreter#getRightParen()V*
+
+%5ij.macro.Interpreter2getRightParen()²¯
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÌ Ì(	
+%7int"&ij.plugin.frame.RoiManager#getCount()I*"
+ 
+rmij.plugin.frame.RoiManager2
+getCount()*
+3
+1*–
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(
+
+%3void" ij.macro.Interpreter#getComma()V*
+
+%2ij.macro.Interpreter2
+getComma()*
+7*š
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+
+%0ij.macro.Interpreter2nextToken()*
+7
+8*é
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÒ Ò(ÔÑ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÒ Ò((
+%11void"2ij.plugin.frame.RoiManager#setSelectedIndexes([I)V*"
+ 
+rmij.plugin.frame.RoiManager*
+""2setSelectedIndexes([I)k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÓ	 Ó(
+%12double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÓ Ó(
+"": 
+rmij.plugin.frame.RoiManagerB
+ij.macro.Functions

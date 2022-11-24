@@ -1,0 +1,119 @@
+
+5ij.Menus#addPluginSeparatorIfNeeded(Ljava/awt/Menu;)I@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java´ ´(&"7*á
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java» »(˜•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java» »(*	
+%5int"java.awt.Menu#getItemCount()I*
+
+menujava.awt.Menu2getItemCount()³
+°
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java» »(+
+%6java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+	
+%5int}
+{
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java» »(+
+ijava.lang.Integer"__id*
+
+%6java.lang.Integer‰
+†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¼ ¼(
+%7java.util.Properties"__id* *
+
+ij.Menus"
+menuSeparators¸
+µ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¼ ¼(
+%8java.lang.Object"__mapSet*
+
+%7java.util.Properties*
+
+menujava.awt.Menu*
+
+ijava.lang.Integer*
+1*î
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaº º(¡
+ž
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaº º(
+
+%4void"'ij.Menus#addSeparator(Ljava/awt/Menu;)V*"
+
+ij.Menus*
+
+menujava.awt.Menu*
+2*è
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¹ ¹(˜•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¹ ¹(	
+%3int"java.awt.Menu#getItemCount()I*
+
+menujava.awt.Menu2getItemCount()*
+2
+3*ø
+5@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(%‰
+†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(%
+%1java.util.Properties"__id* *
+
+ij.Menus"
+menuSeparatorsž
+›
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(/
+%2java.lang.Object"__mapGet*
+
+%1java.util.Properties*
+
+menujava.awt.Menu|
+z
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(0
+ijava.lang.Integer"__id*
+
+%2java.lang.Object*
+4
+1*‘
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¶
+ ¶("J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¶ ¶(
+""*Ù
+7@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaµ µ(‰
+†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaµ µ(
+%0java.util.Properties"__id* *
+
+ij.Menus"
+menuSeparators*
+5
+6*©
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¾	 ¾(
+•’
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¾	 ¾(	
+%9int"java.lang.Integer#intValue()I*
+
+ijava.lang.Integer2
+intValue()"J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¾ ¾(
+"":
+menujava.awt.MenuB"
+
+ij.Menus

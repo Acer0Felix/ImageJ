@@ -1,0 +1,185 @@
+
+%ij.gui.PolygonRoi#getSpline(I[F[F)[[FI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java≠ ≠("27"20*ÿ
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java’ ’(æª
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java÷ ÷(-
+%20double"&ij.measure.SplineFitter#evalSpline(D)D* 
+
+sfxij.measure.SplineFitter*
+""2evalSpline(D)æª
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java◊ ◊(-
+%21double"&ij.measure.SplineFitter#evalSpline(D)D* 
+
+sfyij.measure.SplineFitter*
+""2evalSpline(D)*
+3
+1*â
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaΩ Ω(ë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaø$ ø(:
+%8double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""ô
+ñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaø ø(;
+%9double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%8double*
+15
+11*“
+
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaœ& œ(3ïí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaœC œ(K
+%14boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()áÑ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(%
+%15ij.measure.SplineFitter"ij.measure.SplineFitter¿
+Ω
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(L
+%16"'ij.measure.SplineFitter#<init>([F[FIZ)V* 
+
+%15ij.measure.SplineFitter*
+""*
+""*
+""*
+""ñ
+ì
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(M
+sfxij.measure.SplineFitter"__id* 
+
+%15ij.measure.SplineFitterïí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java–C –(K
+%17boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()áÑ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java– –(%
+%18ij.measure.SplineFitter"ij.measure.SplineFitter¿
+Ω
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java– –(L
+%19"'ij.measure.SplineFitter#<init>([F[FIZ)V* 
+
+%18ij.measure.SplineFitter*
+""*
+""*
+""*
+""ñ
+ì
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java– –(M
+sfyij.measure.SplineFitter"__id* 
+
+%18ij.measure.SplineFitter*
+3
+1*∏
+27I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø(è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø(
+%0float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∞	 ∞(
+%1float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""ºπ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java± ±(
+
+%2void"-ij.gui.PolygonRoi#enableSubPixelResolution()V*
+ij.gui.PolygonRoi2enableSubPixelResolution()*
+20*î
+17I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(.∏µ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∏ ∏()
+%7double"*ij.gui.PolygonRoi#getUncalibratedLength()D*
+ij.gui.PolygonRoi2getUncalibratedLength()*
+15
+11*¬
+18I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑$ ∑(+k
+i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑$ ∑(-	
+%4int"__id*
+	
+%6int*
+17*á
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÀ À()±Æ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÀ À(1
+%13void"#ij.gui.PolygonRoi#enlargeArrays(I)V*
+ij.gui.PolygonRoi*
+""2enlargeArrays(I)*
+5*¬
+19I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(!k
+i
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(!	
+%4int"__id*
+	
+%5int*
+17*
+20I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(îë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(
+%3boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()*
+18
+19*ä
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java≈ ≈(í
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java«$ «(:
+%11double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""õ
+ò
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java« «(;
+%12double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%11double*
+5
+7*
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaƒ ƒ(ïí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaƒ ƒ(
+%10boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()*
+5
+10*£
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaŸ Ÿ("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaŸ Ÿ(*
+"":
+"":
+"":
+""B
+ij.gui.PolygonRoi

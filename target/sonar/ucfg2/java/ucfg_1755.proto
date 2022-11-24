@@ -1,0 +1,53 @@
+
+3ij.gui.Plot#getMainCurveObject()Lij/gui/PlotObject;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java£ £(&"5*â
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¤ ¤(v
+t
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¤ ¤(
+
+plotObjectij.gui.PlotObject"__id*
+""—
+”
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¤ ¤(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+4
+1*²
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¦ ¦("h
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¦ ¦(!
+
+
+plotObjectij.gui.PlotObject*²
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¥ ¥(`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¥ ¥(,	
+%1int"__id*
+""*
+2
+3*Û
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¤ ¤(-‹
+ˆ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¤ ¤(-
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+2*—
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨	 ¨("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨ ¨(
+""B
+ij.gui.Plot

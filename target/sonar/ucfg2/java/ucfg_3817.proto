@@ -1,0 +1,28 @@
+
+#ij.WindowManager#getCurrentIndex()IF
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java> >("1* 
+1F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java?	 ?(Ž
+‹
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java?	 ?(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList”
+‘
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java? ?((
+%1ij.gui.ImageWindow"__id*'*%
+ij.WindowManager"
+currentWindowØÕ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java?	 ?()	
+%2int"-java.util.Vector#indexOf(Ljava/lang/Object;)I*
+
+%0java.util.Vector*
+
+%1ij.gui.ImageWindow2indexOf(Ljava/lang/Object;)"P
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java? ?(*
+""B"
+ij.WindowManager

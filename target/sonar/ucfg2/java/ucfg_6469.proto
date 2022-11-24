@@ -1,0 +1,63 @@
+
+Hij.plugin.frame.RoiManager#getName(Ljava/lang/String;)Ljava/lang/String;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –("5*õ
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaš š(º
+·
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaš š(%"
+%3javax.swing.DefaultListModel"__id*7*5
+&
+instanceij.plugin.frame.RoiManager"
+	listModelîë
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaš š(5
+%4java.lang.Object">javax.swing.DefaultListModel#getElementAt(I)Ljava/lang/Object;*$
+"
+%3javax.swing.DefaultListModel*
+""2getElementAt(I)"n
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaš š(6
+
+%4java.lang.Object*¢
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java™  ™(!À½
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java™" ™(5	
+%2int"&ij.plugin.frame.RoiManager#getCount()I*(
+&
+instanceij.plugin.frame.RoiManager2
+getCount()*
+2
+1*¿
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —(Î
+Ë
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —(+
+%0double"/ij.util.Tools#parseDouble(Ljava/lang/String;D)D*"
+ij.util.Tools*
+
+indexjava.lang.String*
+""à
+Ý
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java˜ ˜(& 
+%1ij.plugin.frame.RoiManager"Eij.plugin.frame.RoiManager#getInstance2()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManager©
+¦
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java˜ ˜('&
+instanceij.plugin.frame.RoiManager"__id*"
+ 
+%1ij.plugin.frame.RoiManager*
+3
+1*·
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ
+ œ("^
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(
+null:
+indexjava.lang.StringB"
+ij.plugin.frame.RoiManager

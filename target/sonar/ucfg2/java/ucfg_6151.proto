@@ -1,0 +1,81 @@
+
+=ij.plugin.Slicer#getLine(Lij/process/ImageProcessor;DDDD[F)[FH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaá á("12*»
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaò ò(	ÝÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaò ò(5
+%5double"3ij.process.ImageProcessor#getInterpolatedValue(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedValue(DD)*
+4
+5
+7
+1*Ü
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaï% ï('àÝ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaï ï(H	
+%3int"6ij.process.ColorProcessor#getInterpolatedRGBPixel(DD)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedRGBPixel(DD)›
+˜
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javað ð(6
+%4float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+""*
+4
+5
+7
+1*»
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaí í(	ÝÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaí í(5
+%2double"3ij.process.ImageProcessor#getInterpolatedPixel(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedPixel(DD)*
+4
+5
+7
+1*‰
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaâ â(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaä ä(3
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""—
+”
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaä ä(4
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%0double*
+4
+5
+7
+1*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaö
+ ö("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaö ö(
+"":
+ipij.process.ImageProcessor:
+"":
+"":
+"":
+"":
+""B
+ij.plugin.Slicer

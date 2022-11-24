@@ -1,0 +1,643 @@
+
+-ij.plugin.tool.PixelInspector#writeNumbers()VZ
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java‹ ‹("49*£
+46Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÁ Á(¶
+£
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÁ Á(
+%12ij.ImagePlus"__id***(
+ij.plugin.tool.PixelInspector"
+imp‡›
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÁ Á(( 
+%13ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%12ij.ImagePlus2getProcessor()™
+ß
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÁ Á()
+ipij.process.ImageProcessor"__id*"
+ 
+%13ij.process.ImageProcessor*
+44
+45*Ç
+47Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaﬁ ﬁ(≈
+¬
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaﬁ ﬁ(
+
+%4void"5ij.plugin.tool.PixelInspector#removeImageListeners()V*!
+ij.plugin.tool.PixelInspector¬
+ø
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaﬂ ﬂ(
+
+%5void"2ij.plugin.tool.PixelInspector#addImageListeners()V*!
+ij.plugin.tool.PixelInspector’“
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java‡ ‡(
+
+%6void"1ij.plugin.tool.PixelInspector#initializeLabels()V*!
+ij.plugin.tool.PixelInspector2initializeLabels()Ø¨
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java· ·(
+
+%7void"java.awt.Window#pack()V*!
+ij.plugin.tool.PixelInspector2pack()•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java‚ ‚(
+%8ij.ImagePlus"__id***(
+ij.plugin.tool.PixelInspector"
+imp†ù
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java‚ ‚(	
+%9int"ij.ImagePlus#getID()I*
+
+%8ij.ImagePlus2getID()¶
+£
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java„ „(
+%10ij.ImagePlus"__id***(
+ij.plugin.tool.PixelInspector"
+impÆ´
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java„ „(
+
+%11int"ij.ImagePlus#getBitDepth()I*
+
+%10ij.ImagePlus2getBitDepth()"d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÂ Â(
+
+""*¡
+48Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(
+%2ij.ImagePlus"__id***(
+ij.plugin.tool.PixelInspector"
+imp¨©
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(*	
+%3int"ij.ImagePlus#getBitDepth()I*
+
+%2ij.ImagePlus2getBitDepth()*
+46
+47*Î
+26Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(@ÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(@
+%32void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%28java.awt.Label*
+
+%29java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*µ
+49Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(	•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(	
+%0ij.ImagePlus"__id***(
+ij.plugin.tool.PixelInspector"
+imp†ù
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java› ›(	
+%1int"ij.ImagePlus#getID()I*
+
+%0ij.ImagePlus2getID()*
+47
+48*Ç
+27Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ< Û(?ô
+ñ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ< Û(?
+%29java.lang.String"__id*
+
+%31java.lang.String*
+26*Õ
+28Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(&»
+≈
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(9
+%30java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+""ô
+ñ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(9
+%29java.lang.String"__id*
+
+%30java.lang.String*
+26*¬
+29Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚ Ú([≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(	
+%27java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÛ Û(
+%28java.awt.Label"
+__arrayGet*
+
+%27java.awt.Label[]*
+""*
+27
+28*Ê
+30Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚY Ú(Z~
+|
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚY Ú(Z
+
+%24int"__id*
+
+
+%26int*
+29*Ê
+31Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚL Ú(R~
+|
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚL Ú(V
+
+%24int"__id*
+
+
+%25int*
+29*ü
+32Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÒ Ò($∏
+µ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚ Ú(-
+
+%22int",ij.plugin.filter.Analyzer#getMeasurements()I*"
+ij.plugin.filter.Analyzerx
+v
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÚ0 Ú(E
+
+%23int"__id*
+""*
+30
+31*Ï
+12Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ Ä(≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ Ä(
+%49java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ Ä(
+%50java.awt.Label"
+__arrayGet*
+
+%49java.awt.Label[]*
+""’“
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ) Ä(9
+
+%51int"'ij.process.ImageProcessor#getPixel(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixel(II)Œ
+À
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ Ä(:
+%52java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+
+
+%51intÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÄ Ä(;
+%53void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%50java.awt.Label*
+
+%52java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*Ê
+13Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaˇO ˇ(^x
+v
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaˇb ˇ(j
+
+%48int"__id*
+""*
+
+4
+9
+12*⁄
+38Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ Ô(?ÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ Ô(?
+%21void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%17java.awt.Label*
+
+%18java.lang.String2setText(Ljava/lang/String;)*
+42
+32
+0*ä	
+16Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛ ˛(≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛ ˛(
+%43java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛ ˛(
+%44java.awt.Label"
+__arrayGet*
+
+%43java.awt.Label[]*
+""’“
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛  ˛(0
+
+%45int"'ij.process.ImageProcessor#getPixel(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixel(II)Ï
+È
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛ ˛(3
+%46java.lang.String";ij.plugin.tool.PixelInspector#int2hex(II)Ljava/lang/String;*!"
+ij.plugin.tool.PixelInspector*
+
+
+%45int*2ÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˛ ˛(4
+%47void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%44java.awt.Label*
+
+%46java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*Ç
+39Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ; Ô(>ô
+ñ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ; Ô(>
+%18java.lang.String"__id*
+
+%20java.lang.String*
+38*Í
+17Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˝0 ˝(>x
+v
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˝B ˝(I
+
+%42int"__id*
+""*
+13
+4
+16
+9*¶
+19Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¯ ¯(’“
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¯ ¯(
+
+%34int"'ij.process.ImageProcessor#getPixel(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixel(II)≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(
+%35java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(
+%36java.awt.Label"
+__arrayGet*
+
+%35java.awt.Label[]*
+""ë
+é
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(
+%37java.lang.String"__concat*
+""*
+,•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(
+%38java.lang.String"__concat*
+
+%37java.lang.String*
+""§
+°
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(#
+%39java.lang.String"__concat*
+
+%38java.lang.String*
+,•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(%
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+""ÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¸ ¸(&
+%41void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%36java.awt.Label*
+
+%40java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*x
+0 "q
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaâ â(
+implicit return*Æ
+3Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÜ Ü(≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÜ Ü(
+%68java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÜ Ü(
+%69java.awt.Label"
+__arrayGet*
+
+%68java.awt.Label[]*
+""÷”
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÜ Ü(
+%70void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%69java.awt.Label*
+ 2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*≤	
+4Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ Ñ(≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ Ñ(
+%63java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ Ñ(
+%64java.awt.Label"
+__arrayGet*
+
+%63java.awt.Label[]*
+""·ﬁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ! Ñ(6
+%65float",ij.process.ImageProcessor#getPixelValue(II)F*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixelValue(II)âÜ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ Ñ(H
+%66java.lang.String"=ij.plugin.tool.PixelInspector#stringOf(FIZ)Ljava/lang/String;*!
+ij.plugin.tool.PixelInspector*
+
+%65float*
+""*
+""2stringOf(FIZ)ÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÑ Ñ(I
+%67void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%64java.awt.Label*
+
+%66java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*·
+5Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(VÙ
+Ò
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(V
+%61java.lang.String";ij.plugin.tool.PixelInspector#int2hex(II)Ljava/lang/String;*!"
+ij.plugin.tool.PixelInspector*
+
+
+%57int*
+
+
+%58intÍÁ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(W
+%62void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%56java.awt.Label*
+
+%61java.lang.String2setText(Ljava/lang/String;)*
+13
+3
+4
+17
+9
+20
+32
+0*‰
+6Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇT Ç(U~
+|
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇT Ç(U
+
+%58int"__id*
+
+
+%60int*
+5*‰
+7Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇP Ç(Q~
+|
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇP Ç(Q
+
+%58int"__id*
+
+
+%59int*
+5*ó
+8Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(
+%55java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ Ç(
+%56java.awt.Label"
+__arrayGet*
+
+%55java.awt.Label[]*
+""’“
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÇ  Ç(0
+
+%57int"'ij.process.ImageProcessor#getPixel(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixel(II)*
+6
+7*·
+9Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÅO Å(^x
+v
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÅb Å(j
+
+%54int"__id*
+""*
+4
+8*Õ
+40Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ% Ô(,»
+≈
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ% Ô(8
+%19java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+""ô
+ñ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ% Ô(8
+%18java.lang.String"__id*
+
+%19java.lang.String*
+38*¬
+42Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ Ô(	≠
+™
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ Ô(	
+%16java.awt.Label[]"__id*-*+
+ij.plugin.tool.PixelInspector"
+labels•
+¢
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÔ Ô(
+%17java.awt.Label"
+__arrayGet*
+
+%16java.awt.Label[]*
+""*
+39
+40*Ó
+20Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˜) ˜(7x
+v
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java˜; ˜(B
+
+%33int"__id*
+""*
+13
+4
+17
+19
+9*˜
+44Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÈ È(¡æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÈ È(
+
+%14int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()√¿
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaÍ Í(
+
+%15int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+42
+32
+0*∆
+45Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaË Ë("d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaË Ë(
+""B!
+ij.plugin.tool.PixelInspector

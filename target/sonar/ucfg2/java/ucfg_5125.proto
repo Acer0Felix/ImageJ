@@ -1,0 +1,50 @@
+
+aij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;)Lij/process/ImageStatistics;P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaO O(,"1*°	
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP	 P(m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP P(	
+%0int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP  P($	
+%1int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP% P(,	
+%2int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP- P(1	
+%3int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP2 P(9	
+%4int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP: P(>	
+%5int"__id*
+""Æ
+Ã
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP	 P(E 
+%6ij.process.ImageStatistics"zij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+"""v
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.javaP P(F"
+ 
+%6ij.process.ImageStatistics:
+ipij.process.ImageProcessorB"
+ij.process.ImageStatistics

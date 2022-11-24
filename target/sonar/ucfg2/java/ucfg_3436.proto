@@ -1,0 +1,50 @@
+
+Fij.plugin.CompilerTool$LegacyCompilerTool#getJavac()Ljava/lang/Object;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java¦ ¦("3*Ø
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java¨ ¨(×
+Ô
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java¨ ¨(6
+%1java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+com.sun.tools.javac.Main§
+¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java¨ ¨(67+
+)ij.plugin.CompilerTool$LegacyCompilerTool"
+javacC"__id*
+
+%1java.lang.Class*
+1*
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java§ §(§
+¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java§ §(
+%0java.lang.Class"__id*9*7+
+)ij.plugin.CompilerTool$LegacyCompilerTool"
+javacC*
+2
+1*¤
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java©
+ ©(§
+¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java©
+ ©(
+%2java.lang.Class"__id*9*7+
+)ij.plugin.CompilerTool$LegacyCompilerTool"
+javacCÀ½
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java©
+ ©(
+%3java.lang.Object"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+%2java.lang.Class2newInstance()"f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Compiler.java© ©(
+
+%3java.lang.ObjectB-+
+)ij.plugin.CompilerTool$LegacyCompilerTool

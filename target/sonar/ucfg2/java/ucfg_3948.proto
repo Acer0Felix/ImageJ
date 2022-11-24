@@ -1,0 +1,96 @@
+
+Lij.plugin.GifWriter#save(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java ("4"5"7*£
+2I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java
+ ("S
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (
+""*œ
+4I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java
+ (Î
+Ë
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java
+ ()
+%2java.lang.String"Lij.io.SaveDialog#getPath(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;*"
+ij.io.SaveDialog*
+
+impij.ImagePlus*
+.gifà
+Ö
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java ()
+pathjava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*˜
+5I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (õò
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (!	
+%1int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*	
+2
+4
+1*Ê
+7I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java	 (ç
+ä
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java	 (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJ~
+|
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+4
+5*÷
+1I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java ( }{
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (
+%3ij.plugin.GifWriter"ij.plugin.GifWriterê
+ç
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java ( 
+%4"ij.plugin.GifWriter#<init>()V*
+
+%3ij.plugin.GifWriterå
+â
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (!
+gfij.plugin.GifWriter"__id*
+
+%3ij.plugin.GifWriterÊ
+„
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (
+
+%5void":ij.plugin.GifWriter#run(Lij/ImagePlus;Ljava/lang/String;)V*
+
+gfij.plugin.GifWriter*
+
+impij.ImagePlus*
+
+pathjava.lang.Stringî
+ë
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java	 (
+%6java.lang.String"__id*&*$
+
+gfij.plugin.GifWriter"
+error"e
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java (
+
+%6java.lang.String:
+impij.ImagePlus:
+pathjava.lang.StringB"
+ij.plugin.GifWriter

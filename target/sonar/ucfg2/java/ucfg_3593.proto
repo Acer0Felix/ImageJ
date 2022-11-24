@@ -1,0 +1,146 @@
+
+1ij.ImagePlus#getMask()Lij/process/ImageProcessor;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë("10*î	
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÒ Ò(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÒ Ò(
+%8ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÑÅ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÒ Ò(
+
+%9void"?ij.process.ImageProcessor#setMask(Lij/process/ImageProcessor;)V*!
+
+%8ij.process.ImageProcessor*#
+!
+maskij.process.ImageProcessor2$setMask(Lij/process/ImageProcessor;)ã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú( 
+%10ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%11
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi≤Ø
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%12java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%11
+ij.gui.Roi2getBounds()ÓÎ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%13void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+%10ij.process.ImageProcessor*
+
+%12java.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)*
+1*Œ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java ({
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java (
+%7
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+2
+1*ﬁ
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java (ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java (
+%6ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+3
+1*ô
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÔ
+ Ô("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÔ Ô(
+""*£
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì({
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì(
+%4
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi∫∑
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì(%
+%5ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+%4
+ij.gui.Roi2	getMask()ï
+í
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì(&!
+maskij.process.ImageProcessor"__id*!
+
+%5ij.process.ImageProcessor*
+4
+5*ô
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ
+ Î("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(
+""*â
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+%2ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip´®
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+
+%3void"%ij.process.ImageProcessor#resetRoi()V*!
+
+%2ij.process.ImageProcessor2
+resetRoi()*
+7*ﬁ
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(	ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(	
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+7
+8*œ
+10D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÈ È(	{
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÈ È(	
+%0
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+6
+9*∂
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÙ	 Ù("k
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÙ Ù(#
+!
+maskij.process.ImageProcessorB
+ij.ImagePlus

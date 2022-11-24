@@ -1,0 +1,58 @@
+
+&ij.plugin.frame.RoiManager#deselect()VR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ Ã("7*∆
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –(Á
+‰
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –(9
+
+%4void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+roiManager*
+
+Deselect*
+1*é
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –(¨
+©
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java– –(
+%3boolean"$ij.plugin.frame.RoiManager#record()Z*
+ij.plugin.frame.RoiManager*
+2
+1*∫
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(
+%1javax.swing.JList"__id*(*&
+ij.plugin.frame.RoiManager"
+listµ≤
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaœ œ(
+
+%2void"#javax.swing.JList#clearSelection()V*
+
+%1javax.swing.JList2clearSelection()*
+3
+5*ò
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÕ
+ Õ(∂≥
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaÕ
+ Õ(	
+%0int"&ij.plugin.frame.RoiManager#getCount()I*
+ij.plugin.frame.RoiManager2
+getCount()*
+3
+5*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —(	"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java— —(	
+""B
+ij.plugin.frame.RoiManager

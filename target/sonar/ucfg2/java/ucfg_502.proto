@@ -1,0 +1,109 @@
+
+)ij.process.ImageProcessor#getLine(DDDD)[DQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaµ µ("23*˘
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java» »(ò
+ï
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java»! »(/
+
+%9long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""ô
+ñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java»6 »(D
+%10long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""·ﬁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java» »(E
+%11float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+
+
+%9long*
+
+%10long2getPixelValue(II)*
+3
+1*⁄
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∫ ∫(v
+t
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∫ ∫(
+%5double"__id*
+	
+%7int*	
+3
+7
+1*√
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¬ ¬(‚ﬂ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¬ ¬(*
+%8double"3ij.process.ImageProcessor#getInterpolatedValue(DD)D*
+ij.process.ImageProcessor*
+""*
+""2getInterpolatedValue(DD)*
+7
+1*›
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∫ ∫(y
+w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∫ ∫(
+%5double"__id*
+
+%6double*	
+3
+7
+1*Ÿ
+21Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaπ π(v
+t
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaπ π(
+%2double"__id*
+	
+%4int*
+18
+19*‹
+22Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaπ π(y
+w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaπ π(
+%2double"__id*
+
+%3double*
+18
+19*†
+23Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∂ ∂(ô
+ñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∏ ∏(2
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∏ ∏(3
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%0double*
+21
+22*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÕ	 Õ("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÕ Õ(
+"":
+"":
+"":
+"":
+""B
+ij.process.ImageProcessor

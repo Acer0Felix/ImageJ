@@ -1,0 +1,1422 @@
+
+;ij.io.RoiEncoder#write(Lij/gui/Roi;Ljava/io/OutputStream;)VF
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaP P("108*‹
+24H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaõ õ(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaõ õ(
+%128int"__id*
+""g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaõ! õ(3
+%129int"__id*
+""½º
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaõ õ(4
+%130void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%128int*
+
+%129int2putShort(II)¢Ÿ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaö ö(%
+%131double[]"ij.gui.EllipseRoi#getParams()[D*
+
+roi
+ij.gui.Roi2getParams()*
+23*à
+68H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(
+
+%34int"__id*
+""f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(*
+
+%35int"__id*
+""x
+v
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(_
+ij.io.RoiEncoder"
+data"__id*
+""
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java› ›(
+%36byte[]"__id**
+ij.io.RoiEncoder"
+data
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java› ›(
+%37byte[]"__id**
+ij.io.RoiEncoder"
+data
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java› ›(
+%38byte[]"__id**
+ij.io.RoiEncoder"
+data
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java›( ›(,
+%39byte[]"__id**
+ij.io.RoiEncoder"
+dataf
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaœ œ($
+
+%40int"__id*
+""f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaœ& œ(-
+
+%41int"__id*
+""º·
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaœ œ(.
+%42void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%40int*
+
+
+%41int2putShort(II)
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (
+%43byte[]"__id**
+ij.io.RoiEncoder"
+dataf
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (
+
+%44int"__id*
+""f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaž ž(
+
+%45int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaž ž(
+%46void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%45int*
+""2putShort(II)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaŸ Ÿ(
+
+%47int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaŸ Ÿ( 
+%48void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%47int*
+""2putShort(II)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java   (
+
+%49int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java   (+
+%50void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%49int*
+""2putShort(II)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¡ ¡(
+
+%51int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¡ ¡()
+%52void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%51int*
+""2putShort(II)ª§
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¢ ¢(
+%53boolean" ij.gui.Roi#subPixelResolution()Z*
+
+roi
+ij.gui.Roi2subPixelResolution()*
+46
+47
+50
+53
+65*
+25H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaò ò(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaò ò(
+%124int"__id*
+""g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaò! ò(8
+%125int"__id*
+""½º
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaò ò(9
+%126void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%124int*
+
+%125int2putShort(II)¦£
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaó ó()
+%127double[]"#ij.gui.RotatedRectRoi#getParams()[D*
+
+roi
+ij.gui.Roi2getParams()*
+23*Å
+29H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaì ì(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaì ì(0
+%123int"__id*
+""*
+24
+25
+22*÷
+71H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java• •( 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java• •(+
+%33int[]"ij.gui.PointRoi#getCounters()[I*
+
+roi
+ij.gui.Roi2getCounters()*
+68*ž
+30H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaë ë(»¸
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaë ë(#
+%122boolean"'ij.gui.PointRoi#promptBeforeDeleting()Z*
+
+pointij.gui.PointRoi2promptBeforeDeleting()*
+24
+25
+29
+22*À
+74H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‹ ‹(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‹ ‹('
+
+%32int"__id*
+""*
+68
+71*½
+31H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaê ê(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaê ê(%
+%121int"__id*
+""*
+30*ç
+75H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‰ ‰(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‰ ‰(/
+
+%30int"__id*
+"" 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaŠ	 Š(
+%31boolean"ij.gui.Roi#getDrawOffset()Z*
+
+roi
+ij.gui.Roi2getDrawOffset()*
+68
+71
+74*¦
+
+32H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaæ æ(!
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaæ æ("
+pointij.gui.PointRoi"__id*
+
+roi
+ij.gui.Roig
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaç ç( 
+%114int"__id*
+""§¤
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaç" ç(6
+%115int"ij.gui.PointRoi#getPointType()I*
+
+pointij.gui.PointRoi2getPointType()»¸
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaç ç(7
+%116void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%114int*
+
+%115int2putByte(II)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaè è(#
+%117int"__id*
+""š
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaè% è(4
+%118int"ij.gui.PointRoi#getSize()I*
+
+pointij.gui.PointRoi2	getSize()½º
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaè è(5
+%119void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%117int*
+
+%118int2putShort(II)­ª
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaé é(
+%120boolean" ij.gui.PointRoi#getShowLabels()Z*
+
+pointij.gui.PointRoi2getShowLabels()*
+30
+31*Â
+77H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‡
+ ‡(ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‡
+ ‡(
+%29ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()”
+‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‡ ‡(
+fpij.process.FloatPolygon"__id* 
+
+%29ij.process.FloatPolygon*
+68
+71
+75*ã
+78H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java…
+ …(íê
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java…
+ …()
+%28ij.process.FloatPolygon"Eij.gui.PolygonRoi#getNonSplineFloatPolygon()Lij/process/FloatPolygon;*
+
+proiij.gui.PolygonRoi2getNonSplineFloatPolygon()”
+‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java… …()
+fpij.process.FloatPolygon"__id* 
+
+%28ij.process.FloatPolygon*
+68
+71
+75*²
+34H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaá á(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaá á(/
+%112int"__id*
+""g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaá0 á(F
+%113int"__id*
+""*
+24
+25
+32
+22*
+79H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaƒ ƒ(y
+w
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaƒ ƒ(
+fpij.process.FloatPolygon"__id*
+""«¨
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java„ „(
+%27boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+proiij.gui.PolygonRoi2isSplineFit()*
+77
+78*ˆ
+35H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaà à(¡ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaà à(
+%111boolean"ij.gui.Roi#getDrawOffset()Z*
+
+roi
+ij.gui.Roi2getDrawOffset()*
+24
+25
+32
+22
+34*Œ
+
+36H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÜ Ü(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÜ Ü(
+%103int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÜ Ü()
+%104void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%103int*
+""2putShort(II)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÝ Ý("
+%105int"__id*
+""•’
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÝ$ Ý(;
+%106int"ij.gui.Arrow#getStyle()I*
+
+roi
+ij.gui.Roi2
+getStyle()»¸
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÝ Ý(<
+%107void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%105int*
+
+%106int2putByte(II)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÞ Þ(&
+%108int"__id*
+""ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÞ- Þ(G
+%109double"ij.gui.Arrow#getHeadSize()D*
+
+roi
+ij.gui.Roi2getHeadSize()¾»
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÞ Þ(H
+%110void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%108int*
+
+%109double2putByte(II)*
+24
+25
+32
+22*½
+37H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÛ Û(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÛ Û("
+%102int"__id*
+""*
+36*ø
+38H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÚ Ú(š
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÚ Ú(!
+%101boolean"ij.gui.Arrow#getOutline()Z*
+
+roi
+ij.gui.Roi2getOutline()*
+36
+37*½
+39H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÙ Ù(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÙ Ù((
+%100int"__id*
+""*
+38*û
+100F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java[ [(Œ
+‰
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java[ [(
+%7java.lang.String"__id*!*
+ij.io.RoiEncoder"	
+roiName–“
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java[ [(!	
+%8int"java.lang.String#length()I*
+
+%7java.lang.String2length()*
+98*¤
+101F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaY Y(«¨
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaY Y(
+%5java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()Œ
+‰
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaY Y(
+ij.io.RoiEncoder"	
+roiName"__id*
+
+%5java.lang.StringŒ
+‰
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaZ Z(
+%6java.lang.String"__id*!*
+ij.io.RoiEncoder"	
+roiName*	
+98
+100*¹
+102F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaX X(
+c
+a
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaX X(+	
+%4int"__id*
+""*
+101*•
+103F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaT T(Š
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaT T(	
+%2int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()©¦
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaW W(
+%3boolean"!ij.gui.Roi#getScaleStrokeWidth()Z*
+
+roi
+ij.gui.Roi2getScaleStrokeWidth()*
+
+101
+102*‡
+104F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaS S(°­
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaS S(!
+
+%1void"&ij.gui.Roi#enableSubPixelResolution()V*
+
+roi
+ij.gui.Roi2enableSubPixelResolution()*
+103*î
+80F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java}! }($€
+~
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java} }(%
+proiij.gui.PolygonRoi"__id*
+
+roi
+ij.gui.RoiÛØ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java~ ~(-
+%25java.awt.Polygon"=ij.gui.PolygonRoi#getNonSplineCoordinates()Ljava/awt/Polygon;*
+
+proiij.gui.PolygonRoi2getNonSplineCoordinates()ƒ
+€
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java~ ~(.
+pjava.awt.Polygon"__id*
+
+%25java.awt.Polygonª§
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‚ ‚(
+%26boolean" ij.gui.Roi#subPixelResolution()Z*
+
+roi
+ij.gui.Roi2subPixelResolution()*
+79
+68
+71*˜
+108F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaQ Q(³°
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaQ Q(
+%0java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()†
+ƒ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaQ Q( 
+rjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle*
+
+103
+104*Ë
+82F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javat t(ª§
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javat t(&
+%24void"Dij.io.RoiEncoder#saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*
+
+fjava.io.OutputStream*
+""22saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)"P
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javau u(
+
+""*Ä
+83F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javas s(d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javas s(
+
+%23int"__id*
+""*
+68
+80
+82
+71*Î
+84F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javae
+ e(d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaf f(
+
+%13int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javag g(
+
+%14int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javah h(
+
+%15int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javai i(
+
+%16int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaj j(
+
+%17int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javak k(
+
+%18int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javal l(
+
+%19int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javam m(
+
+%20int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javan n(
+
+%21int"__id*
+""d
+b
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javao o(
+
+%22int"__id*
+""*
+83*Ž
+40H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java× ×(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java× ×(
+
+%96int"__id*
+""f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java×! ×(1
+
+%97int"__id*
+""º·
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java× ×(2
+%98void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%96int*
+
+
+%97int2putShort(II)¦£
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaØ Ø(&
+%99boolean"ij.gui.Arrow#getDoubleHeaded()Z*
+
+roi
+ij.gui.Roi2getDoubleHeaded()*
+38
+39*Ò
+
+41H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÑ Ñ(|
+z
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÑ Ñ(
+lineij.gui.Line"__id*
+
+roi
+ij.gui.Roif
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÒ Ò(
+
+%88int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÒ Ò(+
+%89void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%88int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÓ Ó(
+
+%90int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÓ Ó(+
+%91void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%90int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÔ Ô(
+
+%92int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÔ Ô(+
+%93void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%92int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÕ Õ(
+
+%94int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÕ Õ(+
+%95void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%94int*
+""2putFloat(IF)*
+35
+40*ƒ
+43H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÍ Í(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÍ Í(-
+
+%86int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÍ Í(7
+%87void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%86int*
+""2putShort(II)*
+24
+25
+41
+32
+22*
+44H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaË Ë(¤¡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaË Ë((
+
+%85int"ij.gui.Roi#getCornerDiameter()I*
+
+roi
+ij.gui.Roi2getCornerDiameter()*
+24
+25
+41
+43
+32
+22*¤
+45H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÈ È(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÈ	 È(
+
+%82int"__id*
+""˜•
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÈ È(/
+
+%83int"ij.gui.Roi#getPosition()I*
+
+roi
+ij.gui.Roi2getPosition()¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÈ È(0
+%84void"ij.io.RoiEncoder#putInt(II)V*
+ij.io.RoiEncoder*
+
+
+%82int*
+
+
+%83int2
+putInt(II)*
+24
+25
+41
+32
+44
+22*ó
+46H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÇ Ç(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÇ Ç($
+
+%80int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÇ Ç((
+%81void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%80int*
+""2putShort(II)*
+45*ï
+47H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÅ Å(	f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÅ
+ Å(
+
+%78int"__id*
+""°­
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÅ Å(
+%79void"ij.io.RoiEncoder#putInt(II)V*
+ij.io.RoiEncoder*
+
+
+%78int*
+""2
+putInt(II)*
+45*ž
+50H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÀ À(s
+q
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÀ À(
+%76void"ij.IJ#beep()V*	"
+ij.IJÎ
+Ë
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaÁ Á(S
+%77void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*GE
+CNon-polygonal selections with more than 65k points cannot be saved.*
+46
+47*Ñ
+51H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java½ ½(¬©
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java½ ½('
+%75void"Dij.io.RoiEncoder#saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*
+
+fjava.io.OutputStream*
+""22saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¾ ¾(
+""*¨
+52H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¼ ¼(ÑÎ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¼ ¼(%
+%74void"'ij.gui.Roi#setName(Ljava/lang/String;)V*
+
+roi
+ij.gui.Roi*
+
+namejava.lang.String2setName(Ljava/lang/String;)*
+51*þ
+97F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaa a(Ž
+‹
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaa a(
+%11java.lang.String"__id*"* 
+ij.io.RoiEncoder"
+
+roiProps˜•
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaa a(#
+
+%12int"java.lang.String#length()I*
+
+%11java.lang.String2length()*
+84*¹
+53H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaº º(®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaº º(
+%71java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaº º( 
+namejava.lang.String"__id*
+
+%71java.lang.Stringus
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java» »(
+%72ij.gui.ShapeRoi"ij.gui.ShapeRoiª
+§
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java»
+ »(
+%73"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%72ij.gui.ShapeRoi*
+
+roi
+ij.gui.Roi
+}
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java» »(
+roi
+ij.gui.Roi"__id*
+
+%72ij.gui.ShapeRoi*
+51
+52*±
+98F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java_ _(·´
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java_ _( 
+%9java.lang.String",ij.gui.Roi#getProperties()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2getProperties()
+Š
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java_ _(  
+ij.io.RoiEncoder"
+
+roiProps"__id*
+
+%9java.lang.StringŽ
+‹
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java` `(
+%10java.lang.String"__id*"* 
+ij.io.RoiEncoder"
+
+roiProps*
+84
+97*›
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (
+%150int"__id*
+""ÖÓ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (-
+%151void"+ij.io.RoiEncoder#putHeader2(Lij/gui/Roi;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""2putHeader2(Lij/gui/Roi;I)*	
+3
+8
+1*
+13H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‹ ‹(Á
+¾
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‹ ‹(1
+%149int"2ij.io.RoiEncoder#saveImageRoi(Lij/gui/ImageRoi;I)I*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*	
+3
+8
+1*ã
+59H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java° °(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java° °(
+
+%60int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java° °()
+%61void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%60int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java± ±(
+
+%62int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java± ±()
+%63void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%62int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java² ²(
+
+%64int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java² ²(:
+%65void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%64int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java³ ³(
+
+%66int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java³ ³(;
+%67void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%66int*
+""2putFloat(IF)f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java´ ´(.
+
+%68int"__id*
+""f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaµ µ(
+
+%69int"__id*
+""´±
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaµ µ()
+%70void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%69int*
+""2putShort(II)*
+46
+47
+50
+53*²
+16H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‰ ‰(ÖÓ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‰ ‰(
+%148void"/ij.io.RoiEncoder#saveTextRoi(Lij/gui/TextRoi;)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi2saveTextRoi(Lij/gui/TextRoi;)*	
+3
+8
+1*ç
+19H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaƒ ƒ(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaƒ ƒ($
+%145int"__id*
+""g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java„ „(
+%146int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java„ „()
+%147void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%146int*
+""2putShort(II)*
+13
+16
+12*f
+0 "_
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¢ ¢(
+implicit return*ú
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java   (æã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java   ("
+%156void"3ij.io.RoiEncoder#saveOverlayOptions(Lij/gui/Roi;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""2!saveOverlayOptions(Lij/gui/Roi;I)ƒ
+€
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¡
+ ¡(
+%157byte[]"__id**
+ij.io.RoiEncoder"
+data¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¡ ¡(
+%158void"java.io.OutputStream#write([B)V*
+
+fjava.io.OutputStream*
+
+%157byte[]2	write([B)*
+0*¹
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaš š(
+%154void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+""*
+""2putFloat(IF)¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java› ›(
+%155void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+""*
+""2putFloat(IF)*
+3
+1*¼
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java“ “(¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java“ “(
+%152void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+""*
+""2putShort(II)¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java” ”(
+%153void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+""*
+""2putShort(II)*	
+3
+8
+1*É
+61H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java­	 ­(ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java­	 ­(
+%59ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java­ ­(
+pij.process.FloatPolygon"__id* 
+
+%59ij.process.FloatPolygon*
+46
+47
+59
+50
+53*©
+62H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java© ©(«¨
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java© ©(
+%56void" ij.gui.Roi#setCornerDiameter(I)V*
+
+roi
+ij.gui.Roi*2 2setCornerDiameter(I)ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaª	 ª(
+%57ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaª ª(
+pij.process.FloatPolygon"__id* 
+
+%57ij.process.FloatPolygon¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java« «(
+%58void" ij.gui.Roi#setCornerDiameter(I)V*
+
+roi
+ij.gui.Roi*
+""2setCornerDiameter(I)*
+46
+47
+59
+50
+53*ÿ
+63H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java§ §(¤¡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java§ §(#
+
+%55int"ij.gui.Roi#getCornerDiameter()I*
+
+roi
+ij.gui.Roi2getCornerDiameter()*
+61
+62*‡
+20H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‚3 ‚(6¤¡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java‚& ‚(E
+%144boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+roi
+ij.gui.Roi2isSplineFit()*
+13
+16
+19
+12*Ï
+64H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¥ ¥(ÒÏ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¥ ¥()
+%54ij.process.FloatPolygon":ij.gui.OvalRoi#getFloatPolygon4()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon4()“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java¥ ¥()
+pij.process.FloatPolygon"__id* 
+
+%54ij.process.FloatPolygon*
+46
+47
+59
+50
+53*É
+21H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (æã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java (
+%143void"7ij.io.RoiEncoder#saveStrokeWidthAndColor(Lij/gui/Roi;)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi2%saveStrokeWidthAndColor(Lij/gui/Roi;)*
+13
+16
+20
+12*Ò
+65H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java£ £(x
+v
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java£ £(
+pij.process.FloatPolygon"__id*
+""*
+63
+64*É
+22H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java€ €(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.java€ €(
+%142int"__id*
+""*
+13
+16
+21
+12*þ
+23H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaø ø(g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaø ø(
+%132int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaø ø('
+%133void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%132int*
+""2putFloat(IF)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaù ù(
+%134int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaù ù('
+%135void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%134int*
+""2putFloat(IF)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaú ú(
+%136int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaú ú('
+%137void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%136int*
+""2putFloat(IF)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaû û(
+%138int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaû û('
+%139void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%138int*
+""2putFloat(IF)g
+e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaü ü("
+%140int"__id*
+""¶³
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiEncoder.javaü ü(0
+%141void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%140int*
+""2putFloat(IF)*
+22:
+roi
+ij.gui.Roi:
+fjava.io.OutputStreamB
+ij.io.RoiEncoder

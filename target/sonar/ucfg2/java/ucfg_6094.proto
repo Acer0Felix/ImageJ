@@ -1,0 +1,42 @@
+
+*ij.measure.Minimizer#belowErrorLimit(DDD)ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java‹ ‹(#"3*«
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java› ›(%ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java›& ›(@
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaﬁ- ﬁ(>
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaﬁ? ﬁ(O
+%2double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""¨
+©
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaﬁ$ ﬁ(P
+%3double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+
+%1double*
+
+%2double*
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaﬂ ﬂ(@"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaﬂ ﬂ(@
+"":
+"":
+"":
+""B
+ij.measure.Minimizer

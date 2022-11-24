@@ -1,0 +1,37 @@
+
+2ij.plugin.FITS_Writer#eighty(Ljava/lang/String;)[CM
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java’ ’("10*„
+7M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java– –(§¤
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java– –(
+
+%1char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)*
+7
+1*è
+10M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java“ “(l
+j
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java“ “(
+cchar[]"__id*
+""œ™
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.java” ”(	
+%0int"java.lang.String#length()I*
+
+sjava.lang.String2length()*
+7
+1*²
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.javaš	 š(
+"^
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Writer.javaš š(
+
+cchar[]:
+sjava.lang.StringB
+ij.plugin.FITS_Writer

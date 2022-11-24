@@ -1,0 +1,22 @@
+
+@ij.process.ImageProcessor#getFontMetrics()Ljava/awt/FontMetrics;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¢ ¢(""1*§
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java£ £(°
+­
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java£ £(
+
+%0void"-ij.process.ImageProcessor#setupFontMetrics()V*
+ij.process.ImageProcessor¨
+¥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¤	 ¤(
+%1java.awt.FontMetrics"__id*.*,
+ij.process.ImageProcessor"
+fontMetrics"q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¤ ¤(
+
+%1java.awt.FontMetricsB
+ij.process.ImageProcessor

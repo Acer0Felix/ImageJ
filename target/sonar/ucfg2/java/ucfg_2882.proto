@@ -1,0 +1,119 @@
+
+Aij.plugin.filter.Filters#setup(Ljava/lang/String;Lij/ImagePlus;)IN
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java ("8*Ú
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (óî
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (!
+%5boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+1*Ô
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (úô
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (
+
+%4void"ij.ImagePlus#resetRoi()V*
+
+impij.ImagePlus2
+resetRoi()s
+q
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (
+roi
+ij.gui.Roi"__id*
+""*
+3
+1*¥
+6N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java* (-”–
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java* (>
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+invert2equals(Ljava/lang/Object;)*	
+3
+5
+1*î
+7N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (©¶
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()
+}
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roiôñ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (	
+%1int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (&	
+%2int"__id*
+""*	
+3
+6
+1*è
+8N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (ô
+ñ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (#
+ij.plugin.filter.Filters"
+arg"__id*
+
+argjava.lang.Stringï
+í
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (#
+ij.plugin.filter.Filters"
+imp"__id*
+
+impij.ImagePlus*
+7
+1*§
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java" (*	
+%6int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java+ (2	
+%7int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java3 (C	
+%8int"__id*
+""≠
+™
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (D	
+%9int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filters.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Filters

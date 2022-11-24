@@ -1,0 +1,72 @@
+
+9ij.plugin.frame.SyncWindows#synced(Lij/gui/ImageWindow;)ZS
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaå å("4"5*∑
+2S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaë
+ ë("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaë ë(
+""*º
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaè è(Õ 
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaè è('
+%1ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+sourceij.gui.ImageWindow2getImagePlus()â
+Ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaè è((
+impij.ImagePlus"__id*
+
+%1ij.ImagePlus*
+2
+1*∑
+4S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaé
+ é("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaé é(
+""*Ö
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç(¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç(
+%0java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwins*
+3
+4*Ø
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí	 í(¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí	 í(
+%2java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsöó
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí( í(3	
+%3int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()∆
+√
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí í(4
+%4java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+	
+%3intÍÁ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí	 í(5
+%5boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%2java.util.Vector*
+
+%4java.lang.Integer2contains(Ljava/lang/Object;)"]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí í(6
+"":
+sourceij.gui.ImageWindowB
+ij.plugin.frame.SyncWindows

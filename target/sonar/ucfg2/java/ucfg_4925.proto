@@ -1,0 +1,112 @@
+
+/ij.io.RoiDecoder#getRoiName()Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaü ü("12*ú
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‰ ‰(¢Ÿ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‰ ‰('	
+%7int"ij.io.RoiDecoder#getShort(I)I*
+ij.io.RoiDecoder*
+""2getShort(I)*
+3
+1*Á
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‡ ‡(j
+h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‡ ‡(!
+namechar[]"__id*
+""*
+3
+1*¹
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java†
+ †("j
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java† †(
+
+fileNamejava.lang.String*¹
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java„
+ „("j
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java„ „(
+
+fileNamejava.lang.String*é
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java (e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java! (,	
+%3int"__id*
+""ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java (-	
+%4int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‚! ‚(,	
+%5int"__id*
+""ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‚ ‚(-	
+%6int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)*	
+5
+6
+8*º
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java€
+ €("j
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java€ €(
+
+fileNamejava.lang.String*
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaý ý(‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaý ý(
+%0java.lang.String"__id**
+ij.io.RoiDecoder"
+name‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaý ý(
+fileNamejava.lang.String"__id*
+
+%0java.lang.Stringe
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaþ þ((	
+%1int"__id*
+""£ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaþ þ()	
+%2int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+	
+%1int2	getInt(I)*
+10
+11*Ë
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŠ Š(vt
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŠ Š(
+%8java.lang.String"java.lang.String
+š
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŠ	 Š(
+%9"java.lang.String#<init>([C)V*
+
+%8java.lang.String*
+
+namechar[]"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŠ Š(
+
+%8java.lang.StringB
+ij.io.RoiDecoder

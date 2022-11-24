@@ -1,0 +1,39 @@
+
+Nij.gui.PlotDialog#lastCheckboxAdded(Lij/gui/GenericDialog;)Ljava/awt/Checkbox;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java¢
+ ¢("1*’
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £(Õ 
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £((
+%0java.util.Vector"6ij.gui.GenericDialog#getCheckboxes()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getCheckboxes()é
+ã
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java£ £()
+
+checkboxesjava.util.Vector"__id*
+
+%0java.util.Vectorùö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java§# §(4	
+%1int"java.util.Vector#size()I* 
+
+
+checkboxesjava.util.Vector2size()ú
+ô
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java§ §(9
+%2java.lang.Object"
+__arrayGet* 
+
+
+checkboxesjava.util.Vector*
+"""e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotDialog.java§ §(;
+
+%2java.lang.Object:
+gdij.gui.GenericDialogB
+ij.gui.PlotDialog

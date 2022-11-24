@@ -1,0 +1,159 @@
+
+Dij.plugin.HyperStackReducer#reduce(Lij/gui/Overlay;)Lij/gui/Overlay;S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÉ É("29*ø
+2S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaï ï(ﬂ‹
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaï ï((
+%13void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*æ
+14S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaè è(›⁄
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaè è(.
+%10void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*ª
+26S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaâ â(⁄◊
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaâ â(0
+
+%7void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*2*
+""*2*
+""2crop(IIIIII)*
+1*Ω
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaì ì(›⁄
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaì ì(,
+%12void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*2*
+""2crop(IIIIII)*
+1*ª
+18S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaç ç(⁄◊
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaç ç(2
+
+%9void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*2*
+""*
+""*
+""2crop(IIIIII)*
+1*õ
+29S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(ú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(
+%0ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp£†
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(	
+%1int"ij.ImagePlus#getChannel()I*
+
+%0ij.ImagePlus2getChannel()ú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÖ Ö(
+%2ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impüú
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÖ Ö(	
+%3int"ij.ImagePlus#getSlice()I*
+
+%2ij.ImagePlus2
+getSlice()ú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÜ Ü(
+%4ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impüú
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaÜ Ü(	
+%5int"ij.ImagePlus#getFrame()I*
+
+%4ij.ImagePlus2
+getFrame()ƒ¡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaá á((
+%6ij.gui.Overlay"*ij.gui.Overlay#duplicate()Lij/gui/Overlay;*
+
+overlayij.gui.Overlay2duplicate()í
+è
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaá á()
+overlay2ij.gui.Overlay"__id*
+
+%6ij.gui.Overlay*
+2
+14
+26
+6
+18
+10
+22
+1*æ
+10S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaë ë(›⁄
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaë ë(,
+%11void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*2*
+""*
+""*
+""2crop(IIIIII)*
+1*ª
+22S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaã ã(⁄◊
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaã ã(2
+
+%8void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*
+""*
+""*2*
+""2crop(IIIIII)*
+1*Õ
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javañ	 ñ("s
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javañ ñ(
+
+overlay2ij.gui.Overlay:
+overlayij.gui.OverlayB
+ij.plugin.HyperStackReducer

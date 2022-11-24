@@ -1,0 +1,49 @@
+
+6ij.gui.PointRoi#getPointRoiInstance()Lij/gui/PointRoi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaá á(,"5*¬
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaç ç("^
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaç ç(
+
+roi
+ij.gui.Roi*ó
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä(¢Ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()x
+v
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+2
+1*ý
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaâ â(¨
+¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaâ â(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager|
+z
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaâ â(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+4
+1*Ÿ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê	 ê("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê ê(
+""B"
+ij.gui.PointRoi

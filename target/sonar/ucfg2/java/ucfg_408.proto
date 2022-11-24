@@ -1,0 +1,486 @@
+
+>ij.plugin.ZAxisProfiler#getHyperstackProfile(Lij/gui/Roi;DD)[FO
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaë ë(%"42*ë
+15O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java∂% ∂(*ß§
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java∂% ∂(6
+%39boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+2
+8
+9
+11
+1*ˇ
+38O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaö ö(ù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaö ö(
+%10java.lang.String"__id*(*&
+ij.plugin.ZAxisProfiler"	
+options*
+30
+33*»
+16O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaµ µ(ï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaµ µ(
+%37ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impµ≤
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaµ µ(#
+%38ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%37ij.ImagePlus2
+getStack()ä
+á
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaµ µ($
+stackij.ImageStack"__id*
+
+%38ij.ImageStack*
+2
+15
+8
+9
+11
+1*∞
+17O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≥ ≥("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≥ ≥(
+""*ﬁ
+28O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java• •(%ù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java• •(%
+%24java.lang.String"__id*(*&
+ij.plugin.ZAxisProfiler"	
+options‡›
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java• •(3
+%25boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%24java.lang.String*
+z2"contains(Ljava/lang/CharSequence;)*
+23*ê
+18O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≤ ≤(Æ
+´
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≤ ≤(
+%36boolean")ij.plugin.filter.Analyzer#resetCounter()Z*"
+ij.plugin.filter.Analyzer*
+16
+17*Œ
+19O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaØ Ø(Om
+k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java∞ ∞(
+
+%35int"__id*
+""*
+16
+18*Ø
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java…	 …("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java… …(
+""*∏
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java» »(‹Ÿ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java» »(
+%52void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*	
+Results2show(Ljava/lang/String;)*
+1*§	
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¬ ¬(‡›
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¬ ¬(
+%49void"/ij.process.ImageProcessor#setRoi(Lij/gui/Roi;)V*!
+
+ipij.process.ImageProcessor*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)ﬂ
+‹
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java√ √(O!
+%50ij.process.ImageStatistics"zij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration§
+°
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java√ √(P#
+statsij.process.ImageStatistics"__id*#
+!
+%50ij.process.ImageStatisticsœÃ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaƒ ƒ(#
+%51void"Pij.plugin.filter.Analyzer#saveResults(Lij/process/ImageStatistics;Lij/gui/Roi;)V*'
+%
+analyzerij.plugin.filter.Analyzer*%
+#
+statsij.process.ImageStatistics*
+
+roi
+ij.gui.Roi25saveResults(Lij/process/ImageStatistics;Lij/gui/Roi;)*
+2
+8
+9
+11
+1*Æ
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¡ ¡(m
+k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¡. ¡(J
+
+%47int"__id*
+""„‡
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¡ ¡(K
+%48void",ij.process.ImageProcessor#setThreshold(DDI)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+
+
+%47int2setThreshold(DDI)*
+5*÷
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaø ø(„‡
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaø ø(0 
+%45ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaø ø(1
+ipij.process.ImageProcessor"__id*"
+ 
+%45ij.process.ImageProcessorp
+n
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¿ ¿(0
+%46double"__id*
+""*
+5
+6*π
+8O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaæ æ(ï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaæ æ(
+%43ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp≈¬
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaæ æ(&
+
+%44int" ij.ImagePlus#getStackIndex(III)I*
+
+%43ij.ImagePlus*
+""*
+""*
+""2getStackIndex(III)*
+7*π
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaº º(ï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaº º(
+%41ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp≈¬
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaº º(&
+
+%42int" ij.ImagePlus#getStackIndex(III)I*
+
+%41ij.ImagePlus*
+""*
+""*
+""2getStackIndex(III)*
+7*ˇ
+30O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java§ §(ù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java§ §(
+%23java.lang.String"__id*(*&
+ij.plugin.ZAxisProfiler"	
+options*
+28
+23*‘
+42O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaí í(î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaí í(
+%0ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impüú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaí í(	
+%1int"ij.ImagePlus#getNSlices()I*
+
+%0ij.ImagePlus2getNSlices()î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaì ì(
+%2ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impüú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaì ì(	
+%3int"ij.ImagePlus#getNFrames()I*
+
+%2ij.ImagePlus2getNFrames()î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaî
+ î(
+%4ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impìê
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaî
+ î(	
+%5int"ij.ImagePlus#getC()I*
+
+%4ij.ImagePlus2getC()î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaï
+ ï(
+%6ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impìê
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaï
+ ï(	
+%7int"ij.ImagePlus#getZ()I*
+
+%6ij.ImagePlus2getZ()î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javañ
+ ñ(
+%8ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impìê
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javañ
+ ñ(	
+%9int"ij.ImagePlus#getT()I*
+
+%8ij.ImagePlus2getT()*
+38* 
+20O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaØ; Ø(Gm
+k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaØI Ø(N
+
+%34int"__id*
+""*
+19*ñ	
+31O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java° °(‘—
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java° °(
+%18java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java° °(%
+ij.plugin.ZAxisProfiler"
+choice"__id*
+
+%18java.lang.Stringú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¢ ¢(
+%19java.lang.String"__id*'*%
+ij.plugin.ZAxisProfiler"
+choiceü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¢ ¢(&
+%20java.lang.String[]"__id*(*&
+ij.plugin.ZAxisProfiler"	
+choicesö
+ó
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¢ ¢()
+%21java.lang.String"
+__arrayGet*
+
+%20java.lang.String[]*2 ‰·
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¢ ¢(*
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%19java.lang.String*
+
+%21java.lang.String2equals(Ljava/lang/Object;)*
+30*∞
+32O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java† †("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java† †(
+""*—
+33O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaõ õ(áÑ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaú ú('
+%11ij.gui.GenericDialog"ij.gui.GenericDialog∫
+∑
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaú ú(3
+%12"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%11ij.gui.GenericDialog*
+
+Profilerï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaú ú(4
+gdij.gui.GenericDialog"__id*
+
+%11ij.gui.GenericDialogü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaù ù("
+%13java.lang.String[]"__id*(*&
+ij.plugin.ZAxisProfiler"	
+choicesú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaù$ ù(*
+%14java.lang.String"__id*'*%
+ij.plugin.ZAxisProfiler"
+choice‚ﬂ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaù ù(+
+%15void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Profile*
+
+%13java.lang.String[]*
+
+%14java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)±Æ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaû û(
+%16void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()∂≥
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaü ü(
+%17boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+31
+32*ı
+11O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaπ π(ï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaπ π(
+%40void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""*
+8
+9*≈
+23O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java™ ™(!ï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java´ ´(
+%26ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp”–
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java´ ´((
+%27ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%26ij.ImagePlus2getCalibration()ö
+ó
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java´ ´()
+calij.measure.Calibration"__id*
+
+%27ij.measure.Calibrationçä
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¨ ¨($
+%28ij.measure.ResultsTable"ij.measure.ResultsTable†
+ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¨ ¨(&
+%29"!ij.measure.ResultsTable#<init>()V* 
+
+%28ij.measure.ResultsTableõ
+ò
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java¨ ¨('
+rtij.measure.ResultsTable"__id* 
+
+%28ij.measure.ResultsTableï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≠# ≠(&
+%30ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impëé
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≠ ≠(" 
+%31ij.plugin.filter.Analyzer"ij.plugin.filter.AnalyzerÉ
+Ä
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≠ ≠(+
+%32"Jij.plugin.filter.Analyzer#<init>(Lij/ImagePlus;Lij/measure/ResultsTable;)V*"
+ 
+%31ij.plugin.filter.Analyzer*
+
+%30ij.ImagePlus*
+
+rtij.measure.ResultsTable•
+¢
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java≠ ≠(,%
+analyzerij.plugin.filter.Analyzer"__id*"
+ 
+%31ij.plugin.filter.Analyzer≠
+™
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.javaÆ Æ(/
+
+%33int",ij.plugin.filter.Analyzer#getMeasurements()I*"
+ij.plugin.filter.Analyzer*
+19
+20:
+roi
+ij.gui.Roi:
+"":
+""B
+ij.plugin.ZAxisProfiler

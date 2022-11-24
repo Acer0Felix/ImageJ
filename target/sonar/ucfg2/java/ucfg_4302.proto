@@ -1,0 +1,63 @@
+
+?ij.plugin.FileInfoVirtualStack#getFileName(I)Ljava/lang/String;V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaö ö("4"1*Ω
+2V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù
+ ù(ß
+§
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù
+ ù(
+%2ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoü
+ú
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù
+ ù(
+%3ij.io.FileInfo"
+__arrayGet*
+
+%2ij.io.FileInfo[]*
+""ü
+ú
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù
+ ù(
+%4java.lang.String"__id*$*"
+
+%3ij.io.FileInfo"
+
+fileName"r
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù ù(
+
+%4java.lang.String*ç
+3V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaú  ú($ß
+§
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaú  ú($
+%1ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+info*
+2
+1*ç
+4V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaú ú(ß
+§
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaú ú(
+%0ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+info*
+3
+1*Ω
+1V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaü
+ ü("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaü ü(
+"":
+""B" 
+ij.plugin.FileInfoVirtualStack

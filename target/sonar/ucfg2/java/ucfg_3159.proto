@@ -1,0 +1,47 @@
+
+%ij.macro.Functions#drawPlotVectors()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java§ §("1*ª
+
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¨ ¨(®«
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¨ ¨(
+%0double[]"$ij.macro.Functions#getFirstArray()[D*
+ij.macro.Functions2getFirstArray()¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java© ©(
+%1double[]"#ij.macro.Functions#getNextArray()[D*
+ij.macro.Functions2getNextArray()¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª ª(
+%2double[]"#ij.macro.Functions#getNextArray()[D*
+ij.macro.Functions2getNextArray()¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java« «(
+%3double[]"#ij.macro.Functions#getLastArray()[D*
+ij.macro.Functions2getLastArray()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬ ¬(
+%4ij.gui.Plot"__id* *
+ij.macro.Functions"
+plotËÈ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬ ¬("
+
+%5void""ij.gui.Plot#drawVectors([D[D[D[D)V*
+
+%4ij.gui.Plot*
+""*
+""*
+""*
+""2drawVectors([D[D[D[D)j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java­	 ­(
+%6double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java­ ­(
+""B
+ij.macro.Functions

@@ -1,0 +1,158 @@
+
+Hij.macro.Interpreter#markChanges([Ljava/lang/String;)[Ljava/lang/String;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∑ ∑("10*„
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿ ¿(ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿ ¿( 
+%10java.lang.String"
+__arrayGet*
+
+newVarsjava.lang.String[]*
+""∂≥
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿ ¿(;
+%11java.lang.String"Ujava.lang.String#replaceFirst(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%10java.lang.String*
+\t*
+
+markerjava.lang.String22replaceFirst(Ljava/lang/String;Ljava/lang/String;)¨
+©
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿ ¿(;
+%12"
+__arraySet*#
+!
+hilitedVarsjava.lang.String[]*
+""*
+
+%11java.lang.String*
+8
+1*‘
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø ø(|
+z
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø ø(
+markerjava.lang.String"__id*
+\t\t*
+3*ì
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ? æ(Gô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ? æ(G
+%6java.lang.String[]"__id*&*$
+ij.macro.Interpreter"
+
+prevVarsô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ? æ(K
+%7java.lang.String"
+__arrayGet*
+
+%6java.lang.String[]*
+""û
+õ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæS æ(^
+%8java.lang.String"
+__arrayGet*
+
+newVarsjava.lang.String[]*
+""ﬁ€
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ? æ(_
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%7java.lang.String*
+
+%8java.lang.String2equals(Ljava/lang/Object;)*
+3
+4*ı
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ æ(ô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ  æ((
+%5java.lang.String[]"__id*&*$
+ij.macro.Interpreter"
+
+prevVars*
+3
+5*¿
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº º(û
+õ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº º(
+%2java.lang.String"
+__arrayGet*
+
+newVarsjava.lang.String[]*
+""®
+•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº º(
+%3"
+__arraySet*!
+
+	copyOfNewjava.lang.String[]*
+""*
+
+%2java.lang.String}
+{
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ Ω(
+markerjava.lang.String"__id*	
+\t*\tô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ æ(
+%4java.lang.String[]"__id*&*$
+ij.macro.Interpreter"
+
+prevVars*
+3
+7*ä
+10L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∏ ∏(~|
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ π(&
+%0java.lang.String[]"java.lang.String[]î
+ë
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ π('
+	copyOfNewjava.lang.String[]"__id*
+
+%0java.lang.String[]~|
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∫ ∫((
+%1java.lang.String[]"java.lang.String[]ñ
+ì
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∫ ∫()!
+hilitedVarsjava.lang.String[]"__id*
+
+%1java.lang.String[]*
+8
+1*È
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬(†
+ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬($
+ij.macro.Interpreter"
+
+prevVars"__id*!
+
+	copyOfNewjava.lang.String[]"s
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java√ √(#
+!
+hilitedVarsjava.lang.String[]:
+newVarsjava.lang.String[]B
+ij.macro.Interpreter

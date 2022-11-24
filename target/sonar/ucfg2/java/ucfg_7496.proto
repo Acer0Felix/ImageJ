@@ -1,0 +1,42 @@
+
+/ij.text.TextPanel#getCell(II)Ljava/lang/String;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÒ Ò("2"1*£
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÛ
+ Û("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÛ Û(
+""*ô
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ Ù(ç
+ä
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ Ù(
+%0ij.text.TextCanvas"__id**
+ij.text.TextPanel"
+tcπ∂
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ Ù(,
+%1char[]"!ij.text.TextCanvas#getChars(II)[C*
+
+%0ij.text.TextCanvas*
+""*
+""2getChars(II)wu
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ Ù(
+%2java.lang.String"java.lang.Stringú
+ô
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ	 Ù(-
+%3"java.lang.String#<init>([C)V*
+
+%2java.lang.String*
+
+%1char[]"e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÙ Ù(.
+
+%2java.lang.String:
+"":
+""B
+ij.text.TextPanel

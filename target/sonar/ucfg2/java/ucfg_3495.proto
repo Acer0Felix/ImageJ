@@ -1,0 +1,23 @@
+
+&ij.io.RandomAccessStream#readDouble()DP
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java¤ ¤(""1*–
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java¥ ¥(±®
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java¥' ¥(1
+
+%0long"$ij.io.RandomAccessStream#readLong()J*
+ij.io.RandomAccessStream2
+readLong()®
+«
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java¥ ¥(2
+%1double"%java.lang.Double#longBitsToDouble(J)D*"
+java.lang.Double*
+
+
+%0long"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java¥ ¥(3
+""B
+ij.io.RandomAccessStream

@@ -1,0 +1,293 @@
+
+'ij.measure.CurveFitter#getNumParams(I)IN
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaå å("2*Æ
+13N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaò ò(("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaò ò((
+""*Æ
+14N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaó ó(2"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaó) ó(2
+""*Æ
+15N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javañ ñ(3"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javañ* ñ(3
+""*Æ
+16N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaï ï("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaï ï(
+""*Æ
+17N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaî î("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaî î(
+""*Æ
+18N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaì ì("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaì ì(
+""*Æ
+19N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaí í("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaí í(
+""*≠
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java§	 §(
+"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java§ §(
+""*µ
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaç
+ ç(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaé é(	
+%0int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaè è(	
+%1int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaê ê(	
+%2int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaë ë(	
+%3int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaí í(	
+%4int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaì ì(	
+%5int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaî î(	
+%6int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaï ï(	
+%7int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javañ ñ(	
+%8int"__id*
+""k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javañ ñ((	
+%9int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaó ó(
+
+%10int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaó ó($
+
+%11int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaò ò(
+
+%12int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaô ô(
+
+%13int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaö ö(
+
+%14int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ õ(
+
+%15int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaú ú(
+
+%16int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaù ù(
+
+%17int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaû û(
+
+%18int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü ü(
+
+%19int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü ü(
+
+%20int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü% ü(0
+
+%21int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü7 ü(G
+
+%22int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java† †(
+
+%23int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °(
+
+%24int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °((
+
+%25int"__id*
+""l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¢ ¢(
+
+%26int"__id*
+""*P
+13
+14
+15
+16
+17
+18
+19
+1
+3
+4
+5
+6
+7
+8
+9
+20
+10
+21
+11
+22
+12
+23*≠
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¢ ¢("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¢ ¢(
+""*≠
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °(3"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java°* °(3
+""*≠
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java† †( "X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java† †( 
+""*≠
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü ü(R"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaüI ü(R
+""*≠
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaû û(""X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaû û("
+""*≠
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaù ù("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaù ù(
+""*≠
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaú ú("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaú ú(
+""*Æ
+20N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaë ë("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaë ë(
+""*Æ
+10N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ õ($"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ õ($
+""*Æ
+21N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaê ê("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaê ê(
+""*Æ
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaö ö("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaö ö(
+""*Æ
+22N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaè è("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaè è(
+""*Æ
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaô ô("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaô ô(
+""*Æ
+23N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaé é( "X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaé é( 
+"":
+""B"
+ij.measure.CurveFitter

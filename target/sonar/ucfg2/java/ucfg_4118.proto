@@ -1,0 +1,89 @@
+
+=ij.gui.PointRoi#getClosestPoint(DDLij/process/FloatPolygon;)IG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ Ú("startingBlock*¸
+13G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı* ı(-Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı* ı(-
+%2ij.ImagePlus"__id**
+ij.gui.PointRoi"
+impõò
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı* ı(<	
+%3int"ij.ImagePlus#getStackSize()I*
+
+%2ij.ImagePlus2getStackSize()*
+11
+12*Ñ
+startingBlockG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ Ú(Gõ
+ò
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÒ Ò(
+
+%8"
+__annotate*
+java.lang.Override*#
+!
+pointsij.process.FloatPolygonÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ@ Ú(F!
+pointsij.process.FloatPolygon"__annotation*
+
+%8*
+15*«
+15G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÛ Û(g
+e
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÙ Ù($
+%0double"__id*
+""Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı ı(
+%1ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp*
+13
+11*Ω
+11G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaıU ı(Vi
+g
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaıU ı(V	
+%4int"__id*
+	
+%6int*
+1*Ë
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı? ı(BÑ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı? ı(B
+%7ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp°û
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı? ı(T	
+%5int"ij.ImagePlus#getCurrentSlice()I*
+
+%7ij.ImagePlus2getCurrentSlice()i
+g
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı? ı(T	
+%4int"__id*
+	
+%5int*
+1*ü
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÅ	 Å("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÅ Å(
+"":
+"":
+"":!
+pointsij.process.FloatPolygonB
+ij.gui.PointRoi

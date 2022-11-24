@@ -1,0 +1,33 @@
+
+Fij.process.ImageProcessor#convertToShort(Z)Lij/process/ImageProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaþ þ(%"1*Þ
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÿ' ÿ(+
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÿ ÿ(&
+%0ij.process.TypeConverter"ij.process.TypeConverterå
+â
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÿ ÿ(7
+%1">ij.process.TypeConverter#<init>(Lij/process/ImageProcessor;Z)V* 
+
+%0ij.process.TypeConverter*
+ij.process.ImageProcessor*
+""ž
+›
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÿ ÿ(8
+tcij.process.TypeConverter"__id* 
+
+%0ij.process.TypeConverterñî
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java€	 €(
+%2ij.process.ImageProcessor"Dij.process.TypeConverter#convertToShort()Lij/process/ImageProcessor;* 
+
+tcij.process.TypeConverter2convertToShort()"v
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java€ €(!
+
+%2ij.process.ImageProcessor:
+""B
+ij.process.ImageProcessor

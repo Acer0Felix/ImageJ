@@ -1,0 +1,30 @@
+
+#ij.gui.Overlay$1#next()Lij/gui/Roi;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java∑ ∑("3*ƒ
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaπ π(òï
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaπ π( 
+%1
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+""*
+""2get(I)"\
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaπ π(!
+
+%1
+ij.gui.Roi*“
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java∏ ∏(}{
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java∏ ∏(	
+%0int"ij.gui.Overlay#size()I*
+""2size()*
+2
+1*ù
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaª ª("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaª ª(
+""B
+ij.gui.Overlay$1

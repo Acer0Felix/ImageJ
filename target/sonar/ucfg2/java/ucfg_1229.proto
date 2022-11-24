@@ -1,0 +1,16 @@
+
+:ij.io.LogStream#getCurrentOutStream()Ljava/io/PrintStream;E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/LogStream.javaV V(."1*Ë
+1E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/LogStream.javaW	 W(˜
+•
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/LogStream.javaW	 W(
+%0java.io.PrintStream"__id*+*)
+ij.io.LogStream"
+temporarySystemOut"d
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/LogStream.javaW W(
+
+%0java.io.PrintStreamB"
+ij.io.LogStream

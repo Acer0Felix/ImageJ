@@ -1,0 +1,199 @@
+
+*ij.ImageJ#ignoreArrowKeys(Lij/ImagePlus;)ZA
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java› ›( "21*î
+13A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‰
+ ‰("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‰ ‰(
+""*î
+16A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java·
+ ·("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java· ·(
+""*•
+17A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‡ ‡(Õ 
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‡ ‡(0
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+titlejava.lang.String*
+ROI Manager2equals(Ljava/lang/Object;)*
+13
+16
+12*ÿ
+18A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ(3Ä
+~
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ(3
+titlejava.lang.String"__id*
+
+%1java.lang.String*
+13
+17
+12*∆
+19A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ. ﬂ(2w
+u
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ. ﬂ(2
+%1java.lang.String"__id*
+
+%3
+<nulltype>*
+18*ì
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÓ	 Ó("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÓ Ó(
+""*ì
+2A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ
+ Ì("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ Ì(
+""*ä
+3A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÏ+ Ï(.µ≤
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÏ+ Ï(9
+%12java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+winij.gui.ImageWindow2
+getClass()±Æ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÏ+ Ï(C
+%13java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%12java.lang.Class2	getName()Õ 
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÏ+ Ï(V
+%14boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%13java.lang.String*
+loci2startsWith(Ljava/lang/String;)*
+2
+1*•
+5A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÍ Í(≥∞
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÍ Í(#
+%10ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()Ñ
+Å
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÍ Í($
+winij.gui.ImageWindow"__id*
+
+%10ij.gui.ImageWindowóî
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÏ Ï(
+
+%11int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+3
+1*ì
+6A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ
+ È("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ È(
+""*õ
+7A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaË Ë( «
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaË Ë(-
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+titlejava.lang.String*
+
+Channels2equals(Ljava/lang/Object;)*
+5
+6*—
+8A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ Á(SÄ
+~
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ Á(S
+titlejava.lang.String"__id*
+
+%6java.lang.String*
+5
+7*ƒ
+9A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁO Á(Sw
+u
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁO Á(S
+%6java.lang.String"__id*
+
+%8
+<nulltype>*
+8*Å
+20A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ("≤Ø
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ(-
+%2java.lang.String"+java.awt.Frame#getTitle()Ljava/lang/String;*
+
+framejava.awt.Frame2
+getTitle()}
+{
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ(-
+%1java.lang.String"__id*
+
+%2java.lang.String*
+18*˜
+21A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬁ ﬁ(•
+¢
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬁ ﬁ(.
+%0java.awt.Frame"1ij.WindowManager#getFrontWindow()Ljava/awt/Frame;*"
+ij.WindowManager|
+z
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬁ ﬁ(/
+framejava.awt.Frame"__id*
+
+%0java.awt.Frame*
+19
+20*É
+10A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ< Á(Bµ≤
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ3 Á(N
+%7java.lang.String",java.awt.Dialog#getTitle()Ljava/lang/String;*
+
+windowjava.awt.Window2
+getTitle()}
+{
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ3 Á(N
+%6java.lang.String"__id*
+
+%7java.lang.String*
+8*¸
+12A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ Ê(®
+•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ Ê(1
+%5java.awt.Window"3ij.WindowManager#getActiveWindow()Ljava/awt/Window;*"
+ij.WindowManager
+}
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ Ê(2
+windowjava.awt.Window"__id*
+
+%5java.awt.Window*
+9
+10:
+impij.ImagePlusB
+	ij.ImageJ

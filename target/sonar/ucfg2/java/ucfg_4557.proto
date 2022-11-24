@@ -1,0 +1,224 @@
+
+Tij.plugin.filter.FFTCustomFilter#newFHT(Lij/process/ImageProcessor;)Lij/process/FHT;V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaV V("7*´
+
+2V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah6 h(:
+%19java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah> h(B
+%20java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect˚¯
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(E 
+%21ij.process.ImageProcessor"aij.plugin.filter.FFTFilter#tileMirror(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;*)
+'
+	fftFilterij.plugin.filter.FFTFilter*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2+tileMirror(Lij/process/ImageProcessor;IIII)Å
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(
+%22ij.process.FHT"ij.process.FHT‘
+—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah	 h(F
+%23"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%22ij.process.FHT*"
+ 
+%21ij.process.ImageProcessorë
+é
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(F
+fhtij.process.FHT"__id*
+
+%22ij.process.FHT*
+1*¯
+3V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javac c(ãà
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javac c(&
+%11void"@ij.plugin.filter.FFTCustomFilter#showStatus(Ljava/lang/String;)V*$"
+ ij.plugin.filter.FFTCustomFilter*
+Extracting brightness2showStatus(Ljava/lang/String;)˜Ù
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javad d(< 
+%12ij.process.FloatProcessor"Dij.process.ColorProcessor#getBrightness()Lij/process/FloatProcessor;*!
+
+ipij.process.ImageProcessor2getBrightness()ß
+§
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javad d(= 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%12ij.process.FloatProcessor¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae7 e(;
+%13java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae? e(C
+%14java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect¸˘
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(F 
+%15ij.process.ImageProcessor"aij.plugin.filter.FFTFilter#tileMirror(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;*)
+'
+	fftFilterij.plugin.filter.FFTFilter*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+""*
+""2+tileMirror(Lij/process/ImageProcessor;IIII)Å
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(
+%16ij.process.FHT"ij.process.FHT‘
+—
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae	 e(G
+%17"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%16ij.process.FHT*"
+ 
+%15ij.process.ImageProcessorë
+é
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(G
+fhtij.process.FHT"__id*
+
+%16ij.process.FHTÔÏ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaf f(+ 
+%18ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2duplicate()•
+¢
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaf f(+
+
+fhtij.process.FHT"
+rgb"__id*"
+ 
+%18ij.process.ImageProcessor*
+1*◊
+4V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](´
+®
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](
+%3java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectù
+ö
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](,
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""´
+®
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java^ ^(
+%5java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectù
+ö
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java^ ^(-
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""´
+®
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java_ _(
+%7java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect´
+®
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java` `(
+%8java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectôñ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a(% 
+%9ij.plugin.filter.FFTFilter"ij.plugin.filter.FFTFilter¨
+©
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a('
+%10"$ij.plugin.filter.FFTFilter#<init>()V*"
+ 
+%9ij.plugin.filter.FFTFilterÆ
+´
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a(('
+	fftFilterij.plugin.filter.FFTFilter"__id*"
+ 
+%9ij.plugin.filter.FFTFilter*
+2
+3*á
+7V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaW W(
+
+}
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaW W(
+
+fhtij.process.FHT"__id*
+""ºπ
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaX X(	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()æª
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaY Y(	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()£
+†
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaZ Z($	
+%2int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""*
+4*£
+1V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javai i(•
+¢
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javak k(
+%24ij.ImagePlus"__id*-*+"
+ ij.plugin.filter.FFTCustomFilter"
+imp™ß
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javak k(*
+
+%25int"ij.ImagePlus#getBitDepth()I*
+
+%24ij.ImagePlus2getBitDepth()"q
+V
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javal l(
+
+fhtij.process.FHT:
+ipij.process.ImageProcessorB$"
+ ij.plugin.filter.FFTCustomFilter

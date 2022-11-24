@@ -1,0 +1,175 @@
+
+Kij.macro.Interpreter#compareStrings(Ljava/lang/String;Ljava/lang/String;I)DL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaá	 á	("2*Ï
+13L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javað	 ð	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javað	 ð	(
+%16double"__id*
+
+%17double*
+1*Í
+24L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaç	 ç	(t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaç	 ç	(
+%7double"__id*
+
+%9double*
+1*Í
+25L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaç	 ç	(t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaç	 ç	(
+%7double"__id*
+
+%8double*
+1*Ï
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaí	 í	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaí	 í	(
+%13double"__id*
+
+%15double*
+1*Ï
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaí	 í	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaí	 í	(
+%13double"__id*
+
+%14double*
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaù		 ù	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaù	 ù	(
+""*û
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaâ	 â	(ôñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaã	 ã	(%	
+%0int"9java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I*
+
+s1java.lang.String*
+
+s2java.lang.String2'compareToIgnoreCase(Ljava/lang/String;)i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ	 æ	(
+	
+%1int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaé	 é	(	
+%2int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaì	 ì	(
+	
+%3int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaï	 ï	(	
+%4int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò	 ò	(
+	
+%5int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaõ	 õ	(	
+%6int"__id*
+""*/
+13
+24
+25
+16
+17
+1
+4
+5
+8
+9
+20
+21
+12*Î
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö	 ö	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö	 ö	(
+%22double"__id*
+
+%24double*
+1*Î
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö	 ö	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaö	 ö	(
+%22double"__id*
+
+%23double*
+1*Î
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaó	 ó	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaó	 ó	(
+%19double"__id*
+
+%21double*
+1*Î
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaó	 ó	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaó	 ó	(
+%19double"__id*
+
+%20double*
+1*Ï
+20L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaê	 ê	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaê	 ê	(
+%10double"__id*
+
+%12double*
+1*Ï
+21L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaê	 ê	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaê	 ê	(
+%10double"__id*
+
+%11double*
+1*Ï
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javað	 ð	(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javað	 ð	(
+%16double"__id*
+
+%18double*
+1:
+s1java.lang.String:
+s2java.lang.String:
+""B
+ij.macro.Interpreter

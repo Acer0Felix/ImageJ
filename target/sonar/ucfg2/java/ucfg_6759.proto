@@ -1,0 +1,36 @@
+
+Dij.process.ColorProcessor#getBrightness()Lij/process/FloatProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.java˙ ˙($"3"1*ú
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÄ Ä(ª
+∏
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÑ	 Ñ(%
+%0float[]" java.awt.Color#RGBtoHSB(III[F)[F*"
+java.awt.Color*
+""*
+""*
+""*
+""*
+3
+1*…
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(!íè
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(
+%1ij.process.FloatProcessor"ij.process.FloatProcessor„
+‡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá	 á(<
+%2"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%1ij.process.FloatProcessor*
+""*
+""*
+""*
+"""v
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(=!
+
+%1ij.process.FloatProcessorB
+ij.process.ColorProcessor

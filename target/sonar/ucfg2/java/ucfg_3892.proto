@@ -1,0 +1,106 @@
+
+Cij.Menus#getStrippedPlugins([Ljava/lang/String;)[Ljava/lang/String;@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java—
+ —("6*˘
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ ÿ(í
+è
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ ÿ(
+%5java.lang.String"
+__arrayGet*
+
+pluginsjava.lang.String[]*
+""ì
+ê
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ2 ÿ(=
+%6java.lang.String"
+__arrayGet* 
+
+plugins2java.lang.String[]*
+""êç
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ2 ÿ(F	
+%7int"java.lang.String#length()I*
+
+%6java.lang.String2length()Õ 
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ ÿ(G
+%8java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+%5java.lang.String*
+""*
+	
+%7int2substring(II)õ
+ò
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ ÿ(G
+%9"
+__arraySet* 
+
+plugins2java.lang.String[]*
+""*
+
+%8java.lang.String*
+4
+1*ø
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java’ ’(í
+è
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java’ ’(
+%1java.lang.String"
+__arrayGet*
+
+pluginsjava.lang.String[]*
+""õ
+ò
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java’ ’(
+%2"
+__arraySet* 
+
+plugins2java.lang.String[]*
+""*
+
+%1java.lang.Stringì
+ê
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java÷ ÷(
+%3java.lang.String"
+__arrayGet* 
+
+plugins2java.lang.String[]*
+""£†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java÷ ÷(*	
+%4int" java.lang.String#lastIndexOf(I)I*
+
+%3java.lang.String*
+/2lastIndexOf(I)*	
+3
+4
+1*À
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java“! “((rp
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java“ “(0
+%0java.lang.String[]"java.lang.String[]á
+Ñ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java“ “(1
+plugins2java.lang.String[]"__id*
+
+%0java.lang.String[]*
+4
+1*´
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java⁄	 ⁄("d
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java⁄ ⁄( 
+
+plugins2java.lang.String[]:
+pluginsjava.lang.String[]B
+
+ij.Menus

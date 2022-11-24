@@ -1,0 +1,64 @@
+
+#ij.process.AutoThresholder#Yen([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java§	 §	("8"9"1*â
+5T
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	¬ Ô	(¯|
+z
+T
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	¬ Ô	(¯
+%3double"__id*
+
+%5double*	
+8
+9
+1*€
+6T
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	„ Ô	(ˆ›
+˜
+T
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	„ Ô	(ª
+%4double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""|
+z
+T
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	„ Ô	(ª
+%3double"__id*
+
+%4double*	
+8
+9
+1*Û
+8R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	S Ô	(Vz
+x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	S Ô	(V
+%0double"__id*
+
+%2double*
+5
+6*÷
+9R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	2 Ô	(6™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	2 Ô	(R
+%1double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""z
+x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÔ	2 Ô	(R
+%0double"__id*
+
+%1double*
+5
+6*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÚ		 Ú	("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÚ	 Ú	(
+"":
+""B
+ij.process.AutoThresholder

@@ -1,0 +1,91 @@
+
+@ij.plugin.filter.Binary#setup(Ljava/lang/String;Lij/ImagePlus;)IM
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java$ $("8*—
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java,8 ,(Ij
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java,8 ,(I	
+%6int"__id*
+"""W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java,1 ,(J
+""*“
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java,! ,(#¶³
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java, ,(/
+%5boolean"$ij.process.ByteProcessor#isBinary()Z*!
+
+ipij.process.ImageProcessor2
+isBinary()*
+2
+1*—
+4M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java+7 +(Hj
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java+7 +(H	
+%4int"__id*
+"""W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java+0 +(I
+""*Î
+5M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java*  *(#ÒÏ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java*  *(2
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()œ
+™
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java* *(3
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+3
+4*—
+6M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java)$ )(5j
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java)$ )(5	
+%2int"__id*
+"""W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java) )(6
+""*å
+8M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java% %(—
+”
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java% %("
+ij.plugin.filter.Binary"
+arg"__id*
+
+argjava.lang.String•
+’
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java& &(!
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""ÓÐ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java' '()
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+options2equals(Ljava/lang/Object;)*	
+5
+6
+1*«
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java. .("W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Binary.java. .(
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Binary

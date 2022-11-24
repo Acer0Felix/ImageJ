@@ -1,0 +1,68 @@
+
+.ij.gui.PlotContentsDialog#tableWindowExists()ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java≈ ≈(("7*Ä
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java« «(z
+x
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java« «(
+winjava.awt.Frame"__id*
+""†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java« «(
+winjava.awt.Frame"
+__arrayGet*
+
+windowsjava.awt.Frame[]*
+""*	
+2
+4
+1*≥
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java   ( "[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java   (!
+""*«
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java…# …(&‡›
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java… …(9
+%1ij.measure.ResultsTable"=ij.text.TextWindow#getResultsTable()Lij/measure/ResultsTable;*
+
+winjava.awt.Frame2getResultsTable()ú
+ô
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java… …(:
+rtij.measure.ResultsTable"__id*
+
+%1ij.measure.ResultsTable‰
+·
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java   (
+%2boolean"=ij.gui.PlotContentsDialog#isValid(Lij/measure/ResultsTable;)Z*"
+ij.gui.PlotContentsDialog*
+
+rtij.measure.ResultsTable*
+2
+3*∞
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(!º
+π
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(6
+%0java.awt.Frame[]"6ij.WindowManager#getNonImageWindows()[Ljava/awt/Frame;*"
+ij.WindowManagerì
+ê
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(7
+windowsjava.awt.Frame[]"__id*
+
+%0java.awt.Frame[]*
+2*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÕ	 Õ("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÕ Õ(
+""B"
+ij.gui.PlotContentsDialog

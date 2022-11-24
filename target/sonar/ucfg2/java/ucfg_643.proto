@@ -1,0 +1,43 @@
+
+Rij.process.ImageProcessor#getThresholdColorModel()Ljava/awt/image/IndexColorModel;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÕ Õ(1"5*±
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÖ Ö(p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÖ Ö(
+rbyte[]"__id*
+""p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java× ×(
+gbyte[]"__id*
+""p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaØ Ø(
+bbyte[]"__id*
+""*
+1*å
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÞ Þ(œ™
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaá á($
+%0java.awt.image.IndexColorModel"java.awt.image.IndexColorModelð
+í
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaá	 á(-
+%1"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%0java.awt.image.IndexColorModel*2*2€*
+
+rbyte[]*
+
+gbyte[]*
+
+bbyte[]"{
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaá á(.&
+$
+%0java.awt.image.IndexColorModelB
+ij.process.ImageProcessor

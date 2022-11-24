@@ -1,0 +1,37 @@
+
+4ij.gui.ShapeRoi#getCircularRoi(III)Lij/gui/ShapeRoi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÇ Ç("1*ð
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ" È(#qo
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(!
+%0ij.gui.OvalRoi"ij.gui.OvalRoi¨
+¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(M
+%1"ij.gui.OvalRoi#<init>(IIII)V*
+
+%0ij.gui.OvalRoi*
+""*
+""*
+""*
+""sq
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(
+%2ij.gui.ShapeRoi"ij.gui.ShapeRoiª
+§
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ	 È(N
+%3"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%2ij.gui.ShapeRoi*
+
+%0ij.gui.OvalRoi"b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(O
+
+%2ij.gui.ShapeRoi:
+"":
+"":
+""B"
+ij.gui.ShapeRoi

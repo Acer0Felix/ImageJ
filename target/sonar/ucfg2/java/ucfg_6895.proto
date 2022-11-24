@@ -1,0 +1,161 @@
+
+6ij.gui.PolygonRoi#getMask()Lij/process/ImageProcessor;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÍ	 Í	("11*«
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø	(ÕÒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø	(!
+%12void"+ij.process.PolygonFiller#setPolygon([I[II)V* 
+
+pfij.process.PolygonFiller*
+""*
+""*
+""2setPolygon([I[II)*
+1*ô
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÖ	 Ö	(—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÖ	$ Ö	(.
+%9double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()˜•
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÖ	2 Ö	(<
+%10double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()éæ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÖ	 Ö	(?
+%11void"-ij.process.PolygonFiller#setPolygon([F[FIDD)V* 
+
+pfij.process.PolygonFiller*
+""*
+""*
+""*
+""*
+""2setPolygon([F[FIDD)*
+1*ò
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÔ	 Ô	(—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÔ	1 Ô	(;
+%6double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÔ	? Ô	(I
+%7double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()èå
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÔ	 Ô	(L
+
+%8void"-ij.process.PolygonFiller#setPolygon([F[FIDD)V* 
+
+pfij.process.PolygonFiller*
+""*
+""*
+""*
+""*
+""2setPolygon([F[FIDD)*
+1*š
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÒ	 Ò	((ˆ…
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÒ	 Ò	(&
+%4ij.process.PolygonFiller"ij.process.PolygonFillerš
+—
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÒ	 Ò	((
+%5""ij.process.PolygonFiller#<init>()V* 
+
+%4ij.process.PolygonFiller–
+“
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÒ	 Ò	()
+pfij.process.PolygonFiller"__id* 
+
+%4ij.process.PolygonFiller*	
+2
+3
+5*À
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÑ	
+ Ñ	("p
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÑ	 Ñ	(#
+!
+maskij.process.ImageProcessor*Œ
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÐ	 Ð	(#³°
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÐ	 Ð	(/	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()*
+6
+7*Š
+9I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÐ	 Ð	(	±®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÐ	 Ð	(	
+%2int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()*
+6
+8*«
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÏ	 Ï	(ÑÎ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÏ	 Ï	($
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+maskij.process.ImageProcessor2getPixels()*
+6
+9*”
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÎ	 Î	("œ
+™
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÎ	 Î	("
+%0ij.process.ImageProcessor"__id*%*#
+ij.gui.PolygonRoi"
+
+cachedMaskš
+—
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÎ	 Î	(#!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+6
+10*ò
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÙ		 Ù	(ðí
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÙ		 Ù	(" 
+%13ij.process.ImageProcessor"?ij.process.PolygonFiller#getMask(II)Lij/process/ImageProcessor;* 
+
+pfij.process.PolygonFiller*
+""*
+""2getMask(II)›
+˜
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÙ	 Ù	("!
+maskij.process.ImageProcessor"__id*"
+ 
+%13ij.process.ImageProcessorž
+›
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÚ	 Ú	(#
+ij.gui.PolygonRoi"
+
+cachedMask"__id*#
+!
+maskij.process.ImageProcessor"p
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÛ	 Û	(#
+!
+maskij.process.ImageProcessorB
+ij.gui.PolygonRoi

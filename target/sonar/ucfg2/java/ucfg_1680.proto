@@ -1,0 +1,30 @@
+
+8ij.gui.Plot#getPlotObjectDeepClone(I)Lij/gui/PlotObject;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‰ ‰(""1*à
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÂ	 Â(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÂ	 Â(
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsè
+å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÂ	 Â(
+%1ij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""ª∏
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÂ	 Â(*
+%2ij.gui.PlotObject"0ij.gui.PlotObject#deepClone()Lij/gui/PlotObject;*
+
+%1ij.gui.PlotObject2deepClone()"`
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÂ Â(+
+
+%2ij.gui.PlotObject:
+""B
+ij.gui.Plot

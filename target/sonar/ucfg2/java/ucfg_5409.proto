@@ -1,0 +1,110 @@
+
+Bij.plugin.RoiRotator#rotateShape(Lij/gui/ShapeRoi;DDD)Lij/gui/Roi;J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javat t("1*å
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javau u(∑¥
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javau u(
+%0java.awt.Shape"*ij.gui.ShapeRoi#getShape()Ljava/awt/Shape;*
+
+roiij.gui.ShapeRoi2
+getShape()Ü
+É
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javau u(
+shapejava.awt.Shape"__id*
+
+%0java.awt.Shapeìê
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javav v(*#
+%1java.awt.geom.AffineTransform"java.awt.geom.AffineTransform•
+¢
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javav v(,
+%2"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%1java.awt.geom.AffineTransform°
+û
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javav v(-#
+atjava.awt.geom.AffineTransform"__id*%
+#
+%1java.awt.geom.AffineTransform”–
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javaw w($
+
+%3void"*java.awt.geom.AffineTransform#rotate(DDD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""*
+""2rotate(DDD)ºπ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javax x(
+%4java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roiij.gui.ShapeRoi2getBounds()ä
+á
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javax x( 
+rjava.awt.Rectangle"__id*
+
+%4java.awt.RectangleœÃ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javay y(
+
+%5void",java.awt.geom.AffineTransform#translate(DD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""2translate(DD)©¶
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javaz z(1
+%6java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+shapejava.awt.Shape2(createTransformedShape(Ljava/awt/Shape;)á
+Ñ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.javaz z(2
+shape2java.awt.Shape"__id*
+
+%6java.awt.Shapevt
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.java{ {(
+%7ij.gui.ShapeRoi"ij.gui.ShapeRoiµ
+≤
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.java{ {(!
+%8")ij.gui.ShapeRoi#<init>(Ljava/awt/Shape;)V*
+
+%7ij.gui.ShapeRoi*
+
+shape2java.awt.ShapeÅ
+
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.java{ {("
+roi2
+ij.gui.Roi"__id*
+
+%7ij.gui.ShapeRoi”–
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.java| |(
+
+%9void"(ij.gui.Roi#copyAttributes(Lij/gui/Roi;)V*
+
+roi2
+ij.gui.Roi*
+
+roiij.gui.ShapeRoi2copyAttributes(Lij/gui/Roi;)"b
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RoiRotator.java} }(
+
+roi2
+ij.gui.Roi:
+roiij.gui.ShapeRoi:
+"":
+"":
+""B"
+ij.plugin.RoiRotator

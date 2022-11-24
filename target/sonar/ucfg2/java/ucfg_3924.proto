@@ -1,0 +1,37 @@
+
+*ij.Menus#commandInUse(Ljava/lang/String;)Z@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(#"3*‘
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ
+ ÿ("J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÿ ÿ(
+""*ü
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaş ş(†
+ƒ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaş ş(
+%0java.util.Hashtable"__id**
+
+ij.Menus"
+pluginsTable£
+ 
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaş ş(
+%1java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+commandjava.lang.String*
+2
+1*‘
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java
+ ("J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java (
+"":
+commandjava.lang.StringB"
+
+ij.Menus

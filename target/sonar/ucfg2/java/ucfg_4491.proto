@@ -1,0 +1,41 @@
+
+"ij.gui.ShapeRoi#containsPoint(DD)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÊ Ê("3*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaË
+ Ë("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaË Ë(
+""*È
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÁ Á(í
+è
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÁ Á( 
+%0boolean"ij.gui.Roi#containsPoint(DD)Z*
+""*
+""*
+""*
+2
+1*‹
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ	 È(à
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ	 È(
+%1java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeØ¨
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ	 È(5
+%2boolean"java.awt.Shape#contains(DD)Z*
+
+%1java.awt.Shape*
+""*
+""2contains(DD)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(6
+"":
+"":
+""B
+ij.gui.ShapeRoi

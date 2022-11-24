@@ -1,0 +1,52 @@
+
+-ij.macro.Interpreter#isBatchModeRoiManager()ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÚ Ú(,"5*û
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ* Ù(0ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ* Ù(5
+%2ij.macro.Functions"__id***(
+
+interpij.macro.Interpreter"
+func•
+¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ* Ù(@ 
+%3ij.plugin.frame.RoiManager"__id***(
+
+%2ij.macro.Functions"
+
+roiManager*
+1*˚
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ Ù($ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ Ù(&
+%1boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+2
+1*∏
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÛ Û("¡
+æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÛ Û($
+%0ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreterï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÛ Û(%
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*	
+2
+4
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ Ù(G"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÙ Ù(G
+""B"
+ij.macro.Interpreter

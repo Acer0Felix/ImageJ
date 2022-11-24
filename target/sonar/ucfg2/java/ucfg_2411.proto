@@ -1,0 +1,93 @@
+
+:ij.process.AutoThresholder#getMethods()[Ljava/lang/String;P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java (""6*¼
+3P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java# #(£
+ 
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java# #(
+%4java.lang.String[]"__id*,**
+ij.process.AutoThresholder"
+
+mStringsÂ
+¿
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java# #('
+%5!ij.process.AutoThresholder$Method"
+__arrayGet*.
+,
+mVals#ij.process.AutoThresholder$Method[]*
+""ÉÆ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java# #(!
+%6java.lang.String"'java.lang.Enum#name()Ljava/lang/String;*)
+'
+%5!ij.process.AutoThresholder$Method2name()¥
+¢
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java# #(!
+%7"
+__arraySet*
+
+%4java.lang.String[]*
+""*
+
+%6java.lang.String*
+3
+1*Ë
+5P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java   (Œ
+‰
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java   ('
+%1!ij.process.AutoThresholder$Method"__id*
+""÷
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java   (#)
+%2#ij.process.AutoThresholder$Method[]"Nij.process.AutoThresholder$Method#values()[Lij/process/AutoThresholder$Method;*%"#
+!ij.process.AutoThresholder$Method¶
+³
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java   ($,
+mVals#ij.process.AutoThresholder$Method[]"__id*+
+)
+%2#ij.process.AutoThresholder$Method[]ƒ€
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java! !(&
+%3java.lang.String[]"java.lang.String[]£
+ 
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java! !(&*
+ij.process.AutoThresholder"
+
+mStrings"__id*
+
+%3java.lang.String[]*
+3
+1*ƒ
+6P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java (£
+ 
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java (
+%0java.lang.String[]"__id*,**
+ij.process.AutoThresholder"
+
+mStrings*
+5
+1*ë
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java%	 %(£
+ 
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java%	 %(
+%8java.lang.String[]"__id*,**
+ij.process.AutoThresholder"
+
+mStrings"n
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java% %(
+
+%8java.lang.String[]B"
+ij.process.AutoThresholder

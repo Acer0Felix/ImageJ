@@ -1,0 +1,502 @@
+
+*ij.gui.GenericDialog#getNextChoiceIndex()IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java™
+ ™
+("23*‡
+13L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+; ª
+(?Ö
+Ç
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+; ª
+(?
+%16java.lang.String"__id*
+
+%18
+<nulltype>*
+12*Ü
+14L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+("ùö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(:
+%17java.lang.String"Lij.macro.Interpreter#getStringVariable(Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+itemjava.lang.String2%getStringVariable(Ljava/lang/String;)ã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(:
+%16java.lang.String"__id*
+
+%17java.lang.String*
+12*∫
+15L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+($¬
+ø
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+(2
+%15ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreterñ
+ì
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+(3
+interpij.macro.Interpreter"__id*
+
+%15ij.macro.Interpreter*
+13
+14*«
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∏
+ ∏
+(Ê„
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∏
+ ∏
+(/
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+itemjava.lang.String*
+
+oldItemjava.lang.String2equals(Ljava/lang/Object;)*
+
+15
+8
+1*ˇ
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∂
+ ∂
+(‰·
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∂
+ ∂
+(
+%12void"+java.awt.Choice#select(Ljava/lang/String;)V*
+
+
+thisChoicejava.awt.Choice*
+
+itemjava.lang.String2select(Ljava/lang/String;)∑¥
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∑
+ ∑
+((
+
+%13int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()*
+
+16
+8
+1*ÿ
+18L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+(Ó
+Î
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+("
+%11java.lang.String"Lij.gui.GenericDialog#getChoiceVariable(Ljava/lang/String;)Ljava/lang/String;*
+ij.gui.GenericDialog*
+
+itemjava.lang.Stringå
+â
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+("
+itemjava.lang.String"__id*
+
+%11java.lang.String*
+17*µ
+19L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¥
+ ¥
+(÷”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¥
+ ¥
+()
+%10boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+itemjava.lang.String*
+&2startsWith(Ljava/lang/String;)*
+17
+18*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java 
+  
+("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÀ
+ À
+(
+""*≠
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(”–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(:
+%32java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()˛
+˚
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(;
+%33void"Hij.gui.GenericDialog#recordOption(Ljava/lang/Object;Ljava/lang/String;)V*
+ij.gui.GenericDialog*
+
+
+thisChoicejava.awt.Choice*
+
+%32java.lang.String*
+1*˜
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+()æª
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+(+
+%30java.lang.String",java.awt.Dialog#getTitle()Ljava/lang/String;*
+ij.gui.GenericDialog2
+getTitle()⁄◊
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+(D
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%30java.lang.String*
+Merge Channels2equals(Ljava/lang/Object;)*
+2
+1*ó
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(”–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(.
+%28java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()å
+â
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(/
+itemjava.lang.String"__id*
+
+%28java.lang.String”–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∆
+
+ ∆
+(
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+itemjava.lang.String*
+
+*None*2equals(Ljava/lang/Object;)*	
+2
+4
+1*ı
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(5§
+°
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(5
+%25java.util.Vector"__id*2*0
+ij.gui.GenericDialog"
+defaultChoiceIndexesÃ…
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(L
+%26java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%25java.util.Vector*
+""2elementAt(I)£†
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java√
+ √
+(Y
+
+%27int"java.lang.Integer#intValue()I*
+
+%26java.lang.Object2
+intValue()*
+5
+1*≤
+20L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+( ò
+ï
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+( 
+%4java.util.Hashtable"__id*$*"
+ij.gui.GenericDialog"
+labels±
+Æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+(8
+%5java.lang.Object"__mapGet*
+
+%4java.util.Hashtable*
+
+
+thisChoicejava.awt.Choiceå
+â
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+(9
+labeljava.lang.String"__id*
+
+%5java.lang.Object“œ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java±
+ ±
+(0
+%6java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()é
+ã
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java±
+ ±
+(1
+oldItemjava.lang.String"__id*
+
+%6java.lang.String∂≥
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≤
+ ≤
+(/	
+%7int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≥
+  ≥
+(,
+%8java.lang.String"__id***(
+ij.gui.GenericDialog"
+macroOptions™
+ß
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≥
+ ≥
+(=
+%9java.lang.String"[ij.Macro#getValue(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+
+ij.Macro*
+
+%8java.lang.String*
+
+labeljava.lang.String*
+
+oldItemjava.lang.Stringã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≥
+ ≥
+(>
+itemjava.lang.String"__id*
+
+%9java.lang.String*
+17
+19*è
+21L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(%ï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(%
+%1java.util.Vector"__id*$*"
+ij.gui.GenericDialog"
+choice «
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(<
+%2java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%1java.util.Vector*
+""2elementAt(I)ê
+ç
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(>
+
+thisChoicejava.awt.Choice"__id*
+
+%2java.lang.Object∂≥
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÆ
+ Æ
+(+	
+%3int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()*
+
+8
+20
+1*Á
+10L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaø
+ ø
+(ä
+á
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaø
+ ø
+(
+itemjava.lang.String"__id*
+
+sjava.lang.String*
+8
+1*™
+22L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¨
+ ¨
+("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¨
+ ¨
+(
+""*å	
+11L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(æª
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(
+%19java.lang.String",java.awt.Dialog#getTitle()Ljava/lang/String;*
+ij.gui.GenericDialog2
+getTitle()ò
+ï
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(#
+%20java.lang.String"__concat*
+\"*
+
+itemjava.lang.String¥
+±
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(E
+%21java.lang.String"__concat*
+
+%20java.lang.String*#!
+\" is not a valid choice for \"¨
+©
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(K
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+
+labeljava.lang.Stringó
+î
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(P
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+\"”
+–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(Q
+%24void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+%19java.lang.String*
+
+%23java.lang.String*
+8
+1*Ù
+23L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´
+ ´
+(ï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´
+ ´
+(
+%0java.util.Vector"__id*$*"
+ij.gui.GenericDialog"
+choice*
+21
+22*Ë
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(@â
+Ü
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(@
+sjava.lang.String"__id*
+
+%16java.lang.String*
+10
+11B
+ij.gui.GenericDialog

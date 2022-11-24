@@ -1,0 +1,52 @@
+
+;ij.plugin.frame.Recorder#isTextOrTable(Ljava/lang/String;)ZP
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaõ õ("7*µ
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaöT ö(XØÕ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaöT ö(i
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.tsv2endsWith(Ljava/lang/String;)*
+1*¸
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö; ö(?ØÕ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö; ö(P
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.xls2endsWith(Ljava/lang/String;)*
+2
+1*»
+6P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö" ö(&ØÕ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö" ö(7
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.csv2endsWith(Ljava/lang/String;)*	
+2
+4
+1*¾
+7P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö	 ö(ØÕ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö	 ö(
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+2
+4
+6
+1*±
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö ö(j"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaö ö(j
+"":
+pathjava.lang.StringB"
+ij.plugin.frame.Recorder

@@ -1,0 +1,94 @@
+
+1ij.macro.Functions#openTable()Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥: ¥:("10*ì
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬: ¬:(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬: ¬:(
+rtij.measure.ResultsTable"__id*
+
+%5ij.measure.ResultsTable*
+1*É
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬: ¬:(
+ò
+ï
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¬: ¬:(
+%5ij.measure.ResultsTable"Iij.measure.ResultsTable#open(Ljava/lang/String;)Lij/measure/ResultsTable;*"
+ij.measure.ResultsTable*
+
+pathjava.lang.String*
+2*Ñ
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª: ª:({
+y
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª: ª:(
+rtij.measure.ResultsTable"__id*
+""*
+7*¼
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java©: ©:(pn
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java©: ©:(
+%2java.io.File"java.io.File±
+®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java©: ©:(
+%3"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%2java.io.File*
+
+pathjava.lang.String²¯
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java©: ©:(#
+%4java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+%2java.io.File2	getName()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java©: ©:(#
+titlejava.lang.String"__id*
+
+%4java.lang.String*
+8*ï
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¦: ¦:(ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¦: ¦:( 
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¦: ¦:(!
+pathjava.lang.String"__id*
+
+%0java.lang.String°
+­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java§: §:(
+%1java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.FunctionsŠ
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java§: §:(
+titlejava.lang.String"__id*
+
+%1java.lang.String*
+8
+9*
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²: ²:(çä
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²: ²:(
+%10void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*
+
+titlejava.lang.String2show(Ljava/lang/String;)"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java³: ³:(
+""B
+ij.macro.Functions

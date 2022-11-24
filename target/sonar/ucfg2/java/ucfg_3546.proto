@@ -1,0 +1,23 @@
+
+'ij.ImagePlus#isLockedByAnotherThread()ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java÷ ÷('"2"1*‹
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaø ø(«
+¨
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaø ø()
+%0java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.ThreadŒ
+‰
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaø+ ø(8
+%1java.lang.Thread"__id*#*!
+ij.ImagePlus"
+lockingThread*
+1*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaø ø(9"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaø ø(9
+""B
+ij.ImagePlus

@@ -1,0 +1,53 @@
+
+0ij.WindowManager#getCurrentImage()Lij/ImagePlus;F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaE E(("3*ö
+2F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaI	 I(¦
+£
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaI	 I(
+%3ij.ImagePlus"/ij.WindowManager#getActiveImage()Lij/ImagePlus;*"
+ij.WindowManager{
+y
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaI I(
+imgij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+1*Ä
+3F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaF F(+–
+“
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaF F(+
+%0java.util.Hashtable"__id*(*&
+ij.WindowManager"
+tempImageTable­
+ª
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaF0 F(F
+%1java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread¤
+¡
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaF F(G
+%2java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+%1java.lang.Thread
+}
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaF F(H
+imgij.ImagePlus"__id*
+
+%2java.lang.Object*
+2
+1*¬
+1F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaK	 K("_
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaK K(
+
+imgij.ImagePlusB"
+ij.WindowManager

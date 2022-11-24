@@ -1,0 +1,98 @@
+
+Lij.io.SaveDialog#getPath(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java‚ ‚("4"5*¡
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java†
+ †("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java† †(
+""*°
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ ƒ(5ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ ƒ(5
+titlejava.lang.String"__id*
+
+%0java.lang.Stringvt
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java„ „( 
+%3ij.io.SaveDialog"ij.io.SaveDialogŠ
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java„ „(=
+%4"Pij.io.SaveDialog#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%3ij.io.SaveDialog*	
+Save As*
+
+titlejava.lang.String*
+
+	extensionjava.lang.String…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java„ „(>
+sdij.io.SaveDialog"__id*
+
+%3ij.io.SaveDialogÀ½
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.java… …(
+%5java.lang.String"0ij.io.SaveDialog#getFileName()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getFileName()*
+2
+1*Ú
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ* ƒ(4…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ* ƒ(4
+%0java.lang.String"__id*
+
+%2java.lang.String*
+3*
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ ƒ(³°
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ ƒ()
+%1java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaƒ ƒ()
+%0java.lang.String"__id*
+
+%1java.lang.String*
+3*á
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaˆ
+ ˆ(Â¿
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaˆ
+ ˆ(
+%6java.lang.String"1ij.io.SaveDialog#getDirectory()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getDirectory()À½
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaˆ ˆ(,
+%7java.lang.String"0ij.io.SaveDialog#getFileName()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getFileName()£
+ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaˆ
+ ˆ(,
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaˆ ˆ(-
+
+%8java.lang.String:
+impij.ImagePlus:
+	extensionjava.lang.StringB"
+ij.io.SaveDialog

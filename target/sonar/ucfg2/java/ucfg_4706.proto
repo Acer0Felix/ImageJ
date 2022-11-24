@@ -1,0 +1,181 @@
+
+5ij.gui.ImageCanvas#canEnlarge(II)Ljava/awt/Dimension;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaˆ ˆ("18*ﬂ
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaç ç( }{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaç ç(
+%14java.awt.Dimension"java.awt.Dimension£
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaç
+ ç(,
+%15"java.awt.Dimension#<init>(II)V*
+
+%14java.awt.Dimension*
+""*
+"""i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaç ç(-
+
+%14java.awt.Dimension* 
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˚ ˚(«ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˚ ˚( 
+%3java.awt.Rectangle"2java.awt.Component#getBounds()Ljava/awt/Rectangle;*
+
+winij.gui.ImageWindow2getBounds()ã
+à
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˚ ˚(!
+r1java.awt.Rectangle"__id*
+
+%3java.awt.Rectangle¡æ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java¸ ¸(!
+%4java.awt.Insets"/ij.gui.ImageWindow#getInsets()Ljava/awt/Insets;*
+
+winij.gui.ImageWindow2getInsets()â
+Ü
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java¸ ¸("
+insetsjava.awt.Insets"__id*
+
+%4java.awt.Insetsæª
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˝ ˝(
+%5java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+ij.gui.ImageCanvas2getLocation()Ñ
+Å
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˝ ˝(
+locjava.awt.Point"__id*
+
+%5java.awt.Point*
+10
+12*¶
+15J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˙ ˙("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˙ ˙(
+""*≥
+16J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˘ ˘(ä
+á
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˘ ˘(
+%1ij.ImagePlus"__id**
+ij.gui.ImageCanvas"
+imp∫∑
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˘ ˘(#
+%2ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%1ij.ImagePlus2getWindow()å
+â
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˘ ˘($
+winij.gui.ImageWindow"__id*
+
+%2ij.gui.ImageWindow*
+14
+15*ﬂ
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaã ã( }{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaã ã(
+%12java.awt.Dimension"java.awt.Dimension£
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaã
+ ã(,
+%13"java.awt.Dimension#<init>(II)V*
+
+%12java.awt.Dimension*
+""*
+"""i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaã ã(-
+
+%12java.awt.Dimension*¶
+17J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java¯
+ ¯("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java¯ ¯(
+""*Ÿ
+18J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˜ ˜(}
+{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java˜ ˜(
+%0boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+16
+17*ﬂ
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaâ â( }{
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaâ â(
+%10java.awt.Dimension"java.awt.Dimension£
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaâ
+ â(,
+%11"java.awt.Dimension#<init>(II)V*
+
+%10java.awt.Dimension*
+""*
+"""i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaâ â(-
+
+%10java.awt.Dimension*œ
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(ﬂ
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(-
+%9java.awt.Rectangle"Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+winij.gui.ImageWindowå
+â
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(.
+maxjava.awt.Rectangle"__id*
+
+%9java.awt.Rectangle*
+2
+5
+8
+1*‹
+12J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaˇ ˇ(g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaˇ0 ˇ(@	
+%6int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÄ2 Ä(B	
+%7int"__id*
+""±Æ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÄE Ä(Z	
+%8int"%ij.gui.ImageWindow#getSliderHeight()I*
+
+winij.gui.ImageWindow2getSliderHeight()*
+10*•
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaè
+ è("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaè è(
+"":
+"":
+""B
+ij.gui.ImageCanvas

@@ -1,0 +1,40 @@
+
+,ij.gui.Roi#getGroupNames()Ljava/lang/String;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java³ ³(#"3"1*Ï
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(€
+~
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(
+
+%1void"ij.gui.Roi#saveGroupNames()V*"
+
+ij.gui.Roi*
+1*Ù
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java´ ´(%‡
+„
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java´ ´(%
+%0java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+2
+1*µ
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¶ ¶(‹
+ˆ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java·	 ·(
+%2java.lang.String"__id*$*"
+
+ij.gui.Roi"
+groupNamesString"^
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java· ·(
+
+%2java.lang.StringB"
+
+ij.gui.Roi

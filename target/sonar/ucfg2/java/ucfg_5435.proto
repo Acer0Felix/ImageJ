@@ -1,0 +1,84 @@
+
+\ij.gui.ImageRoi#makeZeroTransparent(Lij/process/ImageProcessor;Z)Lij/process/ImageProcessor;E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javal l(+"10"1*Õ
+4E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javau u(µ≤
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javau u(	
+%6int""ij.process.ImageProcessor#get(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2get(II)¿Ω
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javau u((
+
+%7void"#ij.process.ImageProcessor#set(III)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""2set(III)*
+6
+1*Õ
+5E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javas s(µ≤
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javas s(	
+%4int""ij.process.ImageProcessor#get(II)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2get(II)¿Ω
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javas s(*
+
+%5void"#ij.process.ImageProcessor#set(III)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""2set(III)*
+6
+1*†
+6E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javaq q(À»
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javaq q(&
+%3float",ij.process.ImageProcessor#getPixelValue(II)F*!
+
+ipij.process.ImageProcessor*
+""*
+""2getPixelValue(II)*
+4
+5*Ÿ
+10E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javan n(íè
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javan n((%
+%0java.awt.image.DirectColorModel"java.awt.image.DirectColorModel÷
+”
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javan n(X
+%1".java.awt.image.DirectColorModel#<init>(IIIII)V*'
+%
+%0java.awt.image.DirectColorModel*2 *2ÄÄ¸*2Ä˛*2ˇ*2ÄÄÄ¯ˇˇˇˇˇïí
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javan n(Y
+
+%2void"Eij.process.ImageProcessor#setColorModel(Ljava/awt/image/ColorModel;)V*!
+
+ipij.process.ImageProcessor*'
+%
+%0java.awt.image.DirectColorModel2*setColorModel(Ljava/awt/image/ColorModel;)*
+6
+1*∂
+1E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javay	 y("j
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageRoi.javay y(!
+
+ipij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+""B
+ij.gui.ImageRoi

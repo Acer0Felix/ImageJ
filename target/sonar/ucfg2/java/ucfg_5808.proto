@@ -1,0 +1,41 @@
+
+:ij.plugin.FolderOpener#typeToBitDepth(Ljava/lang/String;)IN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.java¿ ¿("7*¬
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÃ Ã(ÑÎ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÃ Ã(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+typejava.lang.String*
+RGB2equals(Ljava/lang/Object;)*
+1*²
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÂ Â(ÔÑ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÂ Â( 
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+typejava.lang.String*
+
+32-bit2equals(Ljava/lang/Object;)*
+3
+1*²
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÀ À(ÔÑ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÁ Á(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+typejava.lang.String*
+
+16-bit2equals(Ljava/lang/Object;)*
+5
+1*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÄ	 Ä("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÄ Ä(
+"":
+typejava.lang.StringB
+ij.plugin.FolderOpener

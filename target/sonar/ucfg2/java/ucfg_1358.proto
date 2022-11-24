@@ -1,0 +1,41 @@
+
+6ij.OtherInstance#getPrefsDirectory()Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaê ê(*"3*´
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaí
+ í("e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaí í(
+
+envjava.lang.String*­
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaë ë(Ì
+É
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaë ë(,
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+IJ_PREFS_DIR†
+ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaë ë(-
+envjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*Ó
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaï
+ ï(
+š
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaï
+ ï(
+%1java.lang.String"(ij.Prefs#getPrefsDir()Ljava/lang/String;*"
+
+ij.Prefs"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaï ï(
+
+%1java.lang.StringB"
+ij.OtherInstance

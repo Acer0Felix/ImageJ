@@ -1,0 +1,26 @@
+
+Nij.gui.NewImage#createUnsignedShortImage(Ljava/lang/String;IIII)Lij/ImagePlus;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java¾ ¾(1"1*ª
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java¿	 ¿(ú
+÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java¿	 ¿(@
+%0ij.ImagePlus"Fij.gui.NewImage#createShortImage(Ljava/lang/String;IIII)Lij/ImagePlus;*"
+ij.gui.NewImage*
+
+titlejava.lang.String*
+""*
+""*
+""*
+"""_
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java¿ ¿(A
+
+%0ij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+""B"
+ij.gui.NewImage

@@ -1,0 +1,70 @@
+
+@ij.io.Opener#getFileFormat(Ljava/lang/String;)Ljava/lang/String;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÌ	 Ì	(#"3*†
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ	
+ Ô	("U
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ	 Ô	(
+	not found*˛
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ	 Ó	(jh
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ	 Ó	(
+%0java.io.File"java.io.File´
+®
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ		 Ó	(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+pathjava.lang.Stringêç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ	 Ó	(!
+%2boolean"java.io.File#exists()Z*
+
+%0java.io.File2exists()*
+2
+1*˘
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	
+ Ò	(p
+n
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	
+ Ò	(
+%3java.lang.String[]"__id*
+""jh
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	 Ò	("
+%4ij.io.Opener"ij.io.Opener|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	 Ò	($
+%5"ij.io.Opener#<init>()V*
+
+%4ij.io.Opener÷”
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	 Ò	(7	
+%6int"-ij.io.Opener#getFileType(Ljava/lang/String;)I*
+
+%4ij.io.Opener*
+
+pathjava.lang.String2getFileType(Ljava/lang/String;)ñ
+ì
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	
+ Ò	(8
+%7java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+	
+%6int"`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÒ	 Ò	(9
+
+%7java.lang.String:
+pathjava.lang.StringB"
+ij.io.Opener

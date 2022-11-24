@@ -1,0 +1,46 @@
+
+>ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ Ê("3*ô
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË
+ Ë("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë(
+""*·
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ Á(ç
+ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ Á(
+%0java.util.Properties"__id* *
+ij.ImagePlus"
+
+properties*
+2
+1*‚
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ
+ Í(ç
+ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ
+ Í(
+%1java.util.Properties"__id* *
+ij.ImagePlus"
+
+properties§
+°
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ
+ Í(
+%2java.lang.Object"__mapGet*
+
+%1java.util.Properties*
+
+keyjava.lang.String"`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+
+%2java.lang.Object:
+keyjava.lang.StringB
+ij.ImagePlus

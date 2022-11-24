@@ -1,0 +1,58 @@
+
+4ij.io.Opener#openRoi(Ljava/lang/String;)Lij/gui/Roi;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaˇ ˇ("7*≈
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(u
+s
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+1*˜
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(¶£
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(
+%2
+ij.gui.Roi"%ij.io.RoiDecoder#getRoi()Lij/gui/Roi;*
+
+rdij.io.RoiDecoder2getRoi()*
+2*Ê
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÄ	 Ä	(i
+g
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÄ	 Ä	(
+roi
+ij.gui.Roi"__id*
+""rp
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÅ	 Å	( 
+%0ij.io.RoiDecoder"ij.io.RoiDecoder≥
+∞
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÅ	 Å	(&
+%1",ij.io.RoiDecoder#<init>(Ljava/lang/String;)V*
+
+%0ij.io.RoiDecoder*
+
+pathjava.lang.StringÄ
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÅ	 Å	('
+rdij.io.RoiDecoder"__id*
+
+%0ij.io.RoiDecoder*
+6*¶
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaá		 á	("[
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaá	 á	(
+
+roi
+ij.gui.Roi:
+pathjava.lang.StringB
+ij.io.Opener

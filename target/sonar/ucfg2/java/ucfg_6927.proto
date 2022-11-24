@@ -1,0 +1,46 @@
+
+2ij.plugin.JavaProperties#cores()Ljava/lang/String;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java§ §("3*¸
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.javaª
+ ª("a
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.javaª ª(
+	 (1 core)*×
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¨ ¨(¸
+µ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¨ ¨("
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime¼¹
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¨ ¨(8	
+%1int"(java.lang.Runtime#availableProcessors()I*
+
+%0java.lang.Runtime2availableProcessors()*
+2
+1*î
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¬
+ ¬(‡
+„
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¬
+ ¬(
+%2java.lang.String"__concat*
+ (*
+""ž
+›
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¬
+ ¬(
+%3java.lang.String"__concat*
+
+%2java.lang.String*	
+ cores)"l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JavaProperties.java¬ ¬(
+
+%3java.lang.StringB
+ij.plugin.JavaProperties

@@ -1,0 +1,31 @@
+
+)ij.io.FileSaver#okForGif(Lij/ImagePlus;)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ("3*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java–
+ –("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java– –(
+""*œ
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(	íè
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(	
+%0int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ((	
+%1int"__id*
+""*
+2
+1*ü
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java“
+ “("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java“ “(
+"":
+impij.ImagePlusB"
+ij.io.FileSaver

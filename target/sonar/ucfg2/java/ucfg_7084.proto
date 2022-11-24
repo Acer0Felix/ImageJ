@@ -1,0 +1,153 @@
+
+4ij.plugin.Duplicator#getNewTitle()Ljava/lang/String;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaê ê("11"12*á
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaö ö(è
+å
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaö ö(
+titlejava.lang.String"__id*
+
+labeljava.lang.Stringú
+ô
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaõ õ(&
+ij.plugin.Duplicator"
+
+sliceLabel"__id*
+
+labeljava.lang.String*
+1*‘
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaò ò(y
+w
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaò ò(
+labeljava.lang.String"__id*
+""*
+2
+1*ˇ
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaó ó(†ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaó ó($
+
+%11int"java.lang.String#length()I*
+
+labeljava.lang.String2length()*	
+2
+4
+1*’	
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaï ï(é
+ã
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaï ï(
+%6ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp∞≠
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaï ï($
+%7ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%6ij.ImagePlus2
+getStack()Ü
+É
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaï ï(%
+stackij.ImageStack"__id*
+
+%7ij.ImageStacké
+ã
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javañ+ ñ(.
+%8ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp¶£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javañ+ ñ(@	
+%9int"ij.ImagePlus#getCurrentSlice()I*
+
+%8ij.ImagePlus2getCurrentSlice()ﬂ‹
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javañ ñ(A
+%10java.lang.String"5ij.ImageStack#getShortSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+	
+%9int2getShortSliceLabel(I)ç
+ä
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javañ ñ(B
+labeljava.lang.String"__id*
+
+%10java.lang.String*	
+2
+5
+1*¢
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaîX î(eù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaîX î(e
+%4java.awt.Checkbox"__id*+*)
+ij.plugin.Duplicator"
+stackCheckbox¶£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaîX î(p
+%5boolean"java.awt.Checkbox#getState()Z*
+
+%4java.awt.Checkbox2
+getState()*
+6
+1*˘
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaîB î(Où
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaîB î(O
+%3java.awt.Checkbox"__id*+*)
+ij.plugin.Duplicator"
+stackCheckbox*
+6
+7*ª
+11L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaì ì(õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaì ì(
+%0java.lang.String"__id***(
+ij.plugin.Duplicator"
+defaultTitleå
+â
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaì ì(
+titlejava.lang.String"__id*
+
+%0java.lang.Stringé
+ã
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaî î(	
+%1ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp†ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaî î(	
+%2int"ij.ImagePlus#getStackSize()I*
+
+%1ij.ImagePlus2getStackSize()*
+8
+1*™
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaí
+ í("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaí í(
+""*æ
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaû	 û("k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaû û(
+
+titlejava.lang.StringB
+ij.plugin.Duplicator

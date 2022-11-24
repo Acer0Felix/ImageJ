@@ -1,0 +1,67 @@
+
+_ij.plugin.CanvasResizer#expandImage(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javaw w(""4*±
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java| |(×Ô
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java| |(#
+
+%2void"5ij.process.ImageProcessor#setGlobalBackgroundColor()V*$
+"
+ipNewij.process.ImageProcessor2setGlobalBackgroundColor()*
+1*›
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javaz z(Á¾
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javaz z(
+
+%1void"&ij.process.ImageProcessor#setValue(D)V*$
+"
+ipNewij.process.ImageProcessor*
+""2setValue(D)*
+1*‡
+4M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javax x(ˆ…
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javax x(:
+%0ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*$
+"
+ipOldij.process.ImageProcessor*
+""*
+""2createProcessor(II)Ÿ
+œ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.javax x(;"
+ipNewij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+3*¡
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java} }(¯¬
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java} }(
+
+%3void"!ij.process.ImageProcessor#fill()V*$
+"
+ipNewij.process.ImageProcessor2fill()£ 
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java~ ~(!
+
+%4void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*$
+"
+ipNewij.process.ImageProcessor*$
+"
+ipOldij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)"u
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CanvasResizer.java ($
+"
+ipNewij.process.ImageProcessor:"
+ipOldij.process.ImageProcessor:
+"":
+"":
+"":
+""B
+ij.plugin.CanvasResizer

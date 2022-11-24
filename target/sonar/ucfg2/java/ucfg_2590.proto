@@ -1,0 +1,163 @@
+
++ij.gui.Roi#getGroupColor(I)Ljava/awt/Color;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŒ Œ(#"7*Ç
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ( Ñ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ( 
+%10ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut™ß
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(.
+
+%11int")java.awt.image.IndexColorModel#getRGB(I)I*
+
+%10ij.process.LUT*
+""2	getRGB(I)mk
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(
+%12java.awt.Color"java.awt.Colorê
+ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(/
+%13"java.awt.Color#<init>(I)V*
+
+%12java.awt.Color*
+
+
+%11int~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(/
+colorjava.awt.Color"__id*
+
+%12java.awt.Color*
+1*’
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java◊ ◊(É
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java◊ ◊(
+%9ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+2
+1*Ñ
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(ö
+ó
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’("
+%7java.lang.String"__concat*
+LUT not found: *
+
+pathjava.lang.Stringò
+ï
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(#
+
+%8void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%7java.lang.String*
+3*ä	
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(®
+•
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(#
+%2java.lang.String"2ij.IJ#getDir(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+lutsî
+ë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(1
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+Glasbey.lutÄ
+~
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(2
+pathjava.lang.String"__id*
+
+%3java.lang.Stringì
+ê
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java”# ”(2
+%4java.lang.String"__concat*
+
+noerror:*
+
+pathjava.lang.String—
+Œ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”(3
+%5ij.process.LUT"?ij.plugin.LutLoader#openLut(Ljava/lang/String;)Lij/process/LUT;*"
+ij.plugin.LutLoader*
+
+%4java.lang.StringÉ
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”(3
+
+ij.gui.Roi"
+
+glasbeyLut"__id*
+
+%5ij.process.LUTÉ
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‘ ‘(
+%6ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+3
+4*’
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —(É
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —(
+%1ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+3
+5*—
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaœ œ(Ä
+~
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaœ œ(
+%0java.awt.Color"__id**
+
+ij.gui.Roi"
+
+ROIColor}
+{
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaœ œ(
+colorjava.awt.Color"__id*
+
+%0java.awt.Color*
+6
+1*®
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java⁄	 ⁄("_
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java⁄ ⁄(
+
+colorjava.awt.Color:
+""B"
+
+ij.gui.Roi

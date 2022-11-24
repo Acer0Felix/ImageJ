@@ -1,0 +1,79 @@
+
+#ij.macro.Functions#getBooleanArg()ZJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù	 ù("4*Ë
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(u
+s
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(
+%8boolean"__id*
+
+%10boolean*
+1*Ê
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(t
+r
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(
+%8boolean"__id*
+
+%9boolean*
+1*
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÁ¾
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û(,
+%3double",ij.macro.Interpreter#getBooleanExpression()D*
+
+%2ij.macro.Interpreter2getBooleanExpression()•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¹¶
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+
+%5void"%ij.macro.Interpreter#checkBoolean(D)V*
+
+%4ij.macro.Interpreter*
+""2checkBoolean(D)•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(
+%6ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(
+
+%7void"%ij.macro.Interpreter#getRightParen()V*
+
+%6ij.macro.Interpreter2getRightParen()*
+2
+3*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(
+""B
+ij.macro.Functions

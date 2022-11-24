@@ -1,0 +1,204 @@
+
+,ij.process.AutoThresholder#RenyiEntropy([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java§ §("35"69"38"18"8"19"51"64"42"56"34*ç
+35R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javañ5 ñ(9ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javañ5 ñ(T
+%7double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""z
+x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javañ5 ñ(T
+%6double"__id*
+
+%7double*
+35
+38
+18
+8
+19
+42
+34*°
+69R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java—
+ —(ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java—
+ —(
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*+
+35
+69
+38
+18
+8
+19
+51
+64
+42
+56
+34*É
+38R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaì ì(ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaì ì(4
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+35
+38
+34*‚
+18R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java∞S ∞(V{
+y
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java∞S ∞(V
+%9double"__id*
+
+%11double*
+18
+8
+19*ˇ
+19R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java∞4 ∞(8ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java∞4 ∞(Q
+%10double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""{
+y
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java∞4 ∞(Q
+%9double"__id*
+
+%10double*
+18
+8
+19*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÊ
+ Ê("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÈ È(
+""*ˆ
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(ó
+î
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(&
+
+%14int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+1*ˆ
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÕ Õ(ó
+î
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÕ Õ(&
+
+%13int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+1*˘
+8R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÃ Ã(ó
+î
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÃ Ã(%
+
+%12int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+4
+7*ô
+51R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaı ı(ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaı- ı(Q
+%3double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*#
+35
+38
+18
+8
+19
+51
+42
+56
+34*á
+42R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaé é(ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaé é(5
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+35
+38
+42
+34*ù
+64R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java⁄
+ ⁄(ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java⁄
+ ⁄(
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*'
+35
+38
+18
+8
+19
+51
+64
+42
+56
+34*Ò
+34R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javañW ñ(Zz
+x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javañW ñ(Z
+%6double"__id*
+
+%8double*
+35
+38
+18
+8
+19
+42
+34*ô
+56R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÌ Ì(ô
+ñ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÌ/ Ì(S
+%2double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*#
+35
+38
+18
+8
+19
+51
+42
+56
+34:
+""B
+ij.process.AutoThresholder

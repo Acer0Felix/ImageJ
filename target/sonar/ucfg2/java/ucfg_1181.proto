@@ -1,0 +1,101 @@
+
+3ij.gui.OvalRoi#getMask()Lij/process/ImageProcessor;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaé é("14*¶
+13F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaê ê(ŒÀ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaê ê($
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+maskij.process.ImageProcessor2getPixels()*
+9
+12*à
+14F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaè è("ñ
+ì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaè è("
+%0ij.process.ImageProcessor"__id*"* 
+ij.gui.OvalRoi"
+
+cachedMaskó
+î
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaè è(#!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+13
+9*Ï
+9F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaí í( ÖÇ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaí í(
+%4ij.process.ByteProcessor"ij.process.ByteProcessor©
+¶
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaí	 í()
+%5"$ij.process.ByteProcessor#<init>(II)V* 
+
+%4ij.process.ByteProcessor*
+""*
+""ñ
+ì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaí í()!
+maskij.process.ImageProcessor"__id* 
+
+%4ij.process.ByteProcessorŒÀ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaò  ò(0
+%6java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+maskij.process.ImageProcessor2getPixels()|
+z
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaò ò(1
+pixelsbyte[]"__id*
+
+%6java.lang.Object*
+1*ª
+10F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaë
+ ë("m
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaë ë(#
+!
+maskij.process.ImageProcessor*à
+11F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaêH ê(L∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaêH ê(X	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()*
+9
+10*Ü
+12F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaê. ê(2Æ´
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaê. ê(=	
+%2int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()*
+9
+11*’
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¢ ¢(ò
+ï
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¢ ¢( 
+ij.gui.OvalRoi"
+
+cachedMask"__id*#
+!
+maskij.process.ImageProcessor"m
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java£ £(#
+!
+maskij.process.ImageProcessorB
+ij.gui.OvalRoi

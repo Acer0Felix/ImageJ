@@ -1,0 +1,27 @@
+
+7ij.util.DicomTools#getSeriesNumber(Ljava/lang/String;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java‰ ‰(&"3*Û
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŠ Š(é
+æ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŠ Š(2
+%0double"Gij.util.DicomTools#getNumericTag(Ljava/lang/String;Ljava/lang/String;)D*"
+ij.util.DicomTools*
+
+tagsjava.lang.String*
+	0020,0011˜
+•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java‹ ‹(
+%1boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+1*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŒ	 Œ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŒ Œ(
+"":
+tagsjava.lang.StringB"
+ij.util.DicomTools

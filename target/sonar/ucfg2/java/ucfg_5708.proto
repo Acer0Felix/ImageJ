@@ -1,0 +1,33 @@
+
+2ij.gui.Overlay#get(Ljava/lang/String;)Lij/gui/Roi;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javab b("3*™
+2D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javae e("N
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javae e(
+""*¤
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javac c(ÐÍ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javac c(	
+%0int",ij.gui.Overlay#getIndex(Ljava/lang/String;)I*
+ij.gui.Overlay*
+
+namejava.lang.String2getIndex(Ljava/lang/String;)*
+2
+1*Ê
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javag g(¢Ÿ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javag g(
+%1
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+ij.gui.Overlay*
+""2get(I)"Z
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javag g(
+
+%1
+ij.gui.Roi:
+namejava.lang.StringB
+ij.gui.Overlay

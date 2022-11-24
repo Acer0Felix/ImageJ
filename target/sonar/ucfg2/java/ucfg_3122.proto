@@ -1,0 +1,31 @@
+
+"ij.macro.Functions#getStackSize()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¨ ¨("1*Á
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java© ©(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java© ©(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java© ©(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª	 ª(
+%2ij.ImagePlus"+ij.macro.Functions#getImage()Lij/ImagePlus;*
+ij.macro.Functions2
+getImage()ž›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª	 ª("	
+%3int"ij.ImagePlus#getStackSize()I*
+
+%2ij.ImagePlus2getStackSize()"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaª ª(#
+""B
+ij.macro.Functions

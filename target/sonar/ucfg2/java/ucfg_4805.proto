@@ -1,0 +1,63 @@
+
+Jij.process.TypeConverter#convertByteToFloat([F)Lij/process/FloatProcessor;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÓ Ó(""11*ä
+11P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÔ
+ Ô(¢
+Ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÕ Õ(
+%0ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ipÖÓ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÕ Õ()
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+%0ij.process.ImageProcessor2getPixels()ˆ
+…
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÕ Õ(*
+pixels8byte[]"__id*
+
+%1java.lang.Object*
+1*š	
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaß ß(¢
+Ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaß ß(
+%2ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ipðí
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaß ß('
+%3java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+%2ij.process.ImageProcessor2getColorModel()Ÿ
+œ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaß ß((
+cmjava.awt.image.ColorModel"__id*!
+
+%3java.awt.image.ColorModel‘Ž
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaà à(
+%4ij.process.FloatProcessor"ij.process.FloatProcessorý
+ú
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaà à(;
+%5"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%4ij.process.FloatProcessor*
+""*
+""*
+""*!
+
+cmjava.awt.image.ColorModel"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaà à(<!
+
+%4ij.process.FloatProcessor:
+""B
+ij.process.TypeConverter

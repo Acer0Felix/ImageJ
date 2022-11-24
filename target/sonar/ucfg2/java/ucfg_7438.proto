@@ -1,0 +1,31 @@
+
+7ij.gui.ImageWindow#getMaxWindow(II)Ljava/awt/Rectangle;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaü ü("1*¤
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý	 ý(tr
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý$ ý()
+%0java.awt.Point"java.awt.Point™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý  ý(5
+%1"java.awt.Point#<init>(II)V*
+
+%0java.awt.Point*
+""*
+""Ö
+Ó
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý	 ý(6
+%2java.awt.Rectangle"Cij.gui.GUI#getMaxWindowBounds(Ljava/awt/Point;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+%0java.awt.Point"h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageWindow.javaý ý(7
+
+%2java.awt.Rectangle:
+"":
+""B
+ij.gui.ImageWindow

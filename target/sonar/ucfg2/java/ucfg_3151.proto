@@ -1,0 +1,39 @@
+
+1ij.macro.Functions#setPlotOptions(Lij/gui/Plot;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ("1*è
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (!
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   ("
+optionsjava.lang.String"__id*
+
+%0java.lang.StringÞÛ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(
+
+%1void"+ij.gui.Plot#setOptions(Ljava/lang/String;)V*
+
+plotij.gui.Plot*
+
+optionsjava.lang.String2setOptions(Ljava/lang/String;)š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¢ ¢(
+
+%2void"ij.gui.Plot#updateImage()V*
+
+plotij.gui.Plot2updateImage()j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£	 £(
+%3double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

@@ -1,0 +1,422 @@
+
+1ij.macro.Functions#getArray()[Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè è("29*·
+13J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷(h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷(!
+
+%30int"__id*
+""âß
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷("
+%31ij.macro.Variable[]":ij.macro.Functions#getArrayFunction(I)[Lij/macro/Variable;*
+ij.macro.Functions*
+
+
+%30int2getArrayFunction(I)
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷("
+aij.macro.Variable[]"__id*
+
+%31ij.macro.Variable[]*
+2
+1*Ý
+24J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ ñ(–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ ñ(
+%12ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interph
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ# ñ(1
+
+%13int"__id*
+""*
+22
+23*Ö
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaõ õ(v
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaõ õ(
+aij.macro.Variable[]"__id*
+""*
+13
+10
+11*º
+25J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî î("h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî î(
+
+aij.macro.Variable[]*Í
+15J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô ô(	–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô ô(	
+%28ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô ô(!
+%29void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%28ij.macro.Interpreter*
+Array expected2error(Ljava/lang/String;)*
+14*°
+26J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí í(ÃÀ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí í(
+%11ij.macro.Variable[]"0ij.macro.Variable#getArray()[Lij/macro/Variable;*
+
+vij.macro.Variable2
+getArray()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí í( 
+aij.macro.Variable[]"__id*
+
+%11ij.macro.Variable[]*
+24
+25*¶
+27J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë ë(#g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë$ ë()	
+%9int"__id*
+""äá
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë ë(*
+%10ij.macro.Variable"<ij.macro.Functions#getVariableFunction(I)Lij/macro/Variable;*
+ij.macro.Functions*
+	
+%9int2getVariableFunction(I)‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë ë(+
+vij.macro.Variable"__id*
+
+%10ij.macro.Variable*
+24
+26*š
+28J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê) ê(,Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê) ê(,
+%4ij.macro.Program"__id**
+ij.macro.Functions"
+pgm“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê) ê(2
+%5ij.macro.Symbol[]"__id*#*!
+
+%4ij.macro.Program"
+table•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê3 ê(9
+%6ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê) ê(G
+%7ij.macro.Symbol"
+__arrayGet*
+
+%5ij.macro.Symbol[]*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaêN ê(S	
+%8int"__id*
+""*
+24
+27*
+29J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(
+
+%1void" ij.macro.Interpreter#getToken()V*
+
+%0ij.macro.Interpreter2
+getToken()•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê ê(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpg
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê ê(%	
+%3int"__id*
+""*
+24
+28*¹
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˆ	 ˆ(
+"h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˆ ˆ(
+
+aij.macro.Variable[]*Ë
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡ ‡(	–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡ ‡(	
+%43ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡ ‡(!
+%44void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%43ij.macro.Interpreter*
+Array expected2error(Ljava/lang/String;)*
+1*–
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‚ ‚(æã
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‚ ‚(
+%41void"1ij.macro.Variable#setArray([Lij/macro/Variable;)V*
+
+vij.macro.Variable*
+
+a2ij.macro.Variable[]2setArray([Lij/macro/Variable;)ÃÀ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaƒ ƒ(
+%42ij.macro.Variable[]"0ij.macro.Variable#getArray()[Lij/macro/Variable;*
+
+vij.macro.Variable2
+getArray()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaƒ ƒ(
+aij.macro.Variable[]"__id*
+
+%42ij.macro.Variable[]*
+2
+1*™
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (
+%39ij.macro.Variable"
+__arrayGet*
+
+aij.macro.Variable[]*
+""£
+ 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (
+%40"
+__arraySet*
+
+a2ij.macro.Variable[]*
+""*
+
+%39ij.macro.Variable*
+4
+6*é
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÿ! ÿ(%}
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÿ ÿ(&
+%38ij.macro.Variable[]"ij.macro.Variable[]Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÿ ÿ('
+a2ij.macro.Variable[]"__id*
+
+%38ij.macro.Variable[]*
+4
+6*Ý
+20J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò ò(j–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó ó(
+%26ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interph
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó ó(
+
+%27int"__id*
+""*
+14
+15*
+21J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò: ò(=
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò: ò(=
+%21ij.macro.Program"__id**
+ij.macro.Functions"
+pgm•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò: ò(C
+%22ij.macro.Symbol[]"__id*$*"
+
+%21ij.macro.Program"
+table–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaòD ò(J
+%23ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò: ò(X
+%24ij.macro.Symbol"
+__arrayGet*
+
+%22ij.macro.Symbol[]*
+""h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò_ ò(i
+
+%25int"__id*
+""*
+20*Ø
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û(–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û(
+%34ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÔÑ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û('
+%35ij.macro.Variable"8ij.macro.Interpreter#lookupVariable()Lij/macro/Variable;*
+
+%34ij.macro.Interpreter2lookupVariable()‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û((
+vij.macro.Variable"__id*
+
+%35ij.macro.VariableÃÀ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+%36ij.macro.Variable[]"0ij.macro.Variable#getArray()[Lij/macro/Variable;*
+
+vij.macro.Variable2
+getArray()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+aij.macro.Variable[]"__id*
+
+%36ij.macro.Variable[]¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(
+
+%37int"!ij.macro.Variable#getArraySize()I*
+
+vij.macro.Variable2getArraySize()*	
+2
+8
+1*Ý
+22J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ ñ(d–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò ò( 
+%19ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interph
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò( ò(6
+
+%20int"__id*
+""*
+20
+21*·
+11J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù(h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù("
+
+%32int"__id*
+""âß
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù(#
+%33ij.macro.Variable[]":ij.macro.Functions#getArrayFunction(I)[Lij/macro/Variable;*
+ij.macro.Functions*
+
+
+%32int2getArrayFunction(I)
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù(#
+aij.macro.Variable[]"__id*
+
+%33ij.macro.Variable[]*
+2
+1*
+23J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ5 ñ(8
+Œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ5 ñ(8
+%14ij.macro.Program"__id**
+ij.macro.Functions"
+pgm•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ5 ñ(>
+%15ij.macro.Symbol[]"__id*$*"
+
+%14ij.macro.Program"
+table–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ? ñ(E
+%16ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ5 ñ(S
+%17ij.macro.Symbol"
+__arrayGet*
+
+%15ij.macro.Symbol[]*
+""h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañZ ñ(c
+
+%18int"__id*
+""*
+22B
+ij.macro.Functions

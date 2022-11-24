@@ -1,0 +1,169 @@
+
+Oij.plugin.frame.Editor#isWholeWordMatch(Ljava/lang/String;Ljava/lang/String;I)ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaﬂ
+	 ﬂ
+("11"12*≠
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java„
+5 „
+(:"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java„
+. „
+(;
+""*ã
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+ ‚
+(M≠
+™
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java„
+ „
+("
+%10boolean"'java.lang.Character#isLetterOrDigit(C)Z*"
+java.lang.Character*
+""*
+2
+1*ù
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+- ‚
+(1†ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+? ‚
+(L	
+%9int"java.lang.String#length()I*
+
+wordjava.lang.String2length()´®
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+- ‚
+(M
+
+%8char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)r
+p
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+- ‚
+(M
+
+%6char"__id*
+
+
+%8char*
+4*Ã
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+) ‚
+(,r
+p
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+) ‚
+(,
+
+%6char"__id*
+
+
+%7char*
+4*°
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+ ‚
+(†ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+ ‚
+(	
+%4int"java.lang.String#length()I*
+
+wordjava.lang.String2length()†ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‚
+ ‚
+((	
+%5int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+5
+6*≠
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java·
+5 ·
+(:"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java·
+. ·
+(;
+""*ã
+10N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(-¨
+©
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java·
+ ·
+("
+%3boolean"'java.lang.Character#isLetterOrDigit(C)Z*"
+java.lang.Character*
+""*
+7
+8*¸
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(´®
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(,
+
+%2char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)r
+p
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(,
+
+%0char"__id*
+
+
+%2char*
+10*Œ
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(r
+p
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‡
+ ‡
+(
+
+%0char"__id*
+
+
+%1char*
+10*≠
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‰
+	 ‰
+("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java‰
+ ‰
+(
+"":
+textjava.lang.String:
+wordjava.lang.String:
+""B
+ij.plugin.frame.Editor

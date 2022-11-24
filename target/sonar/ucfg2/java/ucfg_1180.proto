@@ -1,0 +1,127 @@
+
+ij.gui.OvalRoi#isHandle(II)IF
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÙ Ù("44*û
+37F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÉK É(L"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÉD É(M
+""*û
+27F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÖK Ö(L"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÖD Ö(M
+""*û
+17F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaáK á(L"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaáD á(M
+""*ù
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaã
+ ã("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaã ã(
+""*ù
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaä; ä(<"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaä4 ä(=
+""*ù
+7F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaâK â(L"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaâD â(M
+""*¨	
+41F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaˆ ˆ(á
+Ñ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaˆ ˆ(
+%2ij.gui.ImageCanvas"__id**
+ij.gui.OvalRoi"
+ic±Æ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaˆ ˆ($
+%3double"&ij.gui.ImageCanvas#getMagnification()D*
+
+%2ij.gui.ImageCanvas2getMagnification()òï
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java˜ ˜(	
+%4int"ij.gui.Roi#getHandleSize()I*
+ij.gui.OvalRoi2getHandleSize()ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java˘ ˘(	
+%5int"ij.gui.Roi#screenX(I)I*
+ij.gui.OvalRoi*
+""2
+screenX(I)ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java˙ ˙(	
+%6int"ij.gui.Roi#screenY(I)I*
+ij.gui.OvalRoi*
+""2
+screenY(I)ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java˚ ˚(	
+%7int"ij.gui.Roi#screenX(I)I*
+ij.gui.OvalRoi*
+""2
+screenX(I)ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¸ ¸(	
+%8int"ij.gui.Roi#screenY(I)I*
+ij.gui.OvalRoi*
+""2
+screenY(I)*!
+2
+37
+27
+17
+7
+32
+22
+1
+12*û
+42F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı+ ı(,"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı# ı(-
+""*‡
+43F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı ı(á
+Ñ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı ı(
+%1ij.gui.ImageCanvas"__id**
+ij.gui.OvalRoi"
+ic*
+41
+42*û
+32F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÑ; Ñ(<"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÑ4 Ñ(=
+""*·
+44F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı ı(à
+Ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaı ı(
+%0ij.ImagePlus"__id*!*
+ij.gui.OvalRoi"
+	clipboard*
+42
+43*û
+22F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÜ; Ü(<"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÜ4 Ü(=
+""*û
+12F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaà; à(<"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaà4 à(=
+"":
+"":
+""B
+ij.gui.OvalRoi

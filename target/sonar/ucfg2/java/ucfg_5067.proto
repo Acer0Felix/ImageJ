@@ -1,0 +1,60 @@
+
+Cij.process.LUT#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaS S(%"5*Œ
+5D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaT T(f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaT T(
+rLutbyte[]"__id*
+""f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaU U(
+gLutbyte[]"__id*
+""f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaV V(
+bLutbyte[]"__id*
+""ìê
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaW W(	
+%0int"java.awt.Color#getRed()I*
+
+colorjava.awt.Color2getRed()óî
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaX X(	
+%1int"java.awt.Color#getGreen()I*
+
+colorjava.awt.Color2
+getGreen()ïí
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javaY Y(	
+%2int"java.awt.Color#getBlue()I*
+
+colorjava.awt.Color2	getBlue()*
+1*Ÿ
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javab b(nl
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javab b(
+%3ij.process.LUT"ij.process.LUTΩ
+∫
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javab	 b("
+%4"ij.process.LUT#<init>([B[B[B)V*
+
+%3ij.process.LUT*
+
+rLutbyte[]*
+
+gLutbyte[]*
+
+bLutbyte[]"^
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.javab b(#
+
+%3ij.process.LUT:
+colorjava.awt.ColorB"
+ij.process.LUT

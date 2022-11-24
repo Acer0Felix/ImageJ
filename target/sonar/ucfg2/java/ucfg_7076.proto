@@ -1,0 +1,770 @@
+
+-ij.plugin.Duplicator#run(Ljava/lang/String;)VJ
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java' '("58*Á
+24J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaQ
+ Q(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaQ Q(
+%40ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impˆÛ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaQ
+ Q(
+%41ij.ImagePlus"8ij.plugin.Duplicator#run(Lij/ImagePlus;II)Lij/ImagePlus;*
+ij.plugin.Duplicator*
+
+%40ij.ImagePlus*
+""*
+""2run(Lij/ImagePlus;II)Å
+
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaQ Q(
+imp2ij.ImagePlus"__id*
+
+%41ij.ImagePlus*
+15
+16*◊
+47J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java;, ;(.{
+y
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java;, ;(8
+%21boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+42
+43*¥
+48J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java7 7(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java7 7(
+%15ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp†ù
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java7 7($
+
+%16int"ij.ImagePlus#getStackSize()I*
+
+%15ij.ImagePlus2getStackSize()ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java8 8(
+%17ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp∂≥
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java8 8(
+%18java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%17ij.ImagePlus2
+getTitle()ã
+à
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java8 8( 
+titlejava.lang.String"__id*
+
+%18java.lang.Stringç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java90 9(3
+%19ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impÜ
+É
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java9 9(;
+%20java.lang.String"Rij.WindowManager#getUniqueName(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+%19ij.ImagePlus*
+
+titlejava.lang.Stringé
+ã
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java9 9(<
+newTitlejava.lang.String"__id*
+
+%20java.lang.Stringü
+ú
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java: :((
+ij.plugin.Duplicator"
+defaultTitle"__id*
+
+newTitlejava.lang.String*
+47
+42
+43*Ã
+49J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java3 3(£
+†
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java3 3($
+%14void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+Roi is outside image"T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java4 4(
+""*å
+28J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaO O(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaO O(
+%38ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impõò
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaO O(
+%39void"ij.ImagePlus#deleteRoi()V*
+
+%38ij.ImagePlus2deleteRoi()*
+24
+21
+22*á
+52J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java2 2(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java2# 2(&
+%12ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impöó
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java2# 2(2
+
+%13int"ij.ImagePlus#getHeight()I*
+
+%12ij.ImagePlus2getHeight()*
+48
+49*ç
+30J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaL L(r
+p
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaL L(
+imp2ij.ImagePlus"__id*
+""ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaM M(
+%36ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp¶£
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaM M(
+%37
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%36ij.ImagePlus2getRoi()|
+z
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaM M(
+roi
+ij.gui.Roi"__id*
+
+%37
+ij.gui.Roi*
+24
+28
+21
+22*Õ
+53J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java1 1(∏µ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java1 1(!
+%9java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roiA
+ij.gui.Roi2getBounds()ä
+á
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java1 1("
+rjava.awt.Rectangle"__id*
+
+%9java.awt.Rectangleç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java2 2(
+%10ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impòï
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java2 2(
+
+%11int"ij.ImagePlus#getWidth()I*
+
+%10ij.ImagePlus2
+getWidth()*
+49
+52*¶
+31J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaJ J(
+"T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaJ J(
+
+""*Ô
+10J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javab b(îë
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javab b(
+%61boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+5
+9*¨
+32J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaI I(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaI I(
+%34ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp√¿
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaI I(
+%35void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+%34ij.ImagePlus*
+
+roiA
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+31*»
+55J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java- -(å
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java- -(
+%4ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp§°
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java- -("
+%5
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%4ij.ImagePlus2getRoi()∂≥
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java- -(.
+%6java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%5
+ij.gui.Roi2getBounds()è
+å
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java- -(/
+boundsjava.awt.Rectangle"__id*
+
+%6java.awt.Rectangleå
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java. .(
+%7ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp€ÿ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java. .(
+
+%8void"*ij.ImagePlus#setRoi(Ljava/awt/Rectangle;)V*
+
+%7ij.ImagePlus*
+
+boundsjava.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)*
+48
+53*∑
+11J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java` `(ﬁ€
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java` `(
+%59void"*ij.ImagePlus#setTitle(Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+
+newTitlejava.lang.String2setTitle(Ljava/lang/String;)˙˜
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaa a(#
+%60void";ij.ImagePlus#setProp(Ljava/lang/String;Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+
+UniqueName*
+true2-setProp(Ljava/lang/String;Ljava/lang/String;)*
+5
+10*Ã
+12J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java] ](∏µ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java] ](!
+%57java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()∏µ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java^ ^(!
+%58java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()*
+11*·
+35J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaE E(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaE E(
+%32ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impﬂ‹
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaE E(9
+%33java.lang.String"eij.plugin.Duplicator#showDialog(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.plugin.Duplicator*
+
+%32ij.ImagePlus*
+Duplicate...*	
+Title: 2>showDialog(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)é
+ã
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaE E(9
+newTitlejava.lang.String"__id*
+
+%33java.lang.String*
+30
+31
+32*¶
+36J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaC C("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaC C(
+""*ƒ
+58J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java( ((
+é
+ã
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java( ((
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJå
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java( ((
+ij.plugin.Duplicator"
+imp"__id*
+
+%0ij.ImagePluså
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java) )(
+%1ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp§°
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java) )(
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%1ij.ImagePlus2getRoi()|
+z
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java) )(
+roiA
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roiå
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java* *(
+%3ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impÄ
+~
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java* *(
+impAij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+48
+53
+55*˝
+37J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaA A(è
+å
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaA' A(4
+%30ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJí
+è
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaA A(5
+%31void"Uij.plugin.Duplicator#straightenRotatedRect(Lij/ImagePlus;Lij/gui/Roi;Lij/ImagePlus;)V*
+ij.plugin.Duplicator*
+
+impAij.ImagePlus*
+
+roiA
+ij.gui.Roi*
+
+%30ij.ImagePlus*
+36*ƒ
+15J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java[ [(œÃ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java[ [()
+%56ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()ï
+í
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java[ [(*
+calij.measure.Calibration"__id*
+
+%56ij.measure.Calibration*
+11
+12*û
+38J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java? ?(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java? ?(
+%28ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp±Æ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java? ?(&
+%29void"Kij.plugin.Duplicator#duplicateHyperstack(Lij/ImagePlus;Ljava/lang/String;)V*
+ij.plugin.Duplicator*
+
+%28ij.ImagePlus*
+
+newTitlejava.lang.String25duplicateHyperstack(Lij/ImagePlus;Ljava/lang/String;)*
+36
+37*´
+16J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaZ Z(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaZ Z(
+%54ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp¬ø
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaZ Z(
+%55void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+%54ij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+15*è
+39J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >( ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >( 
+%26ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp¢ü
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >(.
+%27boolean"ij.ImagePlus#isComposite()Z*
+
+%26ij.ImagePlus2isComposite()*
+35
+38*ß
+19J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaV
+ V(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaV V(
+%50ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp‰·
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaV
+ V(
+%51ij.ImagePlus"7ij.plugin.Duplicator#crop(Lij/ImagePlus;)Lij/ImagePlus;*
+ij.plugin.Duplicator*
+
+%50ij.ImagePlus2crop(Lij/ImagePlus;)Å
+
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaV V(
+imp2ij.ImagePlus"__id*
+
+%51ij.ImagePlusç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaW W(
+%52ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impø
+º
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaW W(
+%53void"0ij.plugin.Duplicator#recordCrop(Lij/ImagePlus;)V*
+ij.plugin.Duplicator*
+
+%52ij.ImagePlus*
+15
+16*h
+0 "a
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javao o(
+implicit return*Í
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javan n(ì
+ê
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javan n(*
+%74void"Uij.plugin.Duplicator#straightenRotatedRect(Lij/ImagePlus;Lij/gui/Roi;Lij/ImagePlus;)V*
+ij.plugin.Duplicator*
+
+impAij.ImagePlus*
+
+roiA
+ij.gui.Roi*
+
+imp2ij.ImagePlus*
+0*Ω
+3J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javal l(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javal l(
+%71ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp¶£
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javal l(&
+
+%72int"ij.ImagePlus#getCurrentSlice()I*
+
+%71ij.ImagePlus2getCurrentSlice()™ß
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javal l('
+%73void"ij.ImagePlus#setSlice(I)V*
+
+imp2ij.ImagePlus*
+
+
+%72int2setSlice(I)*
+0
+1*˛
+4J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javak k(°û
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javak k((
+
+%70int"ij.ImagePlus#getStackSize()I*
+
+imp2ij.ImagePlus2getStackSize()*	
+3
+0
+1*Ô
+5J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaj j(íè
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaj j(
+%69void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*	
+4
+0
+1*˝
+6J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaf f(≠™
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaf f(
+%66java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi2
+ij.gui.Roi2clone()Ñ
+Å
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaf f(
+roi2
+ij.gui.Roi"__id*
+
+%66java.lang.Object®•
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javag g(
+%67void"ij.gui.Roi#setLocation(II)V*
+
+roi2
+ij.gui.Roi*2 *2 2setLocation(II)ƒ¡
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javah h(
+%68void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+imp2ij.ImagePlus*
+
+roi2
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+5*•
+7J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javae e("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javae e(
+""*¸
+8J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javac c(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javac c(
+%64ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impìê
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javac c(
+%65
+ij.gui.Roi"Dij.plugin.Duplicator#cropRoi(Lij/ImagePlus;Lij/gui/Roi;)Lij/gui/Roi;*
+ij.plugin.Duplicator*
+
+%64ij.ImagePlus*
+
+roi
+ij.gui.Roi2#cropRoi(Lij/ImagePlus;Lij/gui/Roi;)}
+{
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javac c( 
+roi2
+ij.gui.Roi"__id*
+
+%65
+ij.gui.Roi*
+6
+7*÷
+9J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javab# b(&íè
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javab# b(0
+
+%62int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()h
+f
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javab2 b(?
+
+%63int"__id*
+""*
+5
+8*ë
+40J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >(
+ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >(
+
+%24ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp§°
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java> >(
+%25boolean"ij.ImagePlus#isHyperStack()Z*
+
+%24ij.ImagePlus2isHyperStack()*
+38
+39*‚
+42J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java< <(\~
+|
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java= =(
+%23boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+40
+30
+31
+32*¨
+20J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaT T((ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaT) T(,
+%48ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+impø
+º
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaT T(-
+%49void"0ij.plugin.Duplicator#recordCrop(Lij/ImagePlus;)V*
+ij.plugin.Duplicator*
+
+%48ij.ImagePlus*
+15
+16*¯
+43J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java<D <(Iü
+ú
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java<D <(V
+%22java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+42*ä
+21J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaS
+ S(ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaS S(
+%44ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp‚ﬂ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaS
+ S(
+%45ij.ImagePlus"6ij.plugin.Duplicator#run(Lij/ImagePlus;)Lij/ImagePlus;*
+ij.plugin.Duplicator*
+
+%44ij.ImagePlus2run(Lij/ImagePlus;)Å
+
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaS S(
+imp2ij.ImagePlus"__id*
+
+%45ij.ImagePlusç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaT T(
+
+%46ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp†ù
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaT T(
+
+%47int"ij.ImagePlus#getStackSize()I*
+
+%46ij.ImagePlus2getStackSize()*
+15
+16
+20*ç
+22J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaR R( ç
+ä
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaR R( 
+%42ij.ImagePlus"__id*!*
+ij.plugin.Duplicator"
+imp†ù
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.javaR R(/
+
+%43int"ij.ImagePlus#getStackSize()I*
+
+%42ij.ImagePlus2getStackSize()*
+19
+21:
+argjava.lang.StringB
+ij.plugin.Duplicator

@@ -1,0 +1,132 @@
+
+3ij.process.StackProcessor#crop(IIII)Lij/ImageStack;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaä ä("5*ê
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaé é(õ
+ò
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaé é(
+%2ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackﬂ‹
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaé é(-
+%3ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+%2ij.ImageStack*22getProcessor(I)°
+û
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaé é(. 
+ip1ij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor›⁄
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaè è("
+
+%4void"'ij.process.ImageProcessor#setRoi(IIII)V*"
+ 
+ip1ij.process.ImageProcessor*
+""*
+""*
+""*
+""2setRoi(IIII)õ
+ò
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaê ê(
+%5ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackœÃ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaê ê((
+%6java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+%5ij.ImageStack*22getSliceLabel(I)ë
+é
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaê ê()
+labeljava.lang.String"__id*
+
+%6java.lang.Stringõ
+ò
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaë ë(
+%7ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackÆ´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaë ë(
+
+%8void"ij.ImageStack#deleteSlice(I)V*
+
+%7ij.ImageStack*22deleteSlice(I)‡›
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaí	 í(
+%9ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*"
+ 
+ip1ij.process.ImageProcessor2crop()°
+û
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaí í( 
+ip2ij.process.ImageProcessor"__id*!
+
+%9ij.process.ImageProcessor¿Ω
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaì ì(
+%10void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+labeljava.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)é
+ã
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaî î(%
+%11void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+3
+1*í
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaã( ã(-yw
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaã ã('
+%0ij.ImageStack"ij.ImageStackû
+õ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaã ã(6
+%1"ij.ImageStack#<init>(II)V*
+
+%0ij.ImageStack*
+""*
+""å
+â
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaã ã(7
+stack2ij.ImageStack"__id*
+
+%0ij.ImageStackÜ
+É
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaå å( 
+ip2ij.process.ImageProcessor"__id*
+""*
+3
+1*◊
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javañ ñ(é
+ã
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javañ ñ(
+%12void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+"""n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/StackProcessor.javaó ó(
+
+stack2ij.ImageStack:
+"":
+"":
+"":
+""B
+ij.process.StackProcessor

@@ -1,0 +1,405 @@
+
+ij.plugin.FFTMath#showDialog()ZG
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java ("30*±
+13G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java4 4(≥∞
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java4 4(+
+%10java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()¢
+ü
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java4 4(+
+%11"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%10java.lang.String*
+14
+5*ê
+24G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$E $(Hîë
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$T $(b	
+%5int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()õ
+ò
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$E $(c
+%6boolean"ij.process.FHT#isPowerOf2(I)Z*"
+ij.process.FHT*
+	
+%5int*
+26
+18
+19*Ç
+14G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java1 1(™
+ß
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java2 2(>
+%9ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""|
+z
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java2 2(?
+impij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+13
+12*è
+25G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$ $("îë
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$ $(-	
+%3int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()ñì
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java$1 $(@	
+%4int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+24
+26
+18
+19*ä
+26G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java# #()™
+ß
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java# #(<
+%2ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""|
+z
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java# #(=
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+25
+26
+18
+19*‡
+18G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java- -(*yw
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java. .(1
+%8java.lang.String[]"java.lang.String[]å
+â
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java. .(2
+titlesjava.lang.String[]"__id*
+
+%8java.lang.String[]*
+14
+5*ñ
+29G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java (t
+r
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java (
+
+%1void"ij.IJ#noImage()V*	"
+ij.IJ"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java (
+""*á
+19G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java*	 *(‰
+·
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java*	 *(Z
+
+%7void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+FFT Math*=;
+9Images must be a power of 2 size (256x256, 512x512, etc.)"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java+	 +(
+""*ÿ
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaG G(∏µ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaG G((
+
+%35int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()∏µ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaH H(+
+
+%36int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()∏µ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaI I((
+
+%37int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()Ã…
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaJ J("
+%38java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()ç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaJ J("
+ij.plugin.FFTMath"
+title"__id*
+
+%38java.lang.String¥±
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaK K('
+%39boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()´
+®
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaL L(5
+%40ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""à
+Ö
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaL L(5
+ij.plugin.FFTMath"
+imp1"__id*
+
+%40ij.ImagePlus´
+®
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaM M(5
+%41ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""à
+Ö
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaM M(5
+ij.plugin.FFTMath"
+imp2"__id*
+
+%41ij.ImagePlus"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaN N(
+""*ü
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaF F("Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaF F(
+""*¿
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java=- =(7~|
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java= =(,
+%17ij.gui.GenericDialog"ij.gui.GenericDialog≤
+Ø
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java= =(8
+%18"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%17ij.gui.GenericDialog*
+
+FFT Mathç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java= =(9
+gdij.gui.GenericDialog"__id*
+
+%17ij.gui.GenericDialogô
+ñ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java>) >(7
+%19java.lang.String"
+__arrayGet*
+
+titlesjava.lang.String[]*
+""ﬁ€
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java> >(8
+%20void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Image1: *
+
+titlesjava.lang.String[]*
+
+%19java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)ç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java?# ?(&
+%21java.lang.String[]"__id**
+ij.plugin.FFTMath"
+opsç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java?( ?(+
+%22java.lang.String[]"__id**
+ij.plugin.FFTMath"
+opsñ
+ì
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java?( ?(6
+%23java.lang.String"
+__arrayGet*
+
+%22java.lang.String[]*
+""›⁄
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java? ?(7
+%24void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Operation:*
+
+%21java.lang.String[]*
+
+%23java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)ô
+ñ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java@) @(7
+%25java.lang.String"
+__arrayGet*
+
+titlesjava.lang.String[]*
+""ﬁ€
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java@ @(8
+%26void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Image2: *
+
+titlesjava.lang.String[]*
+
+%25java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)ç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaA% A(*
+%27java.lang.String"__id* *
+ij.plugin.FFTMath"
+title°û
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaA A(+
+%28void"Jij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Result:*
+
+%27java.lang.String24addStringField(Ljava/lang/String;Ljava/lang/String;)Û
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaB B(9
+%29void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Do inverse transform*
+""2 addCheckbox(Ljava/lang/String;Z)r
+p
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaC C(
+%30java.lang.String"__id*
+""±
+Æ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaC C(=
+%31java.lang.String"__concat*
+
+%30java.lang.String*%#
+!/docs/menus/process.html#fft-math‚ﬂ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaC C(>
+%32void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%31java.lang.String2addHelp(Ljava/lang/String;)©¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaD D(
+%33void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()Æ´
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.javaE E(
+%34boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*–
+4G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java< <(!ç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java<0 <(5
+%15java.lang.String"__id* *
+ij.plugin.FFTMath"
+title‹
+Ÿ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java< <(6
+%16java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+%15java.lang.Stringç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java< <(6
+ij.plugin.FFTMath"
+title"__id*
+
+%16java.lang.String*
+3*∂
+5G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java; ;(ç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java;# ;((
+%13java.lang.String"__id* *
+ij.plugin.FFTMath"
+titleœ
+Ã
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java; ;()
+%14ij.ImagePlus";ij.WindowManager#getImage(Ljava/lang/String;)Lij/ImagePlus;*"
+ij.WindowManager*
+
+%13java.lang.String*
+3
+4*Ò
+30G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java (#è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java (/
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+26
+29
+18
+19*‰
+12G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java6 6(ã
+à
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFTMath.java6 6(
+%12"
+__arraySet*
+
+titlesjava.lang.String[]*
+""* *
+14
+5B
+ij.plugin.FFTMath

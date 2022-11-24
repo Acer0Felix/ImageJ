@@ -1,0 +1,169 @@
+
+Oij.plugin.ZProjector#projectRGBHyperStackRois(Lij/gui/Overlay;)Lij/gui/Overlay;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÓ Ó(,"17"18*É
+13L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ2 Ü(3o
+m
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ2 Ü(3	
+%8int"__id*
+
+
+%10int*
+12*Ú
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(o
+m
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(
+r
+ij.gui.Roi"__id*
+""Œ
+‰
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(
+r
+ij.gui.Roi"
+__arrayGet*
+
+%5ij.gui.Roi[]*
+""*
+15
+1*æ
+14L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ! Ü("›˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ! Ü(1	
+%9int"ij.gui.Roi#getZPosition()I*
+
+r
+ij.gui.Roi2getZPosition()n
+l
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ! Ü(1	
+%8int"__id*
+	
+%9int*
+12*Ê
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaâ â(§¤
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaâ â(
+%13void"ij.gui.Roi#setPosition(I)V*
+
+roi
+ij.gui.Roi*
+""2setPosition(I)ÇÄ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaã ã(
+%14void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlay2ij.gui.Overlay*
+
+roi
+ij.gui.Roi2add(Lij/gui/Roi;)*
+2*®
+15L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÛ Û(›˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÛ Û(	
+%6int"ij.gui.Roi#getCPosition()I*
+
+r
+ij.gui.Roi2getCPosition()±®
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ Ü( 
+%7boolean"#ij.gui.Roi#hasHyperStackPosition()Z*
+
+r
+ij.gui.Roi2hasHyperStackPosition()*
+13
+14*Ž
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(´±
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú( 
+%5ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+
+overlayij.gui.Overlay2	toArray()*
+2*õ
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ(”
+‘
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ(
+%0ij.ImagePlus"__id*'*%
+ij.plugin.ZProjector"
+	projImageœ™
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ(%	
+%1int"ij.ImagePlus#getNFrames()I*
+
+%0ij.ImagePlus2getNFrames()Ž
+‹
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÖ Ö(
+%2ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp˜•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÖ Ö(	
+%3int"ij.ImagePlus#getFrame()I*
+
+%2ij.ImagePlus2
+getFrame()·´
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.java× ×(+
+%4ij.gui.Overlay"'ij.gui.Overlay#create()Lij/gui/Overlay;*
+
+overlayij.gui.Overlay2create()‹
+ˆ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.java× ×(,
+overlay2ij.gui.Overlay"__id*
+
+%4ij.gui.Overlayq
+o
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaØ Ø(
+roi
+ij.gui.Roi"__id*
+""*
+16*ª
+18L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÔ" Ô(&"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÔ Ô('
+""*°
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÜ Ü(3œ™
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÝ Ý(
+
+%11int"ij.gui.Roi#getTPosition()I*
+
+r
+ij.gui.Roi2getTPosition()¬©
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÞ Þ(
+%12java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+r
+ij.gui.Roi2clone()…
+‚
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÞ Þ(
+roi
+ij.gui.Roi"__id*
+
+%12java.lang.Object*
+2
+3*¿
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaæ	 æ("l
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaæ æ(
+
+overlay2ij.gui.Overlay:
+overlayij.gui.OverlayB
+ij.plugin.ZProjector

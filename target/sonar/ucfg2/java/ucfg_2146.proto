@@ -1,0 +1,64 @@
+
+2ij.macro.Interpreter#getString()Ljava/lang/String;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaŸ Ÿ("6*Ü
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‡ ‡(≠™
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‡ ‡(
+
+%4void"$ij.macro.Interpreter#putTokenBack()V*
+ij.macro.Interpreter2putTokenBack()*
+1*‡
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(Ã…
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+%2java.lang.String"6ij.macro.Interpreter#getStringTerm()Ljava/lang/String;*
+ij.macro.Interpreter2getStringTerm()®
+•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+%3java.lang.String"__concat*
+
+strjava.lang.String*
+
+%2java.lang.Stringä
+á
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+strjava.lang.String"__id*
+
+%3java.lang.String*
+4
+1*Å
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‹ ‹(•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‹ ‹(
+
+%1void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()*
+2
+3*µ
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java⁄ ⁄(Ã…
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java⁄ ⁄(
+%0java.lang.String"6ij.macro.Interpreter#getStringTerm()Ljava/lang/String;*
+ij.macro.Interpreter2getStringTerm()ä
+á
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java⁄ ⁄(
+strjava.lang.String"__id*
+
+%0java.lang.String*
+4
+1*º
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‰	 ‰("i
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‰ ‰(
+
+strjava.lang.StringB
+ij.macro.Interpreter

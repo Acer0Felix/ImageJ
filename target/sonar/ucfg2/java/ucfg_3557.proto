@@ -1,0 +1,14 @@
+
+=ij.ImagePlus#getChannelProcessor()Lij/process/ImageProcessor;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‰ ‰(*"1*û
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŠ	 Š(ÄÁ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŠ	 Š(
+%0ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+ij.ImagePlus2getProcessor()"i
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŠ Š(!
+
+%0ij.process.ImageProcessorB
+ij.ImagePlus

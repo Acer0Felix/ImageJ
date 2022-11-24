@@ -1,0 +1,143 @@
+
+Kij.plugin.FolderOpener#trimFileList([Ljava/lang/String;)[Ljava/lang/String;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÒ Ò("15"18"7"8*¿
+13N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaØ7 Ø(GØ
+Õ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaØ7 Ø(M
+%3boolean"<ij.plugin.FolderOpener#excludedFileType(Ljava/lang/String;)Z*"
+ij.plugin.FolderOpener*
+
+namejava.lang.String*
+15
+7
+8
+12*¸
+14N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(!×Ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(5
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+	Thumbs.db2equals(Ljava/lang/Object;)*
+13
+12*¦
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaä ä(	 
+
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaä ä(
+%7java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""¥
+¢
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaä ä(
+%8"
+__arraySet*
+
+listjava.lang.String[]*
+""*
+
+%7java.lang.String*
+4
+1*ë
+15N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.java× ×( 
+
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.java× ×(
+%0java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""
+Š
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.java× ×(
+namejava.lang.String"__id*
+
+%0java.lang.String×Ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.2startsWith(Ljava/lang/String;)*
+14
+12*
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaã ã( 
+
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaã ã(
+%6java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""*	
+3
+4
+1*ò
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaà à(€~
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaà
+ à(
+%5java.lang.String[]"java.lang.String[]‘
+Ž
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaà à(
+listjava.lang.String[]"__id*
+
+%5java.lang.String[]*
+4
+1*®
+18N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÔ
+ Ô("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÔ Ô(
+""*ô
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÞ Þ(–
+“
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÞ Þ(
+listjava.lang.String[]"__id*
+
+rawlistjava.lang.String[]*
+6
+1*­
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÝ Ý("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÝ Ý(
+""*ù
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÙ Ù(–
+“
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaÙ Ù(
+%4"
+__arraySet*
+
+rawlistjava.lang.String[]*
+""*
+""*
+
+15
+7
+8*Ã
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaç	 ç("n
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaç ç(
+
+listjava.lang.String[]:
+rawlistjava.lang.String[]B
+ij.plugin.FolderOpener

@@ -1,0 +1,399 @@
+
+;ij.plugin.frame.ContrastAdjuster#propagate(Lij/ImagePlus;)VX
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java≤ ≤("33*ò
+24X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java≈ ≈(Æ´
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java≈ ≈(%
+
+%13int"ij.ImagePlus#getNChannels()I*
+
+imgij.ImagePlus2getNChannels()*
+22
+0*¿
+25X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java√ √(†ù
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java√ √(
+
+%11int"ij.ImagePlus#getID()I*
+
+imgij.ImagePlus2getID()∞≠
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaƒ ƒ(
+%12boolean"ij.ImagePlus#isComposite()Z*
+
+imgij.ImagePlus2isComposite()*
+
+24
+7
+0*¬
+26X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¬ ¬("b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¬ ¬(
+""*°
+27X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaæ æ(›⁄
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaæ æ((
+%7ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imgij.ImagePlus2getProcessor()ß
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaæ æ()
+ipij.process.ImageProcessor"__id*!
+
+%7ij.process.ImageProcessorΩ∫
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaø ø(
+%8double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()Ω∫
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¿ ¿(
+%9double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()¨©
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¡ ¡(
+
+%10int"ij.ImagePlus#getBitDepth()I*
+
+imgij.ImagePlus2getBitDepth()*
+25
+26*¬
+28X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaΩ Ω("b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaΩ Ω(
+""*¬
+30X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaª ª("b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaª ª(
+""*è
+31X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java∫ ∫(†
+ù
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java∫ ∫((
+%6int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+27
+28
+30*ò
+32X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¥( ¥(;èå
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¥ ¥('
+%1ij.gui.GenericDialog"ij.gui.GenericDialog 
+«
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¥ ¥(<
+%2"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%1ij.gui.GenericDialog*
+Contrast Adjusterù
+ö
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¥ ¥(=
+gdij.gui.GenericDialog"__id*
+
+%1ij.gui.GenericDialog–Õ
+Y
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaµ µ(Å
+
+%3void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*pn
+lPropagation of RGB images not supported. As a work-around,\nconvert images to multi-channel composite color.2addMessage(Ljava/lang/String;)≈¬
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java∂ ∂(
+
+%4void"(ij.gui.GenericDialog#hideCancelButton()V*
+
+gdij.gui.GenericDialog2hideCancelButton()π∂
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java∑ ∑(
+
+%5void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()"b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java∏ ∏(
+
+""*ñ
+33X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java≥ ≥(	´®
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java≥ ≥(	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+imgij.ImagePlus2getBitDepth()*
+31
+32*ñ
+11X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java” ”(	ß§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java” ”(.
+
+%28int"ij.ImagePlus#getSlice()I*
+
+img2ij.ImagePlus2
+getSlice()ß§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java”0 ”(?
+
+%29int"ij.ImagePlus#getFrame()I*
+
+img2ij.ImagePlus2
+getFrame()ÿ’
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java” ”(@
+%30void"ij.ImagePlus#setPosition(III)V*
+
+img2ij.ImagePlus*
+""*
+
+
+%28int*
+
+
+%29int2setPosition(III)*
+22
+0*ã
+13X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŒ" Œ(%Ÿ÷
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŒ Œ(7
+%22ij.process.LUT"2ij.CompositeImage#getChannelLut(I)Lij/process/LUT;*
+
+imgij.ImagePlus*
+""2getChannelLut(I)ì
+ê
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŒ Œ(8
+lutij.process.LUT"__id*
+
+%22ij.process.LUTß§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaœ œ()
+
+%23int"ij.ImagePlus#getSlice()I*
+
+img2ij.ImagePlus2
+getSlice()ß§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaœ+ œ(:
+
+%24int"ij.ImagePlus#getFrame()I*
+
+img2ij.ImagePlus2
+getFrame()ÿ’
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaœ œ(;
+%25void"ij.ImagePlus#setPosition(III)V*
+
+img2ij.ImagePlus*
+""*
+
+
+%23int*
+
+
+%24int2setPosition(III) «
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java– –(,
+%26void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+img2ij.ImagePlus*
+""*
+""2setDisplayRange(DD)≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java— —(
+%27void"ij.ImagePlus#updateAndDraw()V*
+
+img2ij.ImagePlus2updateAndDraw()*
+13
+11*ñ
+15X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÃ Ã(´®
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÃ Ã($
+
+%21int"ij.ImagePlus#getChannel()I*
+
+img2ij.ImagePlus2getChannel()*
+13
+11*π
+16X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÀ) À(-À»
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÀ) À(9
+%20ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+img2ij.ImagePlus2getWindow()*
+15
+22
+0*ù
+17X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÀ À(Ø¨
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÀ À(
+
+%19int"ij.ImagePlus#getNChannels()I*
+
+img2ij.ImagePlus2getNChannels()*
+16
+22
+0*è
+18X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java ;  (?°û
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java ;  (G
+
+%18int"ij.ImagePlus#getID()I*
+
+img2ij.ImagePlus2getID()*
+17
+22
+0*õ
+19X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java   ("≠™
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java   (0
+
+%17int"ij.ImagePlus#getBitDepth()I*
+
+img2ij.ImagePlus2getBitDepth()*
+18
+22
+0*v
+0 "o
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java· ·(
+implicit return*à
+2X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java€ €(ﬂ‹
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java€ €(- 
+%36ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+img2ij.ImagePlus2getProcessor()©
+¶
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java€ €(. 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%36ij.process.ImageProcessor›⁄
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java‹ ‹(
+%37void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java› ›(
+%38void"ij.ImagePlus#updateAndDraw()V*
+
+img2ij.ImagePlus2updateAndDraw()*
+7
+0*∂
+3X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java⁄! ⁄(%À»
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java⁄! ⁄(1
+%35ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+img2ij.ImagePlus2getWindow()*	
+2
+7
+0*ö
+4X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java⁄ ⁄(Ø¨
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java⁄ ⁄(
+
+%34int"ij.ImagePlus#getNChannels()I*
+
+img2ij.ImagePlus2getNChannels()*	
+3
+7
+0*å
+5X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŸ3 Ÿ(7°û
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŸ3 Ÿ(?
+
+%33int"ij.ImagePlus#getID()I*
+
+img2ij.ImagePlus2getID()*	
+4
+7
+0*ò
+6X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŸ Ÿ(≠™
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŸ Ÿ((
+
+%32int"ij.ImagePlus#getBitDepth()I*
+
+img2ij.ImagePlus2getBitDepth()*	
+5
+7
+0*∫
+7X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÿ ÿ("º
+π
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÿ ÿ(4
+%31ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""ê
+ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÿ ÿ(5
+img2ij.ImagePlus"__id*
+
+%31ij.ImagePlus*	
+6
+7
+0*—
+20X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java… …(Ø¨
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java… …((
+
+%15int"ij.ImagePlus#getNChannels()I*
+
+img2ij.ImagePlus2getNChannels()±Æ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java   (
+%16boolean"ij.ImagePlus#isComposite()Z*
+
+img2ij.ImagePlus2isComposite()*
+19
+22
+0*Ω
+22X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java« «("º
+π
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java« «(4
+%14ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""ê
+ç
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java« «(5
+img2ij.ImagePlus"__id*
+
+%14ij.ImagePlus*
+20
+22
+0:
+imgij.ImagePlusB$"
+ ij.plugin.frame.ContrastAdjuster

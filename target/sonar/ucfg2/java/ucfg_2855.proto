@@ -1,0 +1,83 @@
+
+5ij.process.FloatProcessor#getInterpolatedPixel(DD[F)DQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÊ Ê(*"21*³
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaå
+ å("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaå å(
+""*‚
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÛ Û(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÜ Ü(
+%2boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+7
+11*€
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaä ä(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaä ä(%
+%5boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+1*³
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaã
+ ã("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaã ã(
+""*ÿ
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java× ×(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java× ×(#
+%1boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+14*€
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaâ â(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaâ â( 
+%4boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+4
+5*ƒ
+21Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaË Ë(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÕ Õ(
+%0boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+14
+18*þ
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÞ Þ(Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÞ Þ(#
+%3boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+7*³
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaç
+ ç("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaç ç(A
+"":
+"":
+"":
+""B
+ij.process.FloatProcessor

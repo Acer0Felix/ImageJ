@@ -1,0 +1,35 @@
+
+<ij.plugin.AnimatedGifEncoder2#start(Ljava/io/OutputStream;)ZK
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java© ©("4"5*Ä
+3K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java¯ ¯(ìé
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java¯ ¯(
+
+%0void">ij.plugin.AnimatedGifEncoder2#writeString(Ljava/lang/String;)V*!
+ij.plugin.AnimatedGifEncoder2*
+
+GIF89a2writeString(Ljava/lang/String;)*
+1*ö
+4K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java« «(ž
+›
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java­ ­((
+ij.plugin.AnimatedGifEncoder2"
+out"__id*
+
+osjava.io.OutputStream*
+3*§
+5K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaª ª("U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaª ª( 
+""*§
+1K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java± ±("U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java± ±(
+"":
+osjava.io.OutputStreamB!
+ij.plugin.AnimatedGifEncoder2

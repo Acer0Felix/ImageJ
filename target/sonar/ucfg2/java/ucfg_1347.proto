@@ -1,0 +1,48 @@
+
+:ij.process.BinaryInterpolator#getIDT(Ljava/lang/Object;)[IU
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaª ª("3*ª
+2U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaæ
+ æ("_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaæ æ(
+""*Ü
+3U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaº º(¶£
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaº º('
+%0!ij.process.BinaryInterpolator$IDT"!ij.process.BinaryInterpolator$IDT◊
+‘
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaº º(
+%1"Jij.process.BinaryInterpolator$IDT#<init>(Lij/process/BinaryInterpolator;)V*)
+'
+%0!ij.process.BinaryInterpolator$IDTµ
+≤
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaº º((
+idt!ij.process.BinaryInterpolator$IDT"__id*)
+'
+%0!ij.process.BinaryInterpolator$IDTÊ„
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaΩ Ω(	
+%2int"+ij.process.BinaryInterpolator$IDT#init([B)I**
+(
+idt!ij.process.BinaryInterpolator$IDT*
+
+pixelsjava.lang.Object2init([B)*
+2
+1*ç
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaø ø(œÃ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaø ø(
+
+%3void".ij.process.BinaryInterpolator$IDT#propagate()V**
+(
+idt!ij.process.BinaryInterpolator$IDT2propagate()"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.java¿ ¿(
+"":
+pixelsjava.lang.ObjectB!
+ij.process.BinaryInterpolator

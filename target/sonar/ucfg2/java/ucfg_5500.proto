@@ -1,0 +1,51 @@
+
+#ij.plugin.DicomDecoder#getDouble()DG
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java„ „("4*ñ
+
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java… …(¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java… …(	
+%0int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java† †(	
+%1int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java‡ ‡(	
+%2int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaˆ ˆ(	
+%3int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java‰ ‰(	
+%4int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaŠ Š(	
+%5int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java‹ ‹(	
+%6int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaŒ Œ(	
+%7int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()*
+1*Á
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¡	 ¡(Ÿ
+œ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¡	 ¡(%
+%8double"%java.lang.Double#longBitsToDouble(J)D*"
+java.lang.Double*
+"""Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¡ ¡(&
+""B
+ij.plugin.DicomDecoder

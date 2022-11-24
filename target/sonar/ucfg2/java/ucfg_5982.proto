@@ -1,0 +1,106 @@
+
+ij.util.IJMath#erf(D)DD
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java ("9*¾
+2D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%10double"__id*
+
+%12double*
+1*¾
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%10double"__id*
+
+%11double*
+1*ç
+5D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (d
+b
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java0 (7
+%6double"__id*
+""”
+‘
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java& (8
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%6double‹
+ˆ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%8double"ij.util.IJMath#sqr(D)D*"
+ij.util.IJMath*
+""‹
+ˆ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%9double"java.lang.Math#exp(D)D*"
+java.lang.Math*
+""Œ
+‰
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""l
+j
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%3double"__id*
+
+%5double*
+2
+3*¼
+6D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (i
+g
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%3double"__id*
+	
+%4int*
+2
+3*–
+8D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (d
+b
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%1double"__id*
+""”
+‘
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%2double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%1double"N
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (?
+""*â
+9D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (‹
+ˆ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+%0double"ij.util.IJMath#sqr(D)D*"
+ij.util.IJMath*
+""*	
+5
+6
+8*™
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java ("N
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/util/IJMath.java (
+"":
+""B"
+ij.util.IJMath

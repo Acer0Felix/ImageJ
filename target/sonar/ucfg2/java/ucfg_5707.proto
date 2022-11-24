@@ -1,0 +1,30 @@
+
+!ij.gui.Overlay#get(I)Lij/gui/Roi;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaY Y("3*¥
+2D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java[ [(!"Z
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java[ [("
+
+%1
+ij.gui.Roi*â
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java[ [(…
+‚
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java[ [(
+%0java.util.Vector"__id**
+ij.gui.Overlay"
+list‰
+†
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.java[ [(!
+%1
+ij.gui.Roi"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+2:
+""B
+ij.gui.Overlay

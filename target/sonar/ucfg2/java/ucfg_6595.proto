@@ -1,0 +1,198 @@
+
+Oij.plugin.RGBStackMerge#mergeUsingRGBProjection([Lij/ImagePlus;Z)Lij/ImagePlus;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaî î(*"9*®
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java£ £(Ã…
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java£ £(
+%20void"*ij.ImagePlus#setTitle(Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+RGB2setTitle(Ljava/lang/String;)*
+1*®
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java†
+ †(Ì
+Í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java†
+ †(0
+%18ij.ImagePlus"Hij.plugin.CompositeConverter#makeComposite(Lij/ImagePlus;)Lij/ImagePlus;* "
+ij.plugin.CompositeConverter*
+
+imp2ij.ImagePlusá
+Ñ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java† †(0
+imp2ij.ImagePlus"__id*
+
+%18ij.ImagePlus“œ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java° °(
+%19void"*ij.ImagePlus#setTitle(Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+	Composite2setTitle(Ljava/lang/String;)*
+1*›
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaö! ö('vt
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaö ö( 
+%10ij.ImagePlus"ij.ImagePlusœ
+Ã
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaö ö(/
+%11"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%10ij.ImagePlus*
+temp*
+
+stackij.ImageStacká
+Ñ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaö ö(0
+imp2ij.ImagePlus"__id*
+
+%10ij.ImagePlusáÑ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaõ õ( 
+%12ij.plugin.ZProjector"ij.plugin.ZProjector¿
+Ω
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaõ õ(&
+%13",ij.plugin.ZProjector#<init>(Lij/ImagePlus;)V*
+
+%12ij.plugin.ZProjector*
+
+imp2ij.ImagePlusï
+í
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaõ õ('
+zpij.plugin.ZProjector"__id*
+
+%12ij.plugin.ZProjectorm
+k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaú ú($
+
+%14int"__id*
+""øº
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaú ú(%
+%15void""ij.plugin.ZProjector#setMethod(I)V*
+
+zpij.plugin.ZProjector*
+
+
+%14int2setMethod(I)ª∏
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaù ù(
+%16void"'ij.plugin.ZProjector#doRGBProjection()V*
+
+zpij.plugin.ZProjector2doRGBProjection()Ã…
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaû	 û(
+%17ij.ImagePlus"2ij.plugin.ZProjector#getProjection()Lij/ImagePlus;*
+
+zpij.plugin.ZProjector2getProjection()á
+Ñ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaû û(
+imp2ij.ImagePlus"__id*
+
+%17ij.ImagePlus*
+2
+3* 
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaò ò(	ò
+ï
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaò ò(
+%7ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""”–
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaò ò(+
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%7ij.ImagePlus2getProcessor()˙˜
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaò ò(,
+
+%9void"4ij.ImageStack#addSlice(Lij/process/ImageProcessor;)V*
+
+stackij.ImageStack*!
+
+%8ij.process.ImageProcessor2%addSlice(Lij/process/ImageProcessor;)*
+4
+7*˙
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaó ó(ò
+ï
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaó ó(
+%6ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""*	
+4
+6
+7*ˆ
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï$ ï('î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï$ ï('
+%0ij.ImagePlus"__id*$*"
+ij.plugin.RGBStackMerge"
+impõò
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï$ ï(2	
+%1int"ij.ImagePlus#getWidth()I*
+
+%0ij.ImagePlus2
+getWidth()î
+ë
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï3 ï(6
+%2ij.ImagePlus"__id*$*"
+ij.plugin.RGBStackMerge"
+impùö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï3 ï(B	
+%3int"ij.ImagePlus#getHeight()I*
+
+%2ij.ImagePlus2getHeight()wu
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï ï(#
+%4ij.ImageStack"ij.ImageStack¶
+£
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï ï(C
+%5"ij.ImageStack#<init>(II)V*
+
+%4ij.ImageStack*
+	
+%1int*
+	
+%3intâ
+Ü
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaï ï(D
+stackij.ImageStack"__id*
+
+%4ij.ImageStack*
+4
+7*ø
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java§	 §("i
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.java§ §(
+
+imp2ij.ImagePlus:
+imagesij.ImagePlus[]:
+""B
+ij.plugin.RGBStackMerge

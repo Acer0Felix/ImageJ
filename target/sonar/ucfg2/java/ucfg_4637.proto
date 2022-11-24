@@ -1,0 +1,59 @@
+
+:ij.measure.ResultsTable#saveAndRename(Ljava/lang/String;)ZO
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¬
+ ¬
+("4*Í
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java­
+ ­
+(š
+—
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java­
+ ­
+(
+%1java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+titleÔÑ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java­
+ ­
+(-
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*	
+Results2equals(Ljava/lang/Object;)*
+1*ù
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java­
+ ­
+(š
+—
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java­
+ ­
+(
+%0java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+title*
+3
+1*›
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¯
+ ¯
+(éæ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¯
+ ¯
+(
+%3boolean"1ij.measure.ResultsTable#save(Ljava/lang/String;)Z*
+ij.measure.ResultsTable*
+
+pathjava.lang.String2save(Ljava/lang/String;)"Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java±
+ ±
+(
+"":
+pathjava.lang.StringB
+ij.measure.ResultsTable

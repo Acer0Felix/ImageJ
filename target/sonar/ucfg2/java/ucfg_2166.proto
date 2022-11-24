@@ -1,0 +1,52 @@
+
+ ij.macro.Interpreter#getIndex()IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java› ›("5*Æ
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‰ ‰(’“
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‰ ‰(
+
+%4void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+ij.macro.Interpreter*
+']' expected2error(Ljava/lang/String;)*
+1*µ
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java· ·( ±Æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java· ·("
+%2double"%ij.macro.Interpreter#getExpression()D*
+ij.macro.Interpreter2getExpression()•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‚ ‚(
+
+%3void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()*
+2
+1*≠
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‡ ‡(‘—
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‡ ‡(
+
+%1void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+ij.macro.Interpreter*
+'['expected2error(Ljava/lang/String;)*
+3*Å
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+
+%0void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()*
+3
+4*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ	 Â("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ Â(
+""B
+ij.macro.Interpreter

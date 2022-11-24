@@ -1,0 +1,45 @@
+
+Dij.plugin.filter.Translator#setup(Ljava/lang/String;Lij/ImagePlus;)IQ
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java ("3*ð
+2Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (¼¹
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (!
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¤
+¡
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (!.
+ij.plugin.filter.Translator"
+origOverlay"__id*
+
+%0ij.gui.Overlay¬
+©
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (
+
+%1void"$ij.Undo#saveOverlay(Lij/ImagePlus;)V*"	
+ij.Undo*
+
+impij.ImagePlus*
+1*ü
+3Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (›
+˜
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (&
+ij.plugin.filter.Translator"
+imp"__id*
+
+impij.ImagePlus*
+2
+1*³
+1Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java	 ("[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Translator.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Translator

@@ -1,0 +1,106 @@
+
+/ij.macro.Functions#setPlotColor(Lij/gui/Plot;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é("3*Ï
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî î(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî î(	
+%5ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî î(
+
+%6void" ij.macro.Interpreter#getComma()V*
+
+%5ij.macro.Interpreter2
+getComma()¬
+©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï ï(
+%7java.awt.Color"-ij.macro.Functions#getColor()Ljava/awt/Color;*
+ij.macro.Functions‡
+„
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï ï(
+color2java.awt.Color"__id*
+
+%7java.awt.Color*
+1*”	
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê ê(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê ê(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê ê(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()¬
+©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë ë(
+%2java.awt.Color"-ij.macro.Functions#getColor()Ljava/awt/Color;*
+ij.macro.Functions†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë ë(
+colorjava.awt.Color"__id*
+
+%2java.awt.Colorv
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì ì(
+color2java.awt.Color"__id*
+""•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí í(
+%3ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí í(	
+%4int"!ij.macro.Interpreter#nextToken()I*
+
+%3ij.macro.Interpreter2nextToken()*
+2
+1*ð
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ ñ(Ž‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ ñ(
+
+%8void"7ij.gui.Plot#setColor(Ljava/awt/Color;Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+colorjava.awt.Color*
+
+color2java.awt.Color2*setColor(Ljava/awt/Color;Ljava/awt/Color;)•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò ò(
+%9ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp²¯
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò ò(
+%10void"%ij.macro.Interpreter#getRightParen()V*
+
+%9ij.macro.Interpreter2getRightParen()k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó	 ó(
+%11double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó ó(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

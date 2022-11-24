@@ -1,0 +1,131 @@
+
+2ij.VirtualStack#getSliceLabel(I)Ljava/lang/String;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.java˝ ˝("7*¶
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ Ö(öó
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ Ö(+	
+%6int"java.lang.String#length()I*
+
+labeljava.lang.String2length()’“
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ Ö(,
+%7java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+labeljava.lang.String*2*
+	
+%6int2substring(II)"c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÖ Ö(-
+
+%7java.lang.String*Æ
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÑ Ñ(◊‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÑ Ñ("
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*	
+Label: 2startsWith(Ljava/lang/String;)*
+2
+1*◊
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÇ
+ Ç(å
+â
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÇ
+ Ç(
+%3java.lang.String[]"__id**
+ij.VirtualStack"
+namesî
+ë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÇ
+ Ç(
+%4java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+"""c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÇ Ç(
+
+%4java.lang.String*Ö
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÄ Ä(ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÄ Ä(
+%1java.lang.String[]"__id**
+ij.VirtualStack"
+labelsî
+ë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÄ Ä(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""á
+Ñ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaÄ Ä(
+labeljava.lang.String"__id*
+
+%2java.lang.String*
+3
+4*ü
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaˇ
+ ˇ("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaˇ ˇ(
+""*‰
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.java˛ ˛(ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.java˛ ˛(
+%0java.lang.String[]"__id**
+ij.VirtualStack"
+labels*
+5
+6*ñ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á(å
+â
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á(
+%8java.lang.String[]"__id**
+ij.VirtualStack"
+namesî
+ë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á(
+%9java.lang.String"
+__arrayGet*
+
+%8java.lang.String[]*
+""ë
+é
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á(
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+\nß
+§
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á( 
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+
+labeljava.lang.String"d
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/VirtualStack.javaá á(!
+
+%11java.lang.String:
+""B
+ij.VirtualStack

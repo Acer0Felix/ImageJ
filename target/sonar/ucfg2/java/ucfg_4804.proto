@@ -1,0 +1,82 @@
+
+Fij.process.TypeConverter#convertToFloat([F)Lij/process/ImageProcessor;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÀ À(%"1*±
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÊ Ë("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaË Ë(
+""*Á
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÈ É(òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÉ É(
+%7ij.process.FloatProcessor"Gij.process.TypeConverter#convertRGBToFloat()Lij/process/FloatProcessor;*
+ij.process.TypeConverter2convertRGBToFloat()"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÉ É(!
+
+%7ij.process.FloatProcessor*ñ
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÆ Ç(¢
+Ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÇ Ç(
+%6ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÇ Ç(!
+
+%6ij.process.ImageProcessor*Ñ
+5P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÄ Å('‚ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÅ Å(&
+%5ij.process.FloatProcessor"Kij.process.TypeConverter#convertShortToFloat([F)Lij/process/FloatProcessor;*
+ij.process.TypeConverter*
+""2convertShortToFloat([F)"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÅ Å('!
+
+%5ij.process.FloatProcessor*Ï
+6P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÂ Ã(&€ý
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÃ Ã(%
+%4ij.process.FloatProcessor"Jij.process.TypeConverter#convertByteToFloat([F)Lij/process/FloatProcessor;*
+ij.process.TypeConverter*
+""2convertByteToFloat([F)"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÃ Ã(&!
+
+%4ij.process.FloatProcessor*¢
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÁ
+ Á(m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÂ Â(	
+%0int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÄ Ä(	
+%1int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÆ Æ(	
+%2int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaÈ È(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6:
+""B
+ij.process.TypeConverter

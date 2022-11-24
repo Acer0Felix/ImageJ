@@ -1,0 +1,54 @@
+
+!ij.gui.OvalRoi#containsPoint(DD)ZF
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÎ Î("3*ù
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÌ
+ Ì("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÌ Ì(
+""*Á
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÏ Ï(ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÏ Ï( 
+%0boolean"ij.gui.Roi#containsPoint(DD)Z*
+""*
+""*
+""*
+2
+1*Â
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÓ, Ó(0ëé
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÓ Ó(+$
+%1java.awt.geom.Ellipse2D$Double"java.awt.geom.Ellipse2D$Double«
+ƒ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÓ Ó(J
+%2",java.awt.geom.Ellipse2D$Double#<init>(DDDD)V*&
+$
+%1java.awt.geom.Ellipse2D$Double*
+""*
+""*
+""*
+""û
+õ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÓ Ó(K#
+ejava.awt.geom.Ellipse2D$Double"__id*&
+$
+%1java.awt.geom.Ellipse2D$Double∆√
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÔ	 Ô(
+%3boolean"%java.awt.geom.Ellipse2D#contains(DD)Z*%
+#
+ejava.awt.geom.Ellipse2D$Double*
+""*
+""2contains(DD)"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÔ Ô(
+"":
+"":
+""B
+ij.gui.OvalRoi

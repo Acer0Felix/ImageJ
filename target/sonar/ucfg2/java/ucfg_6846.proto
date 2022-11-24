@@ -1,0 +1,58 @@
+
+ij.gui.EllipseRoi#getLength()DI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.javaŒ Œ("7*Í
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.javaÿ ÿ(ë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java⁄ ⁄()
+%3double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+3
+1*≈
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java” ”(à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java” ”(
+%1ij.ImagePlus"__id**
+ij.gui.EllipseRoi"
+impÀ»
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java” ”()
+%2ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%1ij.ImagePlus2getCalibration()ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java” ”(*
+calij.measure.Calibration"__id*
+
+%2ij.measure.Calibration*
+3
+1*‰
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.javaœ œ(à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java“ “(	
+%0ij.ImagePlus"__id**
+ij.gui.EllipseRoi"
+imp*	
+3
+6
+1*∑
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.java‹ ‹(
+ë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.javaﬁ ﬁ((
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/EllipseRoi.javaﬂ ﬂ(
+""B
+ij.gui.EllipseRoi

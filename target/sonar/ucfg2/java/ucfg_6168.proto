@@ -1,0 +1,77 @@
+
++ij.Executer#openRecent(Ljava/lang/String;)ZC
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaò ò("8*µ
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.java÷ ÷(›
+˜
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.java÷ ÷(
+
+%5void"ij.IJ#open(Ljava/lang/String;)V*	"
+ij.IJ*
+
+cmdjava.lang.String"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaø ø(
+""*¡
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaö ö(»¸
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaö ö(
+%2java.awt.MenuItem"+java.awt.Menu#getItem(I)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+""2
+getItem(I)·´
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaö ö(!
+%3java.lang.String".java.awt.MenuItem#getLabel()Ljava/lang/String;*
+
+%2java.awt.MenuItem2
+getLabel()ÖÓ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaö ö(-
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+cmdjava.lang.String2equals(Ljava/lang/Object;)*
+3
+5*î
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaõ õ(›˜
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaõ õ(%	
+%1int"java.awt.Menu#getItemCount()I*
+
+menujava.awt.Menu2getItemCount()*
+4
+1*—
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaô ô("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaô ô(
+""*è
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaó ó(˜
+•
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaó ó('
+%0java.awt.Menu"+ij.Menus#getOpenRecentMenu()Ljava/awt/Menu;*"
+
+ij.Menus{
+y
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaó ó((
+menujava.awt.Menu"__id*
+
+%0java.awt.Menu*
+5
+7*—
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaû	 û("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/Executer.javaû û(
+"":
+cmdjava.lang.StringB
+ij.Executer

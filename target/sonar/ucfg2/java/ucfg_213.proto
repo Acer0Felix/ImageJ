@@ -1,0 +1,55 @@
+
+=ij.gui.PlotContentsDialog#isValid(Lij/measure/ResultsTable;)ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaã ã("3"4*å
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaç
+ ç(¯¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaç
+ ç(#	
+%2int"java.lang.String#length()I*&
+$
+columnHeadingStrjava.lang.String2length()"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaç ç((
+""*Î
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(ãà
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(2
+%0java.lang.String"=ij.measure.ResultsTable#getColumnHeadings()Ljava/lang/String;*
+
+rtij.measure.ResultsTable2getColumnHeadings()œ
+™
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(3$
+columnHeadingStrjava.lang.String"__id*
+
+%0java.lang.Stringèå
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaæ æ((
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*&
+$
+columnHeadingStrjava.lang.String*
+ \t2startsWith(Ljava/lang/String;)*
+2
+1*³
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaä ä("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaä ä(
+""*å
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaé
+ é(¯¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaé
+ é(#	
+%3int"java.lang.String#length()I*&
+$
+columnHeadingStrjava.lang.String2length()"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaé é()
+"":
+rtij.measure.ResultsTableB"
+ij.gui.PlotContentsDialog

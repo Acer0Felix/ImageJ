@@ -1,0 +1,40 @@
+
+1ij.macro.Functions#removeOverlay(Lij/ImagePlus;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ7 Ä7("1*¨
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ7 Æ7(
+
+%2void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ7 Ç7(*
+ij.macro.Functions"
+offscreenOverlay"__id*
+""j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ7	 È7(
+%3double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ7 È7(
+"":
+impij.ImagePlusB
+ij.macro.Functions

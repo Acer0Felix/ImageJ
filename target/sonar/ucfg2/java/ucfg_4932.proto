@@ -1,0 +1,22 @@
+
+ij.io.RoiDecoder#getFloat(I)FH
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÈ È("1*å
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÉ	 É(ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÉ É(*	
+%0int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I) 
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÉ	 É(+
+%1float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+	
+%0int"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÉ É(,
+"":
+""B
+ij.io.RoiDecoder

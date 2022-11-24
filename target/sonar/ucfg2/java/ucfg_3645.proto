@@ -1,0 +1,307 @@
+
+&ij.ImagePlus#getStack()Lij/ImageStack;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java€ €("18*¥
+13D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(™ß
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(!
+%8java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+ij.ImagePlus2
+getTitle()ç
+ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(&
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+\n°
+û
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(+
+%6java.lang.String"__concat*
+
+%9java.lang.String*
+
+infojava.lang.StringÄ
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(+
+%5java.lang.String"__id*
+
+%6java.lang.String*
+11*ª
+14D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‰ ‰(%ﬁ€
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‰ ‰(-
+%4java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+ij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)É
+Ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‰ ‰(.
+infojava.lang.String"__id*
+
+%4java.lang.Object*
+13
+12*ª
+15D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‚ ‚(›⁄
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‚ ‚((
+%3java.lang.String":ij.ImagePlus#getProp(Ljava/lang/String;)Ljava/lang/String;*
+ij.ImagePlus*
+Slice_Label2getProp(Ljava/lang/String;)Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‚ ‚()
+labeljava.lang.String"__id*
+
+%3java.lang.String*
+14
+10*®
+16D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java· ·("\
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java· ·(
+
+sij.ImageStack*‰
+17D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaﬁ ﬁ(¥±
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaﬁ ﬁ(
+%1ij.ImageStack".ij.ImagePlus#createEmptyStack()Lij/ImageStack;*
+ij.ImagePlus2createEmptyStack()y
+w
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaﬁ ﬁ(
+sij.ImageStack"__id*
+
+%1ij.ImageStackƒ¡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaﬂ ﬂ(&
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+ij.ImagePlus2getProcessor()î
+ë
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaﬂ ﬂ(' 
+ip2ij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor*
+15
+16*¬
+18D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(j
+h
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(
+sij.ImageStack"__id*
+""Ä
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java› ›(
+%0ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+17
+9*ß
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸	 ¸(
+"\
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸ ¸(
+
+sij.ImageStack*ê
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˚ ˚(øº
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˚ ˚(
+%28void"+ij.ImageStack#setRoi(Ljava/awt/Rectangle;)V*
+
+sij.ImageStack*
+""2setRoi(Ljava/awt/Rectangle;)*
+1*ÿ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˘ ˘(|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˘ ˘(
+%25
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi≤Ø
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˘ ˘(
+%26java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%25
+ij.gui.Roi2getBounds()‘—
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java˘ ˘(
+%27void"+ij.ImageStack#setRoi(Ljava/awt/Rectangle;)V*
+
+sij.ImageStack*
+
+%26java.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)*
+1*œ
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¯ ¯(	|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¯ ¯(	
+%24
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+2
+3*»
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˆ ˆ(ã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˆ ˆ( 
+%22ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÈÊ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaˆ ˆ(
+%23void"2ij.ImageStack#update(Lij/process/ImageProcessor;)V*
+
+sij.ImageStack*"
+ 
+%22ij.process.ImageProcessor2#update(Lij/process/ImageProcessor;)*
+4*Æ
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÙ Ù(ã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÙ Ù( 
+%20ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipœÃ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÙ Ù(!
+%21void"2ij.process.ImageProcessor#setCalibrationTable([F)V*"
+ 
+%20ij.process.ImageProcessor*
+""2setCalibrationTable([F)*
+5*Ë
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(ã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú( 
+%17ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip≠™
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(+
+%18float[]"$ij.measure.Calibration#getCTable()[F*
+
+calij.measure.Calibration2getCTable()Ÿ÷
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÚ Ú(,
+%19void"2ij.process.ImageProcessor#setCalibrationTable([F)V*"
+ 
+%17ij.process.ImageProcessor*
+
+%18float[]2setCalibrationTable([F)*
+5*⁄
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java ($√¿
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java (&
+%15ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+ij.ImagePlus2getCalibration()è
+å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java ('
+calij.measure.Calibration"__id*
+
+%15ij.measure.CalibrationÆ´
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÒ Ò(
+%16boolean"$ij.measure.Calibration#calibrated()Z*
+
+calij.measure.Calibration2calibrated()*
+6
+7*ﬂ
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÓ Ó(Å
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÓ Ó(
+%13ij.ImageStack"__id**
+ij.ImagePlus"
+stackz
+x
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÓ Ó(
+sij.ImageStack"__id*
+
+%13ij.ImageStackã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÔ Ô(	 
+%14ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+5
+8*¢
+10D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ Á(Æ´
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ Á(
+%10void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+sij.ImageStack*
+
+labeljava.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)ÈÊ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë(
+%11void"2ij.ImageStack#update(Lij/process/ImageProcessor;)V*
+
+sij.ImageStack*"
+ 
+ip2ij.process.ImageProcessor2#update(Lij/process/ImageProcessor;)
+}
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÈ È(
+ij.ImagePlus"
+stack"__id*
+
+sij.ImageStackã
+à
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+ij.ImagePlus"
+ip"__id*"
+ 
+ip2ij.process.ImageProcessor§°
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ Ï(
+%12void" ij.ImagePlus#setCurrentSlice(I)V*
+ij.ImagePlus*22setCurrentSlice(I)*
+4*◊
+11D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(0Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ Â(0
+labeljava.lang.String"__id*
+
+%5java.lang.String*
+10*Ã
+12D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ, Â(0z
+x
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ, Â(0
+%5java.lang.String"__id*
+
+%7
+<nulltype>*
+11B
+ij.ImagePlus

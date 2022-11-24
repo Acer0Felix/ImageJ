@@ -1,0 +1,142 @@
+
+)ij.plugin.Slicer#getOutputStackSize(DDI)IH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ("14*›
+13H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÖ Ö(µ²
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÖ Ö( 
+%6java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÖ Ö(!
+rjava.awt.Rectangle"__id*
+
+%6java.awt.Rectangle*
+10
+11*û
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaâ â(‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaâ â(
+%13ij.ImagePlus"__id**
+ij.plugin.Slicer"
+impœ™
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaâ â(
+
+%14int"ij.ImagePlus#getBitDepth()I*
+
+%13ij.ImagePlus2getBitDepth()*
+1*Ç
+14H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò(†
+ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò(
+%0ij.ImagePlus"__id**
+ij.plugin.Slicer"
+imp¢Ÿ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%0ij.ImagePlus2getRoi()y
+w
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi†
+ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÓ Ó(
+%2ij.ImagePlus"__id**
+ij.plugin.Slicer"
+imp”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÓ Ó(	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()†
+ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÔ Ô(
+%4ij.ImagePlus"__id**
+ij.plugin.Slicer"
+imp–“
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÔ Ô(	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()*
+13
+10
+11*å
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ Ú('‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÛ Û(
+%10ij.ImagePlus"__id**
+ij.plugin.Slicer"
+impž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÛ Û($
+
+%11int"ij.ImagePlus#getStackSize()I*
+
+%10ij.ImagePlus2getStackSize()f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÝ Ý(
+
+%12int"__id*
+""*
+2*¿
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ% Ú(&j
+h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ% Ú(&	
+%7int"__id*
+	
+%9int*
+9*Ñ
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ Ú(Œ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ Ú($	
+%8int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()j
+h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÚ Ú($	
+%7int"__id*
+	
+%8int*
+9*´
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaç ç(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaç ç((
+%15long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaç ç()
+"":
+"":
+"":
+""B
+ij.plugin.Slicer

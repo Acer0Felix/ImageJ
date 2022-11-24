@@ -1,0 +1,243 @@
+
+Lij.plugin.filter.MaximumFinder#watershedSegment(Lij/process/ByteProcessor;)ZV
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java⁄ ⁄($"67*Ê
+2V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java√	 √	(.}{
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java√	 √	(
+%21ij.ImagePlus"ij.ImagePlus‰
+·
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java√	 √	(6
+%22"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%21ij.ImagePlus*
+Segmentation Movie*
+
+movieij.ImageStackùö
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java√	 √	(=
+%23void"ij.ImagePlus#show()V*
+
+%21ij.ImagePlus2show()*
+1*ÿ
+37V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaò	 ò	(Å
+
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaò	 ò	(
+%14void"ij.IJ#beep()V*	"
+ij.IJì
+ê
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaô	 ô	((
+%15void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+"""`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaö	 ö	(!
+""*î
+26V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaÆ	8 Æ	(:û
+õ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaÆ	8 Æ	(G
+%16void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*	
+ERROR*
+2
+26
+5
+18
+43
+1*œ
+38V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javañ	 ñ	(ƒ
+¡
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javañ	 ñ	(3
+%12void".ij.plugin.filter.MaximumFinder#addProgress(D)V*" 
+ij.plugin.filter.MaximumFinder*
+""é
+ã
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaó	 ó	(&
+%13boolean"ij.IJ#escapePressed()Z*	"
+ij.IJ*
+2
+37
+26
+5
+18
+43
+1*ó
+49V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaˇ% ˇ()£
+†
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaˇ% ˇ(M	
+%8int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""æ
+ª
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaÑ	 Ñ	(%
+%9int[]"0ij.plugin.filter.MaximumFinder#makeFateTable()[I*" 
+ij.plugin.filter.MaximumFinder∫
+∑
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaÖ	 Ö	(3
+%10void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Segmenting (Esc to cancel)*
+2
+26
+5
+18
+43
+1*º
+5V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java¿	 ¿	(í
+è
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java¿	 ¿	(-
+%18java.lang.String"__concat*
+
+level *
+""ÌÍ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java¿	/ ¿	(= 
+%19ij.process.ImageProcessor"?ij.process.ByteProcessor#duplicate()Lij/process/ImageProcessor;* 
+
+ipij.process.ByteProcessor2duplicate()¬ø
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java¿	 ¿	(>
+%20void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+movieij.ImageStack*
+
+%18java.lang.String*"
+ 
+%19ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+2
+26
+5
+18
+43
+1*€
+18V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java≥	  ≥	((Â‚
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java≥	  ≥	(1
+%17boolean"-ij.plugin.filter.MaximumFinder#isWithin(III)Z*" 
+ij.plugin.filter.MaximumFinder*
+""*
+""*
+""2isWithin(III)*
+2
+26
+5
+18
+43
+1*ö
+43V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaé	 é	((±
+Æ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaé	 è	(T
+
+%11int"Rij.plugin.filter.MaximumFinder#processLevel(ILij/process/ImageProcessor;[III[I[I)I*" 
+ij.plugin.filter.MaximumFinder*
+""* 
+
+ipij.process.ByteProcessor*
+""*
+""*
+""*
+""*
+""*
+38
+43*ó
+65V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java·  ·("⁄◊
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java·  ·(.
+%6java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;* 
+
+ipij.process.ByteProcessor2getPixels()ç
+ä
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java· ·(/
+pixelsbyte[]"__id*
+
+%6java.lang.Object≈¬
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaÂ Â(+
+%7int[]")ij.process.ByteProcessor#getHistogram()[I* 
+
+ipij.process.ByteProcessor2getHistogram()*
+49*—
+66V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ# ﬁ(%ª∏
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ# ﬁ(0	
+%0int"%ij.process.ImageProcessor#getWidth()I* 
+
+ipij.process.ByteProcessor2
+getWidth()Ω∫
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ2 ﬁ(@	
+%1int"&ij.process.ImageProcessor#getHeight()I* 
+
+ipij.process.ByteProcessor2getHeight()~|
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ ﬁ("
+%2ij.ImageStack"ij.ImageStack≠
+™
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ ﬁ(A
+%3"ij.ImageStack#<init>(II)V*
+
+%2ij.ImageStack*
+	
+%0int*
+	
+%1intê
+ç
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬁ ﬁ(A
+movieij.ImageStack"__id*
+
+%2ij.ImageStackÏÈ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬂ0 ﬂ(>
+%4ij.process.ImageProcessor"?ij.process.ByteProcessor#duplicate()Lij/process/ImageProcessor;* 
+
+ipij.process.ByteProcessor2duplicate()ºπ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaﬂ ﬂ(?
+
+%5void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+movieij.ImageStack*
+pre-watershed EDM*!
+
+%4ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+65*Ω
+1V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaƒ	 ƒ	("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.javaƒ	 ƒ	(
+""*È
+67V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java€ €(Ä
+~
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/MaximumFinder.java‹ ‹(
+movieij.ImageStack"__id*
+""*
+65
+66:
+ipij.process.ByteProcessorB" 
+ij.plugin.filter.MaximumFinder

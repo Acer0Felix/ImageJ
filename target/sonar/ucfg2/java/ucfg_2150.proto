@@ -1,0 +1,56 @@
+
+%ij.macro.Interpreter#getExpression()DL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaØ Ø("8*©
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∏ ∏(•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∏ ∏(
+
+%4void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ π(
+%5double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*©
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaµ µ(•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaµ µ(
+
+%2void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∂ ∂(
+%3double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*Ö
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≥
+ ≥(¶£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≥
+ ≥(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+ij.macro.Interpreter2nextToken()*	
+3
+5
+1*Å
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∞ ∞(•¢
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∞ ∞(
+%0double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	 Ω("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ Ω(
+""B
+ij.macro.Interpreter

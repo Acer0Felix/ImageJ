@@ -1,0 +1,29 @@
+
+wij.macro.ExtensionDescriptor#newDescriptor(Ljava/lang/String;Lij/macro/MacroExtension;[I)Lij/macro/ExtensionDescriptor;R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java$ (1"1*š
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java# (*™–
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (""
+%0ij.macro.ExtensionDescriptor"ij.macro.ExtensionDescriptor¨
+¥
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (A
+%1"Sij.macro.ExtensionDescriptor#<init>(Ljava/lang/String;[ILij/macro/MacroExtension;)V*$
+"
+%0ij.macro.ExtensionDescriptor*
+
+theNamejava.lang.String*
+""*'
+%
+
+theHandlerij.macro.MacroExtension"z
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (B$
+"
+%0ij.macro.ExtensionDescriptor:
+theNamejava.lang.String:%
+
+theHandlerij.macro.MacroExtension:
+""B "
+ij.macro.ExtensionDescriptor

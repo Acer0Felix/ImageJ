@@ -1,0 +1,47 @@
+
+Oij.process.ImageProcessor#convertToShortProcessor(Z)Lij/process/ShortProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÆ Æ(."4*˙
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≥ ≥(˘ˆ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≥ ≥(2
+%1ij.process.ImageProcessor"Fij.process.ImageProcessor#convertToShort(Z)Lij/process/ImageProcessor;*
+ij.process.ImageProcessor*
+""2convertToShort(Z)†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≥ ≥(2
+spij.process.ShortProcessor"__id*!
+
+%1ij.process.ImageProcessor*
+1*Ê
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java± ±(Â‚
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java± ±((
+%0ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*
+ij.process.ImageProcessor2duplicate()†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java± ±((
+spij.process.ShortProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+1*Ê
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaØ Ø(Ö
+Ç
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaØ Ø(
+spij.process.ShortProcessor"__id*
+""*
+2
+3*Œ
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥("v
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥ ¥(!
+
+spij.process.ShortProcessor:
+""B
+ij.process.ImageProcessor

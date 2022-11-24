@@ -1,0 +1,196 @@
+
+/ij.WindowManager#getActiveImage()Lij/ImagePlus;F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javad d(("13*í
+13F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javae e(”
+‘
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javae e(
+%0ij.gui.ImageWindow"__id*'*%
+ij.WindowManager"
+currentWindow*
+11
+12*å
+1F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javap
+ p(¶
+³
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javap
+ p(-
+%18ij.ImagePlus":ij.macro.Interpreter#getLastBatchModeImage()Lij/ImagePlus;*"
+ij.macro.Interpreter"_
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javap p(.
+
+%18ij.ImagePlus*È
+2F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam" m(+
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam" m(+
+%13java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam0 m(9
+%14java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList”‘
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam0 m(@
+
+%15int"java.util.Vector#size()I*
+
+%14java.util.Vector2size()“
+
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam" m(C
+%16java.lang.Object"
+__arrayGet*
+
+%13java.util.Vector*
+""‡
+„
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javam m(D
+winij.gui.ImageWindow"__id*
+
+%16java.lang.Object¾»
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javan
+ n(
+%17ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winij.gui.ImageWindow2getImagePlus()"_
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javan n(
+
+%17ij.ImagePlus*¬
+3F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javal l("_
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javal l(
+
+impij.ImagePlus*‡
+4F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaj j(-³
+°
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaj j(/
+%12ij.ImagePlus";ij.WindowManager#getFocusManagerActiveImage()Lij/ImagePlus;*"
+ij.WindowManager|
+z
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaj j(0
+impij.ImagePlus"__id*
+
+%12ij.ImagePlus*
+2
+3*ü
+5F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javai i(
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javai i(
+%10java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList”‘
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javai i(
+
+%11int"java.util.Vector#size()I*
+
+%10java.util.Vector2size()*
+4
+1*«
+6F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah h(K"^
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah h(K
+
+%6ij.ImagePlus*Ê
+7F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javahF h(Jx
+v
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javahF h(J
+%6ij.ImagePlus"__id*
+
+%8
+<nulltype>*
+6*š
+8F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah* h(5
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah* h(5
+%9java.awt.Window"__id*%*#
+ij.WindowManager"
+frontWindow¹¶
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah h(E
+%7ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+%9java.awt.Window2getImagePlus()z
+x
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah h(E
+%6ij.ImagePlus"__id*
+
+%7ij.ImagePlus*
+6*å
+9F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah
+ h(
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javah
+ h(
+%5java.awt.Window"__id*%*#
+ij.WindowManager"
+frontWindow*
+7
+8*æ
+10F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javag! g(,
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javag! g(,
+%4java.awt.Window"__id*%*#
+ij.WindowManager"
+frontWindow*
+5
+9*ç
+11F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javag g(
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javag g(
+%3java.awt.Window"__id*%*#
+ij.WindowManager"
+frontWindow*
+5
+10*‚
+12F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaf
+ f(”
+‘
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaf
+ f(
+%1ij.gui.ImageWindow"__id*'*%
+ij.WindowManager"
+currentWindow¼¹
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaf
+ f(&
+%2ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+%1ij.gui.ImageWindow2getImagePlus()"^
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaf f('
+
+%2ij.ImagePlusB"
+ij.WindowManager

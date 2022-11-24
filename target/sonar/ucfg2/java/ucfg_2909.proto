@@ -1,0 +1,48 @@
+
+(ij.util.Tools#f2hex(F)Ljava/lang/String;C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java ("5*µ
+3C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java# #(c
+a
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java# #(
+%1char[]"__id*
+""*
+3
+1*Î
+5C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java
+ (”
+‘
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java
+ (!	
+%0int""java.lang.Float#floatToIntBits(F)I*"
+java.lang.Float*
+""e
+c
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java   (
+buf9char[]"__id*
+""*
+3
+1*·
+1C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java& &(qo
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java& &(
+%2java.lang.String"java.lang.String˜
+•
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java&	 &(
+%3"java.lang.String#<init>([C)V*
+
+%2java.lang.String*
+
+buf9char[]"_
+C
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java& &(
+
+%2java.lang.String:
+""B"
+ij.util.Tools

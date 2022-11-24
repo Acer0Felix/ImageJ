@@ -1,0 +1,67 @@
+
+7ij.process.ImageStatistics#toString()Ljava/lang/String;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java¼ ¼("1*»
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(“
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½("
+%0java.lang.String"__concat*
+stats[count=*
+"" 
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(,
+%1java.lang.String"__concat*
+
+%0java.lang.String*	
+, mean=›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(1
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""Ÿ
+œ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(:
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+, min=›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(>
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""Ÿ
+œ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(G
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, max=›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(K
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½	 ½(O
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+]"n
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageStatistics.java½ ½(P
+
+%7java.lang.StringB
+ij.process.ImageStatistics

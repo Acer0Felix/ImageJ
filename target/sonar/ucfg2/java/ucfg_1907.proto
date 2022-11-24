@@ -1,0 +1,31 @@
+
+ij.IJ#currentMemory()J=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¦ ¦(!"1*“
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java§ §(¥
+¢
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java§ §(%
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime˜•
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java§ §(2
+
+%1long"java.lang.Runtime#freeMemory()J*
+
+%0java.lang.Runtime2freeMemory()¥
+¢
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨($
+%2java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtimeš—
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(2
+
+%3long" java.lang.Runtime#totalMemory()J*
+
+%2java.lang.Runtime2totalMemory()"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java© ©(
+""B	"
+ij.IJ

@@ -1,0 +1,84 @@
+
+=ij.plugin.Orthogonal_Views#isOrthoViewsImage(Lij/ImagePlus;)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java¥$ ¥(5"6"7*≤
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏9 ∏(<≠
+™
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏> ∏(F 
+%5ij.plugin.Orthogonal_Views"__id*,**
+ij.plugin.Orthogonal_Views"
+
+instance£
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏> ∏(O
+%6ij.ImagePlus"__id*0*.
+ 
+%5ij.plugin.Orthogonal_Views"
+
+yz_image*
+1*µ
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏ ∏("≠
+™
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏$ ∏(, 
+%3ij.plugin.Orthogonal_Views"__id*,**
+ij.plugin.Orthogonal_Views"
+
+instance£
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏$ ∏(5
+%4ij.ImagePlus"__id*0*.
+ 
+%3ij.plugin.Orthogonal_Views"
+
+xz_image*
+2
+1*≥
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏
+ ∏(≠
+™
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏ ∏( 
+%1ij.plugin.Orthogonal_Views"__id*,**
+ij.plugin.Orthogonal_Views"
+
+instanceû
+õ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏ ∏(
+%2ij.ImagePlus"__id*+*)
+ 
+%1ij.plugin.Orthogonal_Views"
+imp*	
+2
+4
+1*µ
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∂
+ ∂("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂(
+""*è
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaµ µ(≠
+™
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaµ µ( 
+%0ij.plugin.Orthogonal_Views"__id*,**
+ij.plugin.Orthogonal_Views"
+
+instance*
+5
+6*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏ ∏(P"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∏ ∏(P
+"":
+impij.ImagePlusB"
+ij.plugin.Orthogonal_Views

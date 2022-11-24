@@ -1,0 +1,117 @@
+
+;ij.ImagePlus#getRawStatistics()Lij/process/ImageStatistics;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java… …(("5*â
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(
+%6ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip´®
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(
+
+%7void"%ij.process.ImageProcessor#resetRoi()V*!
+
+%6ij.process.ImageProcessor2
+resetRoi()*
+1*Æ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÀ À(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÀ À(
+%3ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip{
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÀ À(
+%4
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi”–
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÀ À(
+
+%5void"/ij.process.ImageProcessor#setRoi(Lij/gui/Roi;)V*!
+
+%3ij.process.ImageProcessor*
+
+%4
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+1*›
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java   ({
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java   (
+%1
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roiåâ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java   (
+%2boolean"ij.gui.Roi#isArea()Z*
+
+%1
+ij.gui.Roi2isArea()*
+2
+3*Œ
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java   (	{
+y
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java   (	
+%0
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+2
+4*ê
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ	 Œ(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ' Œ()
+%8ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipa
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ+ Œ(/	
+%9int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ0 Œ(4
+
+%10int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ5 Œ(9
+
+%11int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ: Œ(A
+
+%12int"__id*
+""ª
+∏
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ	 Œ(H!
+%13ij.process.ImageStatistics"zij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*!
+
+%8ij.process.ImageProcessor*
+""*
+"""k
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŒ Œ(I#
+!
+%13ij.process.ImageStatisticsB
+ij.ImagePlus

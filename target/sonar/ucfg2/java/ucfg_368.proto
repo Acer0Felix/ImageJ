@@ -1,0 +1,235 @@
+
+6ij.plugin.ListVirtualStack#showDialog(Lij/ImagePlus;)ZP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.java;	 ;("7*±
+2P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaL L($"Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaL L(%
+""*–"
+3P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE E('≤Ø
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaF F(&	
+%8int"%ij.plugin.ListVirtualStack#getSize()I*
+ij.plugin.ListVirtualStack2	getSize()©
+¶
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaF F(/
+%9java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""õ
+ò
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaF F(5
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+ MBë
+é
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaF F(6
+size1java.lang.String"__id*
+
+%10java.lang.String®
+•
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaG G(
+%11java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*2ú
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaG G(%
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+ MBë
+é
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaG G(&
+size2java.lang.String"__id*
+
+%12java.lang.StringàÖ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaH H(&
+%13ij.gui.GenericDialog"ij.gui.GenericDialog«
+ƒ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaH H(>
+%14"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%13ij.gui.GenericDialog*
+Open Stack From Listñ
+ì
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaH H(?
+gdij.gui.GenericDialog"__id*
+
+%13ij.gui.GenericDialog˘ˆ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaI I(.
+%15void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Use Virtual Stack*
+""2 addCheckbox(Ljava/lang/String;Z)ã
+à
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J("
+%16java.lang.String"__concat*	
+This *
+""ö
+ó
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(&
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+xõ
+ò
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(2
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+""ö
+ó
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(6
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+x≥∞
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ7 J(@
+
+%20int"%ij.plugin.ListVirtualStack#getSize()I*
+ij.plugin.ListVirtualStack2	getSize()°
+û
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(@
+%21java.lang.String"__concat*
+
+%19java.lang.String*
+
+
+%20int≠
+™
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(W
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+ stack will require ∞
+≠
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(]
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+
+size1java.lang.String†
+ù
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(g
+%24java.lang.String"__concat*
+
+%23java.lang.String*	
+,\n or ∞
+≠
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(m
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+
+size2java.lang.String∏
+µ
+Q
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(é
+%26java.lang.String"__concat*
+
+%25java.lang.String*" 
+ if opened as a virtual stack.ÚÔ
+Q
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaJ J(è
+%27void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%26java.lang.String2addMessage(Ljava/lang/String;)≤Ø
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaK K(
+%28void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()∑¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaL L(
+%29boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*Œ
+4P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE% E(&r
+p
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE% E(&	
+%5int"__id*
+	
+%7int*
+3*Œ
+5P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE# E($r
+p
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE# E($	
+%5int"__id*
+	
+%6int*
+3*í
+6P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaD D(≤Ø
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaE E(	
+%4int"%ij.plugin.ListVirtualStack#getSize()I*
+ij.plugin.ListVirtualStack2	getSize()*
+4
+5*≈
+7P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.java< <(õò
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.java=
+ =(	
+%0int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.java> >(	
+%1int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.java@ @(	
+%2int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaA A(	
+%3int"__id*
+""*
+6*Ò
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaM M(Ω∫
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaM M(
+%30boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()"Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ListVirtualStack.javaN N(
+"":
+impij.ImagePlusB
+ij.plugin.ListVirtualStack

@@ -1,0 +1,430 @@
+
+$ij.plugin.frame.Editor#<init>(IIII)VN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÉ É("13*£
+13N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÑ Ñ(◊
+‘
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÑ Ñ(!
+%0ij.plugin.frame.PlugInFrame"7ij.plugin.frame.PlugInFrame#<init>(Ljava/lang/String;)V*
+ij.plugin.frame.Editor*
+
+Editor¿
+Ω
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÖ Ö(
+
+%1void"-ij.WindowManager#addWindow(Ljava/awt/Frame;)V*"
+ij.WindowManager*
+ij.plugin.frame.Editorπ∂
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÜ Ü(
+
+%2void"%ij.plugin.frame.Editor#addMenuBar(I)V*
+ij.plugin.frame.Editor*
+""2addMenuBar(I)k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaá á(	
+%3int"__id*
+""*
+5
+12*Ÿ
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java£ £(
+}
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java£ £(%
+%58boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+0*…
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaù ù(ê
+ç
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaù ù("
+%48	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJÄ˝
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaù ù(#
+%49void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+ij.plugin.frame.Editor*
+
+%48	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaû û(
+%50java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taêç
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaû û(
+%51void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+%50java.awt.TextArea*
+ij.plugin.frame.Editor20addMouseListener(Ljava/awt/event/MouseListener;)ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaü ü(
+%52java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taÉÄ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaü ü(	
+%53java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+ij.plugin.frame.Editor*
+
+%52java.awt.TextArea2add(Ljava/awt/Component;)ùö
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java† †(
+%54void"java.awt.Window#pack()V*
+ij.plugin.frame.Editor2pack()™ß
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java° °(
+%55void"!ij.plugin.frame.Editor#setFont()V*
+ij.plugin.frame.Editor2	setFont()∏µ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java¢ ¢(
+%56void"(ij.plugin.frame.Editor#positionWindow()V*
+ij.plugin.frame.Editor2positionWindow()Ä
+~
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java£ £(
+%57boolean"ij.IJ#isJava18()Z*	"
+ij.IJ*
+2
+0*›
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaú ú(ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaú ú(
+%45java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taw
+u
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaú% ú(0
+%46java.awt.Color"__id*
+""ÔÏ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaú ú(1
+%47void"7java.awt.TextComponent#setBackground(Ljava/awt/Color;)V*
+
+%45java.awt.TextArea*
+
+%46java.awt.Color2setBackground(Ljava/awt/Color;)*
+3*Ò
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaô ô(}
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaô ô(
+%38java.awt.TextArea"java.awt.TextArea•
+¢
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaô ô("
+%39"java.awt.TextArea#<init>(II)V*
+
+%38java.awt.TextArea*
+""*
+""ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaô ô(" 
+ij.plugin.frame.Editor"
+ta"__id*
+
+%38java.awt.TextAreaó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaö ö(
+%40java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taêç
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaö ö(
+%41void"Fjava.awt.TextComponent#addTextListener(Ljava/awt/event/TextListener;)V*
+
+%40java.awt.TextArea*
+ij.plugin.frame.Editor2.addTextListener(Ljava/awt/event/TextListener;)ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaõ õ(
+%42java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taàÖ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaõ õ(
+%43void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%42java.awt.TextArea*
+ij.plugin.frame.Editor2,addKeyListener(Ljava/awt/event/KeyListener;)
+}
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaú ú(
+%44boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+3
+4*’	
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaï ï(õ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaï ï(
+%33java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+languageáÑ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaï ï(!
+%34void"?java.awt.Choice#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+%33java.awt.Choice*
+ij.plugin.frame.Editor2.addItemListener(Ljava/awt/event/ItemListener;)õ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javañ ñ(
+%35java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+languageÄ˝
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javañ ñ(
+%36java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%35java.awt.Choice2add(Ljava/awt/Component;)±Æ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaó ó(
+%37java.awt.Component"Rjava.awt.Container#add(Ljava/lang/String;Ljava/awt/Component;)Ljava/awt/Component;*
+ij.plugin.frame.Editor*	
+North*
+
+paneljava.awt.Panel2+add(Ljava/lang/String;Ljava/awt/Component;)*
+5*ˆ
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaî î(õ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaî î(
+%29java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+language{
+y
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaî î(
+%30java.lang.String[]"__id*
+""ù
+ö
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaî î(!
+%31java.lang.String"
+__arrayGet*
+
+%30java.lang.String[]*
+""‡›
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaî î("
+%32void",java.awt.Choice#addItem(Ljava/lang/String;)V*
+
+%29java.awt.Choice*
+
+%31java.lang.String2addItem(Ljava/lang/String;)*
+9*ÿ
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaì ì({
+y
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaì ì(
+%28java.lang.String[]"__id*
+""*
+6
+8*Ü
+10N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaí í({y
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaí í(
+%26java.awt.Choice"java.awt.Choiceè
+å
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaí í(
+%27"java.awt.Choice#<init>()V*
+
+%26java.awt.Choiceõ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaí í(&
+ij.plugin.frame.Editor"
+
+language"__id*
+
+%26java.awt.Choice*
+9*l
+0 "e
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.java• •(
+implicit return*Ü
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(({y
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(
+%20java.awt.Button"java.awt.ButtonÆ
+´
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é()
+%21"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%20java.awt.Button*	
+Install†
+ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é()+
+ij.plugin.frame.Editor"
+installButton"__id*
+
+%20java.awt.Button†
+ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaè è(
+%22java.awt.Button"__id*-*+
+ij.plugin.frame.Editor"
+installButtonèå
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaè è()
+%23void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%22java.awt.Button*
+ij.plugin.frame.Editor22addActionListener(Ljava/awt/event/ActionListener;)†
+ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaê ê(
+%24java.awt.Button"__id*-*+
+ij.plugin.frame.Editor"
+installButtonÄ˝
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaê ê(
+%25java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%24java.awt.Button2add(Ljava/awt/Component;)*
+10*ﬁ
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà* à(4k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà* à(9	
+%4int"__id*
+""ÉÄ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà à()
+%5java.awt.FlowLayout"java.awt.FlowLayout≠
+™
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà à(@
+%6" java.awt.FlowLayout#<init>(III)V*
+
+%5java.awt.FlowLayout*
+	
+%4int*2 *2 xv
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà à(
+%7java.awt.Panel"java.awt.Panel¿
+Ω
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà à(A
+%8"0java.awt.Panel#<init>(Ljava/awt/LayoutManager;)V*
+
+%7java.awt.Panel*
+
+%5java.awt.FlowLayoutä
+á
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaà à(B
+paneljava.awt.Panel"__id*
+
+%7java.awt.Panelzx
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaâ â(
+%9java.awt.Button"java.awt.Button©
+¶
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaâ â( 
+%10"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%9java.awt.Button*
+Runõ
+ò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaâ â( '
+ij.plugin.frame.Editor"
+	runButton"__id*
+
+%9java.awt.Buttonú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(
+%11java.awt.Button"__id*)*'
+ij.plugin.frame.Editor"
+	runButtonèå
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä($
+%12void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%11java.awt.Button*
+ij.plugin.frame.Editor22addActionListener(Ljava/awt/event/ActionListener;)l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaã' ã(1
+
+%13int"__id*
+""wu
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaã ã(
+%14java.awt.Font"java.awt.Fontƒ
+¡
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaã ã(H
+%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%14java.awt.Font*
+	SansSerif*
+
+
+%13int*
+""€ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaã ã(I
+%16void",java.awt.Container#setFont(Ljava/awt/Font;)V*
+
+paneljava.awt.Panel*
+
+%14java.awt.Font2setFont(Ljava/awt/Font;)ú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaå å(
+%17java.awt.Button"__id*)*'
+ij.plugin.frame.Editor"
+	runButtonÄ˝
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaå å(
+%18java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%17java.awt.Button2add(Ljava/awt/Component;)l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç(
+
+%19int"__id*
+""*
+10
+11:
+"":
+"":
+"":
+""B
+ij.plugin.frame.Editor

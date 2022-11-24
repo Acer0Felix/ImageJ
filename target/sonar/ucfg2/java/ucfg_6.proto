@@ -1,0 +1,36 @@
+
+4ij.plugin.ImagesToStack#exclude(Ljava/lang/String;)ZO
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java¢ ¢("5*Ü
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£( £(-›
+˜
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£6 £(<
+%1java.lang.String"__id*'*%
+ij.plugin.ImagesToStack"
+filterâß
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£( £(=	
+%2int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+titlejava.lang.String*
+
+%1java.lang.String2indexOf(Ljava/lang/String;)*
+1*ú
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£	 £(›
+˜
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£	 £(
+%0java.lang.String"__id*'*%
+ij.plugin.ImagesToStack"
+filter*
+2
+1*¯
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£ £(B"Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImagesToStack.java£ £(B
+"":
+titlejava.lang.StringB
+ij.plugin.ImagesToStack

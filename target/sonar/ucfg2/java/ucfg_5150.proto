@@ -1,0 +1,30 @@
+
+1ij.io.SaveDialog#getDirectory()Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaó ó("1*‘
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaô ô(Š
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaô ô(!
+%0java.lang.String"__id**
+ij.io.SaveDialog"
+dirÁ
+¾
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaô ô("
+
+%1void"6ij.io.OpenDialog#setLastDirectory(Ljava/lang/String;)V*"
+ij.io.OpenDialog*
+
+%0java.lang.StringŠ
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaõ	 õ(
+%2java.lang.String"__id**
+ij.io.SaveDialog"
+dir"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/SaveDialog.javaõ õ(
+
+%2java.lang.StringB
+ij.io.SaveDialog

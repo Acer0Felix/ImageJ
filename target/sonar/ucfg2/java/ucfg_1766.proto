@@ -1,0 +1,57 @@
+
+Bij.gui.Plot#replaceSpacesEtc(Ljava/lang/String;)Ljava/lang/String;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú ú("3"4*—
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaı ı(""M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaı ı(#
+""*Ñ
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü(¬©
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü(
+%0java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+sjava.lang.String2trim()”‘
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü((
+%1java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.lang.String*
+
+[\\s,]*
+_20replaceAll(Ljava/lang/String;Ljava/lang/String;)£ 
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü(;
+%2java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%1java.lang.String*
+\"*
+''29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)~
+|
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü(;
+sjava.lang.String"__id*
+
+%2java.lang.String’
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaı ı(	
+%3int"java.lang.String#length()I*
+
+sjava.lang.String2length()*
+2
+1*—
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaû û("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaû û(
+""*¨
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaş	 ş(
+"^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaş ş(
+
+sjava.lang.String:
+sjava.lang.StringB"
+ij.gui.Plot

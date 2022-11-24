@@ -1,0 +1,70 @@
+
+;ij.WindowManager#getFocusManagerActiveImage()Lij/ImagePlus;F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javas s(4"6*Š
+2F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaz z(º·
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaz	 z(*
+%3ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winjava.awt.Window2getImagePlus(){
+y
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaz z(*
+impij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+1*¾
+4F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javav v(1ò
+ï
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javav v(R#
+%1java.awt.KeyboardFocusManager"]java.awt.KeyboardFocusManager#getCurrentKeyboardFocusManager()Ljava/awt/KeyboardFocusManager;*!"
+java.awt.KeyboardFocusManagerž
+›
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javav v(S$
+kfmjava.awt.KeyboardFocusManager"__id*%
+#
+%1java.awt.KeyboardFocusManagerßÜ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaw w($
+%2java.awt.Window"@java.awt.KeyboardFocusManager#getActiveWindow()Ljava/awt/Window;*&
+$
+kfmjava.awt.KeyboardFocusManager2getActiveWindow()
+
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaw w(%
+winjava.awt.Window"__id*
+
+%2java.awt.Windowm
+k
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javax x(
+impij.ImagePlus"__id*
+""*
+2
+1*
+5F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javau
+ u("P
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javau u(
+""*Ë
+6F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javat t(v
+t
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javat t(
+%0boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+4
+5*¬
+1F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java{	 {("_
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java{ {(
+
+impij.ImagePlusB"
+ij.WindowManager

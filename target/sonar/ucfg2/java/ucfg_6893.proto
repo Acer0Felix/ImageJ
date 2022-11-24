@@ -1,0 +1,138 @@
+
+$ij.gui.PolygonRoi#containsPoint(DD)ZI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaª	 ª	("7*ú
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java±	( ±	(+†ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java±	 ±	('
+%6ij.process.FloatPolygon"ij.process.FloatPolygonµ
+²
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java±	 ±	(:
+%7"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%6ij.process.FloatPolygon*
+""*
+""*
+""–
+“
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java±	 ±	(;
+polyij.process.FloatPolygon"__id*
+
+%6ij.process.FloatPolygon—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java²	 ²	(&
+%8double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java²	3 ²	(=
+%9double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()ÆÃ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java²	
+ ²	(F
+%10boolean"%ij.process.FloatPolygon#contains(DD)Z*!
+
+polyij.process.FloatPolygon*
+""*
+""2contains(DD)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java²	 ²	(G
+""*ù
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java®	( ®	(/†ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java®	 ®	('
+%1ij.process.FloatPolygon"ij.process.FloatPolygonµ
+²
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java®	 ®	(G
+%2"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%1ij.process.FloatPolygon*
+""*
+""*
+""–
+“
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java®	 ®	(H
+polyij.process.FloatPolygon"__id*
+
+%1ij.process.FloatPolygon—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¯	 ¯	(&
+%3double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¯	2 ¯	(<
+%4double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()ÅÂ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¯	
+ ¯	(E
+%5boolean"%ij.process.FloatPolygon#contains(DD)Z*!
+
+polyij.process.FloatPolygon*
+""*
+""2contains(DD)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¯	 ¯	(F
+""*£
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¬	
+ ¬	("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java¬	 ¬	(
+""*ó
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java«	 «	(”
+‘
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java«	 «	( 
+%0boolean"ij.gui.Roi#containsPoint(DD)Z*
+""*
+""*
+""*
+2
+4
+6
+1*
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java´	 ´	( xv
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java´	 ´	(
+%11java.awt.Polygon"java.awt.Polygon©
+¦
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java´	 ´	(.
+%12"java.awt.Polygon#<init>([I[II)V*
+
+%11java.awt.Polygon*
+""*
+""*
+""‰
+†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java´	 ´	(/
+polyjava.awt.Polygon"__id*
+
+%11java.awt.Polygon¸µ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaµ	
+ µ	(>
+%13boolean"java.awt.Polygon#contains(DD)Z*
+
+polyjava.awt.Polygon*
+""*
+""2contains(DD)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaµ	 µ	(?
+"":
+"":
+""B
+ij.gui.PolygonRoi

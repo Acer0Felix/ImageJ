@@ -1,0 +1,140 @@
+
+Bij.macro.Functions#setForegroundOrBackground(Z)Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã@ ã@(+"7*˜
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó@ ó@(
+Á
+¾
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó@ ó@($
+%14void"4ij.gui.Toolbar#setBackgroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color*
+1*˜
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ@ ñ@(
+Á
+¾
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ@ ñ@($
+%13void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color*
+1*Ç
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë@ ë@(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë@ ë@(
+%8ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp³°
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë@ ë@((
+%9double"%ij.macro.Interpreter#getExpression()D*
+
+%8ij.macro.Interpreter2getExpression()¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì@ ì@( 
+%10double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí@ í@(
+%11double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()Ã
+À
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî@ î@(+
+%12java.awt.Color"-ij.plugin.Colors#toColor(III)Ljava/awt/Color;*"
+ij.plugin.Colors*
+""*
+""*
+""‡
+„
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî@ î@(+
+colorjava.awt.Color"__id*
+
+%12java.awt.Color*
+2
+3*ê	
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç@ ç@(¾»
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç@ ç@(
+%3java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç@ ç@(
+argjava.lang.String"__id*
+
+%3java.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè@ è@(	
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè@ è@(
+
+%5void"%ij.macro.Interpreter#getRightParen()V*
+
+%4ij.macro.Interpreter2getRightParen()r
+p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé@ é@()
+%6java.awt.Color"__id*
+""û
+ø
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé@ é@(*
+%7java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+argjava.lang.String*
+
+%6java.awt.Color†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé@ é@(*
+colorjava.awt.Color"__id*
+
+%7java.awt.Color*
+2
+3*Ã
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä@ ä@(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä@ ä@(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä@ ä@(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()u
+s
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaå@ å@(
+colorjava.awt.Color"__id*
+""¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaæ@ æ@(
+%2boolean"!ij.macro.Functions#isStringArg()Z*
+ij.macro.Functions2isStringArg()*
+5
+6*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô@	 ô@("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô@ ô@(
+"":
+""B
+ij.macro.Functions

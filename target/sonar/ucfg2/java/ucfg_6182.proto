@@ -1,0 +1,60 @@
+
+Aij.plugin.filter.Printer#setup(Ljava/lang/String;Lij/ImagePlus;)IN
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java ("3*Î
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (±®
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (
+
+%1void"%ij.plugin.filter.Printer#pageSetup()V*
+ij.plugin.filter.Printer2pageSetup()k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (	
+%2int"__id*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (
+""*°
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (	ÒÏ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+setup2equals(Ljava/lang/Object;)*
+2
+1*¸
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (•
+’
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (#
+ij.plugin.filter.Printer"
+imp"__id*
+
+impij.ImagePlus–
+“
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (
+
+%3void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java	 (	
+%4int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (	
+%5int"__id*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Printer.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Printer

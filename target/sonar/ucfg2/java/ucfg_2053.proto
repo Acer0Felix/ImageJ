@@ -1,0 +1,116 @@
+
+6ij.plugin.CommandFinder#showMacro(Ljava/lang/String;)ZO
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.java‚ ‚("9*·
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(äá
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+%3ij.plugin.frame.Editor"ij.plugin.frame.Editorú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+%4" ij.plugin.frame.Editor#<init>()V*
+
+%3ij.plugin.frame.Editorò
+ï
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+edij.plugin.frame.Editor"__id*
+
+%3ij.plugin.frame.Editorπ∂
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÌ Ì(
+
+%5void"java.awt.Window#setSize(II)V*
+
+edij.plugin.frame.Editor*2º*2ÿ2setSize(II)¨©
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÓ Ó(
+
+%6void"Dij.plugin.frame.Editor#create(Ljava/lang/String;Ljava/lang/String;)V*
+
+edij.plugin.frame.Editor*
+
+namejava.lang.String*
+
+codejava.lang.String2,create(Ljava/lang/String;Ljava/lang/String;)"Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÔ Ô(
+""*Á
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(˜
+Ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(5
+%2java.lang.String"Oij.plugin.BatchProcessor#openMacroFromJar(Ljava/lang/String;)Ljava/lang/String;*"
+ij.plugin.BatchProcessor*
+
+namejava.lang.Stringé
+ã
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(6
+codejava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*Ø
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÈ
+ È("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÈ È(
+""*„
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÁ
+ Á(Ñ
+Å
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÁ Á(
+namejava.lang.String"__id*
+
+Search.txt*
+3
+4*π
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÊ Ê(◊‘
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÊ Ê("
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+	Search...2equals(Ljava/lang/Object;)*	
+3
+4
+6*Ë
+8O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÂ
+ Â(â
+Ü
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÂ Â(
+namejava.lang.String"__id*
+ShowAllLuts.txt*
+3
+4*∂
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.java„ „({
+y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.java„ „(
+namejava.lang.String"__id*
+""⁄◊
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.java‰ ‰( 
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Display LUTs2equals(Ljava/lang/Object;)*
+7
+8*Ø
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÒ	 Ò("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CommandFinder.javaÒ Ò(
+"":
+cmdjava.lang.StringB
+ij.plugin.CommandFinder

@@ -1,0 +1,306 @@
+
+Xij.plugin.ArrowToolOptions#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java- -(!"10*Ç
+
+2P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaD D(á
+Ñ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaD D(
+arrowij.gui.Arrow"__id*
+
+roi
+ij.gui.Roi±Æ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaE E($
+%19void"ij.gui.Roi#setStrokeWidth(F)V*
+
+roi
+ij.gui.Roi*
+""2setStrokeWidth(F)±Æ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaF F(
+%20void"ij.gui.Arrow#setHeadSize(D)V*
+
+arrowij.gui.Arrow*
+""2setHeadSize(D)´®
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaG G(
+%21void"ij.gui.Arrow#setStyle(I)V*
+
+arrowij.gui.Arrow*
+""2setStyle(I)Ø¨
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaH H(
+%22void"ij.gui.Arrow#setOutline(Z)V*
+
+arrowij.gui.Arrow*
+""2setOutline(Z)π∂
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaI I('
+%23void" ij.gui.Arrow#setDoubleHeaded(Z)V*
+
+arrowij.gui.Arrow*
+""2setDoubleHeaded(Z)óî
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaJ J(
+%24void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+1*±
+4P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaB B("Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaB B(
+""*ï
+5P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(¨©
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(
+%18
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()É
+Ä
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(
+roi
+ij.gui.Roi"__id*
+
+%18
+ij.gui.Roi*	
+2
+4
+1*±
+6P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java@ @("Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java@ @(
+""*˙
+
+7P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java9 9(™
+ß
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java9 9(+
+ij.plugin.ArrowToolOptions"
+	colorName"__id* 
+
+
+colorName2java.lang.Stringû
+õ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java: :(
+%12void" ij.gui.Arrow#setDefaultWidth(D)V*"
+ij.gui.Arrow*
+""°
+û
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java; ;(%
+%13void"#ij.gui.Arrow#setDefaultHeadSize(D)V*"
+ij.gui.Arrow*
+""û
+õ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java< <(
+%14void" ij.gui.Arrow#setDefaultStyle(I)V*"
+ij.gui.Arrow*
+""†
+ù
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java= =(#
+%15void""ij.gui.Arrow#setDefaultOutline(Z)V*"
+ij.gui.Arrow*
+""•
+¢
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java> >(-
+%16void"'ij.gui.Arrow#setDefaultDoubleHeaded(Z)V*"
+ij.gui.Arrow*
+""≤
+Ø
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java? ?(1
+%17ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerá
+Ñ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java? ?(2
+impij.ImagePlus"__id*
+
+%17ij.ImagePlus*
+5
+6*∞
+8P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(˘
+ˆ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(0
+%10java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors* 
+
+
+colorName2java.lang.String*
+""ç
+ä
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(1
+colorjava.awt.Color"__id*
+
+%10java.awt.Color«
+ƒ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java7 7($
+%11void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color*
+7*Ô
+9P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5($¢
+ü
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java5, 5(5
+%8java.lang.String"__id*-*+
+ij.plugin.ArrowToolOptions"
+	colorNameÍÁ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5(6
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z* 
+
+
+colorName2java.lang.String*
+
+%8java.lang.String2equals(Ljava/lang/Object;)*
+7
+8*Í
+10P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java. .(π∂
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java. .($
+%0double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()π∂
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java/ /('
+%1double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()‘—
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java0 0((
+%2java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ï
+í
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java0 0()
+
+colorName2java.lang.String"__id*
+
+%2java.lang.String¿Ω
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java1 1(&	
+%3int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java2 2((
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()ºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java3 3(-
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()ºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java4 4(1
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()¢
+ü
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5(
+%7java.lang.String"__id*-*+
+ij.plugin.ArrowToolOptions"
+	colorName*
+7
+9*ƒ
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L({
+y
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L(
+%25java.lang.String"__id*
+""∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L($
+%26void""ij.Prefs#set(Ljava/lang/String;I)V*"
+
+ij.Prefs*
+
+%25java.lang.String*
+""{
+y
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaM M(
+%27java.lang.String"__id*
+""∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaM M($
+%28void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%27java.lang.String*
+""{
+y
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaN N(
+%29java.lang.String"__id*
+""∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaN N(&
+%30void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%29java.lang.String*
+""{
+y
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaO O(
+%31java.lang.String"__id*
+""∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaO O((
+%32void""ij.Prefs#set(Ljava/lang/String;Z)V*"
+
+ij.Prefs*
+
+%31java.lang.String*
+""{
+y
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaP P(#
+%33java.lang.String"__id*
+""∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaP P(3
+%34void""ij.Prefs#set(Ljava/lang/String;Z)V*"
+
+ij.Prefs*
+
+%33java.lang.String*
+"""Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ArrowToolOptions.javaQ Q(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.ArrowToolOptions

@@ -1,0 +1,112 @@
+
+'ij.Macro#getOptions()Ljava/lang/String;>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaV V( "7*Ÿ
+2>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [()"Z
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [()
+
+%7java.lang.String*Ò
+3>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [($‹
+ˆ
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [((
+%9java.lang.String"__concat*
+
+optionsjava.lang.Object*
+ z
+x
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [((
+%7java.lang.String"__id*
+
+%9java.lang.String*
+2*¾
+4>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [(t
+r
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java[ [(
+%7java.lang.String"__id*
+
+%8
+<nulltype>*
+2*‘
+5>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaZ Z(|
+z
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaZ Z(
+%4java.util.Hashtable"__id**
+
+ij.Macro"
+table¥
+¢
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaZ Z(4
+%5java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Threadœ
+™
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaZ Z(5
+%6java.lang.Object"__mapGet*
+
+%4java.util.Hashtable*
+
+%5java.lang.Thread
+}
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaZ Z(6
+optionsjava.lang.Object"__id*
+
+%6java.lang.Object*
+3
+4*¡
+6>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaY& Y(0ÓÐ
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaY& Y(F
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z* 
+
+
+threadNamejava.lang.String*	
+RMI TCP2startsWith(Ljava/lang/String;)*
+5
+1*þ
+7>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaW W(¥
+¢
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaW W(,
+%0java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread®«
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaW W(6
+%1java.lang.String",java.lang.Thread#getName()Ljava/lang/String;*
+
+%0java.lang.Thread2	getName()ƒ
+€
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaW W(7
+
+threadNamejava.lang.String"__id*
+
+%1java.lang.StringÑÎ
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.javaY Y($
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z* 
+
+
+threadNamejava.lang.String*	
+Run$_2startsWith(Ljava/lang/String;)*
+5
+6*
+1>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java]
+ ]("H
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java] ](
+""B"
+
+ij.Macro

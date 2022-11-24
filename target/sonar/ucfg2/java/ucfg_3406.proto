@@ -1,0 +1,39 @@
+
+6ij.gui.PlotVirtualStack#getPixels(I)Ljava/lang/Object;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java ("3*“
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java
+ (ÓÐ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java
+ (
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()"i
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java (
+
+%1java.lang.Object*é
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java ("íê
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java (%
+%0ij.process.ImageProcessor"Bij.gui.PlotVirtualStack#getProcessor(I)Lij/process/ImageProcessor;*
+ij.gui.PlotVirtualStack*
+""2getProcessor(I)œ
+™
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java (&
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+1*«
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java
+ ("W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotVirtualStack.java (
+"":
+""B
+ij.gui.PlotVirtualStack

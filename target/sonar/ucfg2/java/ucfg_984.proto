@@ -1,0 +1,366 @@
+
+.ij.process.ByteProcessor#filterEdge(I[BIIIII)VP
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java® ®("91"92"0*ù
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java‹ ‹(”
+‘
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java‹ ‹(
+%37byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels*
+91
+92
+0*þ
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÄ Ä(n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÅ Å(
+
+%31int"__id*
+""n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÈ È(
+
+%32int"__id*
+""n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÎ Î(
+
+%33int"__id*
+""n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÙ Ù(
+
+%34int"__id*
+""n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaä	 ä(
+
+%35int"__id*
+""n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java÷	 ÷(
+
+%36int"__id*
+""*
+2
+84*ð
+90P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¸ ¸(ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¸ ¸((	
+%2int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¸- ¸(L	
+%3int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¸Q ¸(r	
+%4int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¹ ¹(&	
+%5int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¹+ ¹(H	
+%6int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¹M ¹(l	
+%7int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaº º((	
+%8int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)ñî
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaº- º(L	
+%9int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaºQ º(r
+
+%10int".ij.process.ByteProcessor#getEdgePixel0([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel0([BIII)*
+3*Ó
+91P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java·+ ·(/m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java·1 ·(7	
+%1int"__id*
+""*
+90
+86
+88*Ï
+92P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java· ·(m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java·! ·(&	
+%0int"__id*
+""*
+90
+91*÷
+84P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÈ Í(™
+–
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaË Ë(?
+%30double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+2*Œ
+86P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÀ À(æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÀ À($
+
+%21int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÀ) À(D
+
+%22int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÀI À(f
+
+%23int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÁ Á("
+
+%24int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÁ' Á(@
+
+%25int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÁE Á(`
+
+%26int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÂ Â($
+
+%27int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÂ) Â(D
+
+%28int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)æã
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÂI Â(f
+
+%29int",ij.process.ByteProcessor#getEdgePixel([BII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""2getEdgePixel([BII)*
+3*ø
+87P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¼ ¼(òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¼ ¼()
+
+%12int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¼. ¼(M
+
+%13int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¼R ¼(s
+
+%14int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java½ ½('
+
+%15int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java½, ½(I
+
+%16int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java½N ½(m
+
+%17int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¾ ¾((
+
+%18int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¾- ¾(L
+
+%19int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)òï
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¾Q ¾(r
+
+%20int".ij.process.ByteProcessor#getEdgePixel1([BIII)I*
+ij.process.ByteProcessor*
+
+pixels2byte[]*
+""*
+""*
+""2getEdgePixel1([BIII)*
+3*Ð
+88P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java»! »(%n
+l
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java»' »(,
+
+%11int"__id*
+""*
+86
+87*n
+0 "g
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaŽ Ž(
+implicit return:
+"":
+pixels2byte[]:
+"":
+"":
+"":
+"":
+""B
+ij.process.ByteProcessor

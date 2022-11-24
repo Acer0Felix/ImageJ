@@ -1,0 +1,58 @@
+
+5ij.io.RoiDecoder#open(Ljava/lang/String;)Lij/gui/Roi;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‹ ‹("5*Í
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java (y
+w
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java (
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+1*ÿ
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java	 (ª§
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java	 (
+%2
+ij.gui.Roi"%ij.io.RoiDecoder#getRoi()Lij/gui/Roi;*
+
+rdij.io.RoiDecoder2getRoi()*
+2*û
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŒ Œ(m
+k
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaŒ Œ(
+roi
+ij.gui.Roi"__id*
+""vt
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java ( 
+%0ij.io.RoiDecoder"ij.io.RoiDecoder·
+´
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java (&
+%1",ij.io.RoiDecoder#<init>(Ljava/lang/String;)V*
+
+%0ij.io.RoiDecoder*
+
+pathjava.lang.String…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java ('
+rdij.io.RoiDecoder"__id*
+
+%0ij.io.RoiDecoder*
+4*®
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‘	 ‘("_
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java‘ ‘(
+
+roi
+ij.gui.Roi:
+pathjava.lang.StringB"
+ij.io.RoiDecoder

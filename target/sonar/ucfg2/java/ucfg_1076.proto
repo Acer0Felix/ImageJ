@@ -1,0 +1,27 @@
+
+7ij.plugin.FitsDecoder#getHeaderInfo()Ljava/lang/String;M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java» »("1*¡
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java¼ ¼(›
+˜
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java¼ ¼(
+%0java.lang.StringBuffer"__id*#*!
+ij.plugin.FitsDecoder"
+info{y
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java¼ ¼(
+%1java.lang.String"java.lang.StringÆ
+Ã
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java¼	 ¼(
+%2"2java.lang.String#<init>(Ljava/lang/StringBuffer;)V*
+
+%1java.lang.String*
+
+%0java.lang.StringBuffer"i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java¼ ¼(
+
+%1java.lang.StringB
+ij.plugin.FitsDecoder

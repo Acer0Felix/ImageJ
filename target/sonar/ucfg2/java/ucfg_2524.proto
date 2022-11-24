@@ -1,0 +1,89 @@
+
+2ij.gui.Roi#getFeretBreadth(Ljava/awt/Shape;DDDDD)DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’("1*ò
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java÷ ÷(ãà
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(*#
+%0java.awt.geom.AffineTransform"java.awt.geom.AffineTransformù
+ö
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(,
+%1"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%0java.awt.geom.AffineTransformô
+ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÿ ÿ(-#
+atjava.awt.geom.AffineTransform"__id*%
+#
+%0java.awt.geom.AffineTransformb
+`
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(
+%2double"__id*
+""À»
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŸ Ÿ((
+
+%3void"*java.awt.geom.AffineTransform#rotate(DDD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""*
+""2rotate(DDD)°û
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java⁄ ⁄(,
+%4java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+shapejava.awt.Shape2(createTransformedShape(Ljava/awt/Shape;)y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java⁄ ⁄(-
+sjava.awt.Shape"__id*
+
+%4java.awt.Shape«ƒ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €(!
+%5java.awt.geom.Rectangle2D"7java.awt.Shape#getBounds2D()Ljava/awt/geom/Rectangle2D;*
+
+sjava.awt.Shape2getBounds2D()ê
+ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €("
+rjava.awt.geom.Rectangle2D"__id*!
+
+%5java.awt.geom.Rectangle2DØ¨
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‹ ‹(
+%6double"*java.awt.geom.RectangularShape#getWidth()D* 
+
+rjava.awt.geom.Rectangle2D2
+getWidth()±Æ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‹  ‹(-
+%7double"+java.awt.geom.RectangularShape#getHeight()D* 
+
+rjava.awt.geom.Rectangle2D2getHeight()¢
+ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‹	 ‹(.
+%8double"java.lang.Math#min(DD)D*"
+java.lang.Math*
+
+%6double*
+
+%7double"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‹ ‹(/
+"":
+shapejava.awt.Shape:
+"":
+"":
+"":
+"":
+""B
+
+ij.gui.Roi

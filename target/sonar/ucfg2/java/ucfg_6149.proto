@@ -1,0 +1,72 @@
+
+Oij.plugin.Slicer#getIrregularProfile(Lij/gui/Roi;Lij/process/ImageProcessor;)[FH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java“	 “("6"18"7"9"1*»
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¯ ¯(ÝÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¯ ¯(>
+%4double"3ij.process.ImageProcessor#getInterpolatedValue(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedValue(DD)*
+6
+7
+9
+1*µ
+18H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java• •(ÖÓ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java• •(
+
+%0void"0ij.plugin.Slicer#doIrregularSetup(Lij/gui/Roi;)V*
+ij.plugin.Slicer*
+
+roi
+ij.gui.Roi2doIrregularSetup(Lij/gui/Roi;)*
+6
+7
+9
+1*Ü
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¬( ¬(*àÝ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¬ ¬(K	
+%2int"6ij.process.ColorProcessor#getInterpolatedRGBPixel(DD)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedRGBPixel(DD)›
+˜
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java­ ­(?
+%3float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+""*
+6
+7
+9
+1*»
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaª ª(ÝÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaª ª(>
+%1double"3ij.process.ImageProcessor#getInterpolatedPixel(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedPixel(DD)*
+6
+7
+9
+1*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¸
+ ¸("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.java¸ ¸(
+"":
+roi
+ij.gui.Roi:
+ipij.process.ImageProcessorB
+ij.plugin.Slicer

@@ -1,0 +1,58 @@
+
+Wij.io.DragAndDropHandler#isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)ZN
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.javaZ Z()"5*¦
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](?êç
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](M
+%4java.lang.String"@java.awt.datatransfer.DataFlavor#getMimeType()Ljava/lang/String;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getMimeType()ÞÛ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](f
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%4java.lang.String*
+
+text/plain2startsWith(Ljava/lang/String;)*
+1*¬
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java] ](êç
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java] ](
+%2java.lang.String"@java.awt.datatransfer.DataFlavor#getMimeType()Ljava/lang/String;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getMimeType()áÞ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java] ](5
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%2java.lang.String*
+text/uri-list2startsWith(Ljava/lang/String;)*
+2
+1*Ü
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java\ \(þû
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java\ \($
+%1java.lang.Class"Jjava.awt.datatransfer.DataFlavor#getRepresentationClass()Ljava/lang/Class;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getRepresentationClass()*
+3
+1*È
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java[	 [(êç
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java[	 [(*
+%0boolean"<java.awt.datatransfer.DataFlavor#isFlavorJavaFileListType()Z*,
+*
+flavor java.awt.datatransfer.DataFlavor2isFlavorJavaFileListType()*
+4
+1*­
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java[ ](i"X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/DragAndDropHandler.java[ ](i
+"":*
+flavor java.awt.datatransfer.DataFlavorB
+ij.io.DragAndDropHandler

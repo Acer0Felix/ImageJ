@@ -1,0 +1,50 @@
+
+,ij.gui.Roi#getConvexHull()Ljava/awt/Polygon;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java… …("1*≥
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (&∆√
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   ((
+%0ij.process.FloatPolygon"8ij.gui.Roi#getFloatConvexHull()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatConvexHull()ç
+ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   ()
+fpij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonÖ
+Ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À('
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""Ö
+Ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ) À(;
+%2int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""pn
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À(
+%3java.awt.Polygon"java.awt.PolygonÆ
+´
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ	 À(H
+%4"java.awt.Polygon#<init>([I[II)V*
+
+%3java.awt.Polygon*
+
+%1int[]*
+
+%2int[]*
+"""^
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À(I
+
+%3java.awt.PolygonB
+
+ij.gui.Roi

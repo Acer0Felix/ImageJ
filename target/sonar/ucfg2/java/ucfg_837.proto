@@ -1,0 +1,39 @@
+
+Cij.gui.GenericDialog#getValue(Ljava/lang/String;)Ljava/lang/Double;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java§	 §	("5*á
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(ˆ
+…
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(
+djava.lang.Double"__id*
+
+%0java.lang.Double*
+1*´
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(Û
+Ø
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(
+%0java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+textjava.lang.String*
+2*Í
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¨	 ¨	(u
+s
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¨	 ¨	(
+djava.lang.Double"__id*
+""*
+4*º
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java­		 ­	(
+"g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java­	 ­	(
+
+djava.lang.Double:
+textjava.lang.StringB
+ij.gui.GenericDialog

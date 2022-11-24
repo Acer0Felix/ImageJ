@@ -1,0 +1,89 @@
+
+Nij.plugin.JpegWriter#save(Lij/ImagePlus;Ljava/lang/String;I)Ljava/lang/String;J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java" "("4"5"7*•
+2J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java(
+ (("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java( ((
+""*“
+4J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java&
+ &(Ï
+È
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java&
+ &()
+%2java.lang.String"Lij.io.SaveDialog#getPath(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;*"
+ij.io.SaveDialog*
+
+impij.ImagePlus*
+.jpgâ
+Ü
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java& &()
+pathjava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*˘
+5J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java% %(úô
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java% %(!	
+%1int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*	
+2
+4
+1*È
+7J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java$	 $(é
+ã
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java$	 $(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJ
+}
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java$ $(
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+4
+5*®
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java) )("Ä~
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java) )( 
+%3ij.plugin.JpegWriter"ij.plugin.JpegWriterì
+ê
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java) )("
+%4"ij.plugin.JpegWriter#<init>()V*
+
+%3ij.plugin.JpegWriter≈¬
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java) )(B
+%5java.lang.String"Tij.plugin.JpegWriter#saveAsJpeg(Lij/ImagePlus;Ljava/lang/String;I)Ljava/lang/String;*
+
+%3ij.plugin.JpegWriter*
+
+impij.ImagePlus*
+
+pathjava.lang.String*
+""2-saveAsJpeg(Lij/ImagePlus;Ljava/lang/String;I)ä
+á
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java) )(C
+errorjava.lang.String"__id*
+
+%5java.lang.String"i
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java* *(
+
+errorjava.lang.String:
+impij.ImagePlus:
+pathjava.lang.String:
+""B"
+ij.plugin.JpegWriter

@@ -1,0 +1,30 @@
+
+&ij.plugin.Slicer#getAvailableMemory()IH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaê ê("3*¡
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaì ì("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaì ì(
+""*Î
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaë ë(w
+u
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaë ë(
+
+%0long"ij.IJ#maxMemory()J*	"
+ij.IJ*
+2
+1*ž
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaí í({
+y
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaí í("
+
+%1long"ij.IJ#currentMemory()J*	"
+ij.IJ"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaï ï(.
+""B
+ij.plugin.Slicer

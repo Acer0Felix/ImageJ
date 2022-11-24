@@ -1,0 +1,30 @@
+
+1ij.CompositeImage#getChannelLut()Lij/process/LUT;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∞ ∞("1*É
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java±
+ ±(©¶
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java±
+ ±(	
+%0int"$ij.CompositeImage#getChannelIndex()I*
+ij.CompositeImage2getChannelIndex()å
+â
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java≤	 ≤(
+%1ij.process.LUT[]"__id**
+ij.CompositeImage"
+lutí
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java≤	 ≤(
+%2ij.process.LUT"
+__arrayGet*
+
+%1ij.process.LUT[]*
+"""c
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java≤ ≤(
+
+%2ij.process.LUTB
+ij.CompositeImage

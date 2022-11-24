@@ -1,0 +1,732 @@
+
+1ij.io.TiffDecoder#getMetaData(ILij/io/FileInfo;)VI
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java÷ ÷("62"63*¬
+46I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˙ ˙(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˙ ˙(
+
+%24int"__id*
+""*
+44
+45*»
+24I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaé é(ÌÍ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaé é(
+%44void"5ij.io.TiffDecoder#getInfoProperty(ILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+
+fiij.io.FileInfo2"getInfoProperty(ILij/io/FileInfo;)*
+25
+1*‘
+47I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˘ ˘(-}
+{
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˘ ˘(-
+idjava.lang.String"__id*
+slice labels*
+46*¬
+25I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaç ç(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaç ç(
+
+%43int"__id*
+""*
+24
+23*¬
+48I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˘ ˘(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˘ ˘(
+
+%23int"__id*
+""*
+46
+47*’
+49I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¯ ¯(,~
+|
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¯ ¯(,
+idjava.lang.String"__id*
+Info property*
+48*Ÿ
+27I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaà à(
+}
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaâ â(."
+
+fiij.io.FileInfo"
+
+metaData"__id*
+""*
+25
+1*Á
+29I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ Ñ(8ã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ Ñ(8
+lenstrjava.lang.String"__id*
+
+%30java.lang.StringÅ
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(
+%33java.lang.String"__concat*
+   *
+""ô
+ñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(
+%34java.lang.String"__concat*
+
+%33java.lang.String*	
+, type=¶
+£
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(!
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+
+idjava.lang.Stringö
+ó
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(,
+%36java.lang.String"__concat*
+
+%35java.lang.String*
+
+, count=î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(2
+%37java.lang.String"__concat*
+
+%36java.lang.String*
+""™
+ß
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(9
+%38java.lang.String"__concat*
+
+%37java.lang.String*
+
+lenstrjava.lang.Stringî
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(=
+%39java.lang.String"__concat*
+
+%38java.lang.String*
+""î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(B
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+\nè
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(	
+%41java.lang.String"__id* *
+ij.io.TiffDecoder"
+dInfoï
+í
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(B
+%42"__concat*
+
+%41java.lang.String*
+
+%40java.lang.String|
+z
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÖ Ö(B
+ij.io.TiffDecoder"
+dInfo"__id*
+
+%42*
+27
+53*º
+50I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˜ ˜(x
+v
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˜ ˜(
+idjava.lang.String"__id*	
+unknowng
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¯ ¯(
+
+%22int"__id*
+""*
+48
+49*‡
+30I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ) Ñ(7à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ) Ñ(7
+%30java.lang.String"__id*
+
+%32java.lang.String*
+29*ì
+53I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÚ Ú(òï
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÚ Ú(
+
+%20int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()òï
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÛ Û(
+
+%21int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()*
+27
+50
+53*‡
+31I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ Ñ((à
+Ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÑ Ñ((
+%30java.lang.String"__id*
+
+%31java.lang.String*
+29*Œ
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaú ú(Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaú ú(/
+%58void"4ij.io.TiffDecoder#getProperties(IILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+""*
+
+fiij.io.FileInfo2!getProperties(IILij/io/FileInfo;)*
+25
+1*À
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaõ õ(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaõ õ( 
+
+%57int"__id*
+""*
+25
+4
+6
+10
+1*è
+56I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÎ Î(è
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÎ Î(
+%10java.lang.String"__id* *
+ij.io.TiffDecoder"
+dInfoã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÎ Î(
+%11"__concat*
+
+%10java.lang.String*
+Metadata:\n|
+z
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÎ Î(
+ij.io.TiffDecoder"
+dInfo"__id*
+
+%11ã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÏ Ï(4
+%12java.lang.String"__concat*
+   Entries: *
+""î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÏ Ï(9
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+\nè
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÏ Ï(
+%14java.lang.String"__id* *
+ij.io.TiffDecoder"
+dInfoï
+í
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÏ Ï(9
+%15"__concat*
+
+%14java.lang.String*
+
+%13java.lang.String|
+z
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÏ Ï(9
+ij.io.TiffDecoder"
+dInfo"__id*
+
+%15â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÌ Ì(
+%16java.lang.String"__concat*
+
+   Types: *
+""î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÌ Ì($
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+\nè
+å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÌ Ì(
+%18java.lang.String"__id* *
+ij.io.TiffDecoder"
+dInfoï
+í
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÌ Ì($
+%19"__concat*
+
+%18java.lang.String*
+
+%17java.lang.String|
+z
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÌ Ì($
+ij.io.TiffDecoder"
+dInfo"__id*
+
+%19*
+27
+53*»
+12I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaö ö(ÌÍ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaö ö(,
+%56void"1ij.io.TiffDecoder#getOverlay(IILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+""*
+
+fiij.io.FileInfo2getOverlay(IILij/io/FileInfo;)*
+25
+1*÷
+35I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaˇ# ˇ(/{
+y
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaˇ ˇ(/
+idjava.lang.String"__id*
+
+properties*
+30
+31*¬
+13I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaô ô(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaô ô(
+
+%55int"__id*
+""*
+11
+12*∆
+36I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaˇ ˇ(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaˇ ˇ(
+
+%29int"__id*
+""*
+35
+30
+31*Ì
+58I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‰ ‰(ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‰ ‰(
+%8ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in∞≠
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‰ ‰(
+
+%9void"!ij.io.RandomAccessStream#seek(J)V* 
+
+%8ij.io.RandomAccessStream*
+""2seek(J)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÂ Â(
+
+""*∂
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaò ò(
+€ÿ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaò ò(
+%54void",ij.io.TiffDecoder#getRoi(ILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+
+fiij.io.FileInfo2getRoi(ILij/io/FileInfo;)*
+25
+1*œ
+37I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˛  ˛()x
+v
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˛ ˛()
+idjava.lang.String"__id*	
+overlay*
+36*„
+59I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‚ ‚(óî
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‚ ‚(	
+%6int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()f
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java„ „(	
+%7int"__id*
+""*
+58
+27
+53
+56*¬
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaó ó(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaó ó(
+
+%53int"__id*
+""*
+13
+14*¬
+38I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˛ ˛(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˛ ˛(
+
+%28int"__id*
+""*
+36
+37*∏
+16I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javañ ñ(›⁄
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javañ ñ(
+%52void"-ij.io.TiffDecoder#getPlot(ILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+
+fiij.io.FileInfo2getPlot(ILij/io/FileInfo;)*
+25
+1*À
+39I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˝ ˝(!t
+r
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˝ ˝(!
+idjava.lang.String"__id*
+roi*
+38*¬
+17I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaï ï(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaï ï(
+
+%51int"__id*
+""*
+15
+16*¬
+18I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaî î(Á‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaî î()
+%50void".ij.io.TiffDecoder#getLuts(IILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+""*
+
+fiij.io.FileInfo2getLuts(IILij/io/FileInfo;)*
+25
+1*¬
+19I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaì ì(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaì ì(
+
+%49int"__id*
+""*
+17
+18*g
+0 "`
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java™ ™(
+implicit return*ü
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java© ©(î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java© ©(
+%66ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in≤Ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java© ©(
+%67void"!ij.io.RandomAccessStream#seek(J)V*!
+
+%66ij.io.RandomAccessStream*
+""2seek(J)*
+0*ô
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¶ ¶(øº
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¶ ¶(-
+%65void"&ij.io.TiffDecoder#skipUnknownType(II)V*
+ij.io.TiffDecoder*
+""*
+""2skipUnknownType(II)*
+25
+1*Ô
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaü ü(ã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java† †(
+%59byte[][]"__id*$*"
+
+fiij.io.FileInfo"
+
+metaDataÑ
+Å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java† †(*
+%60"
+__arraySet*
+
+%59byte[][]*
+""*
+""î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java° °(
+%61ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+inã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java° °(
+%62byte[][]"__id*$*"
+
+fiij.io.FileInfo"
+
+metaDataÑ
+Å
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java° °('
+%63byte[]"
+__arrayGet*
+
+%62byte[][]*
+""—Œ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java° °(-
+%64void"(ij.io.RandomAccessStream#readFully([BI)V*!
+
+%61ij.io.RandomAccessStream*
+
+%63byte[]*
+""2readFully([BI)*
+
+25
+6
+1*Ì
+60I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaﬂ ﬂ(ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaﬂ ﬂ(
+%4ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in∞≠
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaﬂ ﬂ(
+
+%5void"!ij.io.RandomAccessStream#seek(J)V* 
+
+%4ij.io.RandomAccessStream*
+""2seek(J)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java‡ ‡(
+
+""*¬
+40I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˝ ˝(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˝ ˝(
+
+%27int"__id*
+""*
+38
+39*˝
+62I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaŸ Ÿ(ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java⁄ ⁄(
+%0ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in¬ø
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java⁄ ⁄((
+
+%1long".ij.io.RandomAccessStream#getLongFilePointer()J* 
+
+%0ij.io.RandomAccessStream2getLongFilePointer()ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java€ €(
+%2ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in∞≠
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java€ €(
+
+%3void"!ij.io.RandomAccessStream#seek(I)V* 
+
+%2ij.io.RandomAccessStream*
+""2seek(I)*
+59
+60*Ã
+41I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¸ ¸(#u
+s
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¸ ¸(#
+idjava.lang.String"__id*
+plot*
+40*§
+63I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÿ ÿ(
+"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaÿ ÿ(
+
+""*¬
+42I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¸ ¸(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java¸ ¸(
+
+%26int"__id*
+""*
+40
+41* 
+20I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaí í(ÔÏ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaí í(
+%48void"6ij.io.TiffDecoder#getDisplayRanges(ILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+
+fiij.io.FileInfo2#getDisplayRanges(ILij/io/FileInfo;)*
+25
+1*Ã
+43I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˚ ˚(#u
+s
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˚ ˚(#
+idjava.lang.String"__id*
+luts*
+42*¬
+21I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaë ë(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaë ë(
+
+%47int"__id*
+""*
+19
+20*¬
+44I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˚ ˚(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˚ ˚(
+
+%25int"__id*
+""*
+42
+43*–
+22I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaê ê(ıÚ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaê ê(0
+%46void"5ij.io.TiffDecoder#getSliceLabels(IILij/io/FileInfo;)V*
+ij.io.TiffDecoder*
+""*
+""*
+
+fiij.io.FileInfo2"getSliceLabels(IILij/io/FileInfo;)*
+25
+1*÷
+45I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˙ ˙(/
+}
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.java˙ ˙(/
+idjava.lang.String"__id*
+display ranges*
+44*¬
+23I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaè è(g
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/TiffDecoder.javaè è(
+
+%45int"__id*
+""*
+21
+22:
+"":
+fiij.io.FileInfoB
+ij.io.TiffDecoder

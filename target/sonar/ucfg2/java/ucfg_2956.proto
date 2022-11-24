@@ -1,0 +1,32 @@
+
+0ij.plugin.ScaleBar#getOuterMarginSizeInPixels()IJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÙ Ù("1*ó
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÚ Ú(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÚ Ú(
+%0ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+imp–“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÚ Ú(!	
+%1int"ij.ImagePlus#getWidth()I*
+
+%0ij.ImagePlus2
+getWidth()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(
+%2ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+imp˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(#	
+%3int"ij.ImagePlus#getHeight()I*
+
+%2ij.ImagePlus2getHeight()"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÜ Ü(*
+""B
+ij.plugin.ScaleBar

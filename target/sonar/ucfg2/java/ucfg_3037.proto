@@ -1,0 +1,717 @@
+
+4ij.plugin.Hotkeys#installHotkey(Ljava/lang/String;)VG
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java ("29*⁄
+24G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#= #(?Ñ
+Å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#= #(?
+%5java.lang.String"__id*
+
+%7java.lang.String*
+23*Î
+25G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#$ #((}
+{
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#$ #(8
+%8java.lang.String"__concat*
+ (*
+""è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#$ #(<
+%6java.lang.String"__concat*
+
+%8java.lang.String*
+)Ñ
+Å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java#$ #(<
+%5java.lang.String"__id*
+
+%6java.lang.String*
+23*—
+26G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java! !(3é
+ã
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java! !(3
+commandsjava.lang.String[]"__id*
+
+%1java.lang.String[]‘—
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java" "(.
+%4java.lang.String[]"<ij.plugin.Hotkeys#getAvailableShortcuts()[Ljava/lang/String;*
+ij.plugin.Hotkeys2getAvailableShortcuts()è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java" "(/
+	shortcutsjava.lang.String[]"__id*
+
+%4java.lang.String[]*
+24
+25*ß
+27G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java!" !(0∆√
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java!" !(2
+%3java.lang.String[]"5ij.plugin.Hotkeys#getAllCommands()[Ljava/lang/String;*
+ij.plugin.Hotkeys2getAllCommands()à
+Ö
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java!" !(2
+%1java.lang.String[]"__id*
+
+%3java.lang.String[]*
+26*‘
+28G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java! !(!
+}
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java! !(!
+%1java.lang.String[]"__id*
+
+%2
+<nulltype>*
+26*®
+29G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java   (ŒÀ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java   ()
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+install22equals(Ljava/lang/Object;)*
+27
+28*Ÿ
+10G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java? ?(Ã…
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java? ?(
+%39java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java? ?( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+%39java.lang.String£
+†
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java@ @('
+%40java.util.Hashtable"+ij.Menus#getCommands()Ljava/util/Hashtable;*"
+
+ij.Menusç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java@ @((
+cmdsjava.util.Hashtable"__id*
+
+%40java.util.Hashtableè
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaA A(
+%41java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandÿ’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaA A(
+%42boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%41java.lang.String*
+[2"contains(Ljava/lang/CharSequence;)*
+8
+1*ƒ
+11G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java8 8(î
+ë
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java8 8( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+command2java.lang.Stringó
+î
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java9 9(1
+%34java.lang.String"__concat*
+Command not found:\n \n   *
+\"è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java92 9(9
+%35java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command•
+¢
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java9 9(9
+%36java.lang.String"__concat*
+
+%34java.lang.String*
+
+%35java.lang.Stringí
+è
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java9 9(>
+%37java.lang.String"__concat*
+
+%36java.lang.String*
+\"°
+û
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java9 9(?
+%38void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%37java.lang.String"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java: :(
+""*¡
+12G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java6 6(ò
+ï
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java6 6(
+%31java.lang.String"__concat*
+
+command2java.lang.String*
+...è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java6 6( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+%31java.lang.Stringè
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java7 7(
+%32java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java7	 7(
+%33java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%32java.lang.String*
+11
+1*î
+13G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java5 5(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java5 5(
+%29java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java5 5(
+%30java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%29java.lang.String*
+12
+1*ã
+14G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java4 4(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java4 4(
+%27java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandë
+é
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java4 4(
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+ è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java4 4( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+%28java.lang.String*
+13*µ
+15G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java2 2(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java2 2(
+%24java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandã
+à
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java2 2(
+command2java.lang.String"__id*
+
+%24java.lang.Stringè
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java3 3(
+%25java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java3 3(
+%26java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%25java.lang.String*
+13
+14*î
+16G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java1 1(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java1 1(%
+%22java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java1 1(&
+%23java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%22java.lang.String*
+15
+1*Ó
+17G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java/ /(Ã…
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java/ /(
+%20java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java/ /( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+%20java.lang.String£
+†
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java0 0('
+%21java.util.Hashtable"+ij.Menus#getCommands()Ljava/util/Hashtable;*"
+
+ij.Menusç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java0 0((
+cmdsjava.util.Hashtable"__id*
+
+%21java.util.Hashtable*
+15
+16*π
+18G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java- -(Ã…
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java- -(
+%19java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ê
+ç
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java- -(!
+ij.plugin.Hotkeys"
+
+shortcut"__id*
+
+%19java.lang.String*
+17
+10*†
+19G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java, ,(
+"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java, ,(
+
+""*e
+0 "^
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaV V(
+implicit return*Á
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF F(&è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF F(+
+%61java.lang.String"__concat*
+ij.plugin.Hotkeys(*
+\"è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF, F(3
+%62java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command•
+¢
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF F(3
+%63java.lang.String"__concat*
+
+%61java.lang.String*
+
+%62java.lang.Stringì
+ê
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF F(9
+%64java.lang.String"__concat*
+
+%63java.lang.String*
+\")â
+Ü
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaF F(:
+pluginjava.lang.String"__id*
+
+%64java.lang.Stringf
+d
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaG' G(;
+%65char"__id*
+""è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaG@ G(G
+%66java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandë
+é
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaG< G(G
+%67java.lang.String"__concat*
+**
+
+%66java.lang.Stringê
+ç
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaGH G(P
+%68java.lang.String"__id*#*!
+ij.plugin.Hotkeys"
+
+shortcutâ
+Ü
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaGQ G(a
+%69	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJ∫
+∑
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaG G(b
+
+%70int"[ij.Menus#installPlugin(Ljava/lang/String;CLjava/lang/String;Ljava/lang/String;Lij/ImageJ;)I*"
+
+ij.Menus*
+
+pluginjava.lang.String*
+
+%65char*
+
+%67java.lang.String*
+
+%68java.lang.String*
+
+%69	ij.ImageJe
+c
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaI I(
+
+%71int"__id*
+""e
+c
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaL L(
+
+%72int"__id*
+""e
+c
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaO O(
+
+%73int"__id*
+""*
+2
+3
+4
+5*À
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaR T(
+x
+v
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaS S(!
+ij.plugin.Hotkeys"
+
+shortcut"__id* *
+0*–
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaO Q(
+ê
+ç
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaP P($
+%57java.lang.String"__id*#*!
+ij.plugin.Hotkeys"
+
+shortcutñ
+ì
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaP P($
+%58java.lang.String"__concat*
+
+The \"*
+
+%57java.lang.String¶
+£
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaP P(=
+%59java.lang.String"__concat*
+
+%58java.lang.String*
+\" shortcut is in use.ß
+§
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaP P(>
+%60void"&ij.IJ#showMessage(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%59java.lang.String*
+0*π
+4G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaL N(
+r
+p
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaM M(
+%55java.lang.String"__id*
+""Ò
+Ó
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaM M(O
+%56void"8ij.IJ#showMessage(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+%55java.lang.String*64
+2The shortcut must be a single character or F1-F24.*
+0*˙
+5G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaI K(
+r
+p
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaJ J(
+%50java.lang.String"__id*
+""è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaJ- J(4
+%51java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandû
+õ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaJ J(4
+%52java.lang.String"__concat*
+The command \"*
+
+%51java.lang.String®
+•
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaJ J(Q
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+\" is already installed.‘
+—
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaJ J(R
+%54void"8ij.IJ#showMessage(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+%50java.lang.String*
+
+%53java.lang.String*
+0*·
+6G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaC C(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaC C(
+%48java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command~
+|
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaC C(
+%49"__concat*
+
+%48java.lang.String*
+]|
+z
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaC C( 
+ij.plugin.Hotkeys"	
+command"__id*
+
+%49*
+1*¶
+7G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaB B(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaB B(
+%45java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+commandë
+é
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaB B(
+%46java.lang.String"__concat*
+
+%45java.lang.String*
+]©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaB B(
+%47java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%46java.lang.String*
+6
+1*í
+8G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaA. A(2è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaA7 A(>
+%43java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command©
+¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.javaA. A(?
+%44java.lang.Object"__mapGet*
+
+cmdsjava.util.Hashtable*
+
+%43java.lang.String*
+7
+1*¥
+20G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java* *(©¶
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java* *(
+%17void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()Æ´
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java+ +(
+%18boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+18
+19*»
+21G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java) )(è
+å
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java)& )(-
+%15java.lang.String"__id*"* 
+ij.plugin.Hotkeys"	
+command‡›
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java) )(.
+%16void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Command:* 
+
+commandsjava.lang.String[]*
+
+%15java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+20*È
+22G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java' '(ìê
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java' '((
+%14void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+
+Command:* *225addStringField(Ljava/lang/String;Ljava/lang/String;I)*
+20*⁄
+
+23G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java# #(@ã
+à
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java# #(@
+	nCommandsjava.lang.String"__id*
+
+%5java.lang.String°
+û
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java$' $(?
+%9java.lang.String"__concat*
+Add Shortcut*
+
+	nCommandsjava.lang.String~|
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java$ $(&
+%10ij.gui.GenericDialog"ij.gui.GenericDialogæ
+ª
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java$ $(@
+%11"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%10ij.gui.GenericDialog*
+
+%9java.lang.Stringç
+ä
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java$ $(A
+gdij.gui.GenericDialog"__id*
+
+%10ij.gui.GenericDialogò
+ï
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java%' %(3
+%12java.lang.String"
+__arrayGet*!
+
+	shortcutsjava.lang.String[]*2 ‚ﬂ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Hotkeys.java% %(4
+%13void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+	Shortcut:*!
+
+	shortcutsjava.lang.String[]*
+
+%12java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+21
+22:
+argjava.lang.StringB
+ij.plugin.Hotkeys

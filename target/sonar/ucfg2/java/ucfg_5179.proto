@@ -1,0 +1,126 @@
+
+ij.io.BitBuffer#getBits(I)IE
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java ("18"7"8"20"1"12*›
+2E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java: :("O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java; ;(
+""*®
+5E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java4( 4(*g
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java4( 4(*	
+%6int"__id*
+	
+%8intg
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java4" 4(*	
+%6int"__id*
+	
+%8int*
+2
+7
+8
+1
+12*Å
+6E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java4 4(g
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java4 4(	
+%6int"__id*
+	
+%7int*
+2
+7
+8
+1
+12*œ
+18E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java   ("O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java   (
+""*Ø
+7E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java2 2(ƒ
+€
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java3 3(
+%5byte[]"__id*#*!
+ij.io.BitBuffer"
+
+byteBuffer*
+5
+6*â
+8E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java+ +(ƒ
+€
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java, ,(!
+%4byte[]"__id*#*!
+ij.io.BitBuffer"
+
+byteBuffer*
+2
+7
+8
+1
+12*œ
+20E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java
+ ("O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java (
+""*¯
+10E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java'/ '(1g
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java'/ '(1	
+%1int"__id*
+	
+%3intg
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java') '(1	
+%1int"__id*
+	
+%3int*
+2
+7
+8
+1
+12*Æ
+11E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java' '(!g
+e
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java' '(&	
+%1int"__id*
+	
+%2int*
+2
+7
+8
+1
+12*Û
+12E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java% %(ƒ
+€
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java& &(
+%0byte[]"__id*#*!
+ij.io.BitBuffer"
+
+byteBuffer*
+10
+11*›
+1E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java>	 >("O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/BitBuffer.java> >(
+"":
+""B
+ij.io.BitBuffer

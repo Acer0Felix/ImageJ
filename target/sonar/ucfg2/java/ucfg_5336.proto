@@ -1,0 +1,45 @@
+
+6ij.plugin.frame.Editor#getFontName()Ljava/lang/String;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaã ã("4*æ
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä/ ä(:‹
+ˆ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä/ ä(:
+%2java.lang.String"__id*
+
+%4java.lang.String*
+1*æ
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä" ä(.‹
+ˆ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä" ä(.
+%2java.lang.String"__id*
+
+%3java.lang.String*
+1*¿
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(¦
+£
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(
+%0java.awt.CheckboxMenuItem"__id***(
+ij.plugin.frame.Editor"
+
+monospaced¸µ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(!
+%1boolean"%java.awt.CheckboxMenuItem#getState()Z*!
+
+%0java.awt.CheckboxMenuItem2
+getState()*
+2
+3*¿
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(;"j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(;
+
+%2java.lang.StringB
+ij.plugin.frame.Editor

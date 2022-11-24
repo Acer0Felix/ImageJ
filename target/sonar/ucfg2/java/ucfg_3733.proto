@@ -1,0 +1,27 @@
+
+ ij.ImagePlus#getCompositeMode()ID
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÖ Ö("3*´
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá á(èå
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá
+ á(*	
+%1int"ij.CompositeImage#getMode()I*
+ij.ImagePlus2	getMode()"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá á(+
+""*Í
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü(ñì
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü(
+%0boolean"ij.ImagePlus#isComposite()Z*
+ij.ImagePlus2isComposite()*
+2
+1*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaâ â("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaâ â(
+""B
+ij.ImagePlus

@@ -1,0 +1,40 @@
+
+Tij.measure.ResultsTable#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaf f(+"4*¡
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javai i(Ú×
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javai
+ i(+
+%1ij.measure.ResultsTable"=ij.text.TextWindow#getResultsTable()Lij/measure/ResultsTable;*
+
+fjava.awt.Frame2getResultsTable()"p
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javai i(,
+
+%1ij.measure.ResultsTable*¿
+4M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javag g(Ú
+×
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javag g()
+%0java.awt.Frame"=ij.WindowManager#getFrame(Ljava/lang/String;)Ljava/awt/Frame;*"
+ij.WindowManager*
+
+titlejava.lang.String…
+‚
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javag g(*
+fjava.awt.Frame"__id*
+
+%0java.awt.Frame*
+2
+1*«
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javak
+ k("W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javak k(
+"":
+titlejava.lang.StringB"
+ij.measure.ResultsTable

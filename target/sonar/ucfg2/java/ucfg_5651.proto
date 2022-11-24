@@ -1,0 +1,174 @@
+
+Kij.plugin.filter.GaussianBlur#blurGaussian(Lij/process/ImageProcessor;DDD)VU
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∞ ∞("24*Ö
+24U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java± ±(Ÿ÷
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java± ±($
+%0java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+ipij.process.ImageProcessor2getRoi()Ω∫
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java±- ±(;	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+16
+18
+11*⁄
+13U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµF µ(Gw
+u
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµF µ(G	
+%4int"__id*
+	
+%6int*
+11*⁄
+14U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµB µ(Cw
+u
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµB µ(C	
+%4int"__id*
+	
+%5int*
+11*´
+16U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµ µ(√¿
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaµ µ('	
+%3int")ij.process.ImageProcessor#getNChannels()I*!
+
+ipij.process.ImageProcessor2getNChannels()*
+13
+14*§
+18U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥	 ≥(ºπ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥	 ≥(
+
+%2void"%ij.process.ImageProcessor#snapshot()V*!
+
+ipij.process.ImageProcessor2
+snapshot()*
+16
+11*ª
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java¿ ¿("_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java¿ ¿(
+""*ç
+2U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaø ø(û
+õ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaø# ø(6
+%15double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""ä
+á
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaø ø(7
+%16void"Jij.plugin.filter.GaussianBlur#resetOutOfRoi(Lij/process/ImageProcessor;I)V*!"
+ij.plugin.filter.GaussianBlur*!
+
+ipij.process.ImageProcessor*
+
+%15double*
+1*Ö
+5U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaº º(¢ü
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaº º(
+%14void"Bij.process.ImageProcessor#setPixels(ILij/process/FloatProcessor;)V*!
+
+ipij.process.ImageProcessor*
+""*!
+
+fpij.process.FloatProcessor2'setPixels(ILij/process/FloatProcessor;)*
+10*ª
+6U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaª8 ª(?"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaª8 ª(?
+""*õ
+7U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∫ ∫(∫∑
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∫ ∫(3
+%11void"Hij.plugin.filter.GaussianBlur#blurFloat(Lij/process/FloatProcessor;DDD)V*!
+ij.plugin.filter.GaussianBlur*!
+
+fpij.process.FloatProcessor*
+""*
+""*
+""2)blurFloat(Lij/process/FloatProcessor;DDD)Ω
+∫
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaª ª(&
+%12java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Threadπ∂
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaª ª(6
+%13boolean"!java.lang.Thread#isInterrupted()Z*
+
+%12java.lang.Thread2isInterrupted()*
+5
+6*ª
+8U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaπ8 π(?"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaπ8 π(?
+""*“
+9U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∏ ∏(Ã…
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∏ ∏("
+%8ij.process.FloatProcessor"Zij.process.ImageProcessor#toFloat(ILij/process/FloatProcessor;)Lij/process/FloatProcessor;*!
+
+ipij.process.ImageProcessor*
+""*!
+
+fpij.process.FloatProcessor2%toFloat(ILij/process/FloatProcessor;)§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∏ ∏("
+fpij.process.FloatProcessor"__id*!
+
+%8ij.process.FloatProcessorº
+π
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaπ π(&
+%9java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread∏µ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaπ π(6
+%10boolean"!java.lang.Thread#isInterrupted()Z*
+
+%9java.lang.Thread2isInterrupted()*
+7
+8*¨
+10U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∑ ∑(√¿
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∑ ∑()	
+%7int")ij.process.ImageProcessor#getNChannels()I*!
+
+ipij.process.ImageProcessor2getNChannels()*	
+2
+9
+1*Ì
+11U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∂ ∂( â
+Ü
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java∂ ∂(!
+fpij.process.FloatProcessor"__id*
+""*
+10:
+ipij.process.ImageProcessor:
+"":
+"":
+""B!
+ij.plugin.filter.GaussianBlur

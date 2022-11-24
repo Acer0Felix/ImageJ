@@ -1,0 +1,165 @@
+
+*ij.WindowManager#getImage(I)Lij/ImagePlus;H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaé& é(."13"14"16*¢
+13H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaí
+ í("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaí í(
+""*ì
+14H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaì ì(!‘
+Ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaì ì(#	
+%1int"!ij.WindowManager#getImageCount()I*"
+ij.WindowManager*
+13
+12*õ
+16H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaë ë(š
+—
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaë ë(#	
+%0int""ij.WindowManager#getNthImageID(I)I*"
+ij.WindowManager*
+""*
+13
+14*°
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaý	 ý("a
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaý ý(
+
+impij.ImagePlus*±
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaü
+ ü("b
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaü ü(
+
+imp2ij.ImagePlus*é
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaû  û($‘Ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaû  û(,
+
+%10int"ij.ImagePlus#getID()I*
+
+imp2ij.ImagePlus2getID()*
+2
+1*
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaú	 ú(©
+¦
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaú	 ú(
+%9ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaú ú(
+imp2ij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+3
+1*Ó
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaö
+ ö(
+}
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaö ö(
+impij.ImagePlus"__id*
+
+imp2ij.ImagePlus*
+5*Þ
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaó" ó(+
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaó" ó(+
+%5java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaó" ó(2
+%6java.lang.Object"
+__arrayGet*
+
+%5java.util.Vector*
+""ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaó ó(3
+winij.gui.ImageWindow"__id*
+
+%6java.lang.Object¿¼
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaô
+ ô(
+%7ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winij.gui.ImageWindow2getImagePlus()~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaô ô(
+imp2ij.ImagePlus"__id*
+
+%7ij.ImagePlus
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaõ õ(	
+%8int"ij.ImagePlus#getID()I*
+
+imp2ij.ImagePlus2getID()*
+7
+9*ÿ
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaò ò(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaò ò(
+%3java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaò ò("	
+%4int"java.util.Vector#size()I*
+
+%3java.util.Vector2size()*
+5
+8*Ä
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javañ ñ(o
+m
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javañ ñ(
+impij.ImagePlus"__id*
+""*
+9*²
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javað
+ ð("b
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javað ð(
+
+imp2ij.ImagePlus*—
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaî î(¼
+¹
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaî î(9
+%2ij.ImagePlus"7ij.macro.Interpreter#getBatchModeImage(I)Lij/ImagePlus;*"
+ij.macro.Interpreter*
+""~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaî î(:
+imp2ij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+10
+11:
+""B"
+ij.WindowManager

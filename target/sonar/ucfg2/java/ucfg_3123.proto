@@ -1,0 +1,26 @@
+
+#ij.macro.Functions#getImageCount()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java­ ­("1*ÿ
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java® ®(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java® ®(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java® ®(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¯	 ¯(&	
+%2int"!ij.WindowManager#getImageCount()I*"
+ij.WindowManager"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¯ ¯('
+""B
+ij.macro.Functions

@@ -1,0 +1,20 @@
+
+ ij.plugin.TreePanel#isVisible()ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÇ	 Ç("1*÷
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(˜
+•
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(
+%0javax.swing.JFrame"__id*#*!
+ij.plugin.TreePanel"
+pFrame¬©
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(
+%1boolean"java.awt.Component#isVisible()Z*
+
+%0javax.swing.JFrame2isVisible()"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÈ È(
+""B
+ij.plugin.TreePanel

@@ -1,0 +1,109 @@
+
+Uij.Prefs#loadAppletProps(Ljava/io/InputStream;Ljava/applet/Applet;)Ljava/lang/String;@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java” ”("10"12*Õ
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java› ›(Ä
+~
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java› ›(
+
+ij.Prefs"
+	imagesURL"__id*
+
+%10java.lang.String*
+1*
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(:u
+s
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(:
+urljava.net.URL"__id*
+
+%8java.net.URL¨©
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java› ›(
+%10java.lang.String")java.net.URL#toString()Ljava/lang/String;*
+
+urljava.net.URL2
+toString()*
+2*Ò
+5@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹/ ‹(8fd
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(
+%8java.net.URL"java.net.URLº
+π
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(9
+%9"6java.net.URL#<init>(Ljava/net/URL;Ljava/lang/String;)V*
+
+%8java.net.URL*
+
+%7java.net.URL*	
+images/*
+4*ç
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(¿Ω
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‹ ‹(-
+%7java.net.URL"2java.applet.Applet#getDocumentBase()Ljava/net/URL;*
+
+appletjava.applet.Applet2getDocumentBase()*
+5*·
+9@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaÿ ÿ(îë
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaÿ ÿ(
+
+%4void"java.io.InputStream#close()V*
+
+fjava.io.InputStream2close()*
+6*™
+10@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java◊ ◊(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java◊ ◊(
+%2java.util.Properties"__id**
+
+ij.Prefs"
+props€ÿ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java◊ ◊(
+
+%3void"1java.util.Properties#load(Ljava/io/InputStream;)V*
+
+%2java.util.Properties*
+
+fjava.io.InputStream2load(Ljava/io/InputStream;)*
+9*Æ
+12@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java’
+ ’(j
+h
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java’
+ ’(
+%0java.lang.String"__id*
+""õ
+ò
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java’
+ ’(+
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ not found in ij.jar"\
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java’ ’(,
+
+%1java.lang.String*ë
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‡	 ‡("J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java‡ ‡(
+"":
+fjava.io.InputStream:
+appletjava.applet.AppletB"
+
+ij.Prefs

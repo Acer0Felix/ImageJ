@@ -1,0 +1,153 @@
+
+ij.gui.Plot#isColored()ZC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java›	 ›("12*Ë
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(v
+t
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(
+
+plotObjectij.gui.PlotObject"__id*
+""ö
+ó
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%6ij.gui.PlotObject[]*
+""*	
+2
+5
+1*ó
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java„ „("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java„ „(
+""*±
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚= ‚(Fì
+ê
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚G ‚(X
+%9java.awt.Color"__id*-*+
+
+
+plotObjectij.gui.PlotObject"
+color2»≈
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚= ‚(Y
+%10boolean"(ij.gui.Plot#isColored(Ljava/awt/Color;)Z*
+ij.gui.Plot*
+
+%9java.awt.Color2isColored(Ljava/awt/Color;)*
+2
+3*Ø
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚ ‚('í
+è
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚( ‚(8
+%7java.awt.Color"__id*,**
+
+
+plotObjectij.gui.PlotObject"
+color«ƒ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‚ ‚(9
+%8boolean"(ij.gui.Plot#isColored(Ljava/awt/Color;)Z*
+ij.gui.Plot*
+
+%7java.awt.Color2isColored(Ljava/awt/Color;)*
+3
+4*≠
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(!Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(!
+%5ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp÷”
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java· ·(5
+%6ij.gui.PlotObject[]"=ij.gui.PlotProperties#getAllPlotObjects()[Lij/gui/PlotObject;*
+
+%5ij.gui.PlotProperties2getAllPlotObjects()*
+2*„
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(v
+t
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(
+
+plotObjectij.gui.PlotObject"__id*
+""ó
+î
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+7
+11*ó
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‡ ‡("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‡ ‡(
+""*±
+10C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ& ﬂ(/ì
+ê
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ0 ﬂ(A
+%3java.awt.Color"__id*-*+
+
+
+plotObjectij.gui.PlotObject"
+color2«ƒ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ& ﬂ(B
+%4boolean"(ij.gui.Plot#isColored(Ljava/awt/Color;)Z*
+ij.gui.Plot*
+
+%3java.awt.Color2isColored(Ljava/awt/Color;)*
+8
+9*±
+11C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ ﬂ(í
+è
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ ﬂ(!
+%1java.awt.Color"__id*,**
+
+
+plotObjectij.gui.PlotObject"
+color«ƒ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬂ ﬂ("
+%2boolean"(ij.gui.Plot#isColored(Ljava/awt/Color;)Z*
+ij.gui.Plot*
+
+%1java.awt.Color2isColored(Ljava/awt/Color;)*
+9
+10*‹
+12C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(-ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(-
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+8*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‰	 ‰("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java‰ ‰(
+""B
+ij.gui.Plot

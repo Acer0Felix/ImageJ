@@ -1,0 +1,25 @@
+
+8ij.ImagePlus#resize(IIILjava/lang/String;)Lij/ImagePlus;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í("1*²
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ	 Î(ˆ
+…
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ	 Î(D
+%0ij.ImagePlus"Jij.plugin.Scaler#resize(Lij/ImagePlus;IIILjava/lang/String;)Lij/ImagePlus;*"
+ij.plugin.Scaler*
+ij.ImagePlus*
+""*
+""*
+""*
+
+optionsjava.lang.String"\
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(E
+
+%0ij.ImagePlus:
+"":
+"":
+"":
+optionsjava.lang.StringB
+ij.ImagePlus

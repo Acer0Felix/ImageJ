@@ -1,0 +1,47 @@
+
+Bij.plugin.Colors#hexToColor2(Ljava/lang/String;)Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÅ Å(!"3"4*¡
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÈ È("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÈ È(
+""*È
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÇ Ç(é
+æ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÇ Ç(!
+%0java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+hexjava.lang.String*
+""„
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÇ Ç("
+colorjava.awt.Color"__id*
+
+%0java.awt.Color*
+2
+1*¡
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÆ Æ("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÆ Æ(
+""*°
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÉ	 É(ú
+÷
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÉ	 É((
+%1java.lang.String"Tij.plugin.Colors#getColorName(Ljava/awt/Color;Ljava/lang/String;Z)Ljava/lang/String;*"
+ij.plugin.Colors*
+
+colorjava.awt.Color*
+""*2"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.javaÉ É()
+
+%1java.lang.String:
+hexjava.lang.StringB"
+ij.plugin.Colors

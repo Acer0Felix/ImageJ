@@ -1,0 +1,24 @@
+
+(ij.plugin.ImageInfo#yy(DLij/ImagePlus;)DK
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaÎ Î("1*Å
+1K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaÏ	 Ï(öó
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaÏ Ï(,	
+%0int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()∫
+∑
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaÏ	 Ï(-
+%1double"&ij.plugin.filter.Analyzer#updateY(DI)D*"
+ij.plugin.filter.Analyzer*
+""*
+	
+%0int"U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaÏ Ï(.
+"":
+"":
+impij.ImagePlusB
+ij.plugin.ImageInfo

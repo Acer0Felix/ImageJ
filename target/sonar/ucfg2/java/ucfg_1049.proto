@@ -1,0 +1,40 @@
+
+6ij.plugin.frame.Channels#getImage()Lij/CompositeImage;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java° °("4*±
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java³
+ ³("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java³ ³(
+""*‡
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java² ²(§¤
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java² ²(%
+%1boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+1*š
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java± ±(±
+®
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java± ±(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager†
+ƒ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.java± ±(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+3*À
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.javaµ µ("i
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Channels.javaµ µ(
+
+impij.ImagePlusB
+ij.plugin.frame.Channels

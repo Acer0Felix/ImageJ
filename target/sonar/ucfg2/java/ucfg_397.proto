@@ -1,0 +1,48 @@
+
+Eij.macro.ExtensionDescriptor#getVariableTypename(I)Ljava/lang/String;R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javan n(+"1*º
+2R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javav w("a
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaw w(	
+unknown*¸
+3R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javat u("_
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javau u(	
+array*¹
+4R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javar s("`
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javas s(
+
+number*¹
+5R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javap q("`
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaq q(
+
+string*¸
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javao o(o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javap	 p(	
+%0int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javar	 r(	
+%1int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javat	 t(	
+%2int"__id*
+""*
+2
+3
+4
+5:
+""B "
+ij.macro.ExtensionDescriptor

@@ -1,0 +1,203 @@
+
+$ij.gui.Plot#autoLegendPosition(III)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaâ â("23*º
+13C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(ØÕ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(K
+%21java.awt.Rectangle"0ij.gui.Plot#legendRect(IIII)Ljava/awt/Rectangle;*
+ij.gui.Plot*
+""*
+""*
+""*
+""2legendRect(IIII)‡
+„
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaè è(L
+rectjava.awt.Rectangle"__id*
+
+%21java.awt.Rectangle*
+
+13
+9
+1*Þ
+14C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç$ ç(,a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç$ ç(,
+
+%17int"__id*
+""a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç. ç(7
+
+%18int"__id*
+""a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaç9 ç(E
+
+%19int"__id*
+""a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaçG ç(R
+
+%20int"__id*
+""*
+13
+1*²
+15C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä ä(ia
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaæ æ(*
+
+%16int"__id*
+""*
+14*º
+16C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaäN ä(P‰
+†
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaäN ä(P 
+%14ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip…
+‚
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä^ ä(g
+%15java.awt.Color"__id**
+ij.gui.Plot"
+	gridColorìé
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaäN ä(h
+
+%11int"9ij.process.ImageProcessor#getBestIndex(Ljava/awt/Color;)I*"
+ 
+%14ij.process.ImageProcessor*
+
+%15java.awt.Color2getBestIndex(Ljava/awt/Color;)f
+d
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaäN ä(h	
+%9int"__id*
+
+
+%11int*
+15*Ó
+17C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä- ä(6…
+‚
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä- ä(6
+%12java.awt.Color"__id**
+ij.gui.Plot"
+	gridColor‘Ž
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä- ä(?
+
+%13int"java.awt.Color#getRGB()I*
+
+%12java.awt.Color2getRGB()f
+d
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä- ä(J	
+%9int"__id*
+
+
+%10int*
+15*Þ
+18C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã ã(_ˆ
+…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaä ä(
+%8ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip*
+16
+17*¶
+19C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaãY ã(]e
+c
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaãY ã(]	
+%1int"__id*
+	
+%7int*
+18*—
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaõ	 õ("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaõ õ(
+""*¢
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì ì(‰
+†
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì ì( 
+%22ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip¿¼
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì ì("
+
+%23int"'ij.process.ImageProcessor#getPixel(II)I*"
+ 
+%22ij.process.ImageProcessor*
+""*
+""2getPixel(II)*
+
+13
+9
+1*¶
+20C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaãU ã(Ve
+c
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaãU ã(V	
+%1int"__id*
+	
+%6int*
+18*˜
+21C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã@ ã(Bˆ
+…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã@ ã(B
+%4ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip·´
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã@ ã(R
+%5boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+%4ij.process.ImageProcessor2isInvertedLut()*
+19
+20*¶
+22C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã3 ã(;e
+c
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã3 ã(;	
+%1int"__id*
+	
+%2int*
+18*Þ
+23C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã ã(ˆ
+…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaã ã(
+%0ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip*
+21
+22:
+"":
+"":
+""B
+ij.gui.Plot

@@ -1,0 +1,624 @@
+
+$ij.plugin.Animator#startAnimation()VH
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaY Y("62*È
+
+24J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§ §(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§ §(
+%45ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§ §(
+%46ij.ImagePlus"__id**
+ij.plugin.Animator"
+impœ™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§ §($
+
+%47int"ij.ImagePlus#getChannel()I*
+
+%46ij.ImagePlus2getChannel()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§- §(0
+%48ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§- §(;
+
+%49int"ij.ImagePlus#getFrame()I*
+
+%48ij.ImagePlus2
+getFrame()ÉÆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java§ §(<
+%50void"ij.ImagePlus#setPosition(III)V*
+
+%45ij.ImagePlus*
+
+
+%47int*
+""*
+
+
+%49int2setPosition(III)‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¨ ¨(
+%51ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¨ ¨(
+%52void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%51ij.ImagePlus2updateStatusbarValue()*
+36*¦
+25J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¦ ¦("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+""*‡
+26J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¦ ¦(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+%43ij.ImagePlus"__id**
+ij.plugin.Animator"
+impœ™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+%44boolean"ij.ImagePlus#isLocked()Z*
+
+%43ij.ImagePlus2
+isLocked()*
+24
+25*â
+50H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javav v(‹
+ˆ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javav v(
+%23void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+43*Ò
+51H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javat t(|
+z
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javat t("
+%22void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+43*ò
+52H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javar r(—
+”
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javar r(%
+%21long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+50
+51*˜
+53H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaq
+ q(
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaq
+ q(
+%19ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinª§
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaq
+ q(
+%20boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%19ij.gui.StackWindow2getAnimate()*
+40
+52*ù
+54H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javan n(‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javan n(
+%17ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp–“
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javan n(
+
+%18int"ij.ImagePlus#getFrame()I*
+
+%17ij.ImagePlus2
+getFrame()*
+53*ê
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÀ À(’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÀ À(5
+%67long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+4*æ
+11J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¿ ¿(
+
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¿ ¿(
+%66void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+10*æ
+33J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java– –(
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java– –(
+%42void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+26*Ö
+34J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java” ”(~
+|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java” ”("
+%41void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+26*í
+56H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaj j(‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaj j(
+%11ij.ImagePlus"__id**
+ij.plugin.Animator"
+impš—
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaj j(
+
+%12int"ij.ImagePlus#getNFrames()I*
+
+%11ij.ImagePlus2getNFrames()‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javak k(
+%13ij.ImagePlus"__id**
+ij.plugin.Animator"
+impš—
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javak k(
+
+%14int"ij.ImagePlus#getNSlices()I*
+
+%13ij.ImagePlus2getNSlices()‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javam m(	
+%15ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javam m(!
+%16boolean"%ij.ImagePlus#isDisplayedHyperStack()Z*
+
+%15ij.ImagePlus2isDisplayedHyperStack()*
+39
+54*Ö
+12J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java½ ½(~
+|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java½ ½(!
+%65void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+10*ö
+35J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java’ ’(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java’ ’(%
+%40long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+33
+34*ž
+36J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(
+%38ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swin¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(
+%39boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%38ij.gui.StackWindow2getAnimate()*
+35
+23*
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java» »(„
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java» »()
+%63java.lang.String"__concat*
+""*
+ fps©
+¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java» »(*
+%64void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%63java.lang.String*
+11
+12*ÿ
+37J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaŽ Ž(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaŽ Ž(
+%36ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaŽ Ž(
+
+%37int"ij.ImagePlus#getSlice()I*
+
+%36ij.ImagePlus2
+getSlice()*
+36*Ö
+16J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¹; ¹(@v
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¹; ¹(@
+%60boolean"__id*
+
+%62boolean*
+14
+11
+12*¡
+39J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java (	‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java (	
+%34ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp¶³
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java (!
+%35boolean"%ij.ImagePlus#isDisplayedHyperStack()Z*
+
+%34ij.ImagePlus2isDisplayedHyperStack()*
+37
+22*Ž
+17J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¹& ¹((µ²
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¹& ¹(:
+%61boolean"%ij.gui.ImageCanvas#cursorOverImage()Z*
+
+icij.gui.ImageCanvas2cursorOverImage()v
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¹& ¹(:
+%60boolean"__id*
+
+%61boolean*
+14
+11
+12*¶
+18J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¸ ¸(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¸ ¸(
+%58ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp¼¹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¸ ¸(#
+%59ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%58ij.ImagePlus2getCanvas()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java¸ ¸($
+icij.gui.ImageCanvas"__id*
+
+%59ij.gui.ImageCanvas*
+16
+17*ò
+19J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java´ ´(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java´ ´((
+%57long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+18*h
+0 "a
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÔ Ô(
+implicit return*—
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÒ Ò(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÒ Ò(
+%72ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÒ Ò(
+%73void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%72ij.ImagePlus2updateStatusbarValue()*
+21*¡
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÐ Ð(’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÐ Ð(
+%70ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swin±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÐ Ð(
+%71void" ij.gui.StackWindow#showSlice(I)V*
+
+%70ij.gui.StackWindow*
+""2showSlice(I)*
+21
+1*¥
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÏ Ï("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+""*„
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+
+%68ij.ImagePlus"__id**
+ij.plugin.Animator"
+impœ™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+%69boolean"ij.ImagePlus#isLocked()Z*
+
+%68ij.ImagePlus2
+isLocked()*
+2
+3*ì
+60H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java_ _(
+Œ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java_ _(
+%3ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swin­ª
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java_ _(
+
+%4void"!ij.gui.StackWindow#setAnimate(Z)V*
+
+%3ij.gui.StackWindow*22setAnimate(Z)–
+“
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java` `(0
+
+%5long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System¯
+¬
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaa a(
+%6java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Threade
+c
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaa% a(8	
+%7int"__id*
+""²¯
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaa a(9
+
+%8void" java.lang.Thread#setPriority(I)V*
+
+%6java.lang.Thread*
+	
+%7int2setPriority(I)ˆ
+…
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javac c(
+%9ij.ImagePlus"__id**
+ij.plugin.Animator"
+impËÈ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javac c((
+%10ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%9ij.ImagePlus2getCalibration()“
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javac c()
+calij.measure.Calibration"__id*
+
+%10ij.measure.Calibration*
+56*Ì
+61H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java^ ^(§¤
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java^ ^(
+
+%2void"#ij.plugin.Animator#stopAnimation()V*
+ij.plugin.Animator2stopAnimation()"R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java^ ^(
+""*¦
+40J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaŠ Š(
+"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaŠ Š(
+
+""*•
+62H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java] ](
+
+Œ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java] ](
+
+%0ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swin¨¥
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java] ](
+%1boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%0ij.gui.StackWindow2getAnimate()*
+60
+61*È
+
+41J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡ ‡(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡ ‡(
+%26ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡ ‡(
+%27ij.ImagePlus"__id**
+ij.plugin.Animator"
+impœ™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡ ‡($
+
+%28int"ij.ImagePlus#getChannel()I*
+
+%27ij.ImagePlus2getChannel()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡& ‡()
+%29ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp˜•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡& ‡(4
+
+%30int"ij.ImagePlus#getSlice()I*
+
+%29ij.ImagePlus2
+getSlice()ÉÆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java‡ ‡(<
+%31void"ij.ImagePlus#setPosition(III)V*
+
+%26ij.ImagePlus*
+
+
+%28int*
+
+
+%30int*
+""2setPosition(III)‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaˆ ˆ(
+%32ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaˆ ˆ(
+%33void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%32ij.ImagePlus2updateStatusbarValue()*
+53*¦
+42J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java† †("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java† †(
+""*ö
+20J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java±
+ ±(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java±
+ ±($
+%56long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+18
+19*‡
+43J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java† †(‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java† †(
+%24ij.ImagePlus"__id**
+ij.plugin.Animator"
+impœ™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java† †(
+%25boolean"ij.ImagePlus#isLocked()Z*
+
+%24ij.ImagePlus2
+isLocked()*
+41
+42*
+21J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java°	 °(’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java°	 °(
+%54ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swin¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java°	 °(
+%55boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%54ij.gui.StackWindow2getAnimate()*
+20
+0*ò
+22J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java­ ­(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.java­ ­(+
+%53long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+21*¦
+23J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaª ª(
+"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Animator.javaª ª(
+
+""B
+ij.plugin.Animator

@@ -1,0 +1,71 @@
+
+2ij.io.RoiDecoder#openFromByteArray([B)Lij/gui/Roi;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÍ Í($"9*Í
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÓ Ó(y
+w
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÓ Ó(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+1*‘
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÒ Ò(4Š
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÒ Ò(4
+decoderij.io.RoiDecoder"__id*
+
+%0ij.io.RoiDecoder¯¬
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÓ	 Ó(
+%2
+ij.gui.Roi"%ij.io.RoiDecoder#getRoi()Lij/gui/Roi;*
+
+decoderij.io.RoiDecoder2getRoi()*
+2*…
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÒ' Ò(,vt
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÒ Ò(&
+%0ij.io.RoiDecoder"ij.io.RoiDecoder¸
+µ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÒ Ò(3
+%1".ij.io.RoiDecoder#<init>([BLjava/lang/String;)V*
+
+%0ij.io.RoiDecoder*
+
+bytesbyte[]*
+""*
+4*®
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÐ
+ Ð("_
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÐ Ð(
+
+roi
+ij.gui.Roi*Ä
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÎ Î(m
+k
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaÎ Î(
+roi
+ij.gui.Roi"__id*
+""*
+5
+7*®
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java×	 ×("_
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java× ×(
+
+roi
+ij.gui.Roi:
+bytesbyte[]B"
+ij.io.RoiDecoder

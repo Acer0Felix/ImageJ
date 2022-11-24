@@ -1,0 +1,41 @@
+
+(ij.macro.Interpreter#isStringFunction()ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaª ª("1*é
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(’
+
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(
+%0ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm•
+’
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(
+%1ij.macro.Symbol[]"__id*#*!
+
+%0ij.macro.Program"
+table—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «()
+%2ij.macro.Symbol"
+__arrayGet*
+
+%1ij.macro.Symbol[]*
+""‹
+ˆ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(*
+symbolij.macro.Symbol"__id*
+
+%2ij.macro.Symboli
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬(	
+%3int"__id*
+"""V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬(
+""B
+ij.macro.Interpreter

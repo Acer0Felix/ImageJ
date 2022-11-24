@@ -1,0 +1,821 @@
+
+2ij.gui.PointRoi#drawPoint(Ljava/awt/Graphics;III)VG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÓ Ó("78*–
+69G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˛ ˛(p
+n
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˛ ˛(
+%10java.awt.Color"__id*
+""Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˛ ˛(
+colorjava.awt.Color"__id*
+
+%10java.awt.Color*
+64
+65*∆
+25G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java® ®(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java© ©(
+
+%51int"__id*
+""*
+17
+18
+20
+21*∫
+27G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaß ß(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaß ß(
+
+%50int"__id*
+""*
+25*∫
+29G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¶ ¶(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¶ ¶(
+
+%49int"__id*
+""*
+27*Œ
+70G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¸ ¸(o
+m
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¸ ¸(
+%9java.awt.Color"__id*
+""É
+Ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¸ ¸(
+colorjava.awt.Color"__id*
+
+%9java.awt.Color*
+64
+65*»
+71G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˚ ˚(o
+m
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˚ ˚(
+%8java.awt.Color"__id*
+""*
+69
+70*Ü
+72G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˙ ˙($®•
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˙ ˙(&
+%7boolean" ij.gui.Roi#isActiveOverlayRoi()Z*
+ij.gui.PointRoi2isActiveOverlayRoi()*
+71
+64
+65*·
+73G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘ ˘(7É
+Ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘ ˘(7
+colorjava.awt.Color"__id*
+
+%4java.awt.Color*
+72
+64
+65*›
+74G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6
+%6java.awt.Color"__id**
+
+ij.gui.Roi"
+
+ROIColor
+}
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6
+%4java.awt.Color"__id*
+
+%6java.awt.Color*
+73*Â
+75G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-é
+ã
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-
+%5java.awt.Color"__id*$*"
+ij.gui.PointRoi"
+strokeColor
+}
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-
+%4java.awt.Color"__id*
+
+%5java.awt.Color*
+73*∫
+31G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java• •(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java• •(
+
+%48int"__id*
+""*
+29*Ë
+76G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘ ˘(é
+ã
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘ ˘(
+%3java.awt.Color"__id*$*"
+ij.gui.PointRoi"
+strokeColor*
+74
+75*–
+77G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(‚ﬂ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(!#
+%0java.awt.geom.AffineTransform"Ajava.awt.Graphics2D#getTransform()Ljava/awt/geom/AffineTransform;*
+
+g2djava.awt.Graphics2D2getTransform()•
+¢
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(!*
+	saveXformjava.awt.geom.AffineTransform"__id*%
+#
+%0java.awt.geom.AffineTransformπ∂
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı ı(
+
+%1void""java.awt.Graphics2D#translate(II)V*
+
+g2djava.awt.Graphics2D*
+""*
+""2translate(II)±Æ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaˆ ˆ((
+
+%2void"java.awt.Graphics2D#scale(DD)V*
+
+g2djava.awt.Graphics2D*
+""*
+""2	scale(DD)*
+76*∫
+33G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java£ £(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java§ §(
+
+%47int"__id*
+""*
+31*Î
+78G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÔ Ô(à
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÒ Ò(!
+g2djava.awt.Graphics2D"__id*
+
+gjava.awt.GraphicsÜ
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ Ú(#*
+	saveXformjava.awt.geom.AffineTransform"__id*
+""*
+76
+77*†
+36G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java† †(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java† †(,
+%46void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*†
+37G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaû û(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaû û(8
+%45void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*æ
+38G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaù ù(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaù  ù(&
+
+%44int"__id*
+""*
+36
+37*æ
+39G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaù ù(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaù ù(
+
+%43int"__id*
+""*
+36
+38*†
+40G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaú ú(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaú ú(8
+%42void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*æ
+41G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ  õ(&
+
+%41int"__id*
+""*
+39
+40*æ
+42G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(
+
+%40int"__id*
+""*
+39
+41*†
+43G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaö ö(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaö ö(,
+%39void"!java.awt.Graphics#fillOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillOval(IIII)*
+17
+33*æ
+44G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô ô(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô ô(
+
+%38int"__id*
+""*
+42
+43*æ
+45G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô ô(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô ô(
+
+%37int"__id*
+""*
+42
+44*µ
+46G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaò ò(v
+t
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaò ò(
+%35java.awt.BasicStroke"__id*
+""Á‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaò ò(
+%36void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%35java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+45*æ
+47G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaó ó(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaó ó(
+
+%34int"__id*
+""*
+46
+45*Ø
+48G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaî î(Ÿ÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaî î(
+%33void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+47*∆
+50G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaí í(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaí í(
+
+%32int"__id*
+""*
+47
+48
+17
+33*¬
+51G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaí í(
+e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaí í(
+
+%31int"__id*
+""*
+47
+48
+50*ú
+52G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaë ë(}
+{
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaë ë(7"
+%28java.awt.RenderingHints$Key"__id*
+""r
+p
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaë9 ë(Z
+%29java.lang.Object"__id*
+""”–
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaë ë([
+%30void"Vjava.awt.Graphics2D#setRenderingHint(Ljava/awt/RenderingHints$Key;Ljava/lang/Object;)V*
+
+g2djava.awt.Graphics2D*$
+"
+%28java.awt.RenderingHints$Key*
+
+%29java.lang.Object2AsetRenderingHint(Ljava/awt/RenderingHints$Key;Ljava/lang/Object;)*
+51*æ
+53G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê ê(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê ê(
+
+%27int"__id*
+""*
+51
+52*æ
+54G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê ê(
+e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaê ê(
+
+%26int"__id*
+""*
+51
+53*º
+10G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∑ ∑(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∑ ∑(
+
+%68int"__id*
+""*
+7
+9*Â
+55G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaç ç(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaç ç()
+%24void"!java.awt.Graphics#drawLine(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawLine(IIII)∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaé é()
+%25void"!java.awt.Graphics#drawLine(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawLine(IIII)*
+54*õ
+11G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∂ ∂(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∂ ∂(8
+%67void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6*µ
+56G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(v
+t
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(!
+%22java.awt.BasicStroke"__id*
+""Á‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å("
+%23void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%22java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+55*æ
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaµ µ(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaµ µ(!
+
+%66int"__id*
+""*
+10
+11*æ
+57G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaã ã(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaã ã(
+
+%21int"__id*
+""*
+55
+56*ä
+13G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¥ ¥(p
+n
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¥ ¥(
+%63java.awt.Color"__id*
+""◊‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¥ ¥(
+%64void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%63java.awt.Color2setColor(Ljava/awt/Color;)e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaµ µ(
+
+%65int"__id*
+""*
+10
+12*µ
+58G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä(v
+t
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä( 
+%19java.awt.BasicStroke"__id*
+""Á‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaä ä(!
+%20void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%19java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+55*Ω
+14G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥/ ≥(3e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥5 ≥(8
+
+%62int"__id*
+""*
+13
+6*æ
+59G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaâ â(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaâ â(
+
+%18int"__id*
+""*
+57
+58*æ
+15G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥! ≥(%e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥' ≥(-
+
+%61int"__id*
+""*
+13
+14*Ω
+16G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥ ≥(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥ ≥(
+
+%60int"__id*
+""*
+15
+6*æ
+17G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥ ≥(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≥ ≥(
+
+%59int"__id*
+""*
+15
+16*—
+18G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaØ Ø(≠
+™
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaØ Ø(&
+%55java.awt.Color"+ij.gui.PointRoi#getColor(I)Ljava/awt/Color;*"
+ij.gui.PointRoi*
+""◊‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaØ Ø('
+%56void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%55java.awt.Color2setColor(Ljava/awt/Color;)z
+x
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∞ ∞(!
+%57java.lang.String"__concat* *
+""ıÚ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∞ ∞(A
+%58void"3java.awt.Graphics#drawString(Ljava/lang/String;II)V*
+
+gjava.awt.Graphics*
+
+%57java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+17*e
+0 "^
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≈ ≈(
+implicit return*Ï
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaƒ ƒ(òï
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaƒ ƒ(
+%79void"Bjava.awt.Graphics2D#setTransform(Ljava/awt/geom/AffineTransform;)V*
+
+g2djava.awt.Graphics2D*,
+*
+	saveXformjava.awt.geom.AffineTransform2-setTransform(Ljava/awt/geom/AffineTransform;)*
+0*ù
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¡ ¡(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¡ ¡(E
+%78void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+0
+1*≥
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¿ ¿(v
+t
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¿ ¿(
+%76java.awt.BasicStroke"__id*
+""Á‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¿ ¿( 
+%77void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%76java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+3*®
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaΩ Ω(é
+ã
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaΩ Ω(+
+
+%73int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""Ÿ÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaæ æ(
+%74void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaø ø(
+
+%75int"__id*
+""*
+3
+4*æ
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaº º(
+e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaº º(
+
+%72int"__id*
+""*	
+5
+0
+1*ö
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∫ ∫(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∫ ∫(8
+%71void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6*ö
+8G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∏ ∏(∆√
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∏ ∏(0
+%70void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6*ª
+9G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∑ ∑(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java∑  ∑(&
+
+%69int"__id*
+""*
+7
+8*Ø
+60G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÜ Ü(Ÿ÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÜ Ü(
+%17void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+59*ü
+61G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(p
+n
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(
+%15java.awt.Color"__id*
+""◊‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(
+%16void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%15java.awt.Color2setColor(Ljava/awt/Color;)*
+59*æ
+62G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÉ É(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÉ É(
+
+%14int"__id*
+""*
+60
+61*æ
+63G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(!
+
+%13int"__id*
+""*
+62
+54*æ
+64G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(
+e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(
+
+%12int"__id*
+""*
+62
+63*«
+20G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≠ ≠(z
+x
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≠ ≠(
+%53java.lang.String"__concat* *
+""ıÚ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java≠ ≠(5
+%54void"3java.awt.Graphics#drawString(Ljava/lang/String;II)V*
+
+gjava.awt.Graphics*
+
+%53java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+17*ä
+65G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÅ Å(≠
+™
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÅ Å("
+%11java.awt.Color"+ij.gui.PointRoi#getColor(I)Ljava/awt/Color;*"
+ij.gui.PointRoi*
+""Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÅ Å("
+colorjava.awt.Color"__id*
+
+%11java.awt.Color*
+64*Ø
+21G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¨ ¨(Ÿ÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¨ ¨(
+%52void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+20:
+gjava.awt.Graphics:
+"":
+"":
+""B
+ij.gui.PointRoi

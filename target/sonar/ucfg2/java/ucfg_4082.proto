@@ -1,0 +1,112 @@
+
+4ij.gui.PointRoi#getMask()Lij/process/ImageProcessor;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÔ Ô("8*“
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˜ ˜(é
+ã
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˜ ˜(1
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""é
+ã
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˜8 ˜(S
+
+%7long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""Ÿ÷
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˜ ˜(Y
+
+%8void"(ij.process.ImageProcessor#putPixel(III)V*#
+!
+maskij.process.ImageProcessor*
+
+
+%6long*
+
+
+%7long*2ˇ2putPixel(III)*
+3
+1*–
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÛ Û( ÜÉ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÛ Û(
+%2ij.process.ByteProcessor"ij.process.ByteProcessor™
+ß
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÛ	 Û()
+%3"$ij.process.ByteProcessor#<init>(II)V* 
+
+%2ij.process.ByteProcessor*
+""*
+""ó
+î
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÛ Û()!
+maskij.process.ImageProcessor"__id* 
+
+%2ij.process.ByteProcessorìê
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(
+%4double"ij.gui.Roi#getXBase()D*
+ij.gui.PointRoi2
+getXBase()ìê
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaı ı(
+%5double"ij.gui.Roi#getYBase()D*
+ij.gui.PointRoi2
+getYBase()*
+3
+1*º
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ
+ Ú("n
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÚ Ú(#
+!
+maskij.process.ImageProcessor*¶
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÒ Ò(œÃ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÒ Ò($
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+maskij.process.ImageProcessor2getPixels()*
+5
+6*ä
+8G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java ("ò
+ï
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java ("
+%0ij.process.ImageProcessor"__id*#*!
+ij.gui.PointRoi"
+
+cachedMaskò
+ï
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java (#!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+5
+7*Ÿ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¯ ¯(ö
+ó
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¯ ¯(!
+ij.gui.PointRoi"
+
+cachedMask"__id*#
+!
+maskij.process.ImageProcessor"n
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java˘ ˘(#
+!
+maskij.process.ImageProcessorB
+ij.gui.PointRoi

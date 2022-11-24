@@ -1,0 +1,31 @@
+
+ij.gui.PolygonRoi#getLength()DI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaå
+ å
+("1*ƒ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaæ
+	 æ
+(ˆ
+…
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaæ
+ æ
+(
+%0ij.ImagePlus"__id**
+ij.gui.PolygonRoi"
+impÒÏ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaæ
+	 æ
+(
+%1double",ij.gui.PolygonRoi#getLength(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+%0ij.ImagePlus2getLength(Lij/ImagePlus;)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaæ
+ æ
+(
+""B
+ij.gui.PolygonRoi

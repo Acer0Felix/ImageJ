@@ -1,0 +1,36 @@
+
+ij.gui.Roi#getFloatHeight()DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaê ê("3*©
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaí
+ í(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaí
+ í(&
+%1 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaí í(
+""*„
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaë ë(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaë ë(&
+%0 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+1*ï
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî
+ î("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî î(
+""B
+
+ij.gui.Roi

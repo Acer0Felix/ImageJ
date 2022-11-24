@@ -1,0 +1,53 @@
+
+Jij.io.ImageReader#readRGB48Planar(Ljava/io/InputStream;)Ljava/lang/Object;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaô ô("7*Á
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaû û(Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaû û( 
+%2short[]"9ij.io.ImageReader#read16bitImage(Ljava/io/InputStream;)[S*
+ij.io.ImageReader*
+
+injava.io.InputStream2%read16bitImage(Ljava/io/InputStream;)ò
+ï
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaû û( 
+%3"
+__arraySet*
+
+stackjava.lang.Object[]*
+""*
+
+%2short[]*
+3
+1*„
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaú ú(&{y
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaú ú('
+%1java.lang.Object[]"java.lang.Object[]ç
+ä
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaú ú((
+stackjava.lang.Object[]"__id*
+
+%1java.lang.Object[]*
+3
+1*ﬂ
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaö ö(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaö ö(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+5*∫
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaü	 ü("j
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaü ü(
+
+stackjava.lang.Object[]:
+injava.io.InputStreamB
+ij.io.ImageReader

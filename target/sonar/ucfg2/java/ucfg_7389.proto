@@ -1,0 +1,23 @@
+
+8ij.plugin.Selection#lineToArea(Lij/gui/Roi;)Lij/gui/Roi;K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Selection.java‹ ‹("1*õ
+1K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Selection.javaŒ	 Œ(¿
+¼
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Selection.javaŒ	 Œ(#
+%0
+ij.gui.Roi"6ij.gui.Roi#convertLineToArea(Lij/gui/Roi;)Lij/gui/Roi;*"
+
+ij.gui.Roi*
+
+roi
+ij.gui.Roi"a
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Selection.javaŒ Œ($
+
+%0
+ij.gui.Roi:
+roi
+ij.gui.RoiB"
+ij.plugin.Selection

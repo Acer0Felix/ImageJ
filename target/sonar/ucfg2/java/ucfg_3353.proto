@@ -1,0 +1,33 @@
+
+/ij.macro.Functions#hideOverlay(Lij/ImagePlus;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¶7 ¶7("1*„
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java·7 ·7(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java·7 ·7(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java·7 ·7(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()¬©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸7 ¸7(
+
+%2void"ij.ImagePlus#setHideOverlay(Z)V*
+
+impij.ImagePlus*22setHideOverlay(Z)j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹7	 ¹7(
+%3double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹7 ¹7(
+"":
+impij.ImagePlusB
+ij.macro.Functions

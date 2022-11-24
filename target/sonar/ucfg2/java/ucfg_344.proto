@@ -1,0 +1,20 @@
+
+6ij.gui.Line#getFloatPolygon()Lij/process/FloatPolygon;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaú ú($"1* 
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaû	 û(–“
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaû û()
+%0float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()ÔÑ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaû	 û(*
+%1ij.process.FloatPolygon"7ij.gui.Line#getFloatPolygon(D)Lij/process/FloatPolygon;*
+ij.gui.Line*
+
+%0float2getFloatPolygon(D)"f
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaû û(+
+
+%1ij.process.FloatPolygonB
+ij.gui.Line

@@ -1,0 +1,30 @@
+
+%ij.process.FloatPolygon#getLength(Z)DO
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaÜ Ü("2"5"1*Û
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaè è(ó
+î
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaë ë(#
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*˘
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaä ä(ó
+î
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaå å(#
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*	
+2
+5
+1*Ø
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaì	 ì("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatPolygon.javaì ì(
+"":
+""B
+ij.process.FloatPolygon

@@ -1,0 +1,136 @@
+
+Aij.plugin.FFT#newFHT(Lij/process/ImageProcessor;)Lij/process/FHT;E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java∏ ∏("8*ﬁ
+2E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java» »(Ê„
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java» »(. 
+%11java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+ipij.process.ImageProcessor2getColorModel()£
+†
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java» »(.-
+
+fhtij.process.FHT"
+originalColorModel"__id*"
+ 
+%11java.awt.image.ColorModel*
+1*Ó
+3E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java≈ ≈(
+}
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java≈ ≈(
+%9ij.ImagePlus"__id**
+ij.plugin.FFT"
+impòï
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java≈ ≈("
+
+%10int"ij.ImagePlus#getBitDepth()I*
+
+%9ij.ImagePlus2getBitDepth()*
+2
+1*î
+6E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java¿ ¿(éã
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java¿ ¿(
+%6ij.process.ImageProcessor"Iij.plugin.FFT#pad(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;*
+ij.plugin.FFT*!
+
+ipij.process.ImageProcessor2 pad(Lij/process/ImageProcessor;)om
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java¿ ¿(
+%7ij.process.FHT"ij.process.FHT¿
+Ω
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java¿	 ¿(
+%8"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%7ij.process.FHT*!
+
+%6ij.process.ImageProcessor~
+|
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java¿ ¿(
+fhtij.process.FHT"__id*
+
+%7ij.process.FHT*
+3*·
+7E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaª ª(”–
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaª ª(&
+
+%0void"-ij.plugin.FFT#showStatus(Ljava/lang/String;)V*
+ij.plugin.FFT*
+Extracting brightness2showStatus(Ljava/lang/String;)Â‚
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaº º(<
+%1ij.process.FloatProcessor"Dij.process.ColorProcessor#getBrightness()Lij/process/FloatProcessor;*!
+
+ipij.process.ImageProcessor2getBrightness()ï
+í
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaº º(= 
+ip2ij.process.ImageProcessor"__id*!
+
+%1ij.process.FloatProcessorèå
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaΩ Ω(
+%2ij.process.ImageProcessor"Iij.plugin.FFT#pad(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;*
+ij.plugin.FFT*"
+ 
+ip2ij.process.ImageProcessor2 pad(Lij/process/ImageProcessor;)om
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaΩ Ω(
+%3ij.process.FHT"ij.process.FHT¿
+Ω
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaΩ	 Ω(
+%4"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%3ij.process.FHT*!
+
+%2ij.process.ImageProcessor~
+|
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaΩ Ω(
+fhtij.process.FHT"__id*
+
+%3ij.process.FHT›⁄
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaæ æ(+
+%5ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2duplicate()ì
+ê
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaæ æ(+
+
+fhtij.process.FHT"
+rgb"__id*!
+
+%5ij.process.ImageProcessor*
+3*¬
+8E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaπ π(
+n
+l
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.javaπ π(
+
+fhtij.process.FHT"__id*
+""*
+6
+7*¨
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java…	 …("`
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FFT.java… …(
+
+fhtij.process.FHT:
+ipij.process.ImageProcessorB
+ij.plugin.FFT

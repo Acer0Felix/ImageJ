@@ -1,0 +1,411 @@
+
+(ij.gui.PlotContentsDialog#addFitCurve()VQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java½ ½("11*’
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÙ Ù(±®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÚ Ú("
+%44double"ij.measure.CurveFitter#f(D)D*
+
+cfij.measure.CurveFitter*
+""2f(D)*
+3
+1*½
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÊ Ê(¹
+¶
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÊ Ê(
+%26void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*"
+ 
+statusStringjava.lang.String™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË' Ë(+
+%27ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plot»¸
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË' Ë(6
+%28java.lang.String"(ij.gui.Plot#getTitle()Ljava/lang/String;*
+
+%27ij.gui.Plot2
+getTitle()¢
+Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË Ë(6
+%29java.lang.String"__concat*
+
+Fit for *
+
+%28java.lang.Stringœ
+™
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË Ë(;
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+: ¦
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË< Ë(I
+%31java.awt.Choice"__id*0*.
+ij.gui.PlotContentsDialog"
+fitDataChoiceÑÎ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË< Ë([
+%32java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+%31java.awt.Choice2getSelectedItem()¯
+¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË Ë([
+%33java.lang.String"__concat*
+
+%30java.lang.String*
+
+%32java.lang.StringÞÛ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË\ Ë(p
+%34java.lang.String":ij.measure.CurveFitter#getResultString()Ljava/lang/String;*
+
+cfij.measure.CurveFitter2getResultString()¯
+¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË Ë(p
+%35java.lang.String"__concat*
+
+%33java.lang.String*
+
+%34java.lang.String±
+®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaË Ë(p8
+ij.gui.PlotContentsDialog"
+curveFitterStatusString"__id*
+
+%35java.lang.String™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÍ Í(
+%36ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plot¥¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÍ Í((
+%37double[]"ij.gui.Plot#getLimits()[D*
+
+%36ij.gui.Plot2getLimits()¡
+ž
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÎ Î(0
+%38double[]"ij.util.Tools#getMinMax([F)[D*"
+ij.util.Tools*
+""¢
+Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÏ Ï(5
+%39double"java.lang.Math#min(DD)D*"
+java.lang.Math*
+""*
+""¢
+Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÐ Ð(5
+%40double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+""*
+""™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÑ Ñ(;
+%41double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÒ Ò(;
+%42double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""¢
+Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÓ Ó(E
+%43double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+""*
+""*
+3
+1*¦
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÉ É(ÉÆ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÉ3 É(J
+%23double",ij.measure.CurveFitter#getSumResidualsSqr()D*
+
+cfij.measure.CurveFitter2getSumResidualsSqr()¥
+¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÉ É(K
+%24java.lang.String"__concat*
+, sum residuals ^2 = *
+
+%23double¸
+µ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÉ É(K
+%25java.lang.String"__concat*"
+ 
+statusStringjava.lang.String*
+
+%24java.lang.String™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÉ É(K 
+statusStringjava.lang.String"__id*
+
+%25java.lang.String*
+7*þ
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÁ Á(¥
+¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÁ Á(
+%4java.awt.Choice"__id*0*.
+ij.gui.PlotContentsDialog"
+fitDataChoice³°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÁ Á(2	
+%5int"#java.awt.Choice#getSelectedIndex()I*
+
+%4java.awt.Choice2getSelectedIndex()˜
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÂ Â(
+%6ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plotÃÀ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÂ Â(6
+%7	float[][]"%ij.gui.Plot#getDataObjectArrays(I)[[F*
+
+%6ij.gui.Plot*
+""2getDataObjectArrays(I)©
+¦
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÃ Ã($
+%8java.awt.Choice"__id*4*2
+ij.gui.PlotContentsDialog"
+fitFunctionChoiceÏÌ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÃ Ã(6
+%9java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+%8java.awt.Choice2getSelectedItem()“
+
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÃ Ã(7
+fitNamejava.lang.String"__id*
+
+%9java.lang.String~
+|
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÄ Ä(,
+%10java.lang.String[]"__id*
+""‰
+†
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÄ Ä(6
+
+%11int"Jij.gui.PlotContentsDialog#getIndex([Ljava/lang/String;Ljava/lang/String;)I*"
+ij.gui.PlotContentsDialog*
+
+%10java.lang.String[]*
+
+fitNamejava.lang.String 
+
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÅ# Å(:
+%12double[]"ij.util.Tools#toDouble([F)[D*"
+ij.util.Tools*
+"" 
+
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÅ< Å(S
+%13double[]"ij.util.Tools#toDouble([F)[D*"
+ij.util.Tools*
+""Š
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÅ Å("
+%14ij.measure.CurveFitter"ij.measure.CurveFitterÊ
+Ç
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÅ Å(T
+%15"$ij.measure.CurveFitter#<init>([D[D)V*
+
+%14ij.measure.CurveFitter*
+
+%12double[]*
+
+%13double[]›
+˜
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÅ Å(U
+cfij.measure.CurveFitter"__id*
+
+%14ij.measure.CurveFitter·´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÆ Æ(
+%16void" ij.measure.CurveFitter#doFit(I)V*
+
+cfij.measure.CurveFitter*
+""2doFit(I)~
+|
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÇ  Ç(7
+%17java.lang.String[]"__id*
+""´±
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÇ8 Ç(F
+
+%18int"#ij.measure.CurveFitter#getStatus()I*
+
+cfij.measure.CurveFitter2getStatus()¦
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÇ  Ç(G
+%19java.lang.String"
+__arrayGet*
+
+%17java.lang.String[]*
+
+
+%18intŸ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÇ Ç(G
+%20java.lang.String"__concat*	
+Fit: *
+
+%19java.lang.String™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÇ Ç(H 
+statusStringjava.lang.String"__id*
+
+%20java.lang.String´±
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÈ È(
+
+%21int"#ij.measure.CurveFitter#getStatus()I*
+
+cfij.measure.CurveFitter2getStatus()o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÈ È()
+
+%22int"__id*
+""*
+7
+8*¤
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÀ À(˜
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÀ À(
+%2ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plotª§
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÀ À(
+
+%3void"ij.gui.Plot#setLimits([D)V*
+
+%2ij.gui.Plot*
+""2setLimits([D)*
+9*®
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¾ ¾(˜
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¾ ¾(
+%0ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plot°­
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.java¾ ¾(
+
+%1void"!ij.gui.Plot#restorePlotObjects()V*
+
+%0ij.gui.Plot2restorePlotObjects()*
+9
+10*o
+0 "h
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaà à(
+implicit return*ò
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÜ Ü(™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÜ Ü(
+%45ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+ploto
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÜ Ü(&
+
+%46int"__id*
+""ÈÅ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÜ Ü('
+%47void"ij.gui.Plot#addPoints([F[FI)V*
+
+%45ij.gui.Plot*
+""*
+""*
+
+
+%46int2addPoints([F[FI)™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÝ Ý(
+%48ij.gui.Plot"__id*'*%
+ij.gui.PlotContentsDialog"
+plot¯¬
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÝ Ý(/
+
+%49int" ij.gui.Plot#getNumPlotObjects()I*
+
+%48ij.gui.Plot2getNumPlotObjects()¦
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÞ Þ(
+%50java.awt.TextField"__id*-*+
+ij.gui.PlotContentsDialog"
+
+labelField£
+ 
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÞ Þ($
+%51java.lang.String"__concat*	
+Fit: *
+
+fitNamejava.lang.Stringéæ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaÞ Þ(%
+%52void"/java.awt.TextField#setText(Ljava/lang/String;)V*
+
+%50java.awt.TextField*
+
+%51java.lang.String2setText(Ljava/lang/String;)³
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotContentsDialog.javaß ß(
+%53void"/ij.gui.PlotContentsDialog#setPlotObjectStyle()V*
+ij.gui.PlotContentsDialog*
+0B
+ij.gui.PlotContentsDialog

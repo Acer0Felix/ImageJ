@@ -1,0 +1,255 @@
+
+<ij.gui.ShapeRoi#unaryOp(Lij/gui/ShapeRoi;I)Lij/gui/ShapeRoi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaØ
+ Ø("12*ú
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaà à(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaá	 á(
+
+%18int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaâ	 â(
+
+%19int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaã	 ã(
+
+%20int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaä	 ä(
+
+%21int"__id*
+""*
+5
+7
+9
+11
+1*¹
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaä ä(%åâ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaä ä(
+%17void"2java.awt.geom.Area#subtract(Ljava/awt/geom/Area;)V*
+
+a1java.awt.geom.Area*
+
+a2java.awt.geom.Area2subtract(Ljava/awt/geom/Area;)*
+1*¿
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaã ã((ëè
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaã ã( 
+%16void"5java.awt.geom.Area#exclusiveOr(Ljava/awt/geom/Area;)V*
+
+a1java.awt.geom.Area*
+
+a2java.awt.geom.Area2!exclusiveOr(Ljava/awt/geom/Area;)*
+1*»
+9G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaâ â(&çä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaâ â(
+%15void"3java.awt.geom.Area#intersect(Ljava/awt/geom/Area;)V*
+
+a1java.awt.geom.Area*
+
+a2java.awt.geom.Area2intersect(Ljava/awt/geom/Area;)*
+1*°
+11G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaá á(ÛØ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaá á(
+%14void"-java.awt.geom.Area#add(Ljava/awt/geom/Area;)V*
+
+a1java.awt.geom.Area*
+
+a2java.awt.geom.Area2add(Ljava/awt/geom/Area;)*
+1*Ø
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÙ Ù(,
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÙ Ù(*#
+%0java.awt.geom.AffineTransform"java.awt.geom.AffineTransform¢
+Ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÙ Ù(,
+%1"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%0java.awt.geom.AffineTransformž
+›
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÙ Ù(-#
+atjava.awt.geom.AffineTransform"__id*%
+#
+%0java.awt.geom.AffineTransformÌÉ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÚ Ú(
+
+%2void",java.awt.geom.AffineTransform#translate(DD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""2translate(DD)¯¬
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÛ/ Û(9
+%3java.awt.Shape"*ij.gui.ShapeRoi#getShape()Ljava/awt/Shape;*
+ij.gui.ShapeRoi2
+getShape()£ 
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÛ Û(:
+%4java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+%3java.awt.Shape2(createTransformedShape(Ljava/awt/Shape;)yw
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÛ Û(
+%5java.awt.geom.Area"java.awt.geom.Area´
+±
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÛ Û(;
+%6",java.awt.geom.Area#<init>(Ljava/awt/Shape;)V*
+
+%5java.awt.geom.Area*
+
+%4java.awt.Shapeˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÛ Û(<
+a1java.awt.geom.Area"__id*
+
+%5java.awt.geom.Area
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÜ Ü(#
+%7java.awt.geom.AffineTransform"java.awt.geom.AffineTransform¢
+Ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÜ Ü(
+%8"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%7java.awt.geom.AffineTransformž
+›
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÜ Ü(#
+atjava.awt.geom.AffineTransform"__id*%
+#
+%7java.awt.geom.AffineTransformÌÉ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÝ Ý(
+
+%9void",java.awt.geom.AffineTransform#translate(DD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""2translate(DD)´±
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ/ Þ(<
+%10java.awt.Shape"*ij.gui.ShapeRoi#getShape()Ljava/awt/Shape;*
+
+srij.gui.ShapeRoi2
+getShape()¥¢
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ Þ(=
+%11java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+%10java.awt.Shape2(createTransformedShape(Ljava/awt/Shape;)zx
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ Þ(
+%12java.awt.geom.Area"java.awt.geom.Area·
+´
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ Þ(>
+%13",java.awt.geom.Area#<init>(Ljava/awt/Shape;)V*
+
+%12java.awt.geom.Area*
+
+%11java.awt.Shape‰
+†
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ Þ(?
+a2java.awt.geom.Area"__id*
+
+%12java.awt.geom.Area*
+3*‰
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaç ç(ÄÁ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaç ç(
+%22java.awt.Rectangle"2java.awt.geom.Area#getBounds()Ljava/awt/Rectangle;*
+
+a1java.awt.geom.Area2getBounds()ˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaç ç(
+rjava.awt.Rectangle"__id*
+
+%22java.awt.Rectangle‘Ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaè è($
+%23java.awt.geom.AffineTransform"java.awt.geom.AffineTransform¤
+¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaè è(
+%24"'java.awt.geom.AffineTransform#<init>()V*&
+$
+%23java.awt.geom.AffineTransformŸ
+œ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaè è(#
+atjava.awt.geom.AffineTransform"__id*&
+$
+%23java.awt.geom.AffineTransformÍÊ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaé é(
+%25void",java.awt.geom.AffineTransform#translate(DD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""2translate(DD)¨¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê(8
+%26java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+a1java.awt.geom.Area2(createTransformedShape(Ljava/awt/Shape;)‰†
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê( 
+%27java.awt.geom.GeneralPath"java.awt.geom.GeneralPathÅ
+Â
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê(9
+%28"3java.awt.geom.GeneralPath#<init>(Ljava/awt/Shape;)V*"
+ 
+%27java.awt.geom.GeneralPath*
+
+%26java.awt.ShapeÞÛ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê(:
+%29boolean"+ij.gui.ShapeRoi#setShape(Ljava/awt/Shape;)Z*
+ij.gui.ShapeRoi*"
+ 
+%27java.awt.geom.GeneralPath2setShape(Ljava/awt/Shape;)|
+z
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaí í(!
+ij.gui.ShapeRoi"
+
+cachedMask"__id*
+"""^
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaî î(
+ij.gui.ShapeRoi:
+srij.gui.ShapeRoi:
+""B
+ij.gui.ShapeRoi

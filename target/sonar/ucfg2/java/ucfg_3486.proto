@@ -1,0 +1,79 @@
+
+ ij.io.RandomAccessStream#read()IN
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java6 6("5*ú
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java<$ <((™
+–
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java<$ <((
+%4java.util.Vector"__id*&*$
+ij.io.RandomAccessStream"
+datak
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java<B <(M	
+%5int"__id*
+""ÌÉ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java<$ <(O
+%6java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%4java.util.Vector*
+""2elementAt(I)…
+‚
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java< <(P
+abyte0byte[]"__id*
+
+%6java.lang.Objectk
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java=, =(6	
+%7int"__id*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java= =(@
+""*‹
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java9 9(­
+ª
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java: :(
+
+%3long"&ij.io.RandomAccessStream#readUntil(J)J*
+ij.io.RandomAccessStream*
+""*
+2
+1*ý
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java8 8( 
+
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java8 8(
+%1java.io.RandomAccessFile"__id*%*#
+ij.io.RandomAccessStream"
+rasª§
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java8 8(	
+%2int" java.io.RandomAccessFile#read()I* 
+
+%1java.io.RandomAccessFile2read()"X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java8 8(
+""*þ
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java7	 7( 
+
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java7	 7(
+%0java.io.RandomAccessFile"__id*%*#
+ij.io.RandomAccessStream"
+ras*
+3
+4*­
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java? ?("X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java? ?(
+""B
+ij.io.RandomAccessStream

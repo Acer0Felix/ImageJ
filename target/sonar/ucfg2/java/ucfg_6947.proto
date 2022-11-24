@@ -1,0 +1,62 @@
+
+Mij.plugin.frame.ThresholdAdjuster#thresholdHigh(Lij/process/ImageProcessor;)ZY
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaä	 ä("6*Í
+2Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç  ç(%Ñ
+Å
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç  ç(%
+%4boolean"__id*
+
+%6boolean*
+1*Í
+3Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(Ñ
+Å
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(
+%4boolean"__id*
+
+%5boolean*
+1*∂
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã(DÕ 
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaå å(*
+%3boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+ipij.process.ImageProcessor2isInvertedLut()*
+2
+3*‘
+5Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(8∏
+µ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(8
+%1java.awt.Checkbox"__id*9*7#
+!ij.plugin.frame.ThresholdAdjuster"
+darkBackground≥∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(C
+%2boolean"java.awt.Checkbox#getState()Z*
+
+%1java.awt.Checkbox2
+getState()*
+4*°
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã( ∏
+µ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã( 
+%0java.awt.Checkbox"__id*9*7#
+!ij.plugin.frame.ThresholdAdjuster"
+darkBackground*
+4
+5*√
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(&"c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(&
+"":
+ipij.process.ImageProcessorB%#
+!ij.plugin.frame.ThresholdAdjuster

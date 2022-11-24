@@ -1,0 +1,124 @@
+
+4ij.gui.ProfilePlot#getPlotSize()Ljava/awt/Dimension;H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaK K("8"9*½
+2H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaV V(i
+g
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaW W($
+%10double"__id*
+""*
+1*Û
+3H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS S([Ü
+Ù
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS S([
+%8java.awt.Rectangle"Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+%4java.awt.Component
+Š
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS S(\
+screenjava.awt.Rectangle"__id*
+
+%8java.awt.Rectangle”
+‘
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaT T(1	
+%9int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*2è*
+2
+1*ß
+4H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaSJ S(L‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaSJ S(Z
+%6	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJ
+}
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaSJ S(Z
+%4java.awt.Component"__id*
+
+%6	ij.ImageJ*
+3*¤
+5H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS8 S(;ˆ
+…
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS8 S(;
+%7ij.ImagePlus"__id**
+ij.gui.ProfilePlot"
+imp¸µ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS8 S(G
+%5ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%7ij.ImagePlus2getWindow()‰
+†
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS8 S(G
+%4java.awt.Component"__id*
+
+%5ij.gui.ImageWindow*
+3*à
+6H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS S(ˆ
+…
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaS, S(/
+%3ij.ImagePlus"__id**
+ij.gui.ProfilePlot"
+imp*
+4
+5*¼
+7H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaP P(h
+f
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaQ Q($
+%2double"__id*
+""*
+6*¦
+8H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaM M(h
+f
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaN N('
+%0double"__id*
+""e
+c
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaO O(	
+%1int"__id*
+""*
+6
+7*¡
+9H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaL L( "R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaL L(!
+""*×
+1H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaY Y({y
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaY Y(
+%11java.awt.Dimension"java.awt.Dimension¡
+ž
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaY	 Y(%
+%12"java.awt.Dimension#<init>(II)V*
+
+%11java.awt.Dimension*
+""*
+"""g
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.javaY Y(&
+
+%11java.awt.DimensionB
+ij.gui.ProfilePlot

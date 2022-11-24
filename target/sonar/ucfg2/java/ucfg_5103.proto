@@ -1,0 +1,83 @@
+
+Aij.io.Opener#getTiffFileInfo(Ljava/lang/String;)[Lij/io/FileInfo;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java» »()"6*«
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÀ À("`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÀ À(
+
+%7ij.io.FileInfo[]*Ž
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÀ
+ À(½º
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÀ
+ À(
+%7ij.io.FileInfo[]"0ij.io.TiffDecoder#getTiffInfo()[Lij/io/FileInfo;*
+
+tdij.io.TiffDecoder2getTiffInfo()*
+2*ú
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¾ ¾(©¦
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¾ ¾((
+
+%6void"$ij.io.TiffDecoder#enableDebugging()V*
+
+tdij.io.TiffDecoder2enableDebugging()*
+3*ì
+
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¼ ¼(jh
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¼ ¼(
+%0ij.io.Opener"ij.io.Opener|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¼ ¼(
+%1"ij.io.Opener#<init>()V*
+
+%0ij.io.Openerw
+u
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¼ ¼(
+oij.io.Opener"__id*
+
+%0ij.io.Openeréæ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java½# ½(1
+%2java.lang.String"9ij.io.Opener#getDir(Ljava/lang/String;)Ljava/lang/String;*
+
+oij.io.Opener*
+
+pathjava.lang.String2getDir(Ljava/lang/String;)ëè
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java½3 ½(B
+%3java.lang.String":ij.io.Opener#getName(Ljava/lang/String;)Ljava/lang/String;*
+
+oij.io.Opener*
+
+pathjava.lang.String2getName(Ljava/lang/String;)tr
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java½ ½("
+%4ij.io.TiffDecoder"ij.io.TiffDecoderß
+Ü
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java½ ½(C
+%5"?ij.io.TiffDecoder#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%4ij.io.TiffDecoder*
+
+%2java.lang.String*
+
+%3java.lang.Stringƒ
+€
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java½ ½(D
+tdij.io.TiffDecoder"__id*
+
+%4ij.io.TiffDecoder*
+3
+5:
+pathjava.lang.StringB"
+ij.io.Opener

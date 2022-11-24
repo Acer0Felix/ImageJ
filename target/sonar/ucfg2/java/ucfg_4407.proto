@@ -1,0 +1,69 @@
+
+/ij.io.FileSaver#saveAsFits(Ljava/lang/String;)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÀ À("3*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(#"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã($
+""*ê
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≤
+Ø
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%1boolean"*ij.io.FileSaver#okForFits(Lij/ImagePlus;)Z*"
+ij.io.FileSaver*
+
+%0ij.ImagePlus*
+2
+1*Ó
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(
+%2ij.ImagePlus"__id**
+ij.io.FileSaver"
+impì
+ê
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(2
+%3java.lang.Object"Uij.IJ#runPlugIn(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*	"
+ij.IJ*
+
+%2ij.ImagePlus*
+ij.plugin.FITS_Writer*
+
+pathjava.lang.StringÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%4ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fid
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(	
+%5int"__id*
+""¡
+æ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+
+%6void"-ij.io.FileSaver#updateImp(Lij/io/FileInfo;I)V*
+ij.io.FileSaver*
+
+%4ij.io.FileInfo*
+	
+%5int"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(
+"":
+pathjava.lang.StringB
+ij.io.FileSaver

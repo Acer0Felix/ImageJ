@@ -1,0 +1,35 @@
+
+:ij.plugin.filter.Convolver#hasNewLine(Ljava/lang/String;)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaé	 é("5*µ
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaê$ ê(("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaê ê()
+""*ë
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaê ê(Ø¨
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaê ê(
+
+%1char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)*
+3
+5*Ü
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaè è(§°
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaè è(	
+%0int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+4
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaí	 í("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Convolver.javaí í(
+"":
+textjava.lang.StringB
+ij.plugin.filter.Convolver

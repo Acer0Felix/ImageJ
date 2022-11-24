@@ -1,0 +1,324 @@
+
+!ij.gui.OvalRoi#getFeretValues()[DD
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java, ,("42*Ä
+24D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java; ;( n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java; ;(&
+%20double"__id*
+
+%21double*
+20
+21*¸
+25D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java9
+ 9(0b
+`
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java:
+ :(!
+
+%19int"__id*
+""*
+24
+23*À
+26D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java9% 9((n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java9% 9(/
+%16double"__id*
+
+%18double*
+25*½
+27D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java9 9("k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java9 9("
+%16double"__id*
+
+
+%17int*
+25*Á
+29D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java8( 8()k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java8( 8()
+%13double"__id*
+
+
+%15int*
+26
+27*Ä
+30D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java8 8(n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java8 8(%
+%13double"__id*
+
+%14double*
+26
+27*Ä
+32D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java7" 7((n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java7" 7(+
+%10double"__id*
+
+%12double*
+29
+30*Ä
+33D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java7 7(n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java7 7(
+%10double"__id*
+
+%11double*
+29
+30*Â
+11D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java?! ?($n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java?! ?(*
+%32double"__id*
+
+%34double*
+8
+9*¿
+12D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java? ?(k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java? ?(
+%32double"__id*
+
+
+%33int*
+8
+9*Â
+35D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java6$ 6('l
+j
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java6$ 6('
+%7double"__id*
+
+%9double*
+32
+33*Â
+36D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java6 6(l
+j
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java6 6(
+%7double"__id*
+
+%8double*
+32
+33*Ä
+14D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java>! >($n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java>! >(+
+%29double"__id*
+
+%31double*
+11
+12*Á
+15D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java> >(k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java> >(
+%29double"__id*
+
+
+%30int*
+11
+12*Â
+38D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java5" 5('l
+j
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java5" 5(*
+%4double"__id*
+
+%6double*
+35
+36*Â
+39D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java5 5(l
+j
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java5 5(
+%4double"__id*
+
+%5double*
+35
+36*Á
+17D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java=) =(.k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java=) =(.
+%26double"__id*
+
+
+%28int*
+14
+15*Ä
+18D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java= =( n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java= =(&
+%26double"__id*
+
+%27double*
+14
+15*™
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaB B(,"N
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaC C(
+""*»
+2D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaB* B(+k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaB* B(+
+%41double"__id*
+
+
+%43int*
+1*¾
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaB B( n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaB B('
+%41double"__id*
+
+%42double*
+1*Á
+5D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaA% A((n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaA% A(.
+%38double"__id*
+
+%40double*
+2
+3*¾
+6D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaA A("k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaA A("
+%38double"__id*
+
+
+%39int*
+2
+3*¾
+8D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java@* @(0k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java@* @(0
+%35double"__id*
+
+
+%37int*
+5
+6*Á
+9D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java@ @( n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java@ @('
+%35double"__id*
+
+%36double*
+5
+6*¯
+41D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java0 0(
+}
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java0 0(
+%2ij.ImagePlus"__id**
+ij.gui.OvalRoi"
+impÆÃ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java0 0()
+%3ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%2ij.ImagePlus2getCalibration()Ž
+‹
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java0 0(*
+calij.measure.Calibration"__id*
+
+%3ij.measure.Calibration*
+38
+39*¼
+42D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java- -()a
+_
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java- -()	
+%0int"__id*
+""
+}
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java/ /(	
+%1ij.ImagePlus"__id**
+ij.gui.OvalRoi"
+imp*
+38
+39
+41*Ä
+20D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java<& <()n
+l
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java<& <(0
+%23double"__id*
+
+%25double*
+17
+18*Á
+21D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java< <(#k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java< <(#
+%23double"__id*
+
+
+%24int*
+17
+18*Á
+23D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java;) ;(*k
+i
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java;) ;(*
+%20double"__id*
+
+
+%22int*
+20
+21B
+ij.gui.OvalRoi

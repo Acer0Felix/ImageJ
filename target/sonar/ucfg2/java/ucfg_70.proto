@@ -1,0 +1,38 @@
+
+"ij.gui.HistogramWindow#liveMode()ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javað ð("3*³
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ ñ(–
+“
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ ñ(
+%1java.awt.Button"__id*$*"
+ij.gui.HistogramWindow"
+liveÇÄ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ ñ(+
+%2java.awt.Color"2java.awt.Component#getForeground()Ljava/awt/Color;*
+
+%1java.awt.Button2getForeground()v
+t
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ- ñ(6
+%3java.awt.Color"__id*
+""*
+1*ô
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ	 ñ(–
+“
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ	 ñ(
+%0java.awt.Button"__id*$*"
+ij.gui.HistogramWindow"
+live*
+2
+1*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ ñ(7"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javañ ñ(7
+""B
+ij.gui.HistogramWindow

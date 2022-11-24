@@ -1,0 +1,47 @@
+
+(ij.gui.Overlay#contains(Lij/gui/Roi;II)ZF
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÄ Ä("2"4"1*µ
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÉ É(“œ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÉ É(+
+%0ij.process.FloatPolygon"7ij.gui.Line#getFloatPolygon(D)Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi*2
+2getFloatPolygon(D)¿Ω
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÉ É(:
+%1boolean"%ij.process.FloatPolygon#contains(FF)Z*
+
+%0ij.process.FloatPolygon*
+""*
+""2contains(FF)"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÉ É(;
+""*ù
+4F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÅ Å("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÅ Å(
+""*«
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÖ
+ Ö(ß§
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÖ
+ Ö(
+%2boolean"ij.gui.Roi#contains(II)Z*
+
+roi
+ij.gui.Roi*
+""*
+""2contains(II)"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÖ Ö(
+"":
+roi
+ij.gui.Roi:
+"":
+""B
+ij.gui.Overlay

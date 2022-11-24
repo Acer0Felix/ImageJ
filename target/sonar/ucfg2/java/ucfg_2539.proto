@@ -1,0 +1,126 @@
+
+$ij.gui.Roi#clone()Ljava/lang/Object;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∫ ∫(!"13*‰
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(ì
+ê
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(
+%0java.lang.Object"*java.lang.Object#clone()Ljava/lang/Object;*
+""*
+12*†
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≈
+ ≈("W
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≈ ≈(
+
+r
+ij.gui.Roi*”
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaƒ ƒ(1Ñ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaƒ ƒ(1
+
+r
+ij.gui.Roi"
+bounds"__id*
+
+%9java.lang.Object*
+2*Ø
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaƒ ƒ(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaƒ# ƒ()&
+%8 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsÃ…
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaƒ# ƒ(1
+%9java.lang.Object"8java.awt.geom.RectangularShape#clone()Ljava/lang/Object;*(
+&
+%8 java.awt.geom.Rectangle2D$Double2clone()*
+3*„
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java√ √(&
+%7 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+4*Ÿ
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(äá
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(	
+%6int"ij.gui.Roi#getImageID()I*
+
+ij.gui.Roi2getImageID()*
+5*ô
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(! «
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(!
+
+%5void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+r
+ij.gui.Roi*
+
+%4java.awt.Color2setFillColor(Ljava/awt/Color;)*
+6*˜
+8B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(®•
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿( 
+%4java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+ij.gui.Roi2getFillColor()*
+7*•
+9B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaø ø(÷”
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaø ø(
+
+%3void"-ij.gui.Roi#setStroke(Ljava/awt/BasicStroke;)V*
+
+r
+ij.gui.Roi*
+
+%2java.awt.BasicStroke2!setStroke(Ljava/awt/BasicStroke;)*
+8*˛
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaø ø(Æ´
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaø ø(
+%2java.awt.BasicStroke",ij.gui.Roi#getStroke()Ljava/awt/BasicStroke;*
+
+ij.gui.Roi2getStroke()*
+9*˚
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(w
+u
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(
+r
+ij.gui.Roi"__id*
+
+%0java.lang.ObjectÆ´
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+
+%1void"$ij.gui.Roi#setImage(Lij/ImagePlus;)V*
+
+r
+ij.gui.Roi*
+""2setImage(Lij/ImagePlus;)*
+8
+10B
+
+ij.gui.Roi

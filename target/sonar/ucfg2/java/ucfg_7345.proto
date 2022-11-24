@@ -1,0 +1,79 @@
+
+Fij.plugin.filter.StackLabeler#setup(Ljava/lang/String;Lij/ImagePlus;)IS
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java% %("7"1*ˆ
+2S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(&¨¥
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java+, +(>	
+%6int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+1*Æ
+3S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(&p
+n
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(&	
+%5int"__id*
+""u
+s
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(&	
+%3int"__id*
+	
+%5int*
+2*Ô
+4S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(u
+s
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java* *(	
+%3int"__id*
+	
+%4int*
+2*Ì
+5S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java) )(¾»
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java) )(!
+%2ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¨
+¥
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java) )(!0
+ij.plugin.filter.StackLabeler"
+baseOverlay"__id*
+
+%2ij.gui.Overlay*
+3
+4*Â
+7S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java' '(¸µ
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java' '( 
+%0ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()§¤
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java' '(,
+%1boolean"ij.ImageStack#isVirtual()Z*
+
+%0ij.ImageStack2isVirtual()*
+5*Ù
+1S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java- -(Ÿ
+œ
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java- -((
+ij.plugin.filter.StackLabeler"
+imp"__id*
+
+impij.ImagePlus"]
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/StackLabeler.java. .(
+"":
+argjava.lang.String:
+impij.ImagePlusB!
+ij.plugin.filter.StackLabeler

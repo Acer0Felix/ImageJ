@@ -1,0 +1,126 @@
+
+3ij.macro.Functions#setPlotFontSize(Lij/gui/Plot;Z)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˛ ˛("9*Å
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç ç(™ß
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç ç(
+%12void"ij.gui.Plot#setFont(IF)V*
+
+plotij.gui.Plot*
+""*
+""2setFont(IF)*
+1*ì
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã ã(ºπ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaã ã(%
+%11void"!ij.gui.Plot#setAxisLabelFont(IF)V*
+
+plotij.gui.Plot*
+""*
+""2setAxisLabelFont(IF)*
+1*§
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaâ â(ï
+í
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaâ â(
+%9ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp≤Ø
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaâ â(
+%10void"%ij.macro.Interpreter#getRightParen()V*
+
+%9ij.macro.Interpreter2getRightParen()*
+2
+3*Ω
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá á(	g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá á(	
+%8int"__id*
+""*
+4*©
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ Ü(œÃ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ Ü(	
+%7int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*
+ital2indexOf(Ljava/lang/String;)*
+4
+5*Ω
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ Ö(	g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ Ö(	
+%6int"__id*
+""*
+6*∆
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(!∆√
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(#
+%3java.lang.String"4ij.macro.Functions#getNextString()Ljava/lang/String;*
+ij.macro.Functions2getNextString()¬ø
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(1
+%4java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%3java.lang.String2toLowerCase()å
+â
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(2
+optionsjava.lang.String"__id*
+
+%4java.lang.StringœÃ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ Ñ(	
+%5int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*
+bold2indexOf(Ljava/lang/String;)*
+6
+7*ƒ
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˇ ˇ(!ß§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˇ ˇ(#
+%0double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()ï
+í
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(
+%1ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp®•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(	
+%2int"!ij.macro.Interpreter#nextToken()I*
+
+%1ij.macro.Interpreter2nextToken()*
+4
+8*≥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(ûõ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(
+%13void"ij.gui.Plot#updateImage()V*
+
+plotij.gui.Plot2updateImage()k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè	 è(
+%14double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè è(
+"":
+plotij.gui.Plot:
+""B
+ij.macro.Functions

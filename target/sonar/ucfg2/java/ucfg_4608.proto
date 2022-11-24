@@ -1,0 +1,168 @@
+
+>ij.measure.ResultsTable#getValueAsString(II)Ljava/lang/String;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaî î( "14*Ü
+13O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaó ó(*•
+¢
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaó ó(*
+%1java.util.Hashtable"__id*.*,
+ij.measure.ResultsTable"
+stringColumns*
+3
+12*˛
+14O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaï ï(ù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaó ó(
+%0boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+13
+3*í
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©(Õ
+ 
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©(
+%11java.lang.String"1ij.measure.ResultsTable#d2s(DI)Ljava/lang/String;*"
+ij.measure.ResultsTable*
+""*
+"""l
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java© ©(
+
+%11java.lang.String*á
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaß ß(¬
+ø
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaß ß(
+%10java.lang.String".ij.measure.ResultsTable#n(D)Ljava/lang/String;*
+ij.measure.ResultsTable*
+"""l
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaß ß(
+
+%10java.lang.String*Ã
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java• •(n
+l
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(
+%9short"__id*
+""*
+2
+1*≈
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java£ £("o
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java£ £(
+
+stringjava.lang.String*≈
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java° °("o
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java° °(
+
+stringjava.lang.String*ì
+6O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java† †(§°
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java† †(.
+%8java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+stringjava.lang.String*
+\n*	
+\\\\n20replaceAll(Ljava/lang/String;Ljava/lang/String;)ê
+ç
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java† †(.
+stringjava.lang.String"__id*
+
+%8java.lang.String*
+5*¬
+7O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaü ü(„‡
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaü ü(-
+%7boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+stringjava.lang.String*
+\n2"contains(Ljava/lang/CharSequence;)*
+5
+6*ô
+8O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(!ß
+§
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(*
+%6java.lang.Object"
+__arrayGet*%
+#
+stringColumnjava.util.ArrayList*
+""ê
+ç
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(*
+stringjava.lang.String"__id*
+
+%6java.lang.Object*
+5
+7*ä
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaù ù(´®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaù ù((	
+%5int"java.util.ArrayList#size()I*%
+#
+stringColumnjava.util.ArrayList2size()*
+4
+8*∆
+11O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ("o
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ(
+
+stringjava.lang.String*ñ
+12O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò ò(~
+|
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò ò(
+stringjava.lang.String"__id*
+NaN•
+¢
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô' ô(4
+%2java.util.Hashtable"__id*.*,
+ij.measure.ResultsTable"
+stringColumnsΩ
+∫
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô9 ô(P
+%3java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""Æ
+´
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô' ô(Q
+%4java.lang.Object"__mapGet*
+
+%2java.util.Hashtable*
+
+%3java.lang.Integerô
+ñ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaô ô(R#
+stringColumnjava.util.ArrayList"__id*
+
+%4java.lang.Object*
+
+4
+9
+11:
+"":
+""B
+ij.measure.ResultsTable

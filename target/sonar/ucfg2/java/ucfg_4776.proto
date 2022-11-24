@@ -1,0 +1,106 @@
+
+Eij.plugin.filter.Transformer#setup(Ljava/lang/String;Lij/ImagePlus;)IR
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java ("6*À
+2R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java
+ (o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (&	
+%3int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java' (.	
+%4int"__id*
+""±
+Æ
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java
+ (/	
+%5int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (0
+""*∏
+3R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java ( ÷”
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (0
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+flipv2equals(Ljava/lang/Object;)*
+2
+1*∏
+4R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (	÷”
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+fliph2equals(Ljava/lang/Object;)*
+2
+3*¡
+5R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (Ω∫
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¢
+ü
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (+
+ij.plugin.filter.Transformer"	
+overlay"__id*
+
+%0ij.gui.Overlay*
+4*£
+6R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (°
+û
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java ('
+ij.plugin.filter.Transformer"
+arg"__id*
+
+argjava.lang.Stringù
+ö
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java ('
+ij.plugin.filter.Transformer"
+imp"__id*
+
+impij.ImagePlus*
+4
+5*à
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java
+ (o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java
+ (	
+%6int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (	
+%7int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (%	
+%8int"__id*
+"""\
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Transformer.java (&
+"":
+argjava.lang.String:
+impij.ImagePlusB 
+ij.plugin.filter.Transformer

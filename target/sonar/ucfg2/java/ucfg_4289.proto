@@ -1,0 +1,80 @@
+
+Bij.plugin.FileInfoVirtualStack#validateNImages(Lij/io/FileInfo;J)IV
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaì ì("8*Ω
+3V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaõ õ("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaõ õ(
+""*∏
+4V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô ô(©¶
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô ô( 
+
+%5long"ij.io.FileInfo#getOffset()J*
+
+fiij.io.FileInfo2getOffset()£†
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô4 ô(?
+
+%6long"ij.io.FileInfo#getGap()J*
+
+fiij.io.FileInfo2getGap()*	
+3
+4
+1*Ñ
+6V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaó ó(ûõ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaó ó(
+
+%4long"java.io.File#length()J*
+
+fjava.io.File2length()*
+4
+1*Ω
+7V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javañ
+ ñ("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javañ ñ(
+""*ù
+8V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î( «
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î($
+%0java.lang.String".ij.io.FileInfo#getFilePath()Ljava/lang/String;*
+
+fiij.io.FileInfo2getFilePath()|z
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(
+%1java.io.File"java.io.Fileª
+∏
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(%
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.Stringä
+á
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(&
+fjava.io.File"__id*
+
+%1java.io.File°û
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaï ï(
+%3boolean"java.io.File#exists()Z*
+
+fjava.io.File2exists()*
+6
+7*Ω
+1V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù	 ù("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù ù(
+"":
+fiij.io.FileInfo:
+""B" 
+ij.plugin.FileInfoVirtualStack

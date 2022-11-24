@@ -1,0 +1,70 @@
+
+%ij.ImagePlus#isSmaller(Lij/gui/Roi;)ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ	 Í("3*™
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ Ï("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ Ï(
+""*¥
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(¹¶
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(#
+%0ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+r
+ij.gui.Roi2	getMask()•
+’
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î($!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+1*õ
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ Ð(a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ Ð(:	
+%1int"__id*
+""ÖÓ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ Ð(;
+
+%2void",ij.process.ImageProcessor#setThreshold(DDI)V*#
+!
+maskij.process.ImageProcessor*2ÿ*2ÿ*
+	
+%1int2setThreshold(DDI)a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ> Ñ(B	
+%3int"__id*
+""a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑC Ñ(H	
+%4int"__id*
+""¼
+¹
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(O 
+%5ij.process.ImageStatistics"zij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*#
+!
+maskij.process.ImageProcessor*
+""*
+""˜
+•
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(P#
+statsij.process.ImageStatistics"__id*"
+ 
+%5ij.process.ImageStatistics"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÒ Ò("
+"":
+r
+ij.gui.RoiB
+ij.ImagePlus

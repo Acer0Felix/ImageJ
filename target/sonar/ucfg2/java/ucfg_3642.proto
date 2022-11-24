@@ -1,0 +1,33 @@
+
+ij.ImagePlus#isInvertedLut()ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaŠ Š("3*–
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip¸µ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹('
+%2boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+%1ij.process.ImageProcessor2isInvertedLut()*
+1*Þ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹	 ‹(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹	 ‹(
+%0ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+2
+1*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹(("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java‹ ‹((
+""B
+ij.ImagePlus

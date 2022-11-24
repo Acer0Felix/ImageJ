@@ -1,0 +1,36 @@
+
+Fij.IJ#runMacro(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaú ú("1*Í
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaù ù(&wu
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaù ù($
+%0ij.plugin.Macro_Runner"ij.plugin.Macro_Runnerä
+á
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaù ù(&
+%1" ij.plugin.Macro_Runner#<init>()V*
+
+%0ij.plugin.Macro_RunnerÜ
+É
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaù ù('
+mrij.plugin.Macro_Runner"__id*
+
+%0ij.plugin.Macro_Runnerª∏
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaû	 û( 
+%2java.lang.String"Wij.plugin.Macro_Runner#runMacro(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+mrij.plugin.Macro_Runner*
+
+macrojava.lang.String*
+
+argjava.lang.String2.runMacro(Ljava/lang/String;Ljava/lang/String;)"Y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaû û(!
+
+%2java.lang.String:
+macrojava.lang.String:
+argjava.lang.StringB	"
+ij.IJ

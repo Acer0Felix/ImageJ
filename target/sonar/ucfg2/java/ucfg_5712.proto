@@ -1,0 +1,25 @@
+
+&ij.gui.Overlay#contains(Lij/gui/Roi;)ZF
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaâ â("1*Å
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaä ä(á
+Ñ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaä ä(
+%0java.util.Vector"__id**
+ij.gui.Overlay"
+list◊‘
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaä ä(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+roi
+ij.gui.Roi2contains(Ljava/lang/Object;)"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaä ä(
+"":
+roi
+ij.gui.RoiB
+ij.gui.Overlay

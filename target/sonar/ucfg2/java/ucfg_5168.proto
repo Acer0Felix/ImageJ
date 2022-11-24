@@ -1,0 +1,41 @@
+
+)ij.plugin.filter.Filler#isStraightLine()ZM
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaK	 K("3*Ï
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL L(ê
+ç
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL L(
+%1
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roiìê
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL L(#	
+%2int"ij.gui.Roi#getType()I*
+
+%1
+ij.gui.Roi2	getType()j
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL% L(-	
+%3int"__id*
+""*
+1*Ì
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL	 L(ê
+ç
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL	 L(
+%0
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi*
+2
+1*´
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL L(."W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaL L(.
+""B
+ij.plugin.filter.Filler

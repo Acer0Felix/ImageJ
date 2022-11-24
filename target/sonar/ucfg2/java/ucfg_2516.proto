@@ -1,0 +1,50 @@
+
+ij.gui.Roi#getImageID()IB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¸ ¸("4*²
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(&d
+b
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(&	
+%1int"__id*
+	
+%3int*
+1*¾
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(‰†
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(	
+%2int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()d
+b
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º(	
+%1int"__id*
+	
+%2int*
+1*Ã
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¹ ¹(y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¹ ¹(
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+impw
+u
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¹ ¹(
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+3*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º('"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º('
+""B
+
+ij.gui.Roi

@@ -1,0 +1,52 @@
+
+ij.gui.ShapeRoi#getLength()DG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaí í("2"1*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaï
+ ï("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaï ï(
+""*Á
+
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ	 ğ(ˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ- ğ(<#
+%1java.awt.geom.AffineTransform"java.awt.geom.AffineTransform¢
+Ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ) ğ(>
+%2"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%1java.awt.geom.AffineTransform¼¹
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(? 
+%3java.awt.geom.PathIterator"[java.awt.Shape#getPathIterator(Ljava/awt/geom/AffineTransform;)Ljava/awt/geom/PathIterator;*
+
+%0java.awt.Shape*%
+#
+%1java.awt.geom.AffineTransform20getPathIterator(Ljava/awt/geom/AffineTransform;)d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağA ğ(K	
+%4int"__id*
+""·´
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ	 ğ(R
+%5double"Nij.gui.ShapeRoi#parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)D*
+ij.gui.ShapeRoi*"
+ 
+%3java.awt.geom.PathIterator*
+	
+%4int*
+""2=parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(S
+""B
+ij.gui.ShapeRoi

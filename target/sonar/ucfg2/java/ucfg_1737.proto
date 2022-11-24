@@ -1,0 +1,58 @@
+
+ij.gui.Plot#getDigits(DDII)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaõ õ("4*ó
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaù
+ ù("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaù ù(
+""*Ò
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú ú(ä
+á
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú ú(%
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""ë
+é
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú( ú(@
+%2double"java.lang.Math#pow(DD)D*"
+java.lang.Math*2
+*
+""*
+2
+1*›
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú ú(ä
+á
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaú	 ú(
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+3
+1*Ω
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü
+ ü(£
+†
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü
+ ü(?	
+%3int"ij.gui.Plot#getDigits2(DDII)I*"
+ij.gui.Plot*
+""*
+""*
+""*
+"""M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaü ü(@
+"":
+"":
+"":
+"":
+""B"
+ij.gui.Plot

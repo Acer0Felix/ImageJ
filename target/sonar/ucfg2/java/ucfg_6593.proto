@@ -1,0 +1,63 @@
+
+bij.plugin.RGBStackMerge#mergeStacks(Lij/ImageStack;Lij/ImageStack;Lij/ImageStack;Z)Lij/ImageStack;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaË Ë(%"1*¢
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÈ È(1åâ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÈ" È(/
+%0ij.plugin.RGBStackMerge"ij.plugin.RGBStackMergeû
+õ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÈ È(1
+%1"!ij.plugin.RGBStackMerge#<init>()V*
+
+%0ij.plugin.RGBStackMergeù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÈ È(2 
+mergeij.plugin.RGBStackMerge"__id*
+
+%0ij.plugin.RGBStackMergeûõ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÍ Í()	
+%2int"ij.ImageStack#getWidth()I*
+
+redij.ImageStack2
+getWidth()†ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÍ+ Í(:	
+%3int"ij.ImageStack#getHeight()I*
+
+redij.ImageStack2getHeight()úô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÍ< Í(I	
+%4int"ij.ImageStack#getSize()I*
+
+redij.ImageStack2	getSize()Æ´
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÍ	 Í(h
+%5ij.ImageStack"eij.plugin.RGBStackMerge#mergeStacks(IIILij/ImageStack;Lij/ImageStack;Lij/ImageStack;Z)Lij/ImageStack;*"
+ 
+mergeij.plugin.RGBStackMerge*
+	
+%2int*
+	
+%3int*
+	
+%4int*
+
+redij.ImageStack*
+
+greenij.ImageStack*
+
+blueij.ImageStack*
+""2>mergeStacks(IIILij/ImageStack;Lij/ImageStack;Lij/ImageStack;Z)"h
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackMerge.javaÍ Í(i
+
+%5ij.ImageStack:
+redij.ImageStack:
+greenij.ImageStack:
+blueij.ImageStack:
+""B"
+ij.plugin.RGBStackMerge

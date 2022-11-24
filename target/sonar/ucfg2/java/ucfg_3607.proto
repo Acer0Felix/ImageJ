@@ -1,0 +1,44 @@
+
+ij.ImagePlus#getSizeInBytes()DD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¼	 ¼	( "2*»
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½	 ½	($Œ‰
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½	 ½	(&	
+%0int"ij.ImagePlus#getWidth()I*
+ij.ImagePlus2
+getWidth()Ž‹
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½	' ½	(2	
+%1int"ij.ImagePlus#getHeight()I*
+ij.ImagePlus2getHeight()”‘
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½	3 ½	(A	
+%2int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()Š‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¾	 ¾	(	
+%3int"ij.ImagePlus#getType()I*
+ij.ImagePlus2	getType()a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÀ	 À	(	
+%4int"__id*
+""a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ	 Á	(	
+%5int"__id*
+""a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ	 Â	(	
+%6int"__id*
+""*
+1*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ	 Ä	("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ	 Ä	(
+""B
+ij.ImagePlus

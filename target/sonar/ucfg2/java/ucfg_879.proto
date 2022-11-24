@@ -1,0 +1,34 @@
+
+1ij.gui.GenericDialog#getInsets()Ljava/awt/Insets;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÊ Ê("1*“
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaË Ë(¡
+ž
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaË Ë(
+%0java.awt.Insets"/java.awt.Container#getInsets()Ljava/awt/Insets;*
+""†
+ƒ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaË Ë(
+ijava.awt.Insets"__id*
+
+%0java.awt.Insetsxv
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÌ Ì(
+%1java.awt.Insets"java.awt.Insets¯
+¬
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÌ	 Ì(A
+%2"java.awt.Insets#<init>(IIII)V*
+
+%1java.awt.Insets*
+""*
+""*
+""*
+"""g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÌ Ì(B
+
+%1java.awt.InsetsB
+ij.gui.GenericDialog

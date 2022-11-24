@@ -1,0 +1,79 @@
+
+:ij.macro.Interpreter#getVariableNames()[Ljava/lang/String;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java© ©(!"5*ó	
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(í
+è
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(
+%1ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(
+%2ij.macro.Symbol[]"__id*#*!
+
+%1ij.macro.Program"
+tableó
+î
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(!
+%3ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stackõ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨($
+%4ij.macro.Variable"
+__arrayGet*
+
+%3ij.macro.Variable[]*
+""ó
+î
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(1
+%5ij.macro.Symbol"
+__arrayGet*
+
+%2ij.macro.Symbol[]*
+""ë
+é
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(5
+%6java.lang.String"__id* *
+
+%5ij.macro.Symbol"
+str®
+•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¨ ¨(5
+%7"
+__arraySet*!
+
+	variablesjava.lang.String[]*
+""*
+
+%6java.lang.String*
+3
+1*
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java™" ™(,~|
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java™ ™(/
+%0java.lang.String[]"java.lang.String[]î
+ë
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java™ ™(0
+	variablesjava.lang.String[]"__id*
+
+%0java.lang.String[]*
+3
+1*ƒ
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≠	 ≠("q
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≠ ≠(!
+
+	variablesjava.lang.String[]B
+ij.macro.Interpreter

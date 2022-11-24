@@ -1,0 +1,45 @@
+
+:ij.gui.RoiDefaultsDialog#getGroupName(I)Ljava/lang/String;N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaH H("5*Û
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaM M(€
+~
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaM M(
+gnamejava.lang.String"__id*	
+unnamed*
+1*á
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaK K(†
+ƒ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaK K(
+gnamejava.lang.String"__id*
+0 = no group*
+1*£
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaI I(±
+®
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaI I((
+%0java.lang.String",ij.gui.Roi#getGroupName(I)Ljava/lang/String;*"
+
+ij.gui.Roi*
+""Ž
+‹
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaI I()
+gnamejava.lang.String"__id*
+
+%0java.lang.String*	
+2
+4
+1*Â
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaN	 N("m
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/gui/RoiDefaultsDialog.javaN N(
+
+gnamejava.lang.String:
+""B
+ij.gui.RoiDefaultsDialog

@@ -1,0 +1,111 @@
+
+\ij.plugin.Slicer#createOutputStack(Lij/ImagePlus;Lij/process/ImageProcessor;)Lij/ImageStack;H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÊ Ê("6*¡
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÒ Ò(
+""*Š
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÐ Ð(²
+¯
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÐ Ð(6
+
+%7void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*%#
+!Reslice... (press 'Esc' to abort)*
+2
+1*ù
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÏ Ï(ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÏ Ï((	
+%6int"ij.ImagePlus#getStackSize()I*
+
+imp2ij.ImagePlus2getStackSize()*	
+2
+4
+1*—	
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaË Ë(›˜
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaË Ë(#	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÌ
+ Ì(	
+%1int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()°­
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÌ Ì(*	
+%2int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÍ Í("	
+%3int"__id*
+""e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÍ% Í(D	
+%4int"__id*
+""ì
+é
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÎ Î(M
+%5ij.ImagePlus"Bij.gui.NewImage#createImage(Ljava/lang/String;IIIII)Lij/ImagePlus;*"
+ij.gui.NewImage*
+temp*
+""*
+""*
+""*
+""*
+""~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÎ Î(N
+imp2ij.ImagePlus"__id*
+
+%5ij.ImagePlus*	
+2
+5
+1*Ø
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÔ Ô(®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÔ Ô('
+%8ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+imp2ij.ImagePlus2
+getStack()ƒ
+€
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÔ Ô((
+stack2ij.ImageStack"__id*
+
+%8ij.ImageStackèå
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÕ Õ(+
+%9java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+ipij.process.ImageProcessor2getColorModel()ÿü
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÕ Õ(,
+%10void"9ij.ImageStack#setColorModel(Ljava/awt/image/ColorModel;)V*
+
+stack2ij.ImageStack*!
+
+%9java.awt.image.ColorModel2*setColorModel(Ljava/awt/image/ColorModel;)"e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Slicer.javaÖ Ö(
+
+stack2ij.ImageStack:
+impij.ImagePlus:
+ipij.process.ImageProcessorB
+ij.plugin.Slicer

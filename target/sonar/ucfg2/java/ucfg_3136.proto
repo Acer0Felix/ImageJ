@@ -1,0 +1,45 @@
+
+3ij.macro.Functions#getImageInfo()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû û("1*£	
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+%0ij.ImagePlus"+ij.macro.Functions#getImage()Lij/ImagePlus;*
+ij.macro.Functions2
+getImage()
+}
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus~|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý(&
+%1ij.plugin.ImageInfo"ij.plugin.ImageInfo‘
+Ž
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý((
+%2"ij.plugin.ImageInfo#<init>()V*
+
+%1ij.plugin.ImageInfo•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý ý()!
+
+infoPluginij.plugin.ImageInfo"__id*
+
+%1ij.plugin.ImageInfo…‚
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ	 þ(%
+%3java.lang.String"Bij.plugin.ImageInfo#getImageInfo(Lij/ImagePlus;)Ljava/lang/String;*#
+!
+
+infoPluginij.plugin.ImageInfo*
+
+impij.ImagePlus2getImageInfo(Lij/ImagePlus;)"f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ(&
+
+%3java.lang.StringB
+ij.macro.Functions

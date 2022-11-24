@@ -1,0 +1,92 @@
+
+%ij.gui.Plot#getPlotObjectIndex(I[[F)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java• •("12*ó
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java± ±("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java± ±(
+""*Ù
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨	 ¨(ù
+ö
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨	 ¨(6
+%6boolean"java.util.Arrays#equals([F[F)Z*"
+java.util.Arrays*
+""*
+""*
+
+3
+8
+12*Á
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java´ ´(ê
+ç
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java´ ´(C	
+%5int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""*
+
+3
+7
+12*â
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©  ©(*π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©  ©(=
+%4	float[][]"'ij.gui.PlotObject#getAllDataValues()[[F*!
+
+
+plotObjectij.gui.PlotObject2getAllDataValues()*
+8*ˇ
+11C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaß ß()ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaß ß()
+%2java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsè
+å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaß ß(0
+%3ij.gui.PlotObject"
+__arrayGet*
+
+%2java.util.Vector*
+""ä
+á
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaß ß(1
+
+plotObjectij.gui.PlotObject"__id*
+
+%3ij.gui.PlotObject*
+9
+12*Ú
+12C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¶ ¶(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¶ ¶( 
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsèå
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¶ ¶('	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+11
+1*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≥
+ ≥("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≥ ≥(
+"":
+"":
+""B
+ij.gui.Plot

@@ -1,0 +1,162 @@
+
+,ij.gui.Roi#getGroupName(I)Ljava/lang/String;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÄ Ä(""13"14*‹
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÉ É(á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÉ É(
+%0java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+10
+12*ñ
+14B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÇ
+ Ç("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÇ Ç(
+""*ß
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å(#"^
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å(#
+
+%9java.lang.String*«
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å("y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å("
+%9java.lang.String"__id*
+
+%10
+<nulltype>*
+1*œ
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å(Ä
+~
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å(
+%9java.lang.String"__id*
+
+namejava.lang.String*
+1*Ê
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå	 å(îë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå	 å(	
+%8int"java.lang.String#length()I*
+
+namejava.lang.String2length()*
+2
+3*ï
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaã
+ ã("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaã ã(
+""*Ó
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaâ â(á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaâ â(
+%6java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNamesè
+å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaâ â()
+%7java.lang.String"
+__arrayGet*
+
+%6java.lang.String[]*
+""Ä
+~
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaâ â(*
+namejava.lang.String"__id*
+
+%7java.lang.String*
+4
+5*ï
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaà
+ à("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaà à(
+""*Ÿ
+8B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaá á(á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaá á(
+%5java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+6
+7*√
+9B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÜ Ü( ã
+à
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÜ Ü( 
+%3java.lang.String"__id*$*"
+
+ij.gui.Roi"
+groupNamesString‹Ÿ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÜ Ü(+
+%4java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+%3java.lang.String*
+,2split(Ljava/lang/String;)á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÜ Ü(+
+
+ij.gui.Roi"
+
+groupNames"__id*
+
+%4java.lang.String[]*
+8*⁄
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÖ Ö(á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÖ Ö(
+%2java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+8
+9*ñ
+11B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÑ
+ Ñ("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÑ Ñ(
+""*‡
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÉ É(*ã
+à
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÉ É(*
+%1java.lang.String"__id*$*"
+
+ij.gui.Roi"
+groupNamesString*
+10
+11:
+""B"
+
+ij.gui.Roi

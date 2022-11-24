@@ -1,0 +1,97 @@
+
+'ij.plugin.AnimatedGifEncoder2#finish()ZK
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaŒ Œ("6"8*õ
+3K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(û
+õ
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(
+%4java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out¢ü
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(
+
+%5void"java.io.OutputStream#close()V*
+
+%4java.io.OutputStream2close()*
+1*û
+5K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(û
+õ
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(
+%2java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out¢ü
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(
+
+%3void"java.io.OutputStream#flush()V*
+
+%2java.io.OutputStream2flush()*
+3
+1*£
+6K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java” ”(û
+õ
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java” ”(
+%0java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out™ß
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java” ”(
+
+%1void"java.io.OutputStream#write(I)V*
+
+%0java.io.OutputStream*2;2write(I)*
+5*ß
+8K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaœ œ("U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaœ œ(
+""*˝
+1K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java⁄ ⁄(à
+Ö
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaﬁ ﬁ((
+ij.plugin.AnimatedGifEncoder2"
+gct"__id*
+""à
+Ö
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaﬂ ﬂ((
+ij.plugin.AnimatedGifEncoder2"
+out"__id*
+""ä
+á
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java‡ ‡(*
+ij.plugin.AnimatedGifEncoder2"
+image"__id*
+""ã
+à
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java· ·(+
+ij.plugin.AnimatedGifEncoder2"
+pixels"__id*
+""í
+è
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java‚ ‚(2
+ij.plugin.AnimatedGifEncoder2"
+indexedPixels"__id*
+""ç
+ä
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.java„ „(-
+ij.plugin.AnimatedGifEncoder2"
+
+colorTab"__id*
+"""U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GifWriter.javaÁ Á(
+""B!
+ij.plugin.AnimatedGifEncoder2

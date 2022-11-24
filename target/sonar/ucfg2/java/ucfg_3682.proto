@@ -1,0 +1,455 @@
+
+*ij.ImagePlus#getFileInfo()Lij/io/FileInfo;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¬ ¬("45*´
+27D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì(Mb
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+
+%27int"__id*
+""*
+23*™
+28D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ: Ì(<‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ: Ì(< 
+%25ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip¸µ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ: Ì(K
+%26boolean")ij.process.ImageProcessor#isDefaultLut()Z*"
+ 
+%25ij.process.ImageProcessor2isDefaultLut()*
+27*â
+29D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ/ Ì(1‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ/ Ì(1 
+%24ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+27
+28*£
+30D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ Ò(
+©¦
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë(!
+%22ij.LookUpTable"(ij.ImagePlus#createLut()Lij/LookUpTable;*
+ij.ImagePlus2createLut()~
+|
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë("
+lutij.LookUpTable"__id*
+
+%22ij.LookUpTable 
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ Ì(*
+%23boolean"ij.LookUpTable#isGrayscale()Z*
+
+lutij.LookUpTable2isGrayscale()*
+27
+29*°
+31D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç($
+%21java.lang.String"7ij.measure.Calibration#getValueUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getValueUnit()
+Œ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç($#
+
+fiij.io.FileInfo"
+	valueUnit"__id*
+
+%21java.lang.String*
+2*ï
+32D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÆ Æ(o
+m
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÆ Æ(,
+%18java.lang.String"__id*
+""ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÆ4 Æ(F
+%19java.lang.String"7ij.measure.Calibration#getValueUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getValueUnit()ÙÖ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÆ Æ(G
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%18java.lang.String*
+
+%19java.lang.String2equals(Ljava/lang/Object;)*
+2
+31*œ
+33D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÃ Ã(¬©
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÃ Ã(0
+
+%15int"%ij.measure.Calibration#getFunction()I*
+
+calij.measure.Calibration2getFunction()º·
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ Ä(.
+%16double[]"*ij.measure.Calibration#getCoefficients()[D*
+
+calij.measure.Calibration2getCoefficients()ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å($
+%17java.lang.String"7ij.measure.Calibration#getValueUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getValueUnit()
+Œ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å($#
+
+fiij.io.FileInfo"
+	valueUnit"__id*
+
+%17java.lang.String*
+2*…
+34D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÁ Á(®«
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÂ	 Â(
+%14boolean"$ij.measure.Calibration#calibrated()Z*
+
+calij.measure.Calibration2calibrated()*
+32
+33*£
+12D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÞ	 Þ(Ñ
+Î
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÞ	 Þ(
+%37void"6ij.ImagePlus#addLut(Lij/LookUpTable;Lij/io/FileInfo;)V*
+ij.ImagePlus*
+
+lutij.LookUpTable*
+
+fiij.io.FileInfo*
+1*œ
+13D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ. Ý(0‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ. Ý(0 
+%35ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip¸µ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ. Ý(?
+%36boolean")ij.process.ImageProcessor#isDefaultLut()Z*"
+ 
+%35ij.process.ImageProcessor2isDefaultLut()*
+12
+1*á
+14D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ# Ý(%‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ# Ý(% 
+%34ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+13
+1*¢
+37D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java» »(Â¿
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½ ½(
+%13java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java½ ½(
+
+fiij.io.FileInfo"
+unit"__id*
+
+%13java.lang.String*
+34*£
+15D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü(©¦
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü(
+%32ij.LookUpTable"(ij.ImagePlus#createLut()Lij/LookUpTable;*
+ij.ImagePlus2createLut()~
+|
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü(
+lutij.LookUpTable"__id*
+
+%32ij.LookUpTable 
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÝ Ý(
+%33boolean"ij.LookUpTable#isGrayscale()Z*
+
+lutij.LookUpTable2isGrayscale()*
+14
+12*Õ
+38D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¹ ¹("ÃÀ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¹ ¹($
+%11ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+ij.ImagePlus2getCalibration()
+Œ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¹ ¹(%
+calij.measure.Calibration"__id*
+
+%11ij.measure.Calibration¦£
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaº	 º(
+%12boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+37
+34*¥
+39D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸ ¸(€
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸ ¸(
+%9ij.ImageStack"__id**
+ij.ImagePlus"
+stack¾»
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸ ¸($
+%10java.lang.Object[]"0ij.ImageStack#getImageArray()[Ljava/lang/Object;*
+
+%9ij.ImageStack2getImageArray()Ž
+‹
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¸ ¸($ 
+
+fiij.io.FileInfo"
+pixels"__id*
+
+%10java.lang.Object[]*
+38*©
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaî î("^
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaî î(
+
+fiij.io.FileInfo*Ñ
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÉ É(b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ Ê(
+
+%44int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ Ê(
+
+%45int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÓ Ó(
+
+%46int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá á(
+
+%47int"__id*
+""b
+`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaé é(
+
+%48int"__id*
+""*
+15
+9
+30
+20
+1*¢
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaæ	 æ(Ñ
+Î
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaæ	 æ(
+%43void"6ij.ImagePlus#addLut(Lij/LookUpTable;Lij/io/FileInfo;)V*
+ij.ImagePlus*
+
+lutij.LookUpTable*
+
+fiij.io.FileInfo*
+1*š
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå. å(0‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå. å(0 
+%41ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip¸µ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå. å(?
+%42boolean")ij.process.ImageProcessor#isDefaultLut()Z*"
+ 
+%41ij.process.ImageProcessor2isDefaultLut()*
+6
+1*ß
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå# å(%‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå# å(% 
+%40ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+7
+1* 
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(©¦
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(
+%38ij.LookUpTable"(ij.ImagePlus#createLut()Lij/LookUpTable;*
+ij.ImagePlus2createLut()~
+|
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(
+lutij.LookUpTable"__id*
+
+%38ij.LookUpTable 
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å(
+%39boolean"ij.LookUpTable#isGrayscale()Z*
+
+lutij.LookUpTable2isGrayscale()*
+6
+8*×
+40D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java· ·(€
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java· ·(
+%8ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+38
+39*¸
+41D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¶ ¶(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¶ ¶(
+%6ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÊÇ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¶ ¶(
+%7java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+%6ij.process.ImageProcessor2getPixels()‹
+ˆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java¶ ¶( 
+
+fiij.io.FileInfo"
+pixels"__id*
+
+%7java.lang.Object*
+38*á
+42D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaµ µ(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaµ µ(
+%5ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+40
+41*Œ
+20D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(¥¢
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(#
+%29ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+ij.ImagePlus2
+getStack()ÄÁ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(4
+%30java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+%29ij.ImageStack*22getSliceLabel(I)ÇÄ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÕ Õ(5
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+Red*
+
+%30java.lang.String2equals(Ljava/lang/Object;)*
+15
+1*ñ
+43D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java³ ³(š—
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java³ ³(%
+%4boolean"ij.ImagePlus#isInvertedLut()Z*
+ij.ImagePlus2isInvertedLut()*
+40
+42*ñ
+44D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java² ²(ž›
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java² ²(&	
+%3int"!ij.ImagePlus#getImageStackSize()I*
+ij.ImagePlus2getImageStackSize()*
+43*Ü
+45D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java­ ­(!nl
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java­ ­(
+%0ij.io.FileInfo"ij.io.FileInfo€
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java­ ­(!
+%1"ij.io.FileInfo#<init>()V*
+
+%0ij.io.FileInfo|
+z
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java­ ­("
+fiij.io.FileInfo"__id*
+
+%0ij.io.FileInfo”‘
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.java° °( 	
+%2int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()*
+43
+44*£
+23D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+Ñ
+Î
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+%28void"6ij.ImagePlus#addLut(Lij/LookUpTable;Lij/io/FileInfo;)V*
+ij.ImagePlus*
+
+lutij.LookUpTable*
+
+fiij.io.FileInfo*
+1B
+ij.ImagePlus

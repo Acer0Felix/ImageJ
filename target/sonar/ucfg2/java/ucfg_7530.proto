@@ -1,0 +1,30 @@
+
+ij.text.TextPanel#copyAll()II
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.java˝ ˝("3*˚
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÅ Å(•¢
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÅ Å(	
+%1int""ij.text.TextPanel#copySelection()I*
+ij.text.TextPanel2copySelection()*
+1*˜
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.java˛ ˛(ûõ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.java˛ ˛(
+
+%0void"ij.text.TextPanel#selectAll()V*
+ij.text.TextPanel2selectAll()*
+2
+1*Œ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÇ Ç(®•
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÇ Ç(
+
+%2void"#ij.text.TextPanel#resetSelection()V*
+ij.text.TextPanel2resetSelection()"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÑ Ñ(
+""B
+ij.text.TextPanel

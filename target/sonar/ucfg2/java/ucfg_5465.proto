@@ -1,0 +1,572 @@
+
+;ij.plugin.Thresholder#convertStackToBinary(Lij/ImagePlus;)VM
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java« «("41*Õ
+26M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‡ ‡(ò
+ï
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‡" ‡((
+%25java.lang.String"__id*%*#
+ij.plugin.Thresholder"
+method´
+®
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‡
+ ‡((
+%26java.lang.String"__concat*
+Thresholding method: *
+
+%25java.lang.String•
+¢
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‡ ‡()
+%27void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%26java.lang.String*
+3
+23*Ã
+27M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java› ›(≥∞
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java› ›(#
+%23ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()à
+Ö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java› ›($
+stackij.ImageStack"__id*
+
+%23ij.ImageStack®
+•
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaﬁ ﬁ($
+%24void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Auto-thresholding*
+3
+26
+23*›
+28M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java€ €(Å˛
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java€ €(
+%22void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+impij.ImagePlus*
+""*
+
+stack2ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)*
+27*ï
+30M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaŸ Ÿ(
+ˆÛ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaŸ Ÿ(1 
+%20ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*22convertToByte(Z)ºπ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaŸ Ÿ(2
+%21void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+labeljava.lang.String*"
+ 
+%20ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+28
+32*≈
+31M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java÷ ÷(≥∞
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java÷ ÷(!
+%18double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()≥∞
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java◊ ◊(!
+%19double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()*
+30*¢	
+32M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java— —(ì
+ê
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java— —(
+%14void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""“œ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java“ “(*
+%15java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stack1ij.ImageStack*
+""2getSliceLabel(I)é
+ã
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java“ “(+
+labeljava.lang.String"__id*
+
+%15java.lang.String‚ﬂ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java” ”(. 
+%16ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stack1ij.ImageStack*
+""2getProcessor(I)ù
+ö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java” ”(/
+ipij.process.ImageProcessor"__id*"
+ 
+%16ij.process.ImageProcessor¡æ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‘ ‘(
+%17void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()*
+30
+31*µ
+
+34M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÕ Õ(®
+•
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÕ Õ(&
+
+%8void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Converting to byte≤Ø
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaŒ Œ(%
+%9ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()à
+Ö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaŒ Œ(&
+stack1ij.ImageStack"__id*
+
+%9ij.ImageStackõò
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaœ& œ(4
+
+%10int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()ùö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaœ6 œ(E
+
+%11int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()vt
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaœ œ(%
+%12ij.ImageStack"ij.ImageStack®
+•
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaœ œ(F
+%13"ij.ImageStack#<init>(II)V*
+
+%12ij.ImageStack*
+
+
+%10int*
+
+
+%11intâ
+Ü
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaœ œ(G
+stack2ij.ImageStack"__id*
+
+%12ij.ImageStack*
+28
+32*Ä
+35M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java   (?†ù
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÀ À("	
+%7int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+27
+34*Ì
+
+13M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÒ Ò("Ö
+Ç
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú(
+%47java.lang.String"__concat*
+  *
+""ò
+ï
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú(
+%48java.lang.String"__concat*
+
+%47java.lang.String*
+: ß
+§
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú((
+%49java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""´
+®
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú((
+%50java.lang.String"__concat*
+
+%48java.lang.String*
+
+%49java.lang.Stringó
+î
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú(,
+%51java.lang.String"__concat*
+
+%50java.lang.String*
+-ß
+§
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ- Ú(>
+%52java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""´
+®
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú(>
+%53java.lang.String"__concat*
+
+%51java.lang.String*
+
+%52java.lang.String•
+¢
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÚ Ú(?
+%54void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%53java.lang.String*
+5*÷
+36M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java :  (>{
+y
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java :  (>
+%4double[]"__id*
+
+%6
+<nulltype>*
+35*Ã
+14M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÒ  Ò(!q
+o
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÒ  Ò(!
+
+%44int"__id*
+
+
+%46int*
+13*‘
+37M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java 1  (8y
+w
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java &  (9
+%4double[]"__id*
+
+%5double[]*
+35*Ã
+15M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÒ Ò(q
+o
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÒ Ò(
+
+%44int"__id*
+
+
+%45int*
+13*⁄
+39M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java…: …(>{
+y
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java…: …(>
+%1double[]"__id*
+
+%3
+<nulltype>*
+36
+37*
+19M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaË Ë(≈¬
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaË Ë(&
+%42double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()≈¬
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÈ È(&
+%43double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()*
+14
+15
+5*k
+0 "d
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaá á(
+implicit return*Ô
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÜ Ü(ï
+í
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÜ Ü(
+%67void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ* *
+0*Û
+2M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÅ' Å(*à
+Ö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÅ Å(+
+ciij.CompositeImage"__id*
+
+impij.ImagePlusk
+i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÇ Ç(
+
+%63int"__id*
+""≥∞
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÇ Ç(
+%64void"ij.CompositeImage#setMode(I)V*
+
+ciij.CompositeImage*
+
+
+%63int2
+setMode(I)π∂
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÉ É(
+%65void"'ij.CompositeImage#resetDisplayRanges()V*
+
+ciij.CompositeImage2resetDisplayRanges()Ø¨
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÑ Ñ(
+%66void""ij.CompositeImage#updateAndDraw()V*
+
+ciij.CompositeImage2updateAndDraw()*
+1*ç
+3M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˝ ˝(ÿ
+’
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˝ ˝(S 
+%56java.awt.image.ColorModel"Fij.LookUpTable#createGrayscaleColorModel(Z)Ljava/awt/image/ColorModel;*"
+ij.LookUpTable*
+""ÑÅ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˝ ˝(T
+%57void"9ij.ImageStack#setColorModel(Ljava/awt/image/ColorModel;)V*
+
+stackij.ImageStack*"
+ 
+%56java.awt.image.ColorModel2*setColorModel(Ljava/awt/image/ColorModel;)Ä˝
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˛ ˛(
+%58void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+impij.ImagePlus*
+""*
+
+stackij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaˇ ˇ( 
+%59ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()k
+i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaˇ, ˇ(H
+
+%60int"__id*
+""‡›
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaˇ ˇ(I
+%61void",ij.process.ImageProcessor#setThreshold(DDI)V*"
+ 
+%59ij.process.ImageProcessor*2ˇ*2ˇ*
+
+
+%60int2setThreshold(DDI)•¢
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÄ Ä(
+%62boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+1*£
+5M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˚ ˚(≈¬
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java˚ ˚(
+%55void")ij.process.ImageProcessor#applyTable([I)V*!
+
+ipij.process.ImageProcessor*
+""2applyTable([I)*
+3
+23*ÿ
+40M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java…1 …(8y
+w
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java…& …(9
+%1double[]"__id*
+
+%2double[]*
+36
+37*Ç
+41M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java» »(¢ü
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java» »("	
+%0int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+39
+40*ˆ
+20M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ Á(ò
+ï
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ Á(
+%37java.lang.String"__id*%*#
+ij.plugin.Thresholder"
+methodú
+ô
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ! Á(+
+%38java.lang.String"__id*)*'
+ij.plugin.Thresholder"
+
+background“œ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ! Á(;
+%39boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%38java.lang.String*	
+Light2equals(Ljava/lang/Object;)k
+i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ= Á(Y
+
+%40int"__id*
+""ûõ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÁ Á(Z
+%41void"Aij.process.ImageProcessor#setAutoThreshold(Ljava/lang/String;ZI)V*!
+
+ipij.process.ImageProcessor*
+
+%37java.lang.String*
+""*
+
+
+%40int2&setAutoThreshold(Ljava/lang/String;ZI)*
+19*õ
+21M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÂ Â(k
+i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÂ Â(/
+
+%34int"__id*
+""k
+i
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÂ1 Â(M
+
+%35int"__id*
+""Â‚
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.javaÂ Â(N
+%36void"/ij.process.ImageProcessor#setAutoThreshold(II)V*!
+
+ipij.process.ImageProcessor*
+
+
+%34int*
+
+
+%35int2setAutoThreshold(II)*
+19*”
+22M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‰# ‰(-ú
+ô
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‰# ‰(-
+%32java.lang.String"__id*)*'
+ij.plugin.Thresholder"
+
+background‘—
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‰# ‰(?
+%33boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%32java.lang.String*	
+Default2equals(Ljava/lang/Object;)*
+20
+21*È
+23M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‚ ‚(ì
+ê
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‚ ‚(
+%28void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""·ﬁ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java„ „(, 
+%29ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)ù
+ö
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java„ „(-
+ipij.process.ImageProcessor"__id*"
+ 
+%29ij.process.ImageProcessorò
+ï
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‰ ‰(
+%30java.lang.String"__id*%*#
+ij.plugin.Thresholder"
+method‘—
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Thresholder.java‰ ‰(
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%30java.lang.String*	
+Default2equals(Ljava/lang/Object;)*
+20
+22:
+impij.ImagePlusB
+ij.plugin.Thresholder

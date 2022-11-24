@@ -1,0 +1,314 @@
+
+Yij.plugin.AppearanceOptions#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZQ
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javap p(!"28*◊
+13S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaè è(ƒ¡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaè è(+
+
+%20int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaê ê(/
+
+%21int"$ij.ImagePlus#getDefault16bitRange()I*"
+ij.ImagePlus∆
+√
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaë ë(:
+
+%22int"2ij.plugin.frame.ContrastAdjuster#set16bitRange(I)I*$""
+ ij.plugin.frame.ContrastAdjuster*
+""µ
+≤
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaí í(1
+%23ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerä
+á
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaí í(2
+impij.ImagePlus"__id*
+
+%23ij.ImagePlus*
+11
+12*Ë
+24Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java| |(	Ñ
+Å
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java| |(
+%11boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+22
+23*ô
+14S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaç ç(∑¥
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaç ç(5
+%19void""java.awt.Window#setAlwaysOnTop(Z)V*
+
+ij	ij.ImageJ*
+""2setAlwaysOnTop(Z)*
+13*û
+25Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java{ {(æª
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java{% {(8
+%10boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+24*Å
+15S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaå å(ï
+í
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaå å(
+%18	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJÉ
+Ä
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaå å( 
+ij	ij.ImageJ"__id*
+
+%18	ij.ImageJ*
+13
+14*•
+26Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javar r(Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javar r(+
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javas s(,
+%3boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javat t(+
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javau u((
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javav v(-
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javax x(*
+%7boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ω∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javay y()
+%8boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Å
+
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaz z(
+%9boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+24
+25*„
+27Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(É
+Ä
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(!
+
+%1void"ij.IJ#wait(I)V*	"
+ij.IJ*2d*
+26*´
+17S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaà à(≈¬
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaâ â(
+%17void",ij.plugin.AppearanceOptions#repaintWindow()V*
+ij.plugin.AppearanceOptions2repaintWindow()*
+13
+15*Á
+28Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(É
+Ä
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(
+%0boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+26
+27*Ø
+19S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaÑ Ñ(≈¬
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaÖ Ö(
+%16void",ij.plugin.AppearanceOptions#repaintWindow()V*
+ij.plugin.AppearanceOptions2repaintWindow()*
+13
+15
+17*∑
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaö	 ö("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaö ö(
+""*å
+2S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaò ò(¨©
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaò ò(
+%35void"ij.ImagePlus#updateAndDraw()V*
+
+impij.ImagePlus2updateAndDraw()*
+1*Á
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaó ó(¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaó" ó(&
+%33ij.process.LUT[]"__id*)*'
+ij.plugin.AppearanceOptions"
+luts‚ﬂ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaó ó('
+%34void"-ij.CompositeImage#setLuts([Lij/process/LUT;)V*
+
+impij.ImagePlus*
+
+%33ij.process.LUT[]2setLuts([Lij/process/LUT;)*
+2*Ö
+4S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javañ. ñ(2¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javañ. ñ(2
+%32ij.process.LUT[]"__id*)*'
+ij.plugin.AppearanceOptions"
+luts*
+2
+3*é
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javañ ñ(´®
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javañ ñ(*
+%31boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+4*ó
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaï ï(¥±
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaï ï(
+%30void"!ij.ImagePlus#resetDisplayRange()V*
+
+impij.ImagePlus2resetDisplayRange()*
+2
+5*¶
+7S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaîI î(L√¿
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaîI î(\
+%29boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+calij.measure.Calibration2isSigned16Bit()*
+6
+1*ı
+8S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaî% î((üú
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaî% î(2
+
+%27int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()q
+o
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaî4 î(D
+
+%28int"__id*
+""*
+7
+1*°
+21S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaÄ Ä(≥∞
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaÅ Å(	
+%15void"#ij.plugin.AppearanceOptions#draw()V*
+ij.plugin.AppearanceOptions2draw()*
+13
+15
+17
+19*Ç
+10S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(8û
+õ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(8
+calij.measure.Calibration"__id*
+
+%24ij.measure.Calibration*
+8
+1* 
+22Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~(ª∏
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~(&
+%13double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ú
+ô
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~('
+%14void"ij.Prefs#setGuiScale(D)V*"
+
+ij.Prefs*
+
+%13double*
+13
+15
+17
+19
+21*Ù
+11S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì3 ì(7í
+è
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì3 ì(7
+%24ij.measure.Calibration"__id*
+
+%26
+<nulltype>*
+10*⁄
+12S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(!◊‘
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(2
+%25ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()û
+õ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(2
+%24ij.measure.Calibration"__id*
+
+%25ij.measure.Calibration*
+10*õ
+23Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java} }(ª∏
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/AppearanceOptions.java} }()
+%12double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+22:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.AppearanceOptions

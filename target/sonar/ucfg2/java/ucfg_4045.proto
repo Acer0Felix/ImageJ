@@ -1,0 +1,34 @@
+
+Nij.plugin.EventListener#commandExecuting(Ljava/lang/String;)Ljava/lang/String;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaK K("1*¹
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaL L(­
+ª
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaL	 L('
+%0java.lang.String"__concat*
+Command executed: \"*
+
+commandjava.lang.Stringž
+›
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaL	 L(4
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+
+\" command£
+ 
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaL L(5
+
+%2void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%1java.lang.String"n
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/EventListener.javaM M(
+
+commandjava.lang.String:
+commandjava.lang.StringB
+ij.plugin.EventListener

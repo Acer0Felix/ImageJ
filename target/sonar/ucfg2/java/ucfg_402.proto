@@ -1,0 +1,282 @@
+
+Mij.macro.ExtensionDescriptor#dispatch(Lij/macro/Functions;)Ljava/lang/String;T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaú ú("23*©
+13T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java– –( Ã
+À
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java– –(;
+%10boolean".ij.macro.ExtensionDescriptor#isOptionalArg(I)Z* "
+ij.macro.ExtensionDescriptor*
+""*
+8
+12*§
+17T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (êç
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (#
+
+%9void"/ij.macro.Interpreter#error(Ljava/lang/String;)V* 
+
+interpij.macro.Interpreter*
+Argument expected2error(Ljava/lang/String;)"^
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java‘ ‘(
+""*
+19T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaŽ  Ž((‡„
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaŽ Ž(1
+%8java.lang.Object[]"java.lang.Object[]—
+”
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaŽ Ž(2
+argsjava.lang.Object[]"__id*
+
+%8java.lang.Object[]*
+13
+17
+8
+10*Ï
+1T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¨ ¨("t
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¨ ¨(
+
+retValjava.lang.String*Ì
+3T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¤ ¤(§
+¤
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¤. ¤(6
+%23ij.macro.Variable"
+__arrayGet*
+
+vArgsij.macro.Variable[]*
+""¤
+¡
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¤8 ¤(?
+%24java.lang.Object"
+__arrayGet*
+
+argsjava.lang.Object[]*
+""—
+”
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java¤ ¤(@
+%25void"Vij.macro.ExtensionDescriptor#convertOutputType(Lij/macro/Variable;Ljava/lang/Object;)V* "
+ij.macro.ExtensionDescriptor*
+
+%23ij.macro.Variable*
+
+%24java.lang.Object*
+4
+1*¨
+4T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java£
+ £(Á
+¾
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java£
+ £(6
+%22boolean",ij.macro.ExtensionDescriptor#isOutputArg(I)Z* "
+ij.macro.ExtensionDescriptor*
+""*	
+3
+4
+1*¼
+8T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java   (®
+«
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java   (
+%19ij.macro.MacroExtension"__id*-*+
+ij.macro.ExtensionDescriptor"	
+handler¤
+¡
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java ,  (0
+%20java.lang.String"__id***(
+ij.macro.ExtensionDescriptor"
+nameçä
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java   (7
+%21java.lang.String"`ij.macro.MacroExtension#handleExtension(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;* 
+
+%19ij.macro.MacroExtension*
+
+%20java.lang.String*
+
+argsjava.lang.Object[]26handleExtension(Ljava/lang/String;[Ljava/lang/Object;)–
+“
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java   (8
+retValjava.lang.String"__id*
+
+%21java.lang.String*
+4
+1*·
+20T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java† †(·´
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java† †(%
+%7ij.macro.Variable[]"Xij.macro.ExtensionDescriptor#parseArgumentList(Lij/macro/Functions;)[Lij/macro/Variable;* 
+ij.macro.ExtensionDescriptor*
+
+funcij.macro.Functions2'parseArgumentList(Lij/macro/Functions;)š
+—
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java† †(%
+vArgsij.macro.Variable[]"__id*
+
+%7ij.macro.Variable[]*
+19*å
+21T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (
+½º
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (
+
+%5void"$ij.macro.Interpreter#getLeftParen()V* 
+
+interpij.macro.Interpreter2getLeftParen()…
+‚
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaƒ ƒ(
+vArgsij.macro.Variable[]"__id*
+""¶³
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java„ „(!	
+%6int"!ij.macro.Interpreter#nextToken()I* 
+
+interpij.macro.Interpreter2nextToken()*
+19
+20*Š
+10T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (
+§
+¤
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaI (Q
+%16ij.macro.Variable"
+__arrayGet*
+
+vArgsij.macro.Variable[]*
+""Æ
+Ã
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (R
+%17java.lang.Object"jij.macro.ExtensionDescriptor#convertVariable(Lij/macro/Interpreter;ILij/macro/Variable;)Ljava/lang/Object;* "
+ij.macro.ExtensionDescriptor* 
+
+interpij.macro.Interpreter*
+""*
+
+%16ij.macro.Variable­
+ª
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java (R
+%18"
+__arraySet*
+
+argsjava.lang.Object[]*
+""*
+
+%17java.lang.Object*
+13
+8
+10*­
+22T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaþ þ(·´
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaþ þ(
+
+%1void"!ij.macro.Interpreter#getParens()V* 
+
+interpij.macro.Interpreter2getParens()­
+ª
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaÿ ÿ(
+%2ij.macro.MacroExtension"__id*-*+
+ij.macro.ExtensionDescriptor"	
+handler£
+ 
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaÿ% ÿ()
+%3java.lang.String"__id***(
+ij.macro.ExtensionDescriptor"
+nameÎË
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaÿ ÿ(0
+%4java.lang.String"`ij.macro.MacroExtension#handleExtension(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*
+
+%2ij.macro.MacroExtension*
+
+%3java.lang.String*
+""26handleExtension(Ljava/lang/String;[Ljava/lang/Object;)"p
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaÿ ÿ(1
+
+%4java.lang.String*¬
+23T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaû û(¥
+¢
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaû û($
+%0ij.macro.Interpreter"__id*(*&
+
+funcij.macro.Functions"
+interp
+š
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaû û(%
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*
+21
+22*‡	
+12T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java—
+ —(œ
+™
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java— —(1
+%11java.lang.String"__concat*
+Expected argument *
+""¦
+£
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java— —(=
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+	 of type Û
+Ø
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java—> —(j
+%13java.lang.String"=ij.macro.ExtensionDescriptor#getTypeName(I)Ljava/lang/String;* "
+ij.macro.ExtensionDescriptor*
+""²
+¯
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java— —(j
+%14java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.Stringïì
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java—
+ —(k
+%15void"/ij.macro.Interpreter#error(Ljava/lang/String;)V* 
+
+interpij.macro.Interpreter*
+
+%14java.lang.String2error(Ljava/lang/String;)"^
+T
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.java˜
+ ˜(
+"":
+funcij.macro.FunctionsB 
+ij.macro.ExtensionDescriptor

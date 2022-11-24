@@ -1,0 +1,45 @@
+
+7ij.ImagePlus#getImageProperties()Ljava/util/Properties;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaû û(("3*ï
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaı ı((zx
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaı ı(&
+%1java.util.Properties"java.util.Properties
+Š
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaı ı((
+%2"java.util.Properties#<init>()V*
+
+%1java.util.Properties’
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaı ı((#
+ij.ImagePlus"
+imageProperties"__id*
+
+%1java.util.Properties*
+1*æ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaü	 ü(’
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaü	 ü(
+%0java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties*
+2
+1*Ä
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaş ş(’
+
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaş ş(
+%3java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties"d
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaş ş(
+
+%3java.util.PropertiesB
+ij.ImagePlus

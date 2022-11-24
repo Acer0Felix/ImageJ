@@ -1,0 +1,97 @@
+
+Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java×: ×:(%"8*
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ: Þ:(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ: Þ:(	
+%3ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp–
+“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ: Þ:(
+%4java.lang.String"__concat*
+\"*
+
+titlejava.lang.String£
+ 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ: Þ:(/
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+\" table not foundßÜ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ: Þ:(0
+
+%6void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%3ij.macro.Interpreter*
+
+%5java.lang.String2error(Ljava/lang/String;)*
+1*Å
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ: Ü:(Ó
+Ð
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ: Ü:("
+%2ij.measure.ResultsTable"Dij.plugin.filter.Analyzer#getResultsTable()Lij/measure/ResultsTable;*"
+ij.plugin.filter.Analyzer•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ: Ü:("
+rtij.measure.ResultsTable"__id*
+
+%2ij.measure.ResultsTable*
+2
+1*¯
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ: Û:(ÒÏ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ: Û:()
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
+Results*
+
+titlejava.lang.String2equals(Ljava/lang/Object;)*	
+2
+4
+1*Ø
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ:	 Ú:(|
+z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ: Ú:(
+titlejava.lang.String"__id*	
+Results*	
+2
+5
+1*â
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ: Ø:(ê
+ç
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ: Ø:( 
+%0ij.measure.ResultsTable"Eij.macro.Functions#getRT(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+titlejava.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ: Ø:(!
+rtij.measure.ResultsTable"__id*
+
+%0ij.measure.ResultsTable*
+2
+5
+7
+1*¾
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaß:	 ß:("m
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaß: ß:(
+
+rtij.measure.ResultsTable:
+titlejava.lang.StringB
+ij.macro.Functions

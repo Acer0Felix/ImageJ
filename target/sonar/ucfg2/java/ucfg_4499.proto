@@ -1,0 +1,67 @@
+
+?ij.gui.ShapeRoi#qBezLength(Ljava/awt/geom/QuadCurve2D$Double;)DG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaª ª("7*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java²
+ ²("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java² ²(
+""*˜
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java± ±(´
+±
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java±( ±(-&
+%3 java.awt.geom.QuadCurve2D$Double"
+__arrayGet**
+(
+cc"java.awt.geom.QuadCurve2D$Double[]*
+""Š‡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java± ±(.
+%4double"?ij.gui.ShapeRoi#qBezLength(Ljava/awt/geom/QuadCurve2D$Double;)D*
+ij.gui.ShapeRoi*(
+&
+%3 java.awt.geom.QuadCurve2D$Double2.qBezLength(Ljava/awt/geom/QuadCurve2D$Double;)*
+2
+4*Ç
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java° °(&ÅÂ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java° °()(
+%2"java.awt.geom.QuadCurve2D$Double[]"`ij.gui.ShapeRoi#qBezSplit(Ljava/awt/geom/QuadCurve2D$Double;)[Ljava/awt/geom/QuadCurve2D$Double;*
+ij.gui.ShapeRoi*'
+%
+c java.awt.geom.QuadCurve2D$Double2-qBezSplit(Ljava/awt/geom/QuadCurve2D$Double;)¨
+¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java° °(*(
+cc"java.awt.geom.QuadCurve2D$Double[]"__id**
+(
+%2"java.awt.geom.QuadCurve2D$Double[]*
+2
+4*ä
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java« «(…‚
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¬ ¬(
+%0double"=ij.gui.ShapeRoi#qclength(Ljava/awt/geom/QuadCurve2D$Double;)D*
+ij.gui.ShapeRoi*'
+%
+c java.awt.geom.QuadCurve2D$Double2,qclength(Ljava/awt/geom/QuadCurve2D$Double;)…‚
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java­ ­(
+%1double"=ij.gui.ShapeRoi#qplength(Ljava/awt/geom/QuadCurve2D$Double;)D*
+ij.gui.ShapeRoi*'
+%
+c java.awt.geom.QuadCurve2D$Double2,qplength(Ljava/awt/geom/QuadCurve2D$Double;)*
+6
+1*Ÿ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java´ ´(
+"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaµ µ(
+"":%
+c java.awt.geom.QuadCurve2D$DoubleB
+ij.gui.ShapeRoi

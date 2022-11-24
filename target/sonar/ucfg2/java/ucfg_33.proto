@@ -1,0 +1,851 @@
+
+?ij.plugin.HyperStackConverter#convertStackToHS(Lij/ImagePlus;)VU
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java§ §("44*—
+24U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaœ œ(ª∏
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaœ œ(%
+%41ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()´®
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaœ œ(1
+%42boolean"ij.ImageStack#isVirtual()Z*
+
+%41ij.ImageStack2isVirtual()*
+22
+23*©
+25U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaŒ Œ(Ã…
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaŒ Œ(0
+%39void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)s
+q
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaœ œ(
+
+%40int"__id*
+""*
+24
+22*≠
+26U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÀ À(Ó
+Î
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÀ À(O
+%38void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+HyperStack Converter*,*
+(channels x slices x frames <> stack size"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÃ Ã(
+
+""*™
+28U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java« «(Î
+Ë
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java« «(L
+%37void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+HyperStack Converter*)'
+%RGB stacks are limited to one channel"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java» »(
+
+""*∏
+31U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√ √(<˘ˆ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√ √(<
+%36void"5ij.plugin.CompositeConverter#run(Ljava/lang/String;)V*%
+#
+%31ij.plugin.CompositeConverter*
+
+%33java.lang.String2run(Ljava/lang/String;)"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaƒ ƒ(
+
+""*¯
+32U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√4 √(;î
+ë
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√4 √(;
+%33java.lang.String"__id*
+
+%35java.lang.String*
+31*è
+10U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‚ ‚(©
+¶
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‚ ‚( 
+%65boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+8
+9*¯
+33U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√( √(3î
+ë
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√( √(3
+%33java.lang.String"__id*
+
+%34java.lang.String*
+31*∏
+34U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√ √(ùö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√ √(#
+%31ij.plugin.CompositeConverter"ij.plugin.CompositeConverter∞
+≠
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java√ √(
+%32"&ij.plugin.CompositeConverter#<init>()V*%
+#
+%31ij.plugin.CompositeConverter*
+32
+33*˙
+12U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‡ ‡(√¿
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‡ ‡( 
+%63void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+imp2ij.ImagePlus*22setOpenAsHyperStack(Z)«ƒ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java· ·(
+%64ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()*
+4
+6
+10
+0*Ù
+13U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java€
+ €(«ƒ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java€
+ €(
+%53ij.ImagePlus",ij.ImagePlus#createImagePlus()Lij/ImagePlus;*
+
+impij.ImagePlus2createImagePlus()ç
+ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java€ €(
+imp2ij.ImagePlus"__id*
+
+%53ij.ImagePlus¡æ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‹ ‹(
+%54java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()≈¬
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‹! ‹(4
+%55ij.ImageStack"+ij.ImagePlus#getImageStack()Lij/ImageStack;*
+
+impij.ImagePlus2getImageStack()öó
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‹ ‹(5
+%56void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+imp2ij.ImagePlus*
+
+%54java.lang.String*
+
+%55ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)´®
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java› ›((
+
+%57int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()ß§
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java›* ›(:
+
+%58int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()ß§
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java›< ›(L
+
+%59int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()ﬂ‹
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java› ›(M
+%60void" ij.ImagePlus#setDimensions(III)V*
+
+imp2ij.ImagePlus*
+
+
+%57int*
+
+
+%58int*
+
+
+%59int2setDimensions(III)‹Ÿ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaﬁ ﬁ( 
+%61ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor() «
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaﬁ ﬁ('
+%62void"+ij.process.ImageProcessor#resetMinAndMax()V*"
+ 
+%61ij.process.ImageProcessor2resetMinAndMax()*
+12*–
+14U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java⁄ ⁄(√¿
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java⁄ ⁄(
+%50java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+impij.ImagePlus2
+getClass()≈¬
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java⁄ ⁄(%
+%51java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%50java.lang.Class2	getName()⁄◊
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java⁄ ⁄(8
+
+%52int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+%51java.lang.String*	
+Image5D2indexOf(Ljava/lang/String;)*
+13
+12*≤
+37U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java¡ ¡(¬ø
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java¡ ¡(!
+%30boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+25
+26
+28
+34* 
+15U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaŸ Ÿ(Ê„
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaŸ Ÿ((
+%49void"-ij.CompositeImage#setLuts([Lij/process/LUT;)V*
+
+imp2ij.ImagePlus*
+
+lutsij.process.LUT[]2setLuts([Lij/process/LUT;)*
+12*…
+38U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaª ª(∆√
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaª ª($
+
+%25int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()øº
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaº º(&
+%26double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()øº
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaΩ Ω($
+%27double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()øº
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaæ æ($
+%28double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∆√
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaø ø($
+
+%29int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()*
+25
+37
+26
+28
+34*œ
+16U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java◊ ◊( áÑ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java◊ ◊(
+%47ij.CompositeImage"ij.CompositeImage»
+≈
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java◊
+ ◊()
+%48"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%47ij.CompositeImage*
+
+impij.ImagePlus*
+""í
+è
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java◊ ◊()
+imp2ij.ImagePlus"__id*
+
+%47ij.CompositeImage*
+15
+12*º
+39U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∫ ∫("_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∫ ∫(
+""*Â
+17U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java÷3 ÷(7Å
+
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java÷, ÷(7
+lutsij.process.LUT[]"__id*
+""*
+16*æ
+19U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java’ ’(æª
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java’ ’(
+%46ij.process.LUT[]"'ij.ImagePlus#getLuts()[Lij/process/LUT;*
+
+impij.ImagePlus2	getLuts()ï
+í
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java’ ’(
+lutsij.process.LUT[]"__id*
+
+%46ij.process.LUT[]*
+16
+17*s
+0 "l
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaˆ ˆ(
+implicit return*é
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Ú(∏
+µ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Ú(Q
+%90java.lang.String"__concat*1/
+-imp2 = HyperStackConverter.toHyperStack(imp, *
+""†
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Ú(V
+%91java.lang.String"__concat*
+
+%90java.lang.String*
+, †
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(
+%92java.lang.String"__concat*
+
+%91java.lang.String*
+""†
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(
+%93java.lang.String"__concat*
+
+%92java.lang.String*
+, †
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(
+%94java.lang.String"__concat*
+
+%93java.lang.String*
+""¢
+ü
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û( 
+%95java.lang.String"__concat*
+
+%94java.lang.String*
+, \"µ
+≤
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(&
+%96java.lang.String"__concat*
+
+%95java.lang.String*
+
+orderjava.lang.String§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(/
+%97java.lang.String"__concat*
+
+%96java.lang.String*
+
+\", \"¶
+£
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÛ0 Û(;
+%98java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*
+""≥
+∞
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(;
+%99java.lang.String"__concat*
+
+%97java.lang.String*
+
+%98java.lang.String£
+†
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(B
+%100java.lang.String"__concat*
+
+%99java.lang.String*
+\");‹
+Ÿ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÚ Û(C
+%101void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%100java.lang.String*
+0*¨
+2U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ Ô(∏
+µ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ Ô(Q
+%80java.lang.String"__concat*1/
+-imp2 = HyperStackConverter.toHyperStack(imp, *
+""†
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ Ô(V
+%81java.lang.String"__concat*
+
+%80java.lang.String*
+, †
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (
+%82java.lang.String"__concat*
+
+%81java.lang.String*
+""†
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (
+%83java.lang.String"__concat*
+
+%82java.lang.String*
+, †
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (
+%84java.lang.String"__concat*
+
+%83java.lang.String*
+""¢
+ü
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ ( 
+%85java.lang.String"__concat*
+
+%84java.lang.String*
+, \"¶
+£
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java! (,
+%86java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*
+""≥
+∞
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (,
+%87java.lang.String"__concat*
+
+%85java.lang.String*
+
+%86java.lang.String¢
+ü
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (3
+%88java.lang.String"__concat*
+
+%87java.lang.String*
+\");⁄
+◊
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÔ (4
+%89void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%88java.lang.String*
+0*¿
+3U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÌ Ì(É
+Ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÌ Ì(
+%75java.lang.String[]"__id*
+""§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÌ Ì("
+%76java.lang.String"
+__arrayGet*
+
+%75java.lang.String[]*
+""ñ
+ì
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÌ Ì(#
+orderjava.lang.String"__id*
+
+%76java.lang.StringÉ
+Ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÓ Ó(
+%77java.lang.String[]"__id*
+""†
+ù
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÓ Ó(
+%78java.lang.String"
+__arrayGet*
+
+%77java.lang.String[]*2 ÏÈ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÓ Ó(
+%79boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+orderjava.lang.String*
+
+%78java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*ï
+4U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÏ Ï(!∞
+≠
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÏ Ï(.
+%74boolean"&ij.plugin.frame.Recorder#scriptMode()Z*"
+ij.plugin.frame.Recorder*
+3
+0*Ã
+6U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaË Ë(¡æ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaË Ë(#
+%69ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()‚ﬂ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaË Ë($
+%70void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+imp2ij.ImagePlus*
+
+%69ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)úô
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÈ È(
+%71void"ij.ImagePlus#hide()V*
+
+impij.ImagePlus2hide()»≈
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÍ" Í(2
+%72ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+imp2ij.ImagePlus2getWindow()‘
+—
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÍ Í(3
+%73void"8ij.WindowManager#setCurrentWindow(Lij/gui/ImageWindow;)V*"
+ij.WindowManager*
+
+%72ij.gui.ImageWindow*
+4
+0*∂
+8U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÂ Â(âÜ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÂ Â(
+%67ij.gui.StackWindow"ij.gui.StackWindow¬
+ø
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÂ Â(
+%68"*ij.gui.StackWindow#<init>(Lij/ImagePlus;)V*
+
+%67ij.gui.StackWindow*
+
+imp2ij.ImagePlus*	
+4
+6
+0*Ö
+9U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java„ „(ùö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java„ „(
+%66void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*	
+4
+6
+0*ﬁ
+40U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaπ π(∑¥
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaπ π(
+%23void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ºπ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∫ ∫(
+%24boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+38
+39*¿
+41U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∂ ∂(…∆
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∂ ∂(
+%21void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2 *2 2setInsets(III)êç
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∑ ∑(B
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*'%
+#Convert RGB to 3 Channel Hyperstack*
+""2 addCheckbox(Ljava/lang/String;Z)*
+40*„
+42U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java≠ ≠(®•
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java≠ ≠(!	
+%5int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()àÖ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÆ Æ(6
+%6java.lang.String[]"java.lang.String[]õ
+ò
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÆ Æ(6
+%7"
+__arraySet*
+
+%6java.lang.String[]*2 *
+	Compositeô
+ñ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÆ Æ(6
+%8"
+__arraySet*
+
+%6java.lang.String[]*2*	
+Colorù
+ö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÆ Æ(6
+%9"
+__arraySet*
+
+%6java.lang.String[]*2*
+	Grayscaleô
+ñ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaÆ Æ(7
+modesjava.lang.String[]"__id*
+
+%6java.lang.String[]çä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaØ Ø(&
+%10ij.gui.GenericDialog"ij.gui.GenericDialogÕ
+ 
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaØ Ø(?
+%11"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%10ij.gui.GenericDialog*
+Convert to HyperStackõ
+ò
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaØ Ø(@
+gdij.gui.GenericDialog"__id*
+
+%10ij.gui.GenericDialogÉ
+Ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∞ ∞(
+%12java.lang.String[]"__id*
+""É
+Ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∞! ∞('
+%13java.lang.String[]"__id*
+""§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∞! ∞(1
+%14java.lang.String"
+__arrayGet*
+
+%13java.lang.String[]*
+""Á‰
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java∞ ∞(2
+%15void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Order:*
+
+%12java.lang.String[]*
+
+%14java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)àÖ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java± ±(3
+%16void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Channels (c):*
+""*2 2%addNumericField(Ljava/lang/String;DI)ÜÉ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java≤ ≤(/
+%17void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Slices (z):*
+""*2 2%addNumericField(Ljava/lang/String;DI)ÜÉ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java≥ ≥(/
+%18void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Frames (t):*
+""*2 2%addNumericField(Ljava/lang/String;DI)§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java¥' ¥(/
+%19java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*2Ì
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java¥ ¥(0
+%20void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Display Mode:*
+
+modesjava.lang.String[]*
+
+%19java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+40
+41*ë
+20U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‘ ‘(©¶
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java‘ ‘(&
+
+%45int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+14
+19*ë
+43U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java™ ™(“
+œ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java™ ™(4
+
+%4void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Stack to HyperStack*
+Stack required"_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java´ ´(
+
+""*ı
+21U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java” ”(ç
+ä
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java” ”(
+imp2ij.ImagePlus"__id*
+
+impij.ImagePlus*
+14
+20*õ
+44U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java• •(™ß
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java• •(*	
+%0int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()¶£
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java¶ ¶(&	
+%1int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()¶£
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.javaß ß(&	
+%2int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()¥±
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java® ®()	
+%3int"!ij.ImagePlus#getImageStackSize()I*
+
+impij.ImagePlus2getImageStackSize()*
+42
+43*‡
+22U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java“ “(
+¸˘
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java“ “(
+%44void"7ij.plugin.HyperStackConverter#shuffle(Lij/ImagePlus;I)V*!
+ij.plugin.HyperStackConverter*
+
+impij.ImagePlus*
+""2shuffle(Lij/ImagePlus;I)*
+21*“
+23U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java– –(Ó
+Î
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackConverter.java– –(%
+%43void"Cij.plugin.HyperStackConverter#reorderVirtualStack(Lij/ImagePlus;I)V*!"
+ij.plugin.HyperStackConverter*
+
+impij.ImagePlus*
+""*
+21:
+impij.ImagePlusB!
+ij.plugin.HyperStackConverter

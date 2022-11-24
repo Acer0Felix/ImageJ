@@ -1,0 +1,93 @@
+
+7ij.gui.Line#getFloatPolygon(D)Lij/process/FloatPolygon;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java˛ ˛($"4*Œ
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÑ Ñ(é
+ã
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÜ Ü(
+%4double"ij.gui.Roi#length(DD)D*"
+
+ij.gui.Roi*
+""*
+""π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaë ë(%
+
+%5void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaí í(%
+
+%6void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaì ì(%
+
+%7void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaî î(%
+
+%8void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)*
+1*≈
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÅ Å(π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÅ Å(%
+
+%2void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)π∂
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÇ Ç(%
+
+%3void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)*
+1*ˆ
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaˇ ˇ(%}
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaˇ ˇ(#
+%0ij.process.FloatPolygon"ij.process.FloatPolygoní
+è
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaˇ ˇ(%
+%1"!ij.process.FloatPolygon#<init>()V*
+
+%0ij.process.FloatPolygonç
+ä
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaˇ ˇ(&
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon*
+2
+3*Ø
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javañ	 ñ(
+"e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javañ ñ(
+
+pij.process.FloatPolygon:
+""B
+ij.gui.Line

@@ -1,0 +1,31 @@
+
+/ij.process.ImageProcessor#getAutoThreshold([I)IQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaæ æ("13"14*û
+13Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaû û(œ
+™
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaü ü(	
+%0int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*2*
+1*´
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaö ö("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaø ø(
+""*Î
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java‹ ‹(˜
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaŒ Œ(!
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java (
+"":
+""B
+ij.process.ImageProcessor

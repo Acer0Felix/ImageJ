@@ -1,0 +1,67 @@
+
+Cij.plugin.filter.ParticleAnalyzer#isThresholdedRGB(Lij/ImagePlus;)ZY
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java« «(!"6*Ô
+2Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°, °(0ÃÀ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°, °(<	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()¨¥
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°> °(M	
+%4int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+1*ø
+3Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯( ¯(+¢
+Ÿ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ¯(,!
+maskij.process.ImageProcessor"__id*
+
+objjava.lang.ObjectÁ¾
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°	 °(	
+%1int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()¦£
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °((	
+%2int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+2
+1*Ã
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java®
+ ®("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java® ®(
+""*û
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(øõ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(&
+%0java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Mask2getProperty(Ljava/lang/String;)—
+”
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬('
+objjava.lang.Object"__id*
+
+%0java.lang.Object*
+3
+4*Ã
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °(N"c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °(N
+"":
+impij.ImagePlusB%#
+!ij.plugin.filter.ParticleAnalyzer

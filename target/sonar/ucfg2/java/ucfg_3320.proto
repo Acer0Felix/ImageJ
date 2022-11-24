@@ -1,0 +1,80 @@
+
+2ij.macro.Functions#trimArray()[Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÓ0 Ó0("9*Ñ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ0 Ü0(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ0 Ü0(
+%5ij.macro.Variable"
+__arrayGet*
+
+a1ij.macro.Variable[]*
+""¸µ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ0 Ü0("
+%6java.lang.Object"+ij.macro.Variable#clone()Ljava/lang/Object;*
+
+%5ij.macro.Variable2clone() 
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ0 Ü0("
+%7"
+__arraySet*
+
+a2ij.macro.Variable[]*
+""*
+
+%6java.lang.Object*
+3
+1*ç
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ0 Ú0(#~|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ0 Ú0($
+%4ij.macro.Variable[]"ij.macro.Variable[]
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ0 Ú0(%
+a2ij.macro.Variable[]"__id*
+
+%4ij.macro.Variable[]*
+3
+1*š
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÔ0 Ô0(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÔ0 Ô0(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÔ0 Ô0(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()Á¾
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÕ0 Õ0(
+%2ij.macro.Variable[]"1ij.macro.Functions#getArray()[Lij/macro/Variable;*
+ij.macro.Functions2
+getArray()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÕ0 Õ0(
+a1ij.macro.Variable[]"__id*
+
+%2ij.macro.Variable[]¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java×0 ×0(
+%3double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()*
+5*º
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ0	 Ý0("i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ0 Ý0(
+
+a2ij.macro.Variable[]B
+ij.macro.Functions

@@ -1,0 +1,143 @@
+
+:ij.measure.CurveFitter#doCustomFit(Ljava/lang/String;[DZ)IN
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaî î("11*≠
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaß
+ ß("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaß ß(
+""*Æ
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(ù
+ö
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(
+%12ij.macro.Interpreter"__id*%*#
+ij.measure.CurveFitter"
+macro∞≠
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(
+%13boolean" ij.macro.Interpreter#wasError()Z*
+
+%12ij.macro.Interpreter2
+wasError()*
+2
+1*§
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °(ú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °(
+%6ij.macro.Interpreter"__id*%*#
+ij.measure.CurveFitter"
+macro™ß
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java° °(
+%7java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%6ij.macro.Interpreter*
+
+codejava.lang.String*
+""2)run(Ljava/lang/String;Ljava/lang/String;)*
+3*“
+
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaô ô(¶
+£
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaô ô(+
+ij.measure.CurveFitter"
+customFormula"__id*
+
+equationjava.lang.String∞
+≠
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ ú(
+%1java.lang.String"__concat*
+var x, a, b, c, d, e, f;\n*
+function dummy() {}\nØ
+¨
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ ù(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+equationjava.lang.Stringò
+ï
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaõ ù(
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+;\nç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaö ù(
+codejava.lang.String"__id*
+
+%3java.lang.StringÖÇ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü ü(
+%4ij.macro.Interpreter"ij.macro.Interpreteró
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü
+ ü(
+%5"ij.macro.Interpreter#<init>()V*
+
+%4ij.macro.Interpreterú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü ü(#
+ij.measure.CurveFitter"
+macro"__id*
+
+%4ij.macro.Interpreter*
+8*Æ
+10N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaò
+ ò("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaò ò(
+""*≈
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaï ï(é
+ã
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaï ï(+
+ij.measure.CurveFitter"
+customFormula"__id*
+""‘
+—
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javañ ñ(+	
+%0int"8ij.measure.CurveFitter#getNumParams(Ljava/lang/String;)I*"
+ij.measure.CurveFitter*
+
+equationjava.lang.String*
+9
+10*ﬁ
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java® ®($l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java© ©(
+
+%14int"__id*
+""¿Ω
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java© ©(
+%15void"!ij.measure.CurveFitter#doFit(IZ)V*
+ij.measure.CurveFitter*
+
+
+%14int*
+""2	doFit(IZ)"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java™ ™(
+"":
+equationjava.lang.String:
+"":
+""B
+ij.measure.CurveFitter

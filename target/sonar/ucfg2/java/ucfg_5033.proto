@@ -1,0 +1,63 @@
+
+8ij.CompositeImage#createLutFromBytes([B)Lij/process/LUT;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java” ”("13"14*í
+13I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java÷ ÷(h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java÷ ÷(
+rbyte[]"__id*
+""h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java◊ ◊(
+gbyte[]"__id*
+""h
+f
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaÿ ÿ(
+bbyte[]"__id*
+""*
+1*´
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java’
+ ’(q
+o
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java’ ’((
+%0java.awt.Color"__id*
+""Å˛
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java’
+ ’()
+%1ij.process.LUT"Fij.CompositeImage#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;*
+ij.CompositeImage*
+
+%0java.awt.Color2$createLutFromColor(Ljava/awt/Color;)"c
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java’ ’(*
+
+%1ij.process.LUT*‰
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java‹ ‹(sq
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java‹ ‹(
+%2ij.process.LUT"ij.process.LUTπ
+∂
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java‹	 ‹(
+%3"ij.process.LUT#<init>([B[B[B)V*
+
+%2ij.process.LUT*
+
+rbyte[]*
+
+gbyte[]*
+
+bbyte[]"c
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java‹ ‹(
+
+%2ij.process.LUT:
+bytesbyte[]B
+ij.CompositeImage

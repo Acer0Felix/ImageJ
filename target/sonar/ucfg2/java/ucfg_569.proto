@@ -1,0 +1,28 @@
+
+;ij.process.ImageProcessor#getBilinearInterpolatedPixel(DD)DQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaà à(*"2"1*˜
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaâ â(#âß
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaä ä(,
+%0double"3ij.process.ImageProcessor#getInterpolatedPixel(DD)D*
+ij.process.ImageProcessor*
+""*
+""2getInterpolatedPixel(DD)"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaæ æ(
+""*€
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaè
+ è(ÊÇ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaè
+ è(
+%1double"/ij.process.ImageProcessor#getBackgroundValue()D*
+ij.process.ImageProcessor2getBackgroundValue()"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaè è(
+"":
+"":
+""B
+ij.process.ImageProcessor

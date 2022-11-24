@@ -1,0 +1,93 @@
+
+>ij.process.LUT#getColorModel()Ljava/awt/image/IndexColorModel;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java+ +(%"3*ˇ
+2D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java- -(f
+d
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java- -(
+redsbyte[]"__id*
+""µ≤
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java- -(+
+
+%1void"+java.awt.image.IndexColorModel#getReds([B)V*
+ij.process.LUT*
+
+redsbyte[]2getReds([B)h
+f
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java. .(
+greensbyte[]"__id*
+""ª∏
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java.  .(1
+
+%2void"-java.awt.image.IndexColorModel#getGreens([B)V*
+ij.process.LUT*
+
+greensbyte[]2getGreens([B)g
+e
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java/ /(
+bluesbyte[]"__id*
+""∏µ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java/ /(.
+
+%3void",java.awt.image.IndexColorModel#getBlues([B)V*
+ij.process.LUT*
+
+bluesbyte[]2getBlues([B)§°
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java0 0(+	
+%4int",java.awt.image.IndexColorModel#getMapSize()I*
+ij.process.LUT2getMapSize()èå
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java0 0($
+%5java.awt.image.IndexColorModel"java.awt.image.IndexColorModelı
+Ú
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java0 0(A
+%6"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%5java.awt.image.IndexColorModel*2*
+	
+%4int*
+
+redsbyte[]*
+
+greensbyte[]*
+
+bluesbyte[]ë
+é
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java0 0(A
+ij.process.LUT"
+cm"__id*&
+$
+%5java.awt.image.IndexColorModel*
+1*Â
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java, ,(ë
+é
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java, ,($
+%0java.awt.image.IndexColorModel"__id**
+ij.process.LUT"
+cm*
+2
+1*Õ
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java2	 2(ë
+é
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java2	 2($
+%7java.awt.image.IndexColorModel"__id**
+ij.process.LUT"
+cm"n
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java2 2(&
+$
+%7java.awt.image.IndexColorModelB
+ij.process.LUT

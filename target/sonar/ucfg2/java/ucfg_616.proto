@@ -1,0 +1,79 @@
+
+Vij.process.ImageProcessor#maskSizeError(Lij/process/ImageProcessor;)Ljava/lang/String;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¤ ¤("1*²
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥(¹¶
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥ ¥(&	
+%0int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()–
+“
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥(&
+%1java.lang.String"__concat*
+Mask size (*
+	
+%0int™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥(*
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+x»¸
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥+ ¥(;	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()Ÿ
+œ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥(;
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+	
+%3int§
+¤
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¥(M
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+) != ROI size (š
+—
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¦(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¦(
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+xš
+—
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¦(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+""™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥	 ¦(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+)"m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¥ ¦(
+
+%9java.lang.String:!
+maskij.process.ImageProcessorB
+ij.process.ImageProcessor

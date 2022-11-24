@@ -1,0 +1,21 @@
+
+9ij.gui.ImageCanvas#getPreferredSize()Ljava/awt/Dimension;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÍ Í(%"1*Û
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÎ Î(%|z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÎ Î(
+%0java.awt.Dimension"java.awt.Dimension¡
+ž
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÎ Î(1
+%1"java.awt.Dimension#<init>(II)V*
+
+%0java.awt.Dimension*
+""*
+"""h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÎ Î(2
+
+%0java.awt.DimensionB
+ij.gui.ImageCanvas

@@ -1,0 +1,238 @@
+
+aij.plugin.filter.FFTFilter#tileMirror(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java   (!"39"33"34*Œ
+25R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java» »(	§¤
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java» »(%
+%17void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*$
+"
+ipoutij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)*
+25
+22*§
+15R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÆ Æ(ÃÀ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÆ Æ(
+%20void")ij.process.ImageProcessor#flipVertical()V*"
+ 
+ip2ij.process.ImageProcessor2flipVertical()*
+8
+11*¸
+39R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(—
+”
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(3
+%0java.lang.String"__concat*
+FFT.tileMirror: *
+""š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(7
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+x›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(>
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(B
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ ¶
+³
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(E
+%4java.lang.String"__concat*
+
+%3java.lang.String*!
+
+ipij.process.ImageProcessor¨
+¥
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¡ ¡(F
+
+%5void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%4java.lang.String*
+33
+34*Œ
+18R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÂ Â(	§¤
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÂ Â(%
+%19void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*$
+"
+ipoutij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)*
+15
+18*Ó
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÔ	 Ô("z
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÔ Ô($
+"
+ipoutij.process.ImageProcessor*‰
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÐ Ð(	§¤
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÐ Ð(%
+%23void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*$
+"
+ipoutij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)*
+4
+1*©
+8R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÍ Í(ÇÄ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÍ Í(
+%22void"+ij.process.ImageProcessor#flipHorizontal()V*"
+ 
+ip2ij.process.ImageProcessor2flipHorizontal()*
+4
+1*¨
+30R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java· ·(ÃÀ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java· ·(
+%16void")ij.process.ImageProcessor#flipVertical()V*"
+ 
+ip2ij.process.ImageProcessor2flipVertical()*
+25
+22*°
+32R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaµ µ(ÇÄ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaµ µ(
+%15void"+ij.process.ImageProcessor#flipHorizontal()V*"
+ 
+ip2ij.process.ImageProcessor2flipHorizontal()*
+25
+30
+22*¬
+22R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¿ ¿(ÇÄ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¿ ¿(
+%18void"+ij.process.ImageProcessor#flipHorizontal()V*"
+ 
+ip2ij.process.ImageProcessor2flipHorizontal()*
+15
+18*™
+33R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java§ §(Š‡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java§ §(:
+%7ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2createProcessor(II)¤
+¡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java§ §(;"
+ipoutij.process.ImageProcessor"__id*!
+
+%7ij.process.ImageProcessoràÝ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java© ©( 
+%8ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2crop()¢
+Ÿ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java© ©(! 
+ip2ij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessor¹¶
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaª ª(	
+%9int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+ip2ij.process.ImageProcessor2
+getWidth()¼¹
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java« «(
+
+%10int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+ip2ij.process.ImageProcessor2getHeight()›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java® ®(+
+%11double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¯ ¯(6
+%12double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java° °(+
+%13double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java± ±(7
+%14double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""*
+25
+30
+32
+22*‹
+11R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÉ É(	§¤
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.javaÉ É(%
+%21void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*$
+"
+ipoutij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)*
+8
+11*ò
+34R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java£ £(¹
+¶
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java£ £(2
+
+%6void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*'%
+#Image to be tiled is out of bounds."\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTFilter.java¤ ¤(
+"":
+ipij.process.ImageProcessor:
+"":
+"":
+"":
+""B
+ij.plugin.filter.FFTFilter

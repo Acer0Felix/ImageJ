@@ -1,0 +1,47 @@
+
+#ij.gui.RotatedRectRoi#isHandle(II)IM
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.java« «("9* 
+7M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.javaÃ Ã(ü
+ú
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.javaÃ Ã(#	
+%1int"ij.gui.RotatedRectRoi#hxs(I)I*
+ij.gui.RotatedRectRoi*
+""ì
+ê
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.javaÃ Ã(-	
+%2int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""ü
+ú
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.javaÃC Ã(I	
+%3int"ij.gui.RotatedRectRoi#hys(I)I*
+ij.gui.RotatedRectRoi*
+""ì
+ê
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.javaÃ8 Ã(S	
+%4int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""*
+7
+1*É
+9M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.java» »(¶£
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.java» »(	
+%0int"ij.gui.Roi#getHandleSize()I*
+ij.gui.RotatedRectRoi2getHandleSize()*
+7
+1*´
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.java“	 “("W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/RotatedRectRoi.java“ “(
+"":
+"":
+""B
+ij.gui.RotatedRectRoi

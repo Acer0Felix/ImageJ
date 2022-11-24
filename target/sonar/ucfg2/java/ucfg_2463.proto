@@ -1,0 +1,137 @@
+
+9ij.plugin.Clipboard#flatten(Lij/ImagePlus;)Lij/ImagePlus;I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaC C("7*ã
+2I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaL	 L(´®
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaL	 L(
+%10ij.ImagePlus"$ij.ImagePlus#flatten()Lij/ImagePlus;*
+
+impij.ImagePlus2	flatten()
+}
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaL L(
+impij.ImagePlus"__id*
+
+%10ij.ImagePlus¡æ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaM M(
+%11void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)¬ø
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaN N(
+%12void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+imp2ij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+1*ß
+3I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaH H(ôñ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaH H(
+
+%5void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()§°
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaI I(%	
+%6int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()}
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaJ J(
+%7ij.plugin.Duplicator"ij.plugin.Duplicatorí
+è
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaJ
+ J(
+%8"ij.plugin.Duplicator#<init>()V*
+
+%7ij.plugin.Duplicator¯ı
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaJ
+ J(1
+%9ij.ImagePlus"8ij.plugin.Duplicator#run(Lij/ImagePlus;II)Lij/ImagePlus;*
+
+%7ij.plugin.Duplicator*
+
+impij.ImagePlus*
+""*
+""2run(Lij/ImagePlus;II)~
+|
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaJ J(1
+impij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+2*ù
+4I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaE E(Ä
+~
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaE E(
+imp2ij.ImagePlus"__id*
+
+impij.ImagePlus§°
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaF F(
+%3
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()z
+x
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaF F(
+roi
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roiûõ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaG G(	
+%4int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+2
+3*˚
+5I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD: D(=¢ü
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD: D(L
+%2boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*
+4
+1*ˇ
+6I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD! D($¶£
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD! D(5
+%1boolean"ij.ImagePlus#getHideOverlay()Z*
+
+impij.ImagePlus2getHideOverlay()*
+5
+1*ç
+7I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD D(	¥±
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaD D(
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+6
+1*≤
+1I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaP	 P("b
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaP P(
+
+impij.ImagePlus:
+impij.ImagePlusB
+ij.plugin.Clipboard

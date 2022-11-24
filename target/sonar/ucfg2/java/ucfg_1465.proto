@@ -1,0 +1,65 @@
+
+Wij.gui.GUI#newNonBlockingDialog(Ljava/lang/String;Lij/ImagePlus;)Lij/gui/GenericDialog;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javañ ñ(1"3"1*“
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaò> ò(Cèå
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaò% ò(=%
+%1ij.gui.NonBlockingGenericDialog"ij.gui.NonBlockingGenericDialog–
+Õ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaò! ò(D
+%2";ij.gui.NonBlockingGenericDialog#<init>(Ljava/lang/String;)V*'
+%
+%1ij.gui.NonBlockingGenericDialog*
+
+titlejava.lang.Stringù
+ö
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaò ò(E%
+gdij.gui.NonBlockingGenericDialog"__id*'
+%
+%1ij.gui.NonBlockingGenericDialogî
+ë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaô ô(.
+%
+gdij.gui.NonBlockingGenericDialog"
+imp"__id*
+
+impij.ImagePlus"m
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaö ö('
+%
+gdij.gui.NonBlockingGenericDialog*Ö
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaó5 ó(8≥∞
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaó5 ó(D
+%0ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()*
+2
+1*‚
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaú ú(!xv
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaú ú(
+%3ij.gui.GenericDialog"ij.gui.GenericDialog∫
+∑
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaú
+ ú("
+%4"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%3ij.gui.GenericDialog*
+
+titlejava.lang.String"b
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaú ú(#
+
+%3ij.gui.GenericDialog:
+titlejava.lang.String:
+impij.ImagePlusB"
+
+ij.gui.GUI

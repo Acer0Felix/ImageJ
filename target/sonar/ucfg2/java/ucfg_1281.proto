@@ -1,0 +1,297 @@
+
+Qij.plugin.Orthogonal_Views#commandExecuting(Ljava/lang/String;)Ljava/lang/String;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaƒ ƒ("23*‰
+13R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java— —(æª
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java— —(
+%15void"ij.gui.ImageCanvas#zoomOut(II)V*
+
+icij.gui.ImageCanvas*
+""*
+""2zoomOut(II)æª
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java“	 “(
+%16double"&ij.gui.ImageCanvas#getMagnification()D*
+
+icij.gui.ImageCanvas2getMagnification()*
+11
+12*™
+14R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaœ% œ((õ
+ò
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaœ% œ((
+%13ij.ImagePlus"__id*'*%
+ij.plugin.Orthogonal_Views"
+imp´®
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaœ% œ(8
+%14void"ij.ImagePlus#repaintWindow()V*
+
+%13ij.ImagePlus2repaintWindow()*
+11*‚
+15R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaŒ Œ(ºπ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaŒ Œ(
+%11void"ij.gui.ImageCanvas#zoomIn(II)V*
+
+icij.gui.ImageCanvas*
+""*
+""2
+zoomIn(II)æª
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaœ	 œ(
+%12double"&ij.gui.ImageCanvas#getMagnification()D*
+
+icij.gui.ImageCanvas2getMagnification()*
+14
+11*Ô
+16R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÀ À(°
+û
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÀ À(
+%6java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc≤Ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÀ À("	
+%7int"ij.gui.ImageCanvas#screenX(I)I*
+
+icij.gui.ImageCanvas*
+""2
+screenX(I)°
+û
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÃ Ã(
+%8java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc≤Ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÃ Ã("	
+%9int"ij.gui.ImageCanvas#screenY(I)I*
+
+icij.gui.ImageCanvas*
+""2
+screenY(I)ÿ’
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÕ Õ(
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+commandjava.lang.String*
+In2equals(Ljava/lang/Object;)*
+13
+15*∂
+17R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java   ("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java   (
+""*⁄
+18R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java… …(ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java… …(
+%4ij.ImagePlus"__id*'*%
+ij.plugin.Orthogonal_Views"
+imp¬ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java… …($
+%5ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%4ij.ImagePlus2getCanvas()ì
+ê
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java… …(%
+icij.gui.ImageCanvas"__id*
+
+%5ij.gui.ImageCanvas*
+16
+17*ˇ
+19R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java» »(ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java» »(
+%3ij.ImagePlus"__id*'*%
+ij.plugin.Orthogonal_Views"
+imp*
+18
+10*Ã
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‰
+ ‰("s
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‰ ‰(
+
+commandjava.lang.String*Ã
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‚ ‚("s
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‚ ‚(
+
+commandjava.lang.String*Ï
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaﬁ ﬁ(¥±
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaﬂ ﬂ(
+%28void"$ij.plugin.Orthogonal_Views#update()V*
+ij.plugin.Orthogonal_Views2update()"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‡ ‡(
+""*π
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java› ›(†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java› ›(
+%26ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image¥
+±
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java› ›(0
+%27ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager*
+2
+3*Ç
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‹1 ‹(9†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‹1 ‹(9
+%25ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image*
+4
+1*«
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‹ ‹(Â‚
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‹ ‹(.
+%24boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+commandjava.lang.String*
+Flip Vertically2equals(Ljava/lang/Object;)*
+5
+1*Ã
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java€ €("s
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java€ €(
+
+commandjava.lang.String*Ã
+8R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaÿ ÿ("s
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.javaŸ Ÿ(
+
+commandjava.lang.String*Ç
+9R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java◊  ◊($†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java◊& ◊(.
+%23ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image*
+7
+8*Õ
+20R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java« «(!"s
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java« «("
+
+commandjava.lang.String*§
+21R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∆ ∆(!≥
+∞
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∆ ∆(3
+%2ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerâ
+Ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java∆ ∆(4
+cimpij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+19
+20*É
+10R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java◊ ◊(†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java◊ ◊(
+%22ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image*
+8
+9*º
+22R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java≈ ≈(#ÿ’
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java≈ ≈(1
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+commandjava.lang.String*
+Out2equals(Ljava/lang/Object;)*
+6
+21*∑
+11R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‘ ‘(¢
+ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‘ ‘(
+%19java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc¢
+ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java‘ ‘( 
+%20java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc¥±
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java’ ’(
+%21void"$ij.plugin.Orthogonal_Views#update()V*
+ij.plugin.Orthogonal_Views2update()"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java÷ ÷(
+""*º
+23R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java≈ ≈(◊‘
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java≈ ≈(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+commandjava.lang.String*
+In2equals(Ljava/lang/Object;)*
+21
+22*™
+12R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java“$ “('õ
+ò
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java“$ “('
+%17ij.ImagePlus"__id*'*%
+ij.plugin.Orthogonal_Views"
+imp´®
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Orthogonal_Views.java“$ “(7
+%18void"ij.ImagePlus#repaintWindow()V*
+
+%17ij.ImagePlus2repaintWindow()*
+11:
+commandjava.lang.StringB
+ij.plugin.Orthogonal_Views

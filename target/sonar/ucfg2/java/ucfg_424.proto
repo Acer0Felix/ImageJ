@@ -1,0 +1,143 @@
+
+Kij.plugin.filter.ImageMath#setBackgroundToNaN(Lij/process/ImageProcessor;)VR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java∫ ∫("18"10"11*Á
+13R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(;í
+è
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(;
+titlejava.lang.String"__id*
+
+%4java.lang.String≈
+¬
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(N
+%10java.lang.String"__concat*,*
+(Thresholded 32-bit float image required:*
+
+titlejava.lang.String—
+Œ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(O
+%11void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+NaN Backround*
+
+%10java.lang.String"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java¬ ¬(
+""*
+14R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø8 ø(:è
+å
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø8 ø(:
+%4java.lang.String"__id*
+
+%6java.lang.String*
+13*ä
+15R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(#ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø$ ø('
+%7ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+impºπ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø$ ø(2
+%8java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%7ij.ImagePlus2
+getTitle()ù
+ö
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(2
+%9java.lang.String"__concat*
+\n\"*
+
+%8java.lang.Stringõ
+ò
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(7
+%5java.lang.String"__concat*
+
+%9java.lang.String*
+\"è
+å
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(7
+%4java.lang.String"__id*
+
+%5java.lang.String*
+13*ˇ
+16R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(ö
+ó
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaø ø(
+%3ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+imp*
+14
+15*Ú
+18R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaº º(…∆
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaº º(
+%0double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()…∆
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaΩ Ω(
+%1double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()r
+p
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaæ æ()
+%2double"__id*
+""*
+16
+10
+11*≥
+10R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java«" «($Ÿ÷
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java«" «(0
+%12java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()π∂
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java» »(!
+
+%13int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()ª∏
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java… …(#
+
+%14int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+1*∂
+11R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java∆ ∆(
+"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java∆ ∆(
+
+""*˛
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java“ “(∆√
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java“ “(
+%15void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java” ”(	
+"":
+ipij.process.ImageProcessorB
+ij.plugin.filter.ImageMath

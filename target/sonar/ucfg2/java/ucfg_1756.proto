@@ -1,0 +1,68 @@
+
+3ij.gui.Plot#getLastCurveObject()Lij/gui/PlotObject;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨ ¨(&"6* 
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(
+%5java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsè
+å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø( 
+%6ij.gui.PlotObject"
+__arrayGet*
+
+%5java.util.Vector*
+"""`
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(!
+
+%6ij.gui.PlotObject*’
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÆ Æ(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÆ Æ(
+%2java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsè
+å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÆ Æ(
+%3ij.gui.PlotObject"
+__arrayGet*
+
+%2java.util.Vector*
+""`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÆ% Æ(7	
+%4int"__id*
+""*	
+3
+4
+1*
+6C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠ ≠(ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠ ≠(
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjectsèå
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠ ≠("	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+4
+1*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java±	 ±("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java± ±(
+""B
+ij.gui.Plot

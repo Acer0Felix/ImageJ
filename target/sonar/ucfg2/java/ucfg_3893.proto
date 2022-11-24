@@ -1,0 +1,943 @@
+
+&ij.Menus#setupPluginsAndMacrosPaths()V@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java› ›( "34*Ç
+24@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÓ Ó(≥
+∞
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÓ Ó($
+%17void"Ajava.lang.System#setSecurityManager(Ljava/lang/SecurityManager;)V*"
+java.lang.System*
+""*
+22*—
+25@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÌ Ì(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÌ Ì(
+%16java.applet.Applet"__id**
+
+ij.Menus"
+applet*
+24
+22*Ò
+26@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÎ Î(k
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÎ Î(#
+%13java.lang.String"__id*
+""†
+ù
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÎ Î(#
+%14java.lang.String"__concat*
+
+ijDirjava.lang.String*
+
+%13java.lang.Stringè
+å
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÎ Î(.
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+
+ImageJÄ
+~
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÎ Î(.
+ijDirjava.lang.String"__id*
+
+%15java.lang.String*
+25*Ê	
+27@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÈ È(∆
+√
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÈ È(+
+%6java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.home
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÈ È(+
+ijDirjava.lang.String"__id*
+
+%6java.lang.Stringj
+h
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ Í('
+%7java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ Í('
+%8java.lang.String"__concat*
+
+ijDirjava.lang.String*
+
+%7java.lang.Stringé
+ã
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ Í(1
+%9java.lang.String"__concat*
+
+%8java.lang.String*	
+pluginsge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ Í(
+%10java.io.File"java.io.Fileß
+§
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ
+ Í(2
+%11"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%10java.io.File*
+
+%9java.lang.Stringòï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÍ	 Í(A
+%12boolean"java.io.File#isDirectory()Z*
+
+%10java.io.File2isDirectory()*
+25
+26*ù
+28@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaË Ë( «
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaË Ë(%
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+ijDirjava.lang.String*
+	user.home2equals(Ljava/lang/Object;)*
+27
+22*◊
+29@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÁ Á(à
+Ö
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÁ Á(
+ijDirjava.lang.String"__id* 
+
+
+currentDirjava.lang.String*
+22*Û
+30@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÂ Â(ü
+ú
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÂ Â(/
+%4java.lang.String"2ij.Prefs#getPluginsDirProperty()Ljava/lang/String;*"
+
+ij.Prefs
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÂ Â(0
+ijDirjava.lang.String"__id*
+
+%4java.lang.String*
+28
+29*Â
+31@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java„ „((j
+h
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java„) „(7
+%2java.lang.String"__id*
+""£
+†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java„ „(7
+%3java.lang.String"__concat* 
+
+
+currentDirjava.lang.String*
+
+%2java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java„ „(7
+
+ij.Menus"
+pluginsPath"__id*
+
+%3java.lang.StringÄ
+~
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java„ „(7
+
+ij.Menus"
+
+ImageJPath"__id*
+
+%3java.lang.String*
+21*§
+32@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java‚ ‚(—Œ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java‚ ‚($
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z* 
+
+
+currentDirjava.lang.String*	
+plugins2endsWith(Ljava/lang/String;)*
+30
+31*¨
+10@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaá  á($o
+m
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaá á($
+
+ij.Menus"
+pluginsPath"__id*
+""n
+l
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaá á($
+
+ij.Menus"
+
+ImageJPath"__id*
+""*
+9*í
+33@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(
+"J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java· ·(
+
+""*¿
+34@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬁ* ﬁ(.n
+l
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬁ ﬁ(.
+
+ij.Menus"
+
+macrosPath"__id*
+""o
+m
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬁ ﬁ(.
+
+ij.Menus"
+pluginsPath"__id*
+""n
+l
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬁ ﬁ(.
+
+ij.Menus"
+
+ImageJPath"__id*
+""î
+ë
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬂ ﬂ((
+%0java.lang.String"'ij.Prefs#getHomeDir()Ljava/lang/String;*"
+
+ij.PrefsÖ
+Ç
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaﬂ ﬂ()
+
+currentDirjava.lang.String"__id*
+
+%0java.lang.String*
+32
+33*ú
+12@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÅ Å(¨©
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÅ Å( 
+%51java.lang.String"*java.io.File#getParent()Ljava/lang/String;*
+
+fjava.io.File2getParent()k
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÅ# Å(1
+%52java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÅ Å(1
+%53java.lang.String"__concat*
+
+%51java.lang.String*
+
+%52java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÅ Å(1
+
+ij.Menus"
+
+ImageJPath"__id*
+
+%53java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ Ç(
+%54java.lang.String"__id**
+
+ij.Menus"
+
+ImageJPath®•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ! Ç(,
+%55java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+fjava.io.File2	getName()û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ Ç(,
+%56java.lang.String"__concat*
+
+%54java.lang.String*
+
+%55java.lang.Stringk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ/ Ç(=
+%57java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ Ç(=
+%58java.lang.String"__concat*
+
+%56java.lang.String*
+
+%57java.lang.StringÉ
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÇ Ç(=
+
+ij.Menus"
+pluginsPath"__id*
+
+%58java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÉ É(
+%59java.lang.String"__id**
+
+ij.Menus"
+
+ImageJPathè
+å
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÉ É(&
+%60java.lang.String"__concat*
+
+%59java.lang.String*
+
+macrosk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÉ' É(5
+%61java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÉ É(5
+%62java.lang.String"__concat*
+
+%60java.lang.String*
+
+%61java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÉ É(5
+
+ij.Menus"
+
+macrosPath"__id*
+
+%62java.lang.String*
+9
+10*«
+13@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaˇ ˇ(v
+t
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaˇ ˇ("
+altPluginsPathjava.lang.String"__id*
+""*
+9
+10*˛
+14@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˝ ˝( ge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˝ ˝(
+%48java.io.File"java.io.File≥
+∞
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˝	 ˝(!
+%49"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%48java.io.File*$
+"
+altPluginsPathjava.lang.Stringt
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˝ ˝(!
+fjava.io.File"__id*
+
+%48java.io.Fileñì
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˛
+ ˛(
+%50boolean"java.io.File#isDirectory()Z*
+
+fjava.io.File2isDirectory()*
+13
+12*¨
+15@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˚ ˚("…
+∆
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˚ ˚(=
+%47java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+plugins.dirä
+á
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˚ ˚(>"
+altPluginsPathjava.lang.String"__id*
+
+%47java.lang.String*
+14
+9
+10*º
+16@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˜ ˜(k
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˜ ˜()
+%37java.lang.String"__id*
+""•
+¢
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˜ ˜()
+%38java.lang.String"__concat* 
+
+
+currentDirjava.lang.String*
+
+%37java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˜ ˜()
+
+ij.Menus"
+
+ImageJPath"__id*
+
+%38java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¯ ¯(
+%39java.lang.String"__id**
+
+ij.Menus"
+
+ImageJPathê
+ç
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¯ ¯(%
+%40java.lang.String"__concat*
+
+%39java.lang.String*	
+pluginsk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¯& ¯(4
+%41java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¯ ¯(4
+%42java.lang.String"__concat*
+
+%40java.lang.String*
+
+%41java.lang.StringÉ
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java¯ ¯(4
+
+ij.Menus"
+pluginsPath"__id*
+
+%42java.lang.StringÉ
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˘ ˘(
+%43java.lang.String"__id**
+
+ij.Menus"
+pluginsPathge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˘ ˘(
+%44java.io.File"java.io.File®
+•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˘ ˘(
+%45"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%44java.io.File*
+
+%43java.lang.Stringt
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˘ ˘(
+fjava.io.File"__id*
+
+%44java.io.Fileñì
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java˙ ˙(
+%46boolean"java.io.File#isDirectory()Z*
+
+fjava.io.File2isDirectory()*
+15
+9*Ë
+17@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaˆ ˆ(ñì
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaˆ ˆ(!
+%36boolean"java.io.File#isDirectory()Z*
+
+fjava.io.File2isDirectory()*
+16
+9*∆
+18@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(8t
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(8
+fjava.io.File"__id*
+
+%31java.io.File*
+16
+17*¬
+19@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı3 ı(7t
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı3 ı(7
+%31java.io.File"__id*
+
+%33
+<nulltype>*
+18*^
+0 "W
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaò ò(
+implicit return*•
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaí í(£
+†
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaí í(-
+%79void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*$"
+ Menus.setupPluginsAndMacrosPathsù
+ö
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaì
+ ì($
+%80java.lang.String"__concat*
+   user.dir: * 
+
+
+currentDirjava.lang.Stringò
+ï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaì ì(%
+%81void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%80java.lang.String…
+∆
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaî î(>
+%82java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+plugins.dirô
+ñ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaî
+ î(>
+%83java.lang.String"__concat*
+   plugins.dir: *
+
+%82java.lang.Stringò
+ï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaî î(?
+%84void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%83java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaï ï(&
+%85java.lang.String"__id**
+
+ij.Menus"
+
+ImageJPathò
+ï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaï
+ ï(&
+%86java.lang.String"__concat*
+   ImageJPath: *
+
+%85java.lang.Stringò
+ï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaï ï('
+%87void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%86java.lang.StringÉ
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ((
+%88java.lang.String"__id**
+
+ij.Menus"
+pluginsPathô
+ñ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ
+ ñ((
+%89java.lang.String"__concat*
+   pluginsPath: *
+
+%88java.lang.Stringò
+ï
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ()
+%90void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%89java.lang.String*
+0*Ω
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaè è(n
+l
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaè è(
+
+ij.Menus"
+
+macrosPath"__id*
+""*
+0
+1*∞
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å(k
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å()
+%70java.lang.String"__id*
+""•
+¢
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å()
+%71java.lang.String"__concat* 
+
+
+currentDirjava.lang.String*
+
+%70java.lang.Stringè
+å
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å(2
+%72java.lang.String"__concat*
+
+%71java.lang.String*
+
+macrosk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå3 å(A
+%73java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å(A
+%74java.lang.String"__concat*
+
+%72java.lang.String*
+
+%73java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaå å(A
+
+ij.Menus"
+
+macrosPath"__id*
+
+%74java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaç ç(
+%75java.lang.String"__id**
+
+ij.Menus"
+
+macrosPathge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaç ç(
+%76java.io.File"java.io.File®
+•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaç ç(
+%77"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%76java.io.File*
+
+%75java.lang.Stringt
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaç ç(
+fjava.io.File"__id*
+
+%76java.io.Fileñì
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaé é(
+%78boolean"java.io.File#isDirectory()Z*
+
+fjava.io.File2isDirectory()*	
+3
+0
+1*È
+5@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaã ã(ñì
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaã ã(!
+%69boolean"java.io.File#isDirectory()Z*
+
+fjava.io.File2isDirectory()*	
+4
+0
+1*∆
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(0t
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(0
+fjava.io.File"__id*
+
+%64java.io.File*	
+5
+0
+1*¿
+7@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä, ä(0t
+r
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä, ä(0
+%64java.io.File"__id*
+
+%66
+<nulltype>*
+6*⁄
+8@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä  ä(*Å
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä  ä(*
+%67java.lang.String"__id**
+
+ij.Menus"
+
+macrosPathge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(
+%65java.io.File"java.io.File®
+•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(+
+%68"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%65java.io.File*
+
+%67java.lang.Stringv
+t
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(+
+%64java.io.File"__id*
+
+%65java.io.File*
+6*—
+9@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(Å
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaä ä(
+%63java.lang.String"__id**
+
+ij.Menus"
+
+macrosPath*
+7
+8*ﬁ
+20@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı& ı(1É
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı& ı(1
+%34java.lang.String"__id**
+
+ij.Menus"
+pluginsPathge
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı! ı(%
+%32java.io.File"java.io.File®
+•
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(2
+%35"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%32java.io.File*
+
+%34java.lang.Stringv
+t
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(2
+%31java.io.File"__id*
+
+%32java.io.File*
+18*÷
+21@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(É
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaı ı(
+%30java.lang.String"__id**
+
+ij.Menus"
+pluginsPath*
+19
+20*À
+22@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(k
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(%
+%18java.lang.String"__id*
+""†
+ù
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(%
+%19java.lang.String"__concat*
+
+ijDirjava.lang.String*
+
+%18java.lang.Stringê
+ç
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(/
+%20java.lang.String"__concat*
+
+%19java.lang.String*	
+pluginsk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ0 Ò(>
+%21java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(>
+%22java.lang.String"__concat*
+
+%20java.lang.String*
+
+%21java.lang.StringÉ
+Ä
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÒ Ò(>
+
+ij.Menus"
+pluginsPath"__id*
+
+%22java.lang.Stringk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ Ú($
+%23java.lang.String"__id*
+""†
+ù
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ Ú($
+%24java.lang.String"__concat*
+
+ijDirjava.lang.String*
+
+%23java.lang.Stringè
+å
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ Ú(-
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+
+macrosk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ. Ú(<
+%26java.lang.String"__id*
+""û
+õ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ Ú(<
+%27java.lang.String"__concat*
+
+%25java.lang.String*
+
+%26java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÚ Ú(<
+
+ij.Menus"
+
+macrosPath"__id*
+
+%27java.lang.Stringk
+i
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÛ Û($
+%28java.lang.String"__id*
+""†
+ù
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÛ Û($
+%29java.lang.String"__concat*
+
+ijDirjava.lang.String*
+
+%28java.lang.StringÅ
+
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaÛ Û($
+
+ij.Menus"
+
+ImageJPath"__id*
+
+%29java.lang.String*
+21B
+
+ij.Menus

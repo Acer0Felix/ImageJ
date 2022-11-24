@@ -1,0 +1,131 @@
+
+7ij.process.FloatProcessor#createImage()Ljava/awt/Image;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaù ù("25"26*’
+24Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java°7 °(Dn
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java°E °(R	
+%3int"__id*
+""*
+18
+19
+20*¯
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∂ ∂(ó
+î
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∂ ∂(
+%11byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+3
+1*ı
+25Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java† †(ñ
+ì
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java† †(
+%1byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8q
+o
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java°' °(3
+%2double"__id*
+""*
+24
+18
+19
+20*÷
+15Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java® ®(n
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java™ ™()	
+%8int"__id*
+""*
+3
+9
+10
+1*û
+26Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaü ü(æª
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaü ü(
+
+%0void"*ij.process.FloatProcessor#findMinAndMax()V*
+ij.process.FloatProcessor2findMinAndMax()*
+25*±
+17Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¶ ¶(ŒÀ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¶ ¶(
+
+%7void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.FloatProcessor2makeDefaultColorModel()*
+15
+1*ã
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java• •(§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java• •(
+%6java.awt.image.ColorModel"__id*%*#
+ij.process.FloatProcessor"
+cm*
+15
+17
+1*õ
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java§ §(8ª
+∏
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java§ §(8
+%5byte[]".ij.process.FloatProcessor#create8BitImage(Z)[B*
+ij.process.FloatProcessor*
+""*
+18*¸
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∞ ∞(ó
+î
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∞ ∞(
+%10byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+
+9
+10
+1*Õ
+20Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java§! §(.n
+l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java§0 §(7	
+%4int"__id*
+""*
+19*¸
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÆ Æ(ñ
+ì
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÆ Æ(
+%9byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+
+9
+10
+1*´
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∫	 ∫(‰·
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∫	 ∫(
+%12java.awt.Image"?ij.process.FloatProcessor#createBufferedImage()Ljava/awt/Image;*
+ij.process.FloatProcessor2createBufferedImage()"l
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java∫ ∫(
+
+%12java.awt.ImageB
+ij.process.FloatProcessor

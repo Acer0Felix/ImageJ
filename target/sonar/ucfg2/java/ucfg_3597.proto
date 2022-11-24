@@ -1,0 +1,25 @@
+
+;ij.ImagePlus#getAllStatistics()Lij/process/ImageStatistics;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÃ Ã(("1*Ð
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ	 Ä(a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ Ä( 	
+%0int"__id*
+""a
+_
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ! Ä(&	
+%1int"__id*
+""ÒÏ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ	 Ä(' 
+%2ij.process.ImageStatistics"9ij.ImagePlus#getStatistics(I)Lij/process/ImageStatistics;*
+ij.ImagePlus*
+""2getStatistics(I)"j
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÄ Ä(("
+ 
+%2ij.process.ImageStatisticsB
+ij.ImagePlus

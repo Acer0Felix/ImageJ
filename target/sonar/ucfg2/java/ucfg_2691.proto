@@ -1,0 +1,35 @@
+
+!ij.gui.Roi#getContourCentroid()[DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî î(#"5*Ü
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaô ô(Š
+‡
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaø ø(
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+3
+1*¤
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaï ï(À½
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javağ ğ('
+%0ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPolygon()
+Œ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javağ ğ((
+polyij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon*
+3
+1*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaş ş("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €(
+""B
+
+ij.gui.Roi

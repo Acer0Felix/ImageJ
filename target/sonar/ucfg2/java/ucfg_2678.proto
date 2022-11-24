@@ -1,0 +1,36 @@
+
+ij.gui.Roi#getFloatWidth()DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaâ â("3*©
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaã
+ ã(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaã
+ ã(&
+%1 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaã ã(
+""*„
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaä ä(ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaä ä(&
+%0 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+1*ï
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç
+ ç("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(
+""B
+
+ij.gui.Roi

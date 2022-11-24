@@ -1,0 +1,66 @@
+
+cij.plugin.filter.BackgroundSubtracter#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Z[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java| |($"6*≥
+2]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÅ$ Å(&…∆
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÅ$ Å(7
+%3boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+1*∂
+3]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÄ Ä(…∆
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÄ Ä(-
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+2
+1*«
+4[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java ("e
+[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java (
+""*∞
+5[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java~  ~("≈¬
+[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java~  ~(2
+%1boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+3
+4*Ø
+6[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java} }(ƒ¡
+[
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java} }(#
+%0double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+4
+5*Ø
+1]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÇ Ç(…∆
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÇ Ç(.
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()…∆
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÉ É(+
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()…∆
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÑ Ñ(*
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()"g
+]
+Q/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÖ Ö(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB)'
+%ij.plugin.filter.BackgroundSubtracter

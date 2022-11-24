@@ -1,0 +1,177 @@
+
+1ij.measure.CurveFitter#prepareModifiedFitType(I)ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaö	 ö	('"27*®
+24N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaû	 û	(""X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaü	 ü	(
+""*Ë
+25N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaú	 ú	(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaú	 ú	(	
+%1int"__id*
+""*
+24
+23*®
+26N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaø	 ø	(#"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaù	 ù	(
+""*Ë
+27N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java÷	 ÷	(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java÷	 ÷	(	
+%0int"__id*
+""*
+25
+26*Û
+17N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java‡
+ ‡
+(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaˆ
+ ˆ
+(#	
+%5int"__id*
+""*
+6
+17
+7
+9
+11
+12
+1*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¤
+	 ¤
+("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java¤
+ ¤
+(
+""*Å
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java
+ 
+( 	
+%9int"__id*
+""*
+1*ô
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java™
+ ™
+(	•
+’
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java™
+ ™
+((
+%8double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*
+17
+1*ß
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java–
+ –
+(:¯
+¬
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java–
+ –
+(:)
+ij.measure.CurveFitter"
+errorString"__id*)'
+%Cannot fit y=0 or mixture of y>0, y<0"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java—
+ —
+(
+""*ö
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java”
+ ”
+( ˜
+•
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java”
+ ”
+(*
+%7double"java.lang.Math#signum(D)D*"
+java.lang.Math*
+""*
+6
+7*Ê
+21N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaþ	 þ	(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaþ	 þ	("	
+%4int"__id*
+""*
+17
+1*Ê
+22N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaý	, ý	(3k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaý	7 ý	(E	
+%3int"__id*
+""*
+3
+21*÷
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java’
+ ’
+(
+•
+’
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java’
+ ’
+(#
+%6double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*	
+6
+7
+9*Ê
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(%™
+–
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(%)
+ij.measure.CurveFitter"
+errorString"__id*
+Cannot fit x<=0"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(
+""*Ë
+23N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaý	 ý	(k
+i
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaý	 ý	((	
+%2int"__id*
+""*
+21
+22:
+""B
+ij.measure.CurveFitter

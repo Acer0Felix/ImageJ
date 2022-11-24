@@ -1,0 +1,47 @@
+
+:ij.process.ByteProcessor#crop()Lij/process/ImageProcessor;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaë ë("8*Û
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaò ò(ì
+ê
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaò ò(
+%2byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels*
+4
+1*Í
+8P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaí í(&Çˇ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaí í(;
+%0ij.process.ImageProcessor"Gij.process.ByteProcessor#createProcessor(II)Lij/process/ImageProcessor;*
+ij.process.ByteProcessor*
+""*
+""2createProcessor(II)†
+ù
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaí í(< 
+ip2ij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor◊‘
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaì ì(*
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+ip2ij.process.ImageProcessor2getPixels()à
+Ö
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaì ì(+
+pixels2byte[]"__id*
+
+%1java.lang.Object*
+4
+1*Õ
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaö ö("v
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaö ö("
+ 
+ip2ij.process.ImageProcessorB
+ij.process.ByteProcessor

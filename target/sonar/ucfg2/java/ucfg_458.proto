@@ -1,0 +1,199 @@
+
+9ij.process.ImageProcessor#getBestIndex(Ljava/awt/Color;)IQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú("20*ˆ
+15Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˛ ˛(∆√
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˛ ˛( 	
+%9int",java.awt.image.IndexColorModel#getMapSize()I*'
+%
+icmjava.awt.image.IndexColorModel2getMapSize()s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaˇ ˇ("
+rLUTbyte[]"__id*
+""s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÄ Ä(%
+gLUTbyte[]"__id*
+""s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÅ Å("
+bLUTbyte[]"__id*
+""ÿ’
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÇ Ç(
+%10void"+java.awt.image.IndexColorModel#getReds([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+rLUTbyte[]2getReds([B)‹Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÉ É(
+%11void"-java.awt.image.IndexColorModel#getGreens([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+gLUTbyte[]2getGreens([B)⁄◊
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÑ Ñ(
+%12void",java.awt.image.IndexColorModel#getBlues([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+bLUTbyte[]2getBlues([B)o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÖ Ö(%
+
+%13int"__id*
+""ùö
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaà à(
+
+%14int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()°û
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaâ â(
+
+%15int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()üú
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaä ä(
+
+%16int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+10
+1*≠
+16Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(
+%8java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm¶
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(%
+icmjava.awt.image.IndexColorModel"__id*!
+
+%8java.awt.image.ColorModel*
+15*€	
+17Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˜ ˜(#ƒ¡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˜ ˜(%
+%3double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ImageProcessor2getMinThreshold()ƒ¡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(%
+%4double",ij.process.ImageProcessor#getMaxThreshold()D*
+ij.process.ImageProcessor2getMaxThreshold()¿Ω
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˘ ˘(
+
+%5void"+ij.process.ImageProcessor#resetThreshold()V*
+ij.process.ImageProcessor2resetThreshold()§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˙ ˙(
+%6java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm¶
+£
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˙ ˙(%
+icmjava.awt.image.IndexColorModel"__id*!
+
+%6java.awt.image.ColorModel⁄◊
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java˚ ˚(0
+
+%7void",ij.process.ImageProcessor#setThreshold(DDI)V*
+ij.process.ImageProcessor*
+""*
+""*
+""2setThreshold(DDI)*
+15*‘
+18Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaˆ ˆ(q
+o
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaˆ ˆ( 
+%2double"__id*
+""*
+16
+17*Æ
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaı ı(ŒÀ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaı ı(
+
+%1void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.ImageProcessor2makeDefaultColorModel()*
+18*Î
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaå å(π
+∂
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaå å(4
+%18double[]"1ij.process.ColorProcessor#getWeightingFactors()[D*"
+ij.process.ColorProcessorô
+ñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaç ç("
+%19long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""ô
+ñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaé é("
+%20long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""ô
+ñ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaè è("
+%21long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+1*ñ
+20Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÛ Û(ã
+à
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÛ Û(%
+icmjava.awt.image.IndexColorModel"__id*
+""§
+°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÙ Ù(
+%0java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm*
+18
+19*õ
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaã# ã(&π
+∂
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaã( ã(9%
+%17java.awt.image.IndexColorModel"__id*4*2
+ij.process.ImageProcessor"
+defaultColorModel*
+9
+1*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaù ù("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaù ù(
+"":
+cjava.awt.ColorB
+ij.process.ImageProcessor

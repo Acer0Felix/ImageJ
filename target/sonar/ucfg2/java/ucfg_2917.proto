@@ -1,0 +1,42 @@
+
+?ij.util.Tools#fixNewLines(Ljava/lang/String;)Ljava/lang/String;E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaˆ ˆ(!"6"7*æ
+6E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java‹ ‹(¢Ÿ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java‹ ‹( 
+%0char[]" java.lang.String#toCharArray()[C*
+
+sjava.lang.String2toCharArray()p
+n
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.java‹ ‹(!
+charschar[]"__id*
+
+%0char[]*
+1*›
+7E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŠ
+ Š("O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŠ Š(
+""*À
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŽ Ž(sq
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŽ Ž(
+%1java.lang.String"java.lang.String›
+˜
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŽ	 Ž(
+%2"java.lang.String#<init>([C)V*
+
+%1java.lang.String*
+
+charschar[]"a
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/util/Tools.javaŽ Ž(
+
+%1java.lang.String:
+sjava.lang.StringB"
+ij.util.Tools

@@ -1,0 +1,89 @@
+
+Dij.measure.ResultsTable#getTableAsImage()Lij/process/ImageProcessor;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaë ë(&"17*©
+15O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javağ ğ(ÃÀ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javağ ğ(
+%0boolean"(ij.measure.ResultsTable#columnExists(I)Z*
+ij.measure.ResultsTable*
+""2columnExists(I)*
+15
+10
+11*Š
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(ÔÑ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(1
+%4double"-ij.measure.ResultsTable#getValueAsDouble(II)D*
+ij.measure.ResultsTable*
+""*
+""2getValueAsDouble(II)ÔÑ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaû û(2
+
+%5void"$ij.process.FloatProcessor#setf(IIF)V*!
+
+fpij.process.FloatProcessor*
+""*
+""*
+
+%4double2	setf(IIF)*
+4
+1*é
+17O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(ƒ
+€
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(
+fpij.process.FloatProcessor"__id*
+""*
+15
+10
+11*Ç
+8O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaø ø(!
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaø ø(
+%2ij.process.FloatProcessor"ij.process.FloatProcessor´
+±
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaø ø((
+%3"%ij.process.FloatProcessor#<init>(II)V*!
+
+%2ij.process.FloatProcessor*
+""*
+""
+›
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaø ø((
+fpij.process.FloatProcessor"__id*!
+
+%2ij.process.FloatProcessor*
+4
+1*¯
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java÷ ÷("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.java÷ ÷(
+""*…
+10O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaö ö(¥¢
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaö ö(	
+%1int"ij.measure.ResultsTable#size()I*
+ij.measure.ResultsTable2size()*
+8
+9*°
+11O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ("Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaõ õ(
+""*Ê
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaı	 ı("t
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaı ı(!
+
+fpij.process.FloatProcessorB
+ij.measure.ResultsTable

@@ -1,0 +1,30 @@
+
+Xij.gui.ShapeRoi#getFlatteningPathIterator(Ljava/awt/Shape;D)Ljava/awt/geom/PathIterator;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÙ Ù('"1*ª
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaı	 ı(
+êç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaı ı(.#
+%0java.awt.geom.AffineTransform"java.awt.geom.AffineTransform¢
+ü
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaı ı(0
+%1"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%0java.awt.geom.AffineTransform≈¬
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaı	 ı(4 
+%2java.awt.geom.PathIterator"\java.awt.Shape#getPathIterator(Ljava/awt/geom/AffineTransform;D)Ljava/awt/geom/PathIterator;*
+
+sjava.awt.Shape*%
+#
+%0java.awt.geom.AffineTransform*
+""21getPathIterator(Ljava/awt/geom/AffineTransform;D)"m
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaı ı(5"
+ 
+%2java.awt.geom.PathIterator:
+sjava.awt.Shape:
+""B
+ij.gui.ShapeRoi

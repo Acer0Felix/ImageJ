@@ -1,0 +1,76 @@
+
+>ij.measure.ResultsTableMacros#getMacroCode()Ljava/lang/String;S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java} }("4*˙
+2U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ! Ä(#§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ! Ä(#
+%8java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+ta‹Ÿ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ! Ä(5
+%6java.lang.String":java.awt.TextComponent#getSelectedText()Ljava/lang/String;*
+
+%8java.awt.TextArea2getSelectedText()í
+è
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ! Ä(5
+%4java.lang.String"__id*
+
+%6java.lang.String*
+1*Í
+3U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä(§
+°
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä(
+%7java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taÃ…
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä( 
+%5java.lang.String"2java.awt.TextComponent#getText()Ljava/lang/String;*
+
+%7java.awt.TextArea2	getText()í
+è
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä( 
+%4java.lang.String"__id*
+
+%5java.lang.String*
+1*¨
+4S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~(¢
+ü
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~(
+%0java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+ta¿Ω
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~($	
+%1int"+java.awt.TextComponent#getSelectionStart()I*
+
+%0java.awt.TextArea2getSelectionStart()¢
+ü
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java (
+%2java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taºπ
+S
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.java ( 	
+%3int")java.awt.TextComponent#getSelectionEnd()I*
+
+%2java.awt.TextArea2getSelectionEnd()*
+2
+3*Õ
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä(6"q
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTableMacros.javaÄ Ä(6
+
+%4java.lang.StringB!
+ij.measure.ResultsTableMacros

@@ -1,0 +1,95 @@
+
+0ij.io.OpenDialog#getFileName()Ljava/lang/String;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÐ Ð("7*ò
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÔ Ô(‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÔ Ô(
+%7java.lang.String"__id**
+ij.io.OpenDialog"
+name
+Œ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÔ Ô( 
+ij.io.OpenDialog"
+
+lastName"__id*
+
+%7java.lang.String*
+1*œ
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ Ó(Œ
+‰
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ Ó(
+%2java.lang.String"__id**
+ij.io.OpenDialog"
+titleŠ
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ Ó("
+%3java.lang.String"__id**
+ij.io.OpenDialog"
+dir‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ# Ó('
+%4java.lang.String"__id**
+ij.io.OpenDialog"
+name£
+ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ Ó('
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.String÷
+ô
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÓ Ó((
+
+%6void"Jij.plugin.frame.Recorder#recordPath(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%2java.lang.String*
+
+%5java.lang.String*
+2*â
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÒ( Ò(+Š
+‡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÒ( Ò(+
+%1java.lang.String"__id**
+ij.io.OpenDialog"
+dir*
+2
+3*æ
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÑ Ñ(
+‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÑ Ñ(
+
+%0java.lang.String"__id**
+ij.io.OpenDialog"
+name*	
+2
+4
+1*Á
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÖ	 Ö(‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÖ	 Ö(
+%8java.lang.String"__id**
+ij.io.OpenDialog"
+name"d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/OpenDialog.javaÖ Ö(
+
+%8java.lang.StringB
+ij.io.OpenDialog

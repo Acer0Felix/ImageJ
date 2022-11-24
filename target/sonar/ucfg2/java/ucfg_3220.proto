@@ -1,0 +1,50 @@
+
++ij.macro.Functions#trim()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç("3*Ó
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpäá
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(,
+
+%3void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%2ij.macro.Interpreter*
+'trim' is a reserved word2error(Ljava/lang/String;)*
+1*š
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ È(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+
+%0ij.macro.Interpreter2nextToken()*
+2
+1*µ
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ	 Ê(ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ	 Ê(
+%4java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ	 Ê(
+%5java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%4java.lang.String2trim()"f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÊ Ê(
+
+%5java.lang.StringB
+ij.macro.Functions

@@ -1,0 +1,97 @@
+
+Qij.util.DicomTools#getTag(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java˜ ˜("8"9*¥
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java£ £("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java£ £(
+""*¬
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¢ ¢(ÒÏ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¢ ¢(#	
+%3int".java.lang.String#indexOf(Ljava/lang/String;I)I*
+
+hdrjava.lang.String*
+:*
+""2indexOf(Ljava/lang/String;I)*
+2
+1*¥
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java   ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java   (
+""*À
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŸ Ÿ(æã
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaŸ Ÿ('	
+%2int".java.lang.String#indexOf(Ljava/lang/String;I)I*
+
+hdrjava.lang.String*
+
+tagjava.lang.String*
+""2indexOf(Ljava/lang/String;I)*
+3
+4*€
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (	¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java (
+
+%1char"java.lang.String#charAt(I)C*
+
+hdrjava.lang.String*
+""2	charAt(I)*
+3
+5*¥
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java› ›("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java› ›(
+""*¶
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaš š(ÜÙ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaš š(	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+hdrjava.lang.String*
+
+tagjava.lang.String2indexOf(Ljava/lang/String;)*
+6
+7*¥
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java™ ™("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java™ ™(
+""*ó
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¤ ¤(ÓÐ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¤ ¤((	
+%4int".java.lang.String#indexOf(Ljava/lang/String;I)I*
+
+hdrjava.lang.String*
+\n*
+""2indexOf(Ljava/lang/String;I)ÓÐ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¥ ¥(0
+%5java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+hdrjava.lang.String*
+""*
+""2substring(II)Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¥ ¥(1
+valuejava.lang.String"__id*
+
+%5java.lang.String"i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.java¦ ¦(
+
+valuejava.lang.String:
+hdrjava.lang.String:
+tagjava.lang.StringB"
+ij.util.DicomTools

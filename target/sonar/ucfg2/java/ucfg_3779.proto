@@ -1,0 +1,29 @@
+
+,ij.plugin.Colors#getRed(Ljava/lang/String;)IH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java« «("1*«
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java¬	 ¬(p
+n
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java¬ ¬(%
+%0java.awt.Color"__id*
+""þ
+û
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java¬	 ¬(&
+%1java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+hexColorjava.lang.String*
+
+%0java.awt.Color”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java¬	 ¬(/	
+%2int"java.awt.Color#getRed()I*
+
+%1java.awt.Color2getRed()"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Colors.java¬ ¬(0
+"":
+hexColorjava.lang.StringB"
+ij.plugin.Colors

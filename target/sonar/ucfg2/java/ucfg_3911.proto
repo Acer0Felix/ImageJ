@@ -1,0 +1,67 @@
+
++ij.Menus#getCommands()Ljava/util/Hashtable;@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java²
+ ²
+($"4*¶
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java´
+ ´
+(j
+h
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java´
+ ´
+(
+
+%2void"ij.IJ#init()V*	"
+ij.IJ*
+1*ò
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java³
+ ³
+(0¢
+Ÿ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java³
+ ³
+(=
+%1boolean"*java.awt.GraphicsEnvironment#isHeadless()Z* "
+java.awt.GraphicsEnvironment*
+2
+1*Ö
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java³
+ ³
+(†
+ƒ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.java³
+ ³
+(
+%0java.util.Hashtable"__id**
+
+ij.Menus"
+pluginsTable*
+3
+1*¯
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaµ
+	 µ
+(†
+ƒ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaµ
+	 µ
+(
+%3java.util.Hashtable"__id**
+
+ij.Menus"
+pluginsTable"_
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaµ
+ µ
+(
+
+%3java.util.HashtableB"
+
+ij.Menus

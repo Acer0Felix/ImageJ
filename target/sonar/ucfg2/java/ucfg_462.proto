@@ -1,0 +1,116 @@
+
+-ij.process.ImageProcessor#isPseudoColorLut()ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÙ Ù(#"16*´
+13Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÞ
+ Þ("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÞ Þ(
+""*›
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÝ Ý(ÄÁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÝ Ý(
+%1double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ImageProcessor2getMinThreshold()q
+o
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÝ Ý(%
+%2double"__id*
+""*
+13
+12*´
+15Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÜ
+ Ü("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÜ Ü(
+""*ý
+16Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú(*ë
+è
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú(,$
+%0java.awt.image.IndexColorModel"Nij.process.ImageProcessor#getIndexColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ImageProcessor«
+¨
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú(-%
+icmjava.awt.image.IndexColorModel"__id*&
+$
+%0java.awt.image.IndexColorModel*
+14
+15*÷
+5Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaô ô(™
+–
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaô ô(%
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*Ø
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaâ â( s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaâ â("
+redsbyte[]"__id*
+""u
+s
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaã ã($
+greensbyte[]"__id*
+""t
+r
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaä ä(#
+bluesbyte[]"__id*
+""×Ô
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaå å(
+
+%4void"+java.awt.image.IndexColorModel#getReds([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+redsbyte[]2getReds([B)ÝÚ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaæ æ(
+
+%5void"-java.awt.image.IndexColorModel#getGreens([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+greensbyte[]2getGreens([B)Ú×
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaç ç(
+
+%6void",java.awt.image.IndexColorModel#getBlues([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+bluesbyte[]2getBlues([B)*
+5
+1*´
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaá
+ á("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaá á(
+""*ª
+12Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaß ß(ÆÃ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaß ß( 	
+%3int",java.awt.image.IndexColorModel#getMapSize()I*'
+%
+icmjava.awt.image.IndexColorModel2getMapSize()*
+10
+11*³
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaù	 ù("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaù ù(
+""B
+ij.process.ImageProcessor

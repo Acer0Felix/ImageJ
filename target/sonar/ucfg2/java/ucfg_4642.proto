@@ -1,0 +1,65 @@
+
+4ij.measure.ResultsTable#toString()Ljava/lang/String;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÜ Ü("1*‰
+
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(ö
+ó
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá á(
+%0java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+titleú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(
+%1java.lang.String"__concat*
+
+title=*
+
+%0java.lang.Stringù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á("
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+, size=ò
+ï
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(*
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""ú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(3
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+, hdr=›⁄
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá4 á(G
+%5java.lang.String"=ij.measure.ResultsTable#getColumnHeadings()Ljava/lang/String;*
+ij.measure.ResultsTable2getColumnHeadings()™
+ß
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(G
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"k
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá á(I
+
+%6java.lang.StringB
+ij.measure.ResultsTable

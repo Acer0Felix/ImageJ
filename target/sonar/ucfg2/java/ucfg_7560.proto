@@ -1,0 +1,151 @@
+
+Gij.plugin.filter.FractalBoxCounter#count(ILij/process/ImageProcessor;)IZ
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaî î(
+"23*∂
+17Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö ö(-±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaõ õ(
+%12java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaõ õ(
+%13java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaú ú(
+%14java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaú ú(
+%15java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+12*ô
+18Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö" ö(%±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö" ö(%
+%11java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi}
+{
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö" ö(,	
+%8int"__id*
+
+
+%10int*
+17*‰
+19Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö ö(!|
+z
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö ö(!	
+%8int"__id*
+	
+%9int*
+17*ù
+20Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô ô(+∞
+≠
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaö ö(
+%7java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+18
+19*ó
+21Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô! ô($∞
+≠
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô! ô($
+%6java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi|
+z
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô! ô(*	
+%3int"__id*
+	
+%5int*
+20*ù
+10Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™	 ™(±
+Æ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java´	 ´(
+%18java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+12
+1*‰
+22Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô ô( |
+z
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô ô( 	
+%3int"__id*
+	
+%4int*
+20*É
+23Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaï ï(∞
+≠
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaó
+ ó(
+%0java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi∞
+≠
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaò
+ ò(
+%1java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi∞
+≠
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaô ô(
+%2java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+21
+22*•
+12Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java£ £(Ê„
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java£ £(
+%16void"'ij.process.ImageProcessor#setRoi(IIII)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2setRoi(IIII)Ã…
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java§ §( 
+%17int[]"*ij.process.ImageProcessor#getHistogram()[I*!
+
+ipij.process.ImageProcessor2getHistogram()*
+10
+12
+1*≈
+1Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java∫	 ∫("d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java∫ ∫(
+"":
+"":
+ipij.process.ImageProcessorB&$
+"ij.plugin.filter.FractalBoxCounter

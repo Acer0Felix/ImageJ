@@ -1,0 +1,89 @@
+
+7ij.gui.PolygonRoi#getSmoothedPerimeter(Lij/ImagePlus;)DI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî
+ î
+("6*∏
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+(Ã…
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+()
+%3ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()ì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+(*
+calij.measure.Calibration"__id*
+
+%3ij.measure.Calibration*
+1*ƒ
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaó
+ ó
+('ÎË
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaó
+ ó
+(,
+%2double"8ij.gui.PolygonRoi#getSmoothedLineLength(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+impij.ImagePlus2%getSmoothedLineLength(Lij/ImagePlus;)*
+2
+1*ô
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javañ
+
+ ñ
+(#Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javañ
+
+ ñ
+((
+%1double"<ij.gui.PolygonRoi#getFloatSmoothedPerimeter(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+impij.ImagePlus2)getFloatSmoothedPerimeter(Lij/ImagePlus;)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javañ
+ ñ
+()
+""*Ö
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaï
+ ï
+(¨©
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaï
+ ï
+(
+%0boolean" ij.gui.Roi#subPixelResolution()Z*
+ij.gui.PolygonRoi2subPixelResolution()*
+3
+4*∑
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaû
+ û
+(ë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java†
+ †
+((
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java°
+ °
+(
+"":
+impij.ImagePlusB
+ij.gui.PolygonRoi

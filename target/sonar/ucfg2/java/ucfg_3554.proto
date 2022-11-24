@@ -1,0 +1,20 @@
+
+ij.ImagePlus#getDisplayMode()ID
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ Ê("2"1*´
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë(èå
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË
+ Ë(*	
+%0int"ij.CompositeImage#getMode()I*
+ij.ImagePlus2	getMode()"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaË Ë(+
+""*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ
+ Í("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í(
+""B
+ij.ImagePlus

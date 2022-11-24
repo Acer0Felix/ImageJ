@@ -1,0 +1,50 @@
+
+ij.gui.Plot#getDigits(DDDII)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java§ §("2"1*—
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨ ¨(,"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨ ¨(-
+""*…
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©	 ©(Š
+‡
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java© ©()
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""Š
+‡
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©* ©(6
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""£
+ 
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java© ©(7
+%2double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+
+%0double*
+
+%1double«
+¨
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©	 ©(`	
+%3int"ij.gui.Plot#getDigits2(DDII)I*"
+ij.gui.Plot*
+
+%2double*
+""*
+""*
+"""M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java© ©(a
+"":
+"":
+"":
+"":
+"":
+""B"
+ij.gui.Plot

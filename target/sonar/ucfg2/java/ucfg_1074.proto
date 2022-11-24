@@ -1,0 +1,40 @@
+
+5ij.plugin.FitsDecoder#getInteger(Ljava/lang/String;)IM
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java∞ ∞("1*ê
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java± ±(–Õ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java± ±(
+%0java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+sjava.lang.String*2
+*22substring(II)â
+Ü
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java± ±(
+sjava.lang.String"__id*
+
+%0java.lang.String∂≥
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java≤ ≤(
+%1java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+sjava.lang.String2trim()â
+Ü
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java≤ ≤(
+sjava.lang.String"__id*
+
+%1java.lang.Stringæ
+ª
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java≥	 ≥(	
+%2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+sjava.lang.String"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java≥ ≥(
+"":
+sjava.lang.StringB
+ij.plugin.FitsDecoder

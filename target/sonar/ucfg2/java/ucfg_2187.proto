@@ -1,0 +1,84 @@
+
+7ij.macro.Interpreter#getBatchModeImage(I)Lij/ImagePlus;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬(*"6"7*∏
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java» »("e
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java» »(
+
+impij.ImagePlus*…
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∆ ∆( ŒÀ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∆ ∆(.
+%4java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+enjava.util.Enumeration2nextElement()Ü
+É
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∆ ∆(/
+impij.ImagePlus"__id*
+
+%4java.lang.Objectìê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(	
+%5int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()*
+2
+4*ò
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈9 ≈(;ºπ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈9 ≈(M
+%3boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+enjava.util.Enumeration2hasMoreElements()*
+3
+1*”
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈ ≈(!ô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈ ≈(,
+%1java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable»≈
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈ ≈(7
+%2java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%1java.util.Vector2
+elements()ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java≈ ≈(7
+enjava.util.Enumeration"__id*
+
+%2java.util.Enumeration*
+4*©
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaƒ
+ ƒ("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaƒ ƒ(
+""*ı
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java√ √(ô
+ñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java√ √(
+%0java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable*
+5
+6*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java 	  ("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java   (
+"":
+""B"
+ij.macro.Interpreter

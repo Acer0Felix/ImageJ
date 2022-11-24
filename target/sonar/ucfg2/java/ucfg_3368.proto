@@ -1,0 +1,89 @@
+
+9ij.macro.Functions#applyMacroToTable()Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java±9 ±9(#"3*â
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaµ9 µ9(
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaµ9 µ9(
+macrojava.lang.String"__id*
+
+titlejava.lang.String|
+z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¶9 ¶9(
+titlejava.lang.String"__id*	
+Results*
+1*Ä
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²9 ²9(ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²9 ²9(!
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java²9 ²9("
+macrojava.lang.String"__id*
+
+%0java.lang.String°
+­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java³9 ³9(
+%1java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.FunctionsŠ
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java³9 ³9(
+titlejava.lang.String"__id*
+
+%1java.lang.StringÒÏ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java´9 ´9(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+macrojava.lang.String*	
+Results2equals(Ljava/lang/Object;)*
+2
+1*ß	
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸9 ¸9(#ô
+ñ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸9 ¸9(*
+%3ij.measure.ResultsTable"Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+titlejava.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸9 ¸9(+
+rtij.measure.ResultsTable"__id*
+
+%3ij.measure.ResultsTableõò
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹9 ¹9(
+%4boolean"7ij.measure.ResultsTable#applyMacro(Ljava/lang/String;)Z*
+
+rtij.measure.ResultsTable*
+
+macrojava.lang.String2applyMacro(Ljava/lang/String;)ÊÇ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº9
+ º9(
+%5java.lang.String"4ij.measure.ResultsTable#getTitle()Ljava/lang/String;*
+
+rtij.measure.ResultsTable2
+getTitle()ãà
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº9 º9(
+
+%6void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*
+
+%5java.lang.String2show(Ljava/lang/String;)"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java»9 »9(
+""B
+ij.macro.Functions

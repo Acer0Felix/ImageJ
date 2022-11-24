@@ -1,0 +1,51 @@
+
+ij.gui.Roi#getMagnification()DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ æ(""4*¸
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç( ç(+j
+h
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç( ç(+
+%1double"__id*
+
+%3double*
+1*è
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(
+%4ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic­ª
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç('
+%2double"&ij.gui.ImageCanvas#getMagnification()D*
+
+%4ij.gui.ImageCanvas2getMagnification()j
+h
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç('
+%1double"__id*
+
+%2double*
+1*Ï
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç	 ç(~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç	 ç(
+%0ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic*
+2
+3*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(,"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaç ç(,
+""B
+
+ij.gui.Roi

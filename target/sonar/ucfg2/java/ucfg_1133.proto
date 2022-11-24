@@ -1,0 +1,31 @@
+
+!ij.plugin.BMPDecoder#readShort()SJ
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javaj j("1*ç
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javak k(í
+è
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javak k(
+%0java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+isúô
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javak k("	
+%1int"java.io.InputStream#read()I*
+
+%0java.io.InputStream2read()í
+è
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javal l(
+%2java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+isúô
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javal l("	
+%3int"java.io.InputStream#read()I*
+
+%2java.io.InputStream2read()"T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/BMP_Reader.javan n(/
+""B
+ij.plugin.BMPDecoder

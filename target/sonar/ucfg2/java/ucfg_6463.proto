@@ -1,0 +1,20 @@
+
+.ij.plugin.frame.RoiManager#getSelectedIndex()IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java‹ ‹("1*ì
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java›	 ›(†
+ù
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java›	 ›(
+%0javax.swing.JList"__id*(*&
+ij.plugin.frame.RoiManager"
+list∏µ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java›	 ›( 	
+%1int"%javax.swing.JList#getSelectedIndex()I*
+
+%0javax.swing.JList2getSelectedIndex()"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java› ›(!
+""B
+ij.plugin.frame.RoiManager

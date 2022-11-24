@@ -1,0 +1,57 @@
+
+8ij.plugin.frame.RoiManager#getIndex(Ljava/lang/String;)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaá á("6*µ
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaã ã("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaã ã(
+""*ú
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaä ä(ï
+í
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaä ä(
+%1
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""∂≥
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaä ä($
+%2java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+%1
+ij.gui.Roi2	getName()Ê„
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaä ä(%
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*≈
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaà à(◊‘
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaà à(
+%0ij.gui.Roi[]"8ij.plugin.frame.RoiManager#getRoisAsArray()[Lij/gui/Roi;*
+ij.plugin.frame.RoiManager2getRoisAsArray()â
+Ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaà à( 
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]*
+4
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaç
+ ç("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaç ç(
+"":
+namejava.lang.StringB
+ij.plugin.frame.RoiManager

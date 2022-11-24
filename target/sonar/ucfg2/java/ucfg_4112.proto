@@ -1,0 +1,72 @@
+
+5ij.gui.PointRoi#getContainedPoints()[Ljava/awt/Point;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java« «(""5*©
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀ À(	ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀ À(>	
+%2int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀF À(e	
+%3int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""qo
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀ À(
+%4java.awt.Point"java.awt.Point†
+ù
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀ À(f
+%5"java.awt.Point#<init>(II)V*
+
+%4java.awt.Point*
+	
+%2int*
+	
+%3intú
+ô
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÀ À(f
+%6"
+__arraySet*
+
+pointsjava.awt.Point[]*
+""*
+
+%4java.awt.Point*
+3
+1*æ
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java» »("—Œ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java» »($
+%0ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PointRoi2getFloatPolygon()ë
+é
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java» »(%
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonus
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java… …('
+%1java.awt.Point[]"java.awt.Point[]à
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java… …((
+pointsjava.awt.Point[]"__id*
+
+%1java.awt.Point[]*
+3
+1*µ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÃ	 Ã("g
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaÃ Ã(
+
+pointsjava.awt.Point[]B
+ij.gui.PointRoi

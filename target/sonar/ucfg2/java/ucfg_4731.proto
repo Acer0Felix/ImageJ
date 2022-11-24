@@ -1,0 +1,56 @@
+
+4ij.gui.ImageCanvas#getShowAllColor()Ljava/awt/Color;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÕ Õ($"4*à
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java× ×(r
+p
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java× ×(
+%3java.awt.Color"__id*
+""•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java× ×(&
+ij.gui.ImageCanvas"
+showAllColor"__id*
+
+%3java.awt.Color*
+1*ˆ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö((•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö((
+%1java.awt.Color"__id*(*&
+ij.gui.ImageCanvas"
+showAllColor–“
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(1	
+%2int"java.awt.Color#getRGB()I*
+
+%1java.awt.Color2getRGB()*
+2
+1*ï
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÖ Ö(
+%0java.awt.Color"__id*(*&
+ij.gui.ImageCanvas"
+showAllColor*
+3
+1*Í
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaØ	 Ø(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaØ	 Ø(
+%4java.awt.Color"__id*(*&
+ij.gui.ImageCanvas"
+showAllColor"d
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaØ Ø(
+
+%4java.awt.ColorB"
+ij.gui.ImageCanvas

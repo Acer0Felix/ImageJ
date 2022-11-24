@@ -1,0 +1,49 @@
+
+Cij.process.StackStatistics#getMedian([JIILij/measure/Calibration;)DR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.javaŸ Ÿ("2"3"9*’
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„$ „(%w
+u
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„$ „(%
+%1double"__id*
+	
+%3int*
+1*ù
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„ „(¬ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„ „(#
+%2double"$ij.measure.Calibration#getCValue(I)D*
+
+calij.measure.Calibration*
+""2getCValue(I)z
+x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„ „(#
+%1double"__id*
+
+%2double*
+1*©
+9R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java‹
+ ‹(r
+p
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java‹
+ ‹(
+%0double"__id*
+"""\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java‹ ‹(
+""*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„ „(&"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/StackStatistics.java„ „(&
+"":
+"":
+"":
+"":
+calij.measure.CalibrationB
+ij.process.StackStatistics

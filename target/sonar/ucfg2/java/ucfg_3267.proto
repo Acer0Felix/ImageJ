@@ -1,0 +1,70 @@
+
+2ij.macro.Functions#copyResults()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java”' ”'("5*
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš' š'(ª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš' š'(	
+%6int""ij.text.TextPanel#copySelection()I*
+
+tpij.text.TextPanel2copySelection()*
+1*‚
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜' ˜'(œ
+™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜' ˜'("
+%5ij.text.TextPanel"'ij.IJ#getTextPanel()Lij/text/TextPanel;*	"
+ij.IJ‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜' ˜'(#
+tpij.text.TextPanel"__id*
+
+%5ij.text.TextPanel*
+2
+1*Ä
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java—' —'(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java—' —'(	
+%3ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÕÒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java—' —'(
+
+%4void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%3ij.macro.Interpreter*
+
+No results2error(Ljava/lang/String;)*
+3*¡
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java•' •'(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java•' •'(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java•' •'(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()ƒ
+€
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java–' –'(
+%2boolean"ij.IJ#isResultsWindow()Z*	"
+ij.IJ*
+3
+4*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java›'	 ›'("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java›' ›'(
+""B
+ij.macro.Functions

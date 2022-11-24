@@ -1,0 +1,108 @@
+
+-ij.gui.TextRoi#getScaledFont()Ljava/awt/Font;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaƒ ƒ("7*≥
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java…
+ …(Ñ
+Å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java…
+ …(
+%6java.awt.Font"__id**
+ij.gui.TextRoi"
+font"_
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java… …(
+
+%6java.awt.Font*◊
+4F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java» »(Å
+
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java» »(
+%5ij.ImagePlus"__id**
+ij.gui.TextRoi"
+imp*
+2
+1*˜
+5F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java« «(°û
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java« «(!
+%4double"ij.gui.Roi#getMagnification()D*
+ij.gui.TextRoi2getMagnification()*
+2
+4*Ê
+6F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java∆ ∆(c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java∆  ∆(*	
+%1int"__id*
+""nl
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java∆ ∆(
+%2java.awt.Font"java.awt.Font∑
+¥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java∆
+ ∆(/
+%3"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%2java.awt.Font*
+	SansSerif*
+	
+%1int*2Ñ
+Å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java∆ ∆(/
+ij.gui.TextRoi"
+font"__id*
+
+%2java.awt.Font*
+5*⁄
+7F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java≈ ≈(
+Ñ
+Å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java≈ ≈(
+
+%0java.awt.Font"__id**
+ij.gui.TextRoi"
+font*
+5
+6*é
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ
+ À(Ñ
+Å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ
+ À(
+%7java.awt.Font"__id**
+ij.gui.TextRoi"
+fontÑ
+Å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ" À(&
+%8java.awt.Font"__id**
+ij.gui.TextRoi"
+fontíè
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ" À(0	
+%9int"java.awt.Font#getSize()I*
+
+%8java.awt.Font2	getSize()ª∏
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ
+ À(6
+%10java.awt.Font"*java.awt.Font#deriveFont(F)Ljava/awt/Font;*
+
+%7java.awt.Font*
+""2deriveFont(F)"`
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaÀ À(7
+
+%10java.awt.FontB
+ij.gui.TextRoi

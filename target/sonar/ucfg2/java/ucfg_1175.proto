@@ -1,0 +1,45 @@
+
+9ij.gui.OvalRoi#getFloatPolygon()Lij/process/FloatPolygon;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÌ Ì($"1* 	
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ@ Í(A‘Ž
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ! Í(?$
+%0java.awt.geom.Ellipse2D$Double"java.awt.geom.Ellipse2D$DoubleÇ
+Ä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ Í(p
+%1",java.awt.geom.Ellipse2D$Double#<init>(DDDD)V*&
+$
+%0java.awt.geom.Ellipse2D$Double*
+""*
+""*
+""*
+""rp
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ Í(
+%2ij.gui.ShapeRoi"ij.gui.ShapeRoi½
+º
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ Í(q
+%3")ij.gui.ShapeRoi#<init>(Ljava/awt/Shape;)V*
+
+%2ij.gui.ShapeRoi*&
+$
+%0java.awt.geom.Ellipse2D$Double€
+~
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÍ Í(r
+srij.gui.ShapeRoi"__id*
+
+%2ij.gui.ShapeRoiÒÏ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÎ	 Î(
+%4ij.process.FloatPolygon":ij.gui.ShapeRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+srij.gui.ShapeRoi2getFloatPolygon()"i
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.javaÎ Î(
+
+%4ij.process.FloatPolygonB
+ij.gui.OvalRoi

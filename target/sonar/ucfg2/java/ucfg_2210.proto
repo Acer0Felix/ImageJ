@@ -1,0 +1,73 @@
+
+,ij.macro.Interpreter#nonBatchMacroRunning()ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java€ €(+"11*¯
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„H „(Sü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„H „(U
+%3boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+1*¸
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„# „()†
+ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„# „(2
+%2ij.macro.Debugger"__id*.*,
+
+interpij.macro.Interpreter"
+
+debugger*
+2
+1*Ä
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‚ ‚(°
+û
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‚ ‚(&
+ij.macro.Interpreter"
+
+lastInterp"__id* 
+
+interpij.macro.Interpreter*	
+2
+6
+1*ˆ
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬂ ﬂ(ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‡ ‡(
+%1ij.macro.Interpreter"__id*(*&
+ij.macro.Interpreter"
+
+lastInterp*
+7*™
+10L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ
+ ﬁ("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaﬁ ﬁ(
+""*∑
+11L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‹ ‹("¡
+æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‹ ‹($
+%0ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreterï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java‹ ‹(%
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*
+9
+10*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„ „(V"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java„ „(V
+""B"
+ij.macro.Interpreter

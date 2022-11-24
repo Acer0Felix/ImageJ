@@ -1,0 +1,78 @@
+
+ij.plugin.frame.Fitter#copy()ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¡ ¡("3*¥	
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¥. ¥(/§¤
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(-+
+%4%java.awt.datatransfer.StringSelection"%java.awt.datatransfer.StringSelectionä
+á
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(0
+%5"Ajava.awt.datatransfer.StringSelection#<init>(Ljava/lang/String;)V*-
++
+%4%java.awt.datatransfer.StringSelection*
+
+sjava.lang.String·
+´
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(1-
+cont%java.awt.datatransfer.StringSelection"__id*-
++
+%4%java.awt.datatransfer.StringSelectionª§
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¦ ¦(
+
+%6void"xjava.awt.datatransfer.Clipboard#setContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)V*)
+'
+clipjava.awt.datatransfer.Clipboard*/
+-
+cont%java.awt.datatransfer.StringSelection*
+ij.plugin.frame.Fitter2WsetContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java§ §(
+""*Ê	
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢(œ
+™
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢(
+%0java.awt.TextArea"__id*(*&
+ij.plugin.frame.Fitter"
+
+textAreaÕÒ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢('
+%1java.lang.String":java.awt.TextComponent#getSelectedText()Ljava/lang/String;*
+
+%0java.awt.TextArea2getSelectedText()Š
+‡
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢((
+sjava.lang.String"__id*
+
+%1java.lang.StringÅÂ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java£ £(
+%2java.awt.Toolkit".java.awt.Window#getToolkit()Ljava/awt/Toolkit;*
+ij.plugin.frame.Fitter2getToolkit()òï
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java£ £(4%
+%3java.awt.datatransfer.Clipboard"Fjava.awt.Toolkit#getSystemClipboard()Ljava/awt/datatransfer/Clipboard;*
+
+%2java.awt.Toolkit2getSystemClipboard()«
+¨
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java£ £(5'
+clipjava.awt.datatransfer.Clipboard"__id*'
+%
+%3java.awt.datatransfer.Clipboard*
+2
+1*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java©
+ ©("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Fitter.java© ©(
+""B
+ij.plugin.frame.Fitter

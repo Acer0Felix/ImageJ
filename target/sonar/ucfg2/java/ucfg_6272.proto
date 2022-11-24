@@ -1,0 +1,28 @@
+
+Dij.plugin.filter.AVI_Writer#setup(Ljava/lang/String;Lij/ImagePlus;)IQ
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaX X("1*±
+1Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaY Y(›
+˜
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaY Y(&
+ij.plugin.filter.AVI_Writer"
+imp"__id*
+
+impij.ImagePlusn
+l
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z(	
+%0int"__id*
+""n
+l
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z("	
+%1int"__id*
+"""[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z(#
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.AVI_Writer

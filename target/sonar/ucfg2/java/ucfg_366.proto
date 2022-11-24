@@ -1,0 +1,42 @@
+
+*ij.gui.Line#iterator()Ljava/util/Iterator;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java€ €( "3*
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java› ›( ÑÅ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java› ›(
+%1ij.gui.Line$PointIterator"ij.gui.Line$PointIterator¥
+±
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java›
+ ›(!
+%2"0ij.gui.Line$PointIterator#<init>(Lij/gui/Line;)V*!
+
+%1ij.gui.Line$PointIterator*
+ij.gui.Line"h
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java› ›("!
+
+%1ij.gui.Line$PointIterator*È
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java‹ ‹(ñì
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java‹ ‹(
+%0float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()*
+2
+1*√
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaﬂ
+ ﬂ(ï
+í
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaﬂ
+ ﬂ(
+%3java.util.Iterator")ij.gui.Roi#iterator()Ljava/util/Iterator;*
+"""a
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaﬂ ﬂ(
+
+%3java.util.IteratorB
+ij.gui.Line

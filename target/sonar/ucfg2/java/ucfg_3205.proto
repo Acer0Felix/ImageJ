@@ -1,0 +1,74 @@
+
+ij.macro.Functions#getZoom()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java÷ ÷("3*ž
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü(
+
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÞÛ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü ü('
+
+%5void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%4ij.macro.Interpreter*
+Image not displayed2error(Ljava/lang/String;)"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü) ü(4
+""*Ÿ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaø ø(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù(
+%2ij.ImagePlus"+ij.macro.Functions#getImage()Lij/ImagePlus;*
+ij.macro.Functions2
+getImage()
+}
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaù ù(
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus»¸
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú("
+%3ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú ú(#
+icij.gui.ImageCanvas"__id*
+
+%3ij.gui.ImageCanvas*
+2
+1*Ý
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ
+ þ(µ²
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ
+ þ(
+%6double"&ij.gui.ImageCanvas#getMagnification()D*
+
+icij.gui.ImageCanvas2getMagnification()"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ þ( 
+""B
+ij.macro.Functions

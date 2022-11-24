@@ -1,0 +1,61 @@
+
+*ij.gui.Overlay#duplicate()Lij/gui/Overlay;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaØ Ø("5*Ð
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÜ Ü(‰
+†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÜ Ü(
+%2
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""¦£
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÜ Ü($
+%3java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+%2
+ij.gui.Roi2clone()ÅÂ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÜ Ü(%
+
+%4void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlay2ij.gui.Overlay*
+
+%3java.lang.Object2add(Lij/gui/Roi;)*
+3
+1*¬
+5F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÙ Ù(¥¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÙ Ù(
+%0ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+ij.gui.Overlay2	toArray()|
+z
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÙ Ù(
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]¨¥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÚ Ú(
+%1ij.gui.Overlay"'ij.gui.Overlay#create()Lij/gui/Overlay;*
+ij.gui.Overlay2create()…
+‚
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÚ Ú(
+overlay2ij.gui.Overlay"__id*
+
+%1ij.gui.Overlay*
+3
+1*³
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÝ	 Ý("f
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÝ Ý(
+
+overlay2ij.gui.OverlayB
+ij.gui.Overlay

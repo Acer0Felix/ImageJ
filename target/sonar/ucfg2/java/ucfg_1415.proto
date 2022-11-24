@@ -1,0 +1,49 @@
+
+Zij.plugin.PGM_Reader#open16bitRawImage(Ljava/io/InputStream;II)Lij/process/ImageProcessor;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.java“ “(+"9*¥
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.java˜ ˜(ÉÆ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.java˜ ˜(7	
+%0int"java.io.InputStream#read([BII)I*
+
+isjava.io.InputStream*
+
+bytesbyte[]*
+""*
+""2
+read([BII)*
+6
+1*Ê
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.java” ”(o
+m
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.java• •(&
+bytesbyte[]"__id*
+""*
+6
+1*µ
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.javaœ" œ('Š
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.javaœ œ(!
+%1ij.process.ShortProcessor"ij.process.ShortProcessorÞ
+Û
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.javaœ œ(>
+%2"Bij.process.ShortProcessor#<init>(II[SLjava/awt/image/ColorModel;)V*!
+
+%1ij.process.ShortProcessor*
+""*
+""*
+""*
+"""q
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PGM_Reader.javaœ œ(?!
+
+%1ij.process.ShortProcessor:
+isjava.io.InputStream:
+"":
+""B
+ij.plugin.PGM_Reader

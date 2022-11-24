@@ -1,0 +1,58 @@
+
+'ij.gui.PointRoi#promptBeforeDeleting()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaó ó($"2"4"6"9"1*’
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷9 ÷(<„
+
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷9 ÷(<
+%3ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp·´
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷9 ÷(H
+%4ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%3ij.ImagePlus2getWindow()*
+1*Û
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷, ÷(/„
+
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷, ÷(/
+%2ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp*
+2
+1*÷
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷ ÷(#š
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷ ÷(%	
+%1int"ij.gui.PointRoi#getNCounters()I*
+ij.gui.PointRoi2getNCounters()*	
+2
+4
+1*Ÿ
+8G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(!"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ("
+""*ý
+9G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô' ô(3š
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaô' ô(5	
+%0int"ij.gui.PointRoi#getNCounters()I*
+ij.gui.PointRoi2getNCounters()*
+2
+4
+6
+8
+1*Ÿ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷ ÷(O"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java÷ ÷(O
+""B
+ij.gui.PointRoi

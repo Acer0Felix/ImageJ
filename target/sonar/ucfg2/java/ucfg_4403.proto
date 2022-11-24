@@ -1,0 +1,47 @@
+
+.ij.io.FileSaver#saveAsPgm(Ljava/lang/String;)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¨ ¨("1*í
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java© ©(„
+
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java© ©(
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp’
+
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java© ©(1
+%1java.lang.Object"Uij.IJ#runPlugIn(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*	"
+ij.IJ*
+
+%0ij.ImagePlus*
+ij.plugin.PNM_Writer*
+
+pathjava.lang.String…
+‚
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(
+%2ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fid
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(	
+%3int"__id*
+""Á
+¾
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(
+
+%4void"-ij.io.FileSaver#updateImp(Lij/io/FileInfo;I)V*
+ij.io.FileSaver*
+
+%2ij.io.FileInfo*
+	
+%3int"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java« «(
+"":
+pathjava.lang.StringB
+ij.io.FileSaver

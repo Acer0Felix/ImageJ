@@ -1,0 +1,50 @@
+
+6ij.Macro#getName(Ljava/lang/String;)Ljava/lang/String;>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java2 2("5*à
+2>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java7
+ 7(¾»
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java7
+ 7(
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+pathjava.lang.String*
+""2substring(I)"Z
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java7 7(
+
+%2java.lang.String*ò
+4>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java5 5(¤¡
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java5 5(	
+%1int" java.lang.String#lastIndexOf(I)I*
+
+pathjava.lang.String*
+\\2lastIndexOf(I)*
+2
+1*ô
+5>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java3
+ 3(£ 
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java3
+ 3(	
+%0int" java.lang.String#lastIndexOf(I)I*
+
+pathjava.lang.String*
+/2lastIndexOf(I)*	
+2
+4
+1*¡
+1>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java9
+ 9("\
+>
+4/Users/edi/Development/MISO/ImageJ/src/ij/Macro.java9 9(
+
+pathjava.lang.String:
+pathjava.lang.StringB"
+
+ij.Macro

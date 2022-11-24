@@ -1,0 +1,73 @@
+
+#ij.macro.Functions#drawPlotLine(Z)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›("4*¡
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(
+%6ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot½º
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £( 
+
+%7void"ij.gui.Plot#drawLine(DDDD)V*
+
+%6ij.gui.Plot*
+""*
+""*
+""*
+""2drawLine(DDDD)*
+1*µ
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(
+%4ij.gui.Plot"__id* *
+ij.macro.Functions"
+plotÑÎ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(*
+
+%5void"%ij.gui.Plot#drawNormalizedLine(DDDD)V*
+
+%4ij.gui.Plot*
+""*
+""*
+""*
+""2drawNormalizedLine(DDDD)*
+1*ù
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ(§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ(
+%0double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (
+%1double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž(
+%2double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(
+%3double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()*
+2
+3*‘
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤	 ¤(j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤	 ¤(
+%8double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤ ¤(
+"":
+""B
+ij.macro.Functions

@@ -1,0 +1,37 @@
+
+2ij.macro.Functions#resetBuffer()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž' ž'("1*­
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ' Ÿ'(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ' Ÿ'(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ' Ÿ'(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()…‚
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java '  '(
+%2java.lang.StringBuffer"java.lang.StringBufferŸ
+œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java '  '( 
+%3"!java.lang.StringBuffer#<init>(I)V*
+
+%2java.lang.StringBuffer*2€—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java '  '(  
+ij.macro.Functions"
+buffer"__id*
+
+%2java.lang.StringBuffer"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡' ¡'(
+""B
+ij.macro.Functions

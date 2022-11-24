@@ -1,0 +1,76 @@
+
+Wij.macro.Interpreter#push(Lij/macro/Variable;Lij/macro/Interpreter;)Lij/macro/Variable;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÀ
+ À("6*¸
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÄ Ä(	ßÜ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÄ Ä(!
+
+%4void"/ij.macro.Interpreter#error(Ljava/lang/String;)V* 
+
+interpij.macro.Interpreter*
+Stack overflow2error(Ljava/lang/String;)*
+1*Ä
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÃ Ã(i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÃ Ã(	
+%3int"__id*
+""*
+3
+1*Þ
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ Â("i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ Â("	
+%1int"__id*
+""€~
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ Â(#
+%2ij.macro.Variable[]"ij.macro.Variable[]—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÂ Â(#!
+ij.macro.Interpreter"
+stack"__id*
+
+%2ij.macro.Variable[]*
+4*ó
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÁ Á(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÁ Á(
+%0ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack*
+4
+5*þ
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÇ Ç(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÇ Ç(
+%5ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack¤
+¡
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÇ Ç(
+%6"
+__arraySet*
+
+%5ij.macro.Variable[]*
+""*
+
+varij.macro.Variable"j
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaÈ È(
+
+varij.macro.Variable:
+varij.macro.Variable:
+interpij.macro.InterpreterB
+ij.macro.Interpreter

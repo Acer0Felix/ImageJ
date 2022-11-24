@@ -1,0 +1,59 @@
+
+Eij.gui.PolygonRoi#getNonSplineFloatPolygon()Lij/process/FloatPolygon;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaó ó(-"6"1*»
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaü
+ ü("k
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaü ü(
+
+pij.process.FloatPolygon*º
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ& õ()†ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(%
+%0ij.process.FloatPolygon"ij.process.FloatPolygonµ
+²
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(8
+%1"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%0ij.process.FloatPolygon*
+""*
+""*
+""ÙÖ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(E
+%2ij.process.FloatPolygon"<ij.process.FloatPolygon#duplicate()Lij/process/FloatPolygon;*
+
+%0ij.process.FloatPolygon2duplicate()“
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(F
+pij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö ö("
+%3double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()—”
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.java÷ ÷("
+%4double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()*
+2*”
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaþ
+ þ(ÕÒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaþ
+ þ(
+%5ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PolygonRoi2getFloatPolygon()"l
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaþ þ(
+
+%5ij.process.FloatPolygonB
+ij.gui.PolygonRoi

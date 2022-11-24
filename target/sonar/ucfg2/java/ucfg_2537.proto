@@ -1,0 +1,137 @@
+
+=ij.gui.Roi#getContainedFloatPoints()Lij/process/FloatPolygon;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÏ Ï(,"14*È
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÔ Ô(îë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÔ Ô(
+%1float"ij.gui.Roi#getStrokeWidth()F*
+
+ij.gui.Roi2getStrokeWidth()*
+11
+12*Õ
+14B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÌ Ì(p
+n
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÌ Ì(
+roi2
+ij.gui.Roi"__id*
+
+ij.gui.RoiÜÉ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÓ Ó(
+%0boolean"ij.gui.Roi#isLine()Z*
+
+ij.gui.Roi2isLine()*
+13
+10*í
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˙ ˙(Ω∫
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˙ ˙(=
+
+%9void"%ij.process.FloatPolygon#addPoint(FF)V*#
+!
+pointsij.process.FloatPolygon*
+""*
+""2addPoint(FF)*	
+4
+5
+1*ì
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˘ ˘(æª
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˘ ˘((	
+%8int"'ij.process.ImageProcessor#getPixel(II)I*#
+!
+maskij.process.ImageProcessor*
+""*
+""2getPixel(II)*	
+4
+5
+1*ã	
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÙ Ù(∫∑
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÙ Ù(&
+%4ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+roi2
+ij.gui.Roi2	getMask()ì
+ê
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÙ Ù('!
+maskij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessor∞≠
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaı ı(%
+%5java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi2
+ij.gui.Roi2getBounds()á
+Ñ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaı ı(&
+boundsjava.awt.Rectangle"__id*
+
+%5java.awt.Rectangle~|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaˆ ˆ((
+%6ij.process.FloatPolygon"ij.process.FloatPolygonë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaˆ ˆ(*
+%7"!ij.process.FloatPolygon#<init>()V*
+
+%6ij.process.FloatPolygonë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaˆ ˆ(+!
+pointsij.process.FloatPolygon"__id*
+
+%6ij.process.FloatPolygon*	
+4
+5
+1*¯
+11B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÚ Ú(±
+Æ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÚ Ú("
+%3
+ij.gui.Roi"6ij.gui.Roi#convertLineToArea(Lij/gui/Roi;)Lij/gui/Roi;*"
+
+ij.gui.Roi*
+
+ij.gui.Roit
+r
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÚ Ú("
+roi2
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roi*
+10*Ü
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java (‘—
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java ((
+%2ij.process.FloatPolygon"<ij.gui.Roi#getInterpolatedPolygon()Lij/process/FloatPolygon;*
+
+roi2
+ij.gui.Roi2getInterpolatedPolygon()"e
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java ()
+
+%2ij.process.FloatPolygon*≤
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˝	 ˝("i
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java˝ ˝(#
+!
+pointsij.process.FloatPolygonB
+
+ij.gui.Roi

@@ -1,0 +1,144 @@
+
+(ij.io.Opener#isText(Ljava/lang/String;)ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¥ ¥("17*£
+13D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§ §(!ÍÊ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§ §(3
+%4boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*	
+.html2endsWith(Ljava/lang/String;)*
+8
+12*¡
+14D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§ §(	ËÈ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§ §(
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.js2endsWith(Ljava/lang/String;)*
+13
+8*£
+15D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦8 ¦(<ÍÊ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦8 ¦(N
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*	
+.java2endsWith(Ljava/lang/String;)*
+14
+8*¢
+16D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦ ¦(#ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦ ¦(4
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+15
+8*¢
+17D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦ ¦(
+ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¦ ¦(
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+16
+8*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java°
+ °("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java° °(
+""*™
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java®
+ ®("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java® ®(
+""*ë
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java­+ ­(/—”
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java­+ ­(8
+
+%11int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*
+2
+1* 
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¬ ¬(ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¬ ¬(%
+
+%10int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+.2lastIndexOf(Ljava/lang/String;)*
+2
+3*œ
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaª ª(ËÈ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaª ª('	
+%9int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+/2lastIndexOf(Ljava/lang/String;)*
+5*™
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java©
+ ©("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java© ©(
+""*
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨6 ¨(:ÉÆ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨6 ¨(H
+%8boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+/2endsWith(Ljava/lang/String;)*
+7
+8* 
+10D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨ ¨("ËÈ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨ ¨(2
+%7boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.py2endsWith(Ljava/lang/String;)*
+8
+9*¢
+11D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨ ¨(	ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¨ ¨(
+%6boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.bsh2endsWith(Ljava/lang/String;)*
+8
+10*¢
+12D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§7 §(;ÌÉ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java§7 §(L
+%5boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.htm2endsWith(Ljava/lang/String;)*
+8
+11:
+pathjava.lang.StringB
+ij.io.Opener

@@ -1,0 +1,24 @@
+
++ij.process.ByteProcessor#toFloatArrays()[[FP
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÀ	 À	("1*œ
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÁ	 Á	(íê
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÃ	 Ã	(&
+%0ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToFloat()Lij/process/ImageProcessor;*
+ij.process.ByteProcessor2convertToFloat()Ÿ
+œ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÃ	 Ã	('
+fpij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorÖÓ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÄ	 Ä	( 
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+fpij.process.ImageProcessor2getPixels()"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÅ	 Å	(
+""B
+ij.process.ByteProcessor

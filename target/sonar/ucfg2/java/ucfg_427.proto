@@ -1,0 +1,18 @@
+
+$ij.plugin.filter.ImageMath#getD(II)DR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java— —(!"1*Ò
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java˜ ˜(š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java˜ ˜()
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java˜
+ ˜(*
+"":
+"":
+""B"
+ij.plugin.filter.ImageMath

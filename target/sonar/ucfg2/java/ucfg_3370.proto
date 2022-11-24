@@ -1,0 +1,67 @@
+
+4ij.macro.Functions#deleteColumn()Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÌ9 Ì9("6*÷
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÒ9 Ò9( 
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÒ9 Ò9((
+ij.macro.Functions"
+unUpdatedTable"__id*
+
+rtij.measure.ResultsTable*
+1*Î
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ9 Ñ9(÷ô
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ9 Ñ9(
+
+%3void"9ij.measure.ResultsTable#deleteColumn(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*
+
+columnjava.lang.String2 deleteColumn(Ljava/lang/String;)*
+2*ü
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÍ9 Í9( ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÍ9 Í9("
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÍ9 Í9(#
+columnjava.lang.String"__id*
+
+%0java.lang.String°
+­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÎ9 Î9(
+%1java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.FunctionsŠ
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÎ9 Î9(
+titlejava.lang.String"__id*
+
+%1java.lang.Stringô
+ñ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÏ9 Ï9(*
+%2ij.measure.ResultsTable"Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+titlejava.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÏ9 Ï9(+
+rtij.measure.ResultsTable"__id*
+
+%2ij.measure.ResultsTable*
+5*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ9	 Ö9("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ9 Ö9(
+""B
+ij.macro.Functions

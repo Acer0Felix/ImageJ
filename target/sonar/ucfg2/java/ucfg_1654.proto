@@ -1,0 +1,39 @@
+
+ij.gui.Plot#getObjectFlags(C)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÃ	 Ã	("3*ó
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaœ	
+ œ	("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaœ	 œ	(
+""*º
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ	 Õ	(Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ	 Õ	(
+%0ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp’“
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ	 Õ	(-
+%1ij.gui.PlotObject"9ij.gui.PlotProperties#getPlotObject(C)Lij/gui/PlotObject;*
+
+%0ij.gui.PlotProperties*
+""2getPlotObject(C)ä
+á
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ	 Õ	(.
+
+plotObjectij.gui.PlotObject"__id*
+
+%1ij.gui.PlotObject*
+2
+1*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java—	 —	("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java—	 —	(
+"":
+""B
+ij.gui.Plot

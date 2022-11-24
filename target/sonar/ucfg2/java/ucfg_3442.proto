@@ -1,0 +1,19 @@
+
+>ij.gui.ScrollbarWithLabel#getMinimumSize()Ljava/awt/Dimension;O
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/ScrollbarWithLabel.java3 3( "1*Ï
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/ScrollbarWithLabel.java4 4(Å
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/ScrollbarWithLabel.java4 4(
+%0java.awt.Dimension"java.awt.Dimension¢
+ü
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/ScrollbarWithLabel.java4	 4(
+%1"java.awt.Dimension#<init>(II)V*
+
+%0java.awt.Dimension*2P*2"m
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/gui/ScrollbarWithLabel.java4 4(
+
+%0java.awt.DimensionB
+ij.gui.ScrollbarWithLabel

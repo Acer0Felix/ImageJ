@@ -1,0 +1,95 @@
+
+'ij.gui.Overlay#create()Lij/gui/Overlay;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÊ Ê("1*Ê
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaË Ë("pn
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaË Ë( 
+%0ij.gui.Overlay"ij.gui.Overlayƒ
+€
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaË Ë("
+%1"ij.gui.Overlay#<init>()V*
+
+%0ij.gui.Overlay…
+‚
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaË Ë(#
+overlay2ij.gui.Overlay"__id*
+
+%0ij.gui.Overlay«¨
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÌ Ì(
+
+%2void"ij.gui.Overlay#drawLabels(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawLabels(Z)©¦
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÍ Í(
+
+%3void"ij.gui.Overlay#drawNames(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawNames(Z)µ²
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÎ Î(+
+
+%4void""ij.gui.Overlay#drawBackgrounds(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawBackgrounds(Z)‹
+ˆ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÏ Ï(#
+%5java.awt.Color"__id*"* 
+ij.gui.Overlay"
+
+labelColorßÜ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÏ Ï($
+
+%6void"/ij.gui.Overlay#setLabelColor(Ljava/awt/Color;)V*
+
+overlay2ij.gui.Overlay*
+
+%5java.awt.Color2setLabelColor(Ljava/awt/Color;)‰
+†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÐ Ð(!
+%7java.awt.Font"__id*!*
+ij.gui.Overlay"
+	labelFontäá
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÐ Ð(2
+
+%8void".ij.gui.Overlay#setLabelFont(Ljava/awt/Font;Z)V*
+
+overlay2ij.gui.Overlay*
+
+%7java.awt.Font*
+""2setLabelFont(Ljava/awt/Font;Z)½º
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÑ Ñ(0
+
+%9void"&ij.gui.Overlay#setIsCalibrationBar(Z)V*
+
+overlay2ij.gui.Overlay*
+""2setIsCalibrationBar(Z)¬©
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÒ Ò(!
+%10void"ij.gui.Overlay#selectable(Z)V*
+
+overlay2ij.gui.Overlay*
+""2selectable(Z)°­
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÓ Ó("
+%11void"ij.gui.Overlay#setDraggable(Z)V*
+
+overlay2ij.gui.Overlay*
+""2setDraggable(Z)"f
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaÔ Ô(
+
+overlay2ij.gui.OverlayB
+ij.gui.Overlay

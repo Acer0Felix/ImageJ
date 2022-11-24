@@ -1,0 +1,106 @@
+
+5ij.gui.GenericDialog#parseDouble(Ljava/lang/String;)DL
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java°	 °	("8"9*º
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	/ ¶	(5l
+j
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	/ ¶	(9
+%8double"__id*
+""t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	/ ¶	(9
+%6double"__id*
+
+%8double*
+1*Ã
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	 ¶	(ôñ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	 ¶	(.
+%7double"6ij.macro.Interpreter#getVariable2(Ljava/lang/String;)D* 
+
+interpij.macro.Interpreter*
+
+sjava.lang.String2 getVariable2(Ljava/lang/String;)t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¶	 ¶	(.
+%6double"__id*
+
+%7double*
+1*µ
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ	 µ	(#Á
+¾
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ	 µ	(1
+%5ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreter•
+’
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaµ	 µ	(2
+interpij.macro.Interpreter"__id*
+
+%5ij.macro.Interpreter*
+3
+4*«
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´	 ´	(ÇÄ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´	 ´	(,
+%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+sjava.lang.String*22substring(I)ˆ
+…
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´	 ´	(,
+sjava.lang.String"__id*
+
+%4java.lang.String*
+5*®
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´	 ´	(ÒÏ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java´	 ´	(
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+sjava.lang.String*
+&2startsWith(Ljava/lang/String;)*
+5
+6*´
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java²	 ²	(»
+¸
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java²	 ²	(%
+%1double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+sjava.lang.Stringš
+—
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java³	 ³	(
+%2boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+7
+1*—
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java±	 ±	(l
+j
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java±	 ±	( 
+%0double"__id*
+"""V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java±	 ±	(!
+""*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¸		 ¸	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java¸	 ¸	(
+"":
+sjava.lang.StringB
+ij.gui.GenericDialog

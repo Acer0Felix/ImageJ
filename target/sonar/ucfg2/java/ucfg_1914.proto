@@ -1,0 +1,95 @@
+
+ ij.IJ#d2s(DII)Ljava/lang/String;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÜ Ü("9*‘
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaè è(ä
+á
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaè è(\	
+%8int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""*
+1*∂
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å(ñ
+ì
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å(0
+%7java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+"""Y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaå å(1
+
+%7java.lang.String*Æ
+7=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä" ä(+_
+]
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä" ä(7	
+%4int"__id*
+	
+%6int*	
+2
+4
+1*Æ
+8=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä ä(_
+]
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaä ä(	
+%4int"__id*
+	
+%5int*	
+2
+4
+1*¯
+9=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaá á(Ñ
+Å
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaá" á(-
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""é
+ã
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaá á(.
+%1double"java.lang.Math#log10(D)D*"
+java.lang.Math*
+
+%0doubleã
+à
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaà' à(?
+%2double"java.lang.Math#pow(DD)D*"
+java.lang.Math*2
+*
+""Ö
+Ç
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaâ â(=
+%3double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""*
+7
+8*∂
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaê ê(ñ
+ì
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaê ê(&
+%9java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+"""Y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaê ê('
+
+%9java.lang.String:
+"":
+"":
+""B	"
+ij.IJ

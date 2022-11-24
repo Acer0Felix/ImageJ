@@ -1,0 +1,51 @@
+
+)ij.process.ByteProcessor#getHistogram()[IP
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÚ Ú("10*Û
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java˘ ˘(ì
+ê
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java˘ ˘(
+%3byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels*
+4
+1*Ô
+9P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÙ
+ Ù(§
+°
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÙ Ù(
+%1ij.process.ImageProcessor"__id*&*$
+ij.process.ByteProcessor"
+maskîë
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÙ
+ Ù(
+%2int[]"Dij.process.ByteProcessor#getHistogram(Lij/process/ImageProcessor;)[I*
+ij.process.ByteProcessor*!
+
+%1ij.process.ImageProcessor2)getHistogram(Lij/process/ImageProcessor;)"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÙ Ù(
+""*à
+10P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÛ Û(
+§
+°
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaÛ Û(
+
+%0ij.process.ImageProcessor"__id*&*$
+ij.process.ByteProcessor"
+mask*	
+4
+9
+1*±
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java˝	 ˝("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java˝ ˝(
+""B
+ij.process.ByteProcessor

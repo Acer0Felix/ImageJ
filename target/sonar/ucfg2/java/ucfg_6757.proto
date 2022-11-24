@@ -1,0 +1,103 @@
+
+6ij.process.ColorProcessor#getHSBStack()Lij/ImageStack;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÙ Ù("1*­
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÚ Ú(³°
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÚ Ú(	
+%0int"%ij.process.ImageProcessor#getWidth()I*
+ij.process.ColorProcessor2
+getWidth()µ²
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÛ Û(	
+%1int"&ij.process.ImageProcessor#getHeight()I*
+ij.process.ColorProcessor2getHeight()p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÜ Ü($
+Hbyte[]"__id*
+""p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÝ Ý($
+Sbyte[]"__id*
+""p
+n
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaÞ Þ($
+Bbyte[]"__id*
+""éæ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaß ß(
+
+%2void")ij.process.ColorProcessor#getHSB([B[B[B)V*
+ij.process.ColorProcessor*
+
+Hbyte[]*
+
+Sbyte[]*
+
+Bbyte[]2getHSB([B[B[B)…‚
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaà à(($
+%3java.awt.image.IndexColorModel"Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ColorProcessor2getDefaultColorModel()¥
+¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaà à()
+cmjava.awt.image.ColorModel"__id*&
+$
+%3java.awt.image.IndexColorModelyw
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(#
+%4ij.ImageStack"ij.ImageStackÜ
+Ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(6
+%5"4ij.ImageStack#<init>(IILjava/awt/image/ColorModel;)V*
+
+%4ij.ImageStack*
+""*
+""*!
+
+cmjava.awt.image.ColorModel‹
+ˆ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaá á(7
+stackij.ImageStack"__id*
+
+%4ij.ImageStackƒ€
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaâ â(
+
+%6void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+Hue*
+
+Hbyte[]2.addSlice(Ljava/lang/String;Ljava/lang/Object;)Š‡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaã ã(!
+
+%7void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+
+Saturation*
+
+Sbyte[]2.addSlice(Ljava/lang/String;Ljava/lang/Object;)Š‡
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaä ä(!
+
+%8void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+
+Brightness*
+
+Bbyte[]2.addSlice(Ljava/lang/String;Ljava/lang/Object;)"m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javaå å(
+
+stackij.ImageStackB
+ij.process.ColorProcessor

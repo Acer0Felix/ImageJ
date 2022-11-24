@@ -1,0 +1,16 @@
+
+$ij.process.AutoThresholder#Mean([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java” ”(	"1*Ó
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(›
+˜
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(&
+%0double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+"""\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java   (
+"":
+""B
+ij.process.AutoThresholder

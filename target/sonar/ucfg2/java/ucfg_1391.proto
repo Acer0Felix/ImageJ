@@ -1,0 +1,48 @@
+
+9ij.io.ImageReader#read24bitImage(Ljava/io/InputStream;)[FI
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¸	 ¸("8* 
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¾ ¾(ÇÄ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¾ ¾(
+
+%2void"&java.io.DataInputStream#readFully([B)V* 
+
+disjava.io.DataInputStream*
+
+bufferbyte[]2readFully([B)*
+6
+1*³
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¹ ¹( m
+k
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¹ ¹($
+bufferbyte[]"__id*
+""†ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¼ ¼(+
+%0java.io.DataInputStream"java.io.DataInputStreamÊ
+Ç
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¼ ¼(/
+%1"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*
+
+%0java.io.DataInputStream*
+
+injava.io.InputStream•
+’
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¼ ¼(0
+disjava.io.DataInputStream"__id*
+
+%0java.io.DataInputStream*
+6
+1*£
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaÇ	 Ç("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaÇ Ç(
+"":
+injava.io.InputStreamB
+ij.io.ImageReader

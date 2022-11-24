@@ -1,0 +1,55 @@
+
+%ij.process.BinaryProcessor#thin(I[I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaÊ Ê(	"33"34*ù
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaö ö(
+—
+”
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaö ö(
+
+%4byte[]"__id***(
+ij.process.BinaryProcessor"
+pixels*
+4
+1*Ì
+32R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaË Ë(%ÜÙ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaÍ Í(*
+%3java.lang.Object":ij.process.ByteProcessor#getPixelsCopy()Ljava/lang/Object;*
+ij.process.BinaryProcessor2getPixelsCopy()Š
+‡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaÍ Í(+
+pixels2byte[]"__id*
+
+%3java.lang.Object*
+4
+1*Ô
+33R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaË# Ë($t
+r
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaË" Ë($	
+%0int"__id*
+	
+%2int*
+32*Ô
+34R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaË  Ë(!t
+r
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaË  Ë(!	
+%0int"__id*
+	
+%1int*
+32*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaù	 ù("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryProcessor.javaù ù(
+"":
+"":
+""B
+ij.process.BinaryProcessor

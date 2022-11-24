@@ -1,0 +1,115 @@
+
+.ij.macro.Functions#isOpen(Ljava/lang/String;)ZJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸	 ¸("10*•
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ Ñ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ Ñ(
+""*Ò
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(µ≤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(#
+%7java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()ﬂ‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(1
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%7java.lang.String*
+
+titlejava.lang.String2equals(Ljava/lang/Object;)*
+2
+5*≠
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(!Ã…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(/
+%6java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+enjava.util.Enumeration2nextElement()Ñ
+Å
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(0
+impij.ImagePlus"__id*
+
+%6java.lang.Object*
+3
+5*î
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ: Å(<∫∑
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ: Å(N
+%5boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+enjava.util.Enumeration2hasMoreElements()*
+4
+1*À
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å("ó
+î
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(-
+%3java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable∆√
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(8
+%4java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%3java.util.Vector2
+elements()ë
+é
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å(8
+enjava.util.Enumeration"__id*
+
+%4java.util.Enumeration*
+5*Ò
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ( Ä(3ó
+î
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ( Ä(>
+%2java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable*
+6
+1*˜
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ Ä(ù
+ö
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ Ä($
+%1boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+7
+1*•
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˇ
+ ˇ("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˇ ˇ(
+""*µ
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˝ ˝(⁄
+◊
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˝ ˝(/
+%0java.awt.Window"?ij.WindowManager#getWindow(Ljava/lang/String;)Ljava/awt/Window;*"
+ij.WindowManager*
+
+titlejava.lang.String*
+8
+9*•
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá	 á("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaá á(
+"":
+titlejava.lang.StringB
+ij.macro.Functions

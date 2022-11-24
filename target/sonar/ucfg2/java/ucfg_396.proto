@@ -1,0 +1,54 @@
+
+=ij.macro.ExtensionDescriptor#getTypeName(I)Ljava/lang/String;R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaa a(""1*º
+2R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javai j("a
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaj j(	
+unknown*¸
+3R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javag h("_
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javah h(	
+array*¹
+4R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javae f("`
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javaf f(
+
+number*¹
+5R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javac d("`
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javad d(
+
+string*ô
+1R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javab b(¹
+¶
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javab b(	
+%0int"+ij.macro.ExtensionDescriptor#getRawType(I)I* "
+ij.macro.ExtensionDescriptor*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javac	 c("	
+%1int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javae	 e("	
+%2int"__id*
+""o
+m
+R
+H/Users/edi/Development/MISO/ImageJ/src/ij/macro/ExtensionDescriptor.javag	 g(!	
+%3int"__id*
+""*
+2
+3
+4
+5:
+""B "
+ij.macro.ExtensionDescriptor

@@ -1,0 +1,52 @@
+
+1ij.gui.Plot#getDrawingFrame()Ljava/awt/Rectangle;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java   (!"3*õ
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÃ Ã(À»
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÃ Ã(
+%1ij.process.ImageProcessor":ij.gui.Plot#getBlankProcessor()Lij/process/ImageProcessor;*
+ij.gui.Plot2getBlankProcessor()*
+1*◊
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÀ À(Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÀ À(
+%0java.awt.Rectangle"__id**
+ij.gui.Plot"
+frame*
+2
+1*ﬂ
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(Ñ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(
+%2java.awt.Rectangle"__id**
+ij.gui.Plot"
+frameÑ
+Å
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ  Õ(%
+%3java.awt.Rectangle"__id**
+ij.gui.Plot"
+frameus
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(
+%4java.awt.Rectangle"java.awt.Rectangle¨
+©
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ	 Õ(A
+%5" java.awt.Rectangle#<init>(IIII)V*
+
+%4java.awt.Rectangle*
+""*
+""*
+""*
+"""a
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(B
+
+%4java.awt.RectangleB
+ij.gui.Plot

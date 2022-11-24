@@ -1,0 +1,113 @@
+
+!ij.plugin.frame.Editor#offset(I)IN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÑ Ñ("13*·
+13N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÖ Ö(	Ä
+~
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÖ Ö(
+%0boolean"ij.IJ#isWindows()Z*	"
+ij.IJ*
+11
+12*À
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(q
+o
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(	
+%8int"__id*
+
+
+%10int*
+1* 
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(p
+n
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é(	
+%8int"__id*
+	
+%9int*
+1*√
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç(ã
+à
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç()
+%4java.lang.String"__concat*
+
+offset: *
+""ñ
+ì
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç(-
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+ ó
+î
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç(4
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""§
+°
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaç ç(5
+
+%7void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%6java.lang.String*
+2
+3*è
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(´®
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaä ä(
+
+%3char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)*
+2
+3
+5
+9*”
+11N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaá á(ñ
+ì
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaá á(
+%1java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta≈¬
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaá á(
+%2java.lang.String"2java.awt.TextComponent#getText()Ljava/lang/String;*
+
+%1java.awt.TextArea2	getText()ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaá á(
+textjava.lang.String"__id*
+
+%2java.lang.String*
+2
+3
+5
+9*Æ
+12N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÜ
+ Ü("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaÜ Ü(
+""*≠
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é( "X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Editor.javaé é( 
+"":
+""B
+ij.plugin.frame.Editor

@@ -1,0 +1,52 @@
+
+6ij.plugin.frame.Recorder#nonAscii(Ljava/lang/String;)ZP
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÏ Ï( "7"8*±
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.java ("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.java (
+""*ç
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÔ Ô(™ß
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÔ Ô(
+
+%3char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)*	
+3
+4
+1*—
+7P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÌ Ì( r
+p
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÌ Ì( 	
+%0int"__id*
+	
+%2int*
+4
+1*Û
+8P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÌ Ì(üú
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÌ Ì(	
+%1int"java.lang.String#length()I*
+
+sjava.lang.String2length()r
+p
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÌ Ì(	
+%0int"__id*
+	
+%1int*
+4
+1*±
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÚ	 Ú("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/Recorder.javaÚ Ú(
+"":
+sjava.lang.StringB"
+ij.plugin.frame.Recorder

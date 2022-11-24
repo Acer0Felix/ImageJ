@@ -1,0 +1,572 @@
+
+8ij.IJ#getDirectory(Ljava/lang/String;)Ljava/lang/String;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java™ ™(""39*‹
+24=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ	 æ(î
+ë
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ	 æ(
+%21java.lang.String")ij.Prefs#getImageJDir()Ljava/lang/String;*"
+
+ij.Prefs{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaæ æ(
+dirjava.lang.String"__id*
+
+%21java.lang.String*
+1*ñ
+25=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ Ω(∆√
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaΩ Ω("
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+
+imagej2equals(Ljava/lang/Object;)*
+24
+23*‹
+26=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaº	 º(î
+ë
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaº	 º(
+%19java.lang.String")ij.Prefs#getImageJDir()Ljava/lang/String;*"
+
+ij.Prefs{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaº º(
+dirjava.lang.String"__id*
+
+%19java.lang.String*
+1*ó
+27=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaª ª(«ƒ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaª ª(#
+%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*	
+startup2equals(Ljava/lang/Object;)*
+25
+26*¶
+28=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫	 ∫(ƒ
+¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫	 ∫((
+%14java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.homeh
+f
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫) ∫(7
+%15java.lang.String"__id*
+""õ
+ò
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫	 ∫(7
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.Stringè
+å
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫	 ∫(C
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+	Downloads{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∫ ∫(C
+dirjava.lang.String"__id*
+
+%17java.lang.String*
+1*ô
+29=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaπ π(…∆
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaπ π(%
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+	downloads2equals(Ljava/lang/Object;)*
+27
+28*å
+30=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∏	 ∏(ƒ
+¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∏	 ∏((
+%12java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.home{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∏ ∏((
+dirjava.lang.String"__id*
+
+%12java.lang.String*
+1*î
+31=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∑ ∑(ƒ¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∑ ∑("
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+home2equals(Ljava/lang/Object;)*
+29
+30*≤
+32=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∂
+ ∂(h
+f
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∂ ∂(
+dirjava.lang.String"__id*
+""*
+1*÷
+10=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java… …(à
+Ö
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java… …(
+%35java.lang.String"__id*%*#
+
+fiij.io.FileInfo"
+	directory*
+8
+9*ÿ
+33=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥
+ ¥(ã
+à
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥
+ ¥(
+%8java.lang.String"__concat*
+
+ijdirjava.lang.String*
+lutsg
+e
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥ ¥()
+%9java.lang.String"__id*
+""ô
+ñ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥
+ ¥()
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¥ ¥()
+dirjava.lang.String"__id*
+
+%10java.lang.String*
+1*ƒ
+11=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »(:v
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »(:
+fiij.io.FileInfo"__id*
+
+%32ij.io.FileInfo*
+8
+10*·
+34=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤ ≤(ì
+ê
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤ ≤(&
+%7java.lang.String")ij.Prefs#getImageJDir()Ljava/lang/String;*"
+
+ij.Prefs|
+z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≤ ≤('
+ijdirjava.lang.String"__id*
+
+%7java.lang.String*
+32
+33*æ
+12=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java»5 »(9s
+q
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java»5 »(9
+%32ij.io.FileInfo"__id*
+
+%34
+<nulltype>*
+11*ì
+35=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java± ±(√¿
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java± ±( 
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+luts2equals(Ljava/lang/Object;)*
+31
+34*Ä
+13=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »(ª∏
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »(4
+%33ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+impij.ImagePlus2getOriginalFileInfo()w
+u
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java» »(4
+%32ij.io.FileInfo"__id*
+
+%33ij.io.FileInfo*
+11*€
+36=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∞	 ∞(î
+ë
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∞	 ∞(
+%5java.lang.String"*ij.Menus#getMacrosPath()Ljava/lang/String;*"
+
+ij.Menusz
+x
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∞ ∞(
+dirjava.lang.String"__id*
+
+%5java.lang.String*
+1*‰
+14=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java« «( ü
+ú
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java« «(2
+%31ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagers
+q
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java« «(3
+impij.ImagePlus"__id*
+
+%31ij.ImagePlus*
+13
+12*ï
+37=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaØ Ø(≈¬
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaØ Ø("
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+
+macros2equals(Ljava/lang/Object;)*
+35
+36*î
+15=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∆ ∆(≈¬
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java∆ ∆(#
+%30boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*	
+image2equals(Ljava/lang/Object;)*
+14
+7*‹
+38=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ	 Æ(ï
+í
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ	 Æ(
+%3java.lang.String"+ij.Menus#getPlugInsPath()Ljava/lang/String;*"
+
+ij.Menusz
+x
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÆ Æ(
+dirjava.lang.String"__id*
+
+%3java.lang.String*
+1*µ
+16=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≈ ≈(#k
+i
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≈ ≈(#
+dirjava.lang.String"__id*	
+/tmp/*
+1*·
+39=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´(h
+f
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java´ ´(
+dirjava.lang.String"__id*
+""g
+e
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨$ ¨(-
+%0java.util.Locale"__id*
+""ˆÛ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(.
+%1java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+titlejava.lang.String*
+
+%0java.util.Locale2toLowerCase(Ljava/util/Locale;)}
+{
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¨ ¨(/
+title2java.lang.String"__id*
+
+%1java.lang.String∆√
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≠ ≠(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*	
+plugins2equals(Ljava/lang/Object;)*
+37
+38*â
+17=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ	 ƒ(…
+∆
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ	 ƒ(-
+%28java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+java.io.tmpdir{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaƒ ƒ(-
+dirjava.lang.String"__id*
+
+%28java.lang.Stringr
+p
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java≈ ≈(
+%29boolean"ij.IJ#isMacintosh()Z*	"
+ij.IJ*
+16
+1*î
+18=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java√ √(ƒ¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java√ √( 
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+temp2equals(Ljava/lang/Object;)*
+15
+17*€
+19=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬	 ¬(ì
+ê
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬	 ¬(
+%26java.lang.String"(ij.Prefs#getPrefsDir()Ljava/lang/String;*"
+
+ij.Prefs{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¬ ¬(
+dirjava.lang.String"__id*
+
+%26java.lang.String*
+1*Ÿ
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java÷ ÷(ª
+∏
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java÷ ÷(
+%45java.lang.String"8ij.IJ#addSeparator(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+dirjava.lang.String{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java÷ ÷(
+dirjava.lang.String"__id*
+
+%45java.lang.String"Z
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java◊ ◊(
+
+dirjava.lang.String*∏
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‘ ‘(o
+m
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‘ ‘(
+%44void"ij.Macro#abort()V*"
+
+ij.Macro*
+1*–
+3=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java“. “(3xv
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java“ “(-
+%41ij.io.DirectoryChooser"ij.io.DirectoryChooserª
+∏
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java“ “(4
+%42"2ij.io.DirectoryChooser#<init>(Ljava/lang/String;)V*
+
+%41ij.io.DirectoryChooser*
+
+titlejava.lang.Stringá
+Ñ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java“ “(5
+dcij.io.DirectoryChooser"__id*
+
+%41ij.io.DirectoryChooserƒ¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java”	 ”(
+%43java.lang.String"7ij.io.DirectoryChooser#getDirectory()Ljava/lang/String;*
+
+dcij.io.DirectoryChooser2getDirectory(){
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java” ”(
+dirjava.lang.String"__id*
+
+%43java.lang.String*
+2
+1*ä
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java–	 –(√
+¿
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java–	 –('
+%40java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+user.dir{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java– –('
+dirjava.lang.String"__id*
+
+%40java.lang.String*
+1*ê
+5=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaœ œ(√¿
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaœ œ(
+%39boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+cwd2equals(Ljava/lang/Object;)*
+3
+4*Ô
+6=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ	 Œ(®
+•
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ	 Œ(&
+%38java.lang.String"5ij.io.OpenDialog#getLastDirectory()Ljava/lang/String;*"
+ij.io.OpenDialog{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaŒ Œ(&
+dirjava.lang.String"__id*
+
+%38java.lang.String*
+1*ë
+7=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÕ Õ(ƒ¡
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÕ Õ("
+%37boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+file2equals(Ljava/lang/Object;)*
+5
+6*±
+8=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÃ
+ Ã(h
+f
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaÃ Ã(
+dirjava.lang.String"__id*
+""*
+1*œ
+9=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java 
+  (à
+Ö
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java 
+  (
+%36java.lang.String"__id*%*#
+
+fiij.io.FileInfo"
+	directory{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java   (
+dirjava.lang.String"__id*
+
+%36java.lang.String*
+1*õ
+20=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¡ ¡(À»
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¡ ¡('
+%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*
+preferences2equals(Ljava/lang/Object;)*
+18
+19*Û
+21=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿(´
+®
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿()
+%24java.lang.String"8ij.io.OpenDialog#getDefaultDirectory()Ljava/lang/String;*"
+ij.io.OpenDialog{
+y
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿ ¿()
+dirjava.lang.String"__id*
+
+%24java.lang.String*
+1*ó
+22=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø' ø(-«ƒ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø' ø(?
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*	
+default2equals(Ljava/lang/Object;)*
+20
+21*ó
+23=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø ø(«ƒ
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.javaø ø(#
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+title2java.lang.String*	
+current2equals(Ljava/lang/Object;)*
+21
+22:
+titlejava.lang.StringB	"
+ij.IJ

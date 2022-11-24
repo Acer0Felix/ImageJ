@@ -1,0 +1,45 @@
+
+ij.gui.Plot#niceNumber(D)DC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÚ Ú("5*ó
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaı& ı('"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaı ı(-
+""*ó
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ! Ù(#"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ Ù()
+""*ç
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ' Û(4
+%0double"java.lang.Math#log10(D)D*"
+java.lang.Math*
+""å
+â
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(;
+%1double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""ô
+ñ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(<
+%2double"java.lang.Math#pow(DD)D*"
+java.lang.Math*2
+*
+
+%1double*	
+2
+4
+1*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaˆ ˆ("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaˆ ˆ(
+"":
+""B
+ij.gui.Plot

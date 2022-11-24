@@ -1,0 +1,784 @@
+
+0ij.io.FileOpener#setCalibration(Lij/ImagePlus;)VH
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaƒ ƒ("55*¢
+24H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java² ²(
+"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java² ²(
+
+""*Õ
+48H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (!ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (!
+%13ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi–
+“
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (-
+%14java.lang.String"__id*(*&
+
+%13ij.io.FileInfo"
+descriptionÖÓ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (B
+%15boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%14java.lang.String*
+
+ImageJ2startsWith(Ljava/lang/String;)*
+40
+45*ã
+26H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¯ ¯(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¯ ¯(
+%50ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+24
+23*€
+49H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaŒ Œ(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (	
+%11ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi–
+“
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (
+%12java.lang.String"__id*(*&
+
+%11ij.io.FileInfo"
+description*
+48
+40
+45*ç
+27H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java® ®(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java® ®(
+%49ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+24
+26
+23*›
+28H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¬ ¬(ÄÁ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¬ ¬((
+%48void"Uij.io.FileOpener#checkForCalibrationConflict(Lij/ImagePlus;Lij/measure/Calibration;)V*
+ij.io.FileOpener*
+
+impij.ImagePlus*
+
+calij.measure.Calibration2CcheckForCalibrationConflict(Lij/ImagePlus;Lij/measure/Calibration;)*
+27*ó
+50H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‹ ‹(‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‹ ‹(
+%9ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiŽ
+‹
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‹ ‹("
+%10java.lang.String"__id* *
+
+%9ij.io.FileInfo"
+unit*
+49
+39*ù
+51H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaˆ ˆ(,‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaˆ- ˆ(/
+%5ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaˆ ˆ(0
+%6java.util.Properties"Pij.io.FileOpener#decodeDescriptionString(Lij/io/FileInfo;)Ljava/util/Properties;*
+ij.io.FileOpener*
+
+%5ij.io.FileInfo2)decodeDescriptionString(Lij/io/FileInfo;)
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaˆ ˆ(1
+propsjava.util.Properties"__id*
+
+%6java.util.PropertiesËÈ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‰ ‰((
+%7ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()’
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‰ ‰()
+calij.measure.Calibration"__id*
+
+%7ij.measure.Calibration‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‹ ‹(
+%8ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+39
+50*ú
+52H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java† †(ÕÒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java† †(
+%3ij.measure.Calibration":ij.ImagePlus#getLocalCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getLocalCalibration()ËÈ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java† †(9
+
+%4void"3ij.measure.Calibration#setSigned16BitCalibration()V*
+
+%3ij.measure.Calibration2setSigned16BitCalibration()*
+51*˜
+30H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¤ ¤(]ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¥ ¥(
+%44ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¥) ¥(+
+%45ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi”
+‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¥) ¥(5
+%46java.lang.String"__id*&*$
+
+%45ij.io.FileInfo"
+	valueUnit
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¥ ¥(@
+%47void";ij.measure.Calibration#setFunction(I[DLjava/lang/String;Z)V*
+
+calij.measure.Calibration*
+""*
+""*
+
+%46java.lang.String*
+""2#setFunction(I[DLjava/lang/String;Z)*
+27
+28*î
+53H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java… …(—
+”
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java… …(,
+
+%2void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+16-bit signed*
+52*Ó
+31H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¤' ¤(,­ª
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¤' ¤(M
+%42java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+zeroclip*	
+false21getProperty(Ljava/lang/String;Ljava/lang/String;)ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¤' ¤(\
+%43boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%42java.lang.String*
+true2equals(Ljava/lang/Object;)*
+30*÷
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÑ Ñ(ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÑ Ñ($
+
+%80int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+9
+0*Í
+55H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java„ „(‡
+„
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java„ „(
+%0ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fie
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java„ „()	
+%1int"__id*
+""*
+51
+52
+53*€
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÏ Ï(©¦
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÏ Ï(
+%79void"!ij.ImagePlus#setTypeToColor256()V*
+
+impij.ImagePlus2setTypeToColor256()*
+10*È
+33H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java£ £(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java£
+ £(%
+
+%41int"__id*
+""*
+27
+28
+30
+31*ç
+34H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¢H ¢(Jˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¢H ¢(J
+%40ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+30
+31
+33*Æ
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÎ Î(ë
+è
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÎ Î($
+%78boolean"Fij.io.FileOpener#getBoolean(Ljava/util/Properties;Ljava/lang/String;)Z*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+	8bitcolor*
+10
+11*À
+35H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¢) ¢(*f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¢, ¢(D
+
+%39int"__id*
+""*
+33
+34*£
+13H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê(ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê(,
+%77void"+ij.process.ImageProcessor#setMinAndMax(DD)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+12*Ë
+36H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¡ ¡(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¡ ¡(
+%37ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fif
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¢ ¢(%
+
+%38int"__id*
+""*
+35
+33*‰
+14H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÉ# É(%®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÉ# É(.
+%76double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()*
+13
+12*ï
+37H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaŸ Ÿ(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaŸ Ÿ(
+%34ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi”
+‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaŸ Ÿ(!
+%35java.lang.String"__id*&*$
+
+%34ij.io.FileInfo"
+	valueUnitòï
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaŸ Ÿ("
+%36void"8ij.measure.Calibration#setValueUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+%35java.lang.String2 setValueUnit(Ljava/lang/String;)*
+27
+28*‰
+15H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÉ É(
+®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÉ É(
+%75double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()*
+13
+14*÷
+38H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaž ž(
+œ™
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaž ž(
+
+%33int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+36
+37*À
+16H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ& È(*f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ, È(<
+
+%74int"__id*
+""*
+15
+12*þ
+39H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (
+%31ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi”
+‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (
+%32java.lang.String"__id*&*$
+
+%31ij.io.FileInfo"
+	valueUnit*
+38
+27
+28*À
+17H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ È(f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ È("
+
+%73int"__id*
+""*
+15
+16*£
+18H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÇ Ç(ÌÉ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÇ Ç(+
+%72void"+ij.process.ImageProcessor#setMinAndMax(DD)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+12*À
+19H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÆ  Æ($f
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÆ& Æ(9
+
+%71int"__id*
+""*
+17
+18*f
+0 "_
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaà à(
+implicit return*Š
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÝ Ý(µ²
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÝ Ý("
+%86void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+impij.ImagePlus*22setOpenAsHyperStack(Z)*
+0*†
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÛ Û(¿¼
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÛ Û(/
+%84void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)ì
+é
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÜ Ü('
+%85boolean"Fij.io.FileOpener#getBoolean(Ljava/util/Properties;Ljava/lang/String;)Z*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+
+hyperstack*
+0
+1*’
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÓ Ó( è
+å
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÓ Ó(2
+%81double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+
+channelsæ
+ã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÔ Ô(.
+%82double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+
+slicesæ
+ã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÕ Õ(.
+%83double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+
+frames*
+2
+0*ý
+40H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –(
+%25ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java— —(
+%26ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java˜ ˜(
+%27ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java™ ™(
+%28ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi
+Œ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java™ ™(
+%29java.lang.String"__id*!*
+
+%28ij.io.FileInfo"
+unitèå
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java™ ™(
+%30void"3ij.measure.Calibration#setUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+%29java.lang.String2setUnit(Ljava/lang/String;)*
+39*Ü
+41H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java” ”(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java” ”(
+%24ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi{
+y
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java” ”(
+
+%24ij.io.FileInfo"
+unit"__id*
+um*
+40*ß
+42H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java“ “(ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java“ “(
+%23ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+41*Ã
+20H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÄ Ä(”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÄ Ä(
+
+%68int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()ÎË
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÅ Å() 
+%69ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()˜
+•
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÅ Å(*
+ipij.process.ImageProcessor"__id*"
+ 
+%69ij.process.ImageProcessorf
+d
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÆ Æ(
+
+%70int"__id*
+""*
+18
+19*ù
+43H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java (
+%20ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java‘ ‘(
+%21ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fiˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java’ ’(
+
+%22ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+41
+42*Â
+44H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java= (?ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java= (?
+%17ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi
+Œ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java= (D
+%18java.lang.String"__id*!*
+
+%17ij.io.FileInfo"
+unitÊÇ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java= (Q
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%18java.lang.String*
+cm2equals(Ljava/lang/Object;)*
+40
+43*ã
+45H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java! (#ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java! (#
+%16ij.io.FileInfo"__id**
+ij.io.FileOpener"
+fi*
+40
+44*Ú!
+23H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java´ ´(ç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java´ ´(*
+%51double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*	
+xoriginç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaµ µ(*
+%52double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*	
+yoriginç
+ä
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¶ ¶(*
+%53double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*	
+zoriginé
+æ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java· ·(-
+%54boolean"Fij.io.FileOpener#getBoolean(Ljava/util/Properties;Ljava/lang/String;)Z*
+ij.io.FileOpener*
+
+propsjava.util.Properties*	
+invertyÃÀ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java· ·(.
+%55void"%ij.measure.Calibration#setInvertY(Z)V*
+
+calij.measure.Calibration*
+
+%54boolean2setInvertY(Z)ú÷
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¸ ¸(&
+%56java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+info2getProperty(Ljava/lang/String;)—
+”
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¸ ¸(&'
+
+calij.measure.Calibration"
+info"__id*
+
+%56java.lang.Stringã
+à
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaº º("
+%57double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+fpsæ
+ã
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java» »(&
+%58boolean"Fij.io.FileOpener#getBoolean(Ljava/util/Properties;Ljava/lang/String;)Z*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+loopé
+æ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¼ ¼(2
+%59double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+	finterval¨¥
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java½ ½(3
+%60java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*	
+tunit*
+sec21getProperty(Ljava/lang/String;Ljava/lang/String;)ðí
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java½ ½(4
+%61void"7ij.measure.Calibration#setTimeUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+%60java.lang.String2setTimeUnit(Ljava/lang/String;)ûø
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¾ ¾()
+%62java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*	
+yunit2getProperty(Ljava/lang/String;)êç
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¾ ¾(*
+%63void"4ij.measure.Calibration#setYUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+%62java.lang.String2setYUnit(Ljava/lang/String;)ûø
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¿ ¿()
+%64java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*	
+zunit2getProperty(Ljava/lang/String;)êç
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java¿ ¿(*
+%65void"4ij.measure.Calibration#setZUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*
+
+%64java.lang.String2setZUnit(Ljava/lang/String;)ã
+à
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÁ Á(,
+%66double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+minã
+à
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÂ Â(,
+%67double"Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)D*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+max*
+20
+12:
+impij.ImagePlusB
+ij.io.FileOpener

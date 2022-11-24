@@ -1,0 +1,69 @@
+
+fij.plugin.filter.FFTCustomFilter#resizeFilter(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¨ ¨("4*‹
+2X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java∞
+ ∞("}
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java∞ ∞(!
+
+ipij.process.ImageProcessor*È
+4X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≠ ≠(æª
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≠ ≠(	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()¿Ω
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaÆ Æ(	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+2
+1*‘	
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(ü
+ú
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±('
+%2java.lang.String"__concat*
+Scaling filter to *
+""†
+ù
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(-
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+x°
+û
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(4
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""ãà
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(5
+
+%5void"@ij.plugin.filter.FFTCustomFilter#showStatus(Ljava/lang/String;)V*$"
+ ij.plugin.filter.FFTCustomFilter*
+
+%4java.lang.String2showStatus(Ljava/lang/String;)˛˚
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≤	 ≤(
+%6ij.process.ImageProcessor"?ij.process.ImageProcessor#resize(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+resize(II)"}
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≤ ≤(!
+
+%6ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+""B$"
+ ij.plugin.filter.FFTCustomFilter

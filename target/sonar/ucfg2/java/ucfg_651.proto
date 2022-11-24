@@ -1,0 +1,122 @@
+
+0ij.ImageJ#getPreferredLocation()Ljava/awt/Point;A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¶ ¶(""11*∑
+4A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞+ ∞(.j
+h
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞+ ∞(.
+%9double"__id*
+
+%11double*
+1*∑
+5A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞' ∞(*j
+h
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞' ∞(*
+%9double"__id*
+
+%10double*
+1*ú
+6A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(}
+{
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(
+%7ij.gui.Toolbar"__id**
+	ij.ImageJ"	
+toolbar√¿
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(/
+%8java.awt.Dimension"5ij.gui.Toolbar#getPreferredSize()Ljava/awt/Dimension;*
+
+%7ij.gui.Toolbar2getPreferredSize()Ü
+É
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(0
+tbsizejava.awt.Dimension"__id*
+
+%8java.awt.Dimension*
+4
+5*£
+7A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠ ≠(ki
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠ ≠(
+%5java.awt.Point"java.awt.Pointê
+ç
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠
+ ≠(
+%6"java.awt.Point#<init>(II)V*
+
+%5java.awt.Point*
+""*
+"""[
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠ ≠(
+
+%5java.awt.Point*≥
+11A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß(k
+i
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß(
+%0java.lang.String"__id*
+""®
+•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß("	
+%1int"%ij.Prefs#getInt(Ljava/lang/String;I)I*"
+
+ij.Prefs*
+
+%0java.lang.String*
+""k
+i
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java® ®(
+%2java.lang.String"__id*
+""®
+•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java® ®("	
+%3int"%ij.Prefs#getInt(Ljava/lang/String;I)I*"
+
+ij.Prefs*
+
+%2java.lang.String*
+""•
+¢
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(0
+%4java.awt.Rectangle"3ij.gui.GUI#getMaxWindowBounds()Ljava/awt/Rectangle;*"
+
+ij.gui.GUIâ
+Ü
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(1
+	maxBoundsjava.awt.Rectangle"__id*
+
+%4java.awt.Rectangle*
+6
+7*ß
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≥ ≥(lj
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≥ ≥(
+%12java.awt.Point"java.awt.Pointí
+è
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≥	 ≥($
+%13"java.awt.Point#<init>(II)V*
+
+%12java.awt.Point*
+""*
+"""\
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≥ ≥(%
+
+%12java.awt.PointB
+	ij.ImageJ

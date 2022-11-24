@@ -1,0 +1,87 @@
+
+2ij.process.ByteProcessor#getPixelInterpolated(DD)IP
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.javaª ª(&"14*±
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java´
+ ´("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java´ ´(
+""*Ð
+14P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java« «(m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java« «(#	
+%0int"__id*
+""*	
+7
+8
+9*Ÿ
+6P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java± ±(0Â¿
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java± ±(<
+%5double"Uij.process.ImageProcessor#getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)D*
+ij.process.ByteProcessor*
+""*
+""*
+ij.process.ByteProcessor2:getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)*
+2*Ì
+7P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java° °( m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java°" °()	
+%4int"__id*
+""*
+6
+1*Ã
+8P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(“
+
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¯6 ¯(<
+%1byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels×
+Ô
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(=
+%2double"4ij.process.ByteProcessor#getInterpolatedPixel(DD[B)D*
+ij.process.ByteProcessor*
+""*
+""*
+
+%1byte[]Ÿ
+œ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(>
+
+%3long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%2double"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(?
+""*±
+9P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java­ ­("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java­ ­(
+""*ø
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¶
+ ¶(ÄÁ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¶
+ ¶(.	
+%6int"&ij.process.ByteProcessor#getPixel(II)I*
+ij.process.ByteProcessor*
+""*
+""2getPixel(II)"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/ByteProcessor.java¶ ¶(/
+"":
+"":
+""B
+ij.process.ByteProcessor

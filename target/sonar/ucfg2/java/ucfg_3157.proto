@@ -1,0 +1,51 @@
+
+.ij.macro.Functions#addPlotText(Lij/gui/Plot;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java’ ’("1*Ø
+
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “(ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “(
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“ “( 
+strjava.lang.String"__id*
+
+%0java.lang.String¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java” ”(
+%1double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()¥¢
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java• •(
+%2double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java– –(&
+
+%3void" ij.gui.Plot#setJustification(I)V*
+
+plotij.gui.Plot*
+""2setJustification(I)êç
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java— —(
+
+%4void"+ij.gui.Plot#addLabel(DDLjava/lang/String;)V*
+
+plotij.gui.Plot*
+""*
+""*
+
+strjava.lang.String2addLabel(DDLjava/lang/String;)j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜	 ˜(
+%5double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜ ˜(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

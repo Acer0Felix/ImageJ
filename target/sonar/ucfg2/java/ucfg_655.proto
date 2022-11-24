@@ -1,0 +1,56 @@
+
+.ij.ImageJ#getStatusBarText()Ljava/lang/String;A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÂ Â(&"4*Ê
+2A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ* Ä(,}
+{
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ* Ä(,
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*
+3A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä(‰
+†
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä(
+%4javax.swing.JLabel"__id*!*
+
+ij	ij.ImageJ"
+
+statusLineµ²
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä()
+%2java.lang.String".javax.swing.JLabel#getText()Ljava/lang/String;*
+
+%4javax.swing.JLabel2	getText()}
+{
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä()
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*Ã
+4A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÃ Ã(
+
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÃ Ã(
+%0	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJo
+m
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÃ Ã(
+ij	ij.ImageJ"__id*
+
+%0	ij.ImageJ*
+2
+3*¥
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä(-"]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ Ä(-
+
+%1java.lang.StringB"
+	ij.ImageJ

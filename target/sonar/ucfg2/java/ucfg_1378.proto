@@ -1,0 +1,295 @@
+
+Cij.io.ImageReader#readCompressed32bitImage(Ljava/io/InputStream;)[FI
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaÑ	 Ñ(!"41*◊
+35I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaè è(!â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaè è(!
+%7ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fip
+n
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaè è(3
+	byteArraybyte[]"__id*
+""*
+30
+33*˘
+24I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java° °(ù
+ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java° °(+
+%15float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+""*
+25
+11*˛
+36I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaç ç(¶£
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaç ç( 
+
+%6long"java.io.InputStream#skip(J)J*
+
+injava.io.InputStream*
+""2skip(J)*
+35*œ
+25I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaü ü(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java†	 †(
+%13ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fig
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java† †(+
+
+%14int"__id*
+""*
+24
+23*˝
+37I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaå å(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaå å(
+%3ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fiâ
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaå4 å(6
+%4ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fiâ
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaåX å(Z
+%5ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+35
+36*œ
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¨ ¨(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¨ ¨(
+%21ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fig
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¨ ¨(3
+
+%22int"__id*
+""*
+17
+11*˘
+16I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java´ ´(ù
+ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java´ ´(+
+%20float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+""*
+17
+11*è
+39I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaä ä(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaä" ä($
+%1ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi´®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaä ä(5
+
+%2void"!ij.io.RandomAccessStream#seek(I)V*
+
+injava.io.InputStream*
+""2seek(I)*
+35*œ
+17I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java© ©(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java™	 ™(
+%18ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fig
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java™ ™(+
+
+%19int"__id*
+""*
+15
+16*Í
+28I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaú ú(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaù ù(	
+%12ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+25
+17
+11*£
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaª	 ª("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaª ª(
+""*ã
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java∏ ∏(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaπ π(
+%30ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fiß
+§
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaπ π(,
+%31void"#ij.io.ImageReader#showProgress(II)V*
+ij.io.ImageReader*
+""*
+""*
+41*…
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ/ µ(5q
+o
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ/ µ(8
+%27float"__id*
+
+%29float*
+3
+8*«
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ+ µ(,o
+m
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ+ µ(,
+%27float"__id*
+
+
+%28int*
+3
+8*
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¥ ¥(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ µ(
+%25ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fiä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaµ µ(
+%26ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+6
+7*Ï
+41I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaà à(â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaà à(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+35
+37
+39
+1*è
+30I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaó ó(Ø
+¨
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaó ó($
+%10byte[]""ij.io.ImageReader#uncompress([B)[B*
+ij.io.ImageReader*
+
+	byteArraybyte[]y
+w
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaó ó($
+	byteArraybyte[]"__id*
+
+%10byte[]ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaô) ô(+
+%11ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+28*Ù
+32I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaì ì(úô
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaì ì(
+
+%9void"ij.io.ImageReader#eofError()V*
+ij.io.ImageReader2
+eofError()*
+30*™
+33I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaí í( «
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.javaí í(*	
+%8int"java.io.InputStream#read([BII)I*
+
+injava.io.InputStream*
+
+	byteArraybyte[]*
+""*
+""2
+read([BII)*
+30
+32
+33*Õ
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java≤ ≤(	ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java≤ ≤(	
+%23ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fig
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java≤ ≤(5
+
+%24int"__id*
+""*
+3
+8*œ
+23I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¢ ¢(ä
+á
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¢ ¢(
+%16ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fig
+e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java¢ ¢(3
+
+%17int"__id*
+""*
+25
+11:
+injava.io.InputStreamB
+ij.io.ImageReader

@@ -1,0 +1,57 @@
+
+'ij.ImagePlus#getImage()Ljava/awt/Image;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÍ Í("4*©
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ	 Ï(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ	 Ï(
+%2ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÊÇ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ	 Ï(
+%3java.awt.Image"7ij.process.ImageProcessor#createImage()Ljava/awt/Image;*!
+
+%2ij.process.ImageProcessor2createImage()
+}
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÏ Ï(
+ij.ImagePlus"
+img"__id*
+
+%3java.awt.Image*
+1*Þ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(Š
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+2
+1*Ò
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(	
+}
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ Î(	
+%0java.awt.Image"__id**
+ij.ImagePlus"
+img*
+3
+1*ª
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ	 Ð(
+}
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ	 Ð(
+%4java.awt.Image"__id**
+ij.ImagePlus"
+img"^
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÐ Ð(
+
+%4java.awt.ImageB
+ij.ImagePlus

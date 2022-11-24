@@ -1,0 +1,174 @@
+
++ij.gui.GUI#scale(Ljavax/swing/JComponent;)ZB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÁ Á("17*î
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÌ
+ Ì(»
+≈
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÌ
+ Ì((
+%2java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+	List.fontz
+x
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÌ Ì((
+fontjava.awt.Font"__id*
+
+%2java.awt.Font*
+7*œ
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java˜ ˜(π∂
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java˜4 ˜(_
+
+%10int"'javax.swing.JList#getFixedCellHeight()I*%
+#
+	componentjavax.swing.JComponent2getFixedCellHeight()ƒ¡
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java˜ ˜(r
+%11void"(javax.swing.JList#setFixedCellHeight(I)V*%
+#
+	componentjavax.swing.JComponent*
+""2setFixedCellHeight(I)*
+1*í
+15B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÎ Î(ª∏
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÎ Î(!
+%1java.awt.Font"+java.awt.Component#getFont()Ljava/awt/Font;*%
+#
+	componentjavax.swing.JComponent2	getFont()z
+x
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÎ Î("
+fontjava.awt.Font"__id*
+
+%1java.awt.Font*
+13
+7
+8
+10*∑
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaı ı(≠™
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaı, ı(O	
+%8int""javax.swing.JTable#getRowHeight()I*%
+#
+	componentjavax.swing.JComponent2getRowHeight()∏µ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaı ı(b
+
+%9void"#javax.swing.JTable#setRowHeight(I)V*%
+#
+	componentjavax.swing.JComponent*
+""2setRowHeight(I)*
+1*ñ
+16B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÍ
+ Í("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÍ Í(
+""*œ
+17B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaË Ë({
+y
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaË Ë(-
+%0double"ij.Prefs#getGuiScale()D*"
+
+ij.Prefs*
+15
+16*ï
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÛ
+ Û("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÛ Û(
+""*‰
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÚ Ú(
+êç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÚ Ú(	
+%5int"java.awt.Font#getSize()I*
+
+fontjava.awt.Font2	getSize()i
+g
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÚ Ú(#
+%6java.awt.Font"__id*
+""éã
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÚ Ú(-	
+%7int"java.awt.Font#getSize()I*
+
+%6java.awt.Font2	getSize()*
+2
+4
+6
+1*î
+8B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÒ
+ Ò(…
+∆
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÒ
+ Ò()
+%4java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+
+Label.fontz
+x
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÒ Ò()
+fontjava.awt.Font"__id*
+
+%4java.awt.Font*
+7*ï
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÔ
+ Ô(…
+∆
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÔ
+ Ô()
+%3java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+
+Table.fontz
+x
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaÔ Ô()
+fontjava.awt.Font"__id*
+
+%3java.awt.Font*
+7*«
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java¯ ¯(ëé
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java¯7 ¯(E
+
+%12int"java.awt.Font#getSize()I*
+
+fontjava.awt.Font2	getSize()π∂
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java¯ ¯(F
+%13java.awt.Font"*java.awt.Font#deriveFont(F)Ljava/awt/Font;*
+
+fontjava.awt.Font*
+""2deriveFont(F)ﬂ‹
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java¯ ¯(G
+%14void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*%
+#
+	componentjavax.swing.JComponent*
+
+%13java.awt.Font2setFont(Ljava/awt/Font;)"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java˘ ˘(
+"":#
+	componentjavax.swing.JComponentB"
+
+ij.gui.GUI

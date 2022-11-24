@@ -1,0 +1,269 @@
+
+6ij.plugin.frame.RoiManager#rename(Ljava/lang/String;)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaž	 ž("18*¶
+13R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¦
+ ¦("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¦ ¦(
+""*˜
+15R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¤ ¤(ž›
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¤ ¤(
+%5java.lang.String"Nij.plugin.frame.RoiManager#promptForName(Ljava/lang/String;)Ljava/lang/String;*
+ij.plugin.frame.RoiManager*
+
+namejava.lang.String2!promptForName(Ljava/lang/String;)’
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¤ ¤(
+name2java.lang.String"__id*
+
+%5java.lang.String*
+13
+12*ž
+16R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¢ ¢(!°
+­
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¢ ¢(!"
+%3javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModelîë
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¢ ¢(5
+%4java.lang.Object">javax.swing.DefaultListModel#getElementAt(I)Ljava/lang/Object;*$
+"
+%3javax.swing.DefaultListModel*
+""2getElementAt(I)‘
+Ž
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¢ ¢(6
+namejava.lang.String"__id*
+
+%4java.lang.Object*
+13
+15
+12*Å
+17R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¡
+ ¡(Œ‰
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¡
+ ¡(A
+%2boolean"5ij.plugin.frame.RoiManager#error(Ljava/lang/String;)Z*
+ij.plugin.frame.RoiManager*20
+.Exactly one item in the list must be selected.2error(Ljava/lang/String;)"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¡ ¡(B
+""*À
+18R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaŸ Ÿ( 
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaŸ Ÿ(
+%0javax.swing.JList"__id*(*&
+ij.plugin.frame.RoiManager"
+list¸µ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaŸ Ÿ(%	
+%1int"%javax.swing.JList#getSelectedIndex()I*
+
+%0javax.swing.JList2getSelectedIndex()*
+16
+17*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java·	 ·("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java· ·(
+""*ô
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¶ ¶(•
+’
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¶ ¶(1
+%24void"Xij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+roiManager*
+
+Rename*
+
+name2java.lang.String*
+1*
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaµ µ(­
+ª
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaµ µ(
+%23boolean"$ij.plugin.frame.RoiManager#record()Z*
+ij.plugin.frame.RoiManager*
+2
+1*ø
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java³ ³(™–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java³ ³(
+%22void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+3*¢
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²( ´
+±
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(2
+%21ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager‰
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(3
+impij.ImagePlus"__id*
+
+%21ij.ImagePlus*
+3
+4*¾
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java±  ±(.«
+¨
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java±  ±(.
+%19java.awt.Checkbox"__id*2*0
+ij.plugin.frame.RoiManager"
+labelsCheckbox®«
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java±  ±(9
+%20boolean"java.awt.Checkbox#getState()Z*
+
+%19java.awt.Checkbox2
+getState()*
+3
+5*ö	
+7R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java® ®(£
+ 
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java® ®(
+%13java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois·
+´
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java® ®(
+%14java.lang.Object"
+__arraySet*
+
+%13java.util.ArrayList*
+""*
+
+roi
+ij.gui.Roi±
+®
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(#
+%15javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModel”‘
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(&
+%16void"?javax.swing.DefaultListModel#setElementAt(Ljava/lang/Object;I)V*%
+#
+%15javax.swing.DefaultListModel*
+
+name2java.lang.String*
+""2!setElementAt(Ljava/lang/Object;I)¡
+ž
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java° °(
+%17javax.swing.JList"__id*(*&
+ij.plugin.frame.RoiManager"
+listÅÂ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java° °(
+%18void"&javax.swing.JList#setSelectedIndex(I)V*
+
+%17javax.swing.JList*
+""2setSelectedIndex(I)*
+3
+6*Œ
+8R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java­ ­(­ª
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java­ ­(
+%12void"ij.gui.Roi#setPosition(I)V*
+
+roi
+ij.gui.Roi*
+""2setPosition(I)*
+7*œ
+9R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¬ ¬(º·
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¬ ¬(0
+%11boolean"#ij.gui.Roi#hasHyperStackPosition()Z*
+
+roi
+ij.gui.Roi2hasHyperStackPosition()*
+7
+8*š
+10R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java© ©(¢
+Ÿ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java© ©(
+%7java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois 
+
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java© ©( 
+%8java.lang.Object"
+__arrayGet*
+
+%7java.util.ArrayList*
+""Š
+‡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java© ©(!
+roi
+ij.gui.Roi"__id*
+
+%8java.lang.ObjectÛØ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaª ª(
+
+%9void"'ij.gui.Roi#setName(Ljava/lang/String;)V*
+
+roi
+ij.gui.Roi*
+
+name2java.lang.String2setName(Ljava/lang/String;)„
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java« «(&
+
+%10int">ij.plugin.frame.RoiManager#getSliceNumber(Ljava/lang/String;)I*
+ij.plugin.frame.RoiManager*
+
+name2java.lang.String2"getSliceNumber(Ljava/lang/String;)*
+7
+9*¶
+11R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¨
+ ¨("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¨ ¨(
+""*Î
+12R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java§ §(éæ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java§ §(
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+name2java.lang.String*
+
+namejava.lang.String2equals(Ljava/lang/Object;)*
+10
+11:
+name2java.lang.StringB
+ij.plugin.frame.RoiManager

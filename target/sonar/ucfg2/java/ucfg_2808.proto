@@ -1,0 +1,16 @@
+
+!ij.process.FloatProcessor#get(I)IQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java½ ½("1*Ø
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¾	 ¾(¢
+Ÿ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¾	 ¾(,	
+%0int""java.lang.Float#floatToIntBits(F)I*"
+java.lang.Float*
+"""[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¾ ¾(-
+"":
+""B
+ij.process.FloatProcessor

@@ -1,0 +1,367 @@
+
+ij.plugin.Grid#showDialog()ZF
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaî î("16*§
+13F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaù ù(≈¬
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaü ü(
+%9java.lang.String"3ij.measure.Calibration#getUnits()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getUnits()à
+Ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaü ü(
+ij.plugin.Grid"
+units"__id*
+
+%9java.lang.String*
+9*ñ
+
+14F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaò ò(Å
+
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaò ò(
+%2ij.ImagePlus"__id**
+ij.plugin.Grid"
+impíè
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaò ò(	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()Å
+
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaô ô(
+%4ij.ImagePlus"__id**
+ij.plugin.Grid"
+impîë
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaô ô(	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()Å
+
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaö ö(
+%6ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp»≈
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaö ö((
+%7ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%6ij.ImagePlus2getCalibration()ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaö ö()
+calij.measure.Calibration"__id*
+
+%7ij.measure.Calibrationß§
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaú ú(
+%8boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+13
+12*ﬂ
+15F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaó ó(ä
+á
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaó ó(
+
+%1void"ij.plugin.Grid#getSettings()V*
+ij.plugin.Grid*
+14*Û
+16F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaï ï(ö
+ó
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaï ï(
+%0java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+14
+15*ù
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¬
+ ¬("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¬ ¬(
+""*ù
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¿
+ ¿("P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¿ ¿(
+""*è
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaø ø(ºπ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaø ø(
+%40void"*ij.plugin.Grid#drawGrid(Ljava/awt/Shape;)V*
+ij.plugin.Grid*
+""2drawGrid(Ljava/awt/Shape;)*
+2*É
+4F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaª ª(q
+o
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaª ª(
+%34java.lang.String"__id*
+""ÿ’
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaª ª(
+%35void"*ij.gui.Overlay#remove(Ljava/lang/String;)V*
+
+overlayij.gui.Overlay*
+
+%34java.lang.String2remove(Ljava/lang/String;)â
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaº º(
+%36
+ij.gui.Roi"__id*#*!
+ij.plugin.Grid"
+gridOnEntry¿Ω
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaº º(
+%37void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlayij.gui.Overlay*
+
+%36
+ij.gui.Roi2add(Lij/gui/Roi;)É
+Ä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaΩ Ω(
+%38ij.ImagePlus"__id**
+ij.plugin.Grid"
+impçä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaΩ Ω(
+%39void"ij.ImagePlus#draw()V*
+
+%38ij.ImagePlus2draw()*
+2*ﬂ
+5F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∫ ∫(#â
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∫ ∫(#
+%33
+ij.gui.Roi"__id*#*!
+ij.plugin.Grid"
+gridOnEntry*
+3
+4*ñ
+6F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaπ π(É
+Ä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaπ π(
+%31ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp≤Ø
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaπ π(%
+%32ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+%31ij.ImagePlus2getOverlay()Ö
+Ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaπ π(&
+overlayij.gui.Overlay"__id*
+
+%32ij.gui.Overlay*
+3
+5*“
+7F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∂ ∂(°û
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∂ ∂(
+%28boolean"Lij.plugin.Grid#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Z*
+ij.plugin.Grid*
+
+gdij.gui.GenericDialog*
+""2<dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)®•
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∑ ∑(
+%29void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()≠™
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∏ ∏(
+%30boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+6
+1*ÿ
+8F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≤ ≤(À»
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≤ ≤( 
+%25java.util.Vector"6ij.gui.GenericDialog#getCheckboxes()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getCheckboxes()É
+Ä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≤ ≤(!
+vjava.util.Vector"__id*
+
+%25java.util.Vector¬ø
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≥ ≥(,
+%26java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*22elementAt(I)í
+è
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≥ ≥(,$
+ij.plugin.Grid"
+centerCheckbox"__id*
+
+%26java.lang.Object¬ø
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¥ ¥(,
+%27java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*22elementAt(I)í
+è
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¥ ¥(,$
+ij.plugin.Grid"
+randomCheckbox"__id*
+
+%27java.lang.Object*
+7*Æ
+9F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java©' ©(0}{
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java© ©(&
+%10ij.gui.GenericDialog"ij.gui.GenericDialog∞
+≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java© ©(1
+%11"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%10ij.gui.GenericDialog*	
+Grid...å
+â
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java© ©(2
+gdij.gui.GenericDialog"__id*
+
+%10ij.gui.GenericDialogã
+à
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java™ ™("
+%12java.lang.String[]"__id**
+ij.plugin.Grid"
+typesà
+Ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java™$ ™((
+%13java.lang.String"__id**
+ij.plugin.Grid"
+type‹Ÿ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java™ ™()
+%14void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Grid type:*
+
+%12java.lang.String[]*
+
+%13java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)â
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java´A ´(F
+%15java.lang.String"__id**
+ij.plugin.Grid"
+unitsë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java´A ´(K
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+^2∆√
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java´ ´(L
+%17void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Area per point:*
+""*
+""*2*
+
+%16java.lang.String28addNumericField(Ljava/lang/String;DIILjava/lang/String;)å
+â
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¨ ¨(
+%18java.lang.String[]"__id**
+ij.plugin.Grid"
+colorsâ
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¨! ¨(&
+%19java.lang.String"__id**
+ij.plugin.Grid"
+colorÿ’
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¨ ¨('
+%20void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Color:*
+
+%18java.lang.String[]*
+
+%19java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)‚ﬂ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java≠ ≠(
+%21void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Bold*
+""2 addCheckbox(Ljava/lang/String;Z)ÚÔ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaÆ Æ(2
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Center grid on image*
+""2 addCheckbox(Ljava/lang/String;Z)ÎË
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.javaØ Ø(/
+%23void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Random offset*
+""2 addCheckbox(Ljava/lang/String;Z)¯ı
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java∞ ∞(
+%24void"@ij.gui.GenericDialog#addDialogListener(Lij/gui/DialogListener;)V*
+
+gdij.gui.GenericDialog*
+ij.plugin.Grid2*addDialogListener(Lij/gui/DialogListener;)*
+7
+8*Ã
+12F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java¢ ¢(y
+w
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Grid.java§ §(
+ij.plugin.Grid"
+units"__id*
+
+pixels*
+9B
+ij.plugin.Grid

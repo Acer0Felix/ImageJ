@@ -1,0 +1,176 @@
+
+Dij.gui.NewImage#createIntImage(Ljava/lang/String;IIII)Lij/ImagePlus;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÿ ÿ('"20*¡
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÛ Û(n
+l
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÛ Û(
+impij.ImagePlus"__id*
+""*
+1*—
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÚ Ú(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÚ- Ú(0
+
+%14int"__id*
+""ì
+ê
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÚ Ú(:
+%15boolean"Jij.gui.NewImage#createStack(Lij/ImagePlus;Lij/process/ImageProcessor;III)Z*"
+ij.gui.NewImage*
+
+impij.ImagePlus*
+
+ipij.process.IntProcessor*
+""*
+
+
+%14int*
+""*
+2
+1*≥
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java  (%nl
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java (
+%12ij.ImagePlus"ij.ImagePlusÌ
+Í
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java (*
+%13"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%12ij.ImagePlus*
+
+titlejava.lang.String*
+
+ipij.process.IntProcessor}
+{
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java (+
+impij.ImagePlus"__id*
+
+%12ij.ImagePlus*
+3
+1*º
+16G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java„ „(d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java„# „(4	
+%4int"__id*
+""*
+4
+16*˜
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java‹ ‹(ÑÅ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java› ›($
+%8ij.process.IntProcessor"ij.process.IntProcessor≤
+Ø
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java› ›(;
+%9"%ij.process.IntProcessor#<init>(II[I)V*
+
+%8ij.process.IntProcessor*
+""*
+""*
+""í
+è
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java› ›(<
+ipij.process.IntProcessor"__id*
+
+%8ij.process.IntProcessore
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaﬂ ﬂ(
+
+%10int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÏ Ï(
+
+%11int"__id*
+""*
+
+4
+6
+18*⁄
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÏ Ó(
+ÑÅ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(!
+%5ij.process.IntProcessor"ij.process.IntProcessor≤
+Ø
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(=
+%6"%ij.process.IntProcessor#<init>(II[I)V*
+
+%5ij.process.IntProcessor*
+""*
+""*
+"" 
+«
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(>
+
+%7void":ij.gui.NewImage#fillNoiseInt(Lij/process/ImageProcessor;)V*"
+ij.gui.NewImage*
+
+%5ij.process.IntProcessor*
+4*¢
+18G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaﬂ Í(
+d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java· ·(+	
+%2int"__id*
+""d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java·6 ·(G	
+%3int"__id*
+""*
+4
+16*†
+19G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java€ €("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java€ €(
+""*á
+20G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaŸ Ÿ(ë
+é
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaŸ Ÿ(	
+%0int"ij.gui.NewImage#getFill(I)I*"
+ij.gui.NewImage*
+""ö
+ó
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java⁄ ⁄(#	
+%1int"ij.gui.NewImage#getSize(II)I*"
+ij.gui.NewImage*
+""*
+""*
+5
+19*Æ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaı	 ı("`
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaı ı(
+
+impij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+""B"
+ij.gui.NewImage

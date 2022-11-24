@@ -1,0 +1,29 @@
+
+1ij.gui.Arrow#getMask()Lij/process/ImageProcessor;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÎ Î("2"1*ô
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÌ
+ Ì("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÌ Ì(
+""*ù
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(ü
+ú
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(
+%0ij.gui.ShapeRoi"+ij.gui.Arrow#getShapeRoi()Lij/gui/ShapeRoi;*
+ij.gui.Arrowƒ¡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(!
+%1ij.process.ImageProcessor"4ij.gui.ShapeRoi#getMask()Lij/process/ImageProcessor;*
+
+%0ij.gui.ShapeRoi2	getMask()"i
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/gui/Arrow.javaÔ Ô("!
+
+%1ij.process.ImageProcessorB
+ij.gui.Arrow

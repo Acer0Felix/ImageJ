@@ -1,0 +1,39 @@
+
+ij.ImagePlus#getCurrentSlice()ID
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä("3"4*í
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaç ç(îë
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaç ç(!	
+%2int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()™ß
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaç ç("
+
+%3void" ij.ImagePlus#setCurrentSlice(I)V*
+ij.ImagePlus*
+	
+%2int2setCurrentSlice(I)*
+1*Ë
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å(îë
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å(!	
+%1int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()*
+2
+1*Ù
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaã ã(%£†
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaã ã((
+
+%0void" ij.ImagePlus#setCurrentSlice(I)V*
+ij.ImagePlus*22setCurrentSlice(I)*
+3*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaé	 é("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaé é(
+""B
+ij.ImagePlus

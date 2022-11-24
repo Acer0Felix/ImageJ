@@ -1,0 +1,20 @@
+
+Cij.gui.GUI#getMaxWindowBounds(Ljava/awt/Point;)Ljava/awt/Rectangle;@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javaf f(+"1*û
+1@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javag	 g(Ó
+Ð
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javag	 g(%
+%0java.awt.Rectangle"Aij.gui.GUI#getScreenBounds(Ljava/awt/Point;Z)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+pointjava.awt.Point*2"^
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.javag g(&
+
+%0java.awt.Rectangle:
+pointjava.awt.PointB"
+
+ij.gui.GUI

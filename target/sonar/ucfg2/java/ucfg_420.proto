@@ -1,0 +1,24 @@
+
+@ij.plugin.filter.ImageMath#isFloat(Lij/process/ImageProcessor;)ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java‘
+ ‘("2"1*é
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java“ “(±
+®
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java“ “(*
+
+%0void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+32-bit float image required"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java• •(
+""*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java—
+ —("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java— —(
+"":
+ipij.process.ImageProcessorB
+ij.plugin.filter.ImageMath

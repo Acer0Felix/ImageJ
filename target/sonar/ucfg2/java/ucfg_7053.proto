@@ -1,0 +1,48 @@
+
+;ij.plugin.GifDecoder#getFrame(I)Lij/process/ImageProcessor;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaë ë("4*˘
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaî î(ï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaî î(
+%0java.util.Vector"__id*$*"
+ij.plugin.GifDecoder"
+frames «
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaî î('
+%1java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%0java.util.Vector*
+""2elementAt(I)ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaî î(.
+%2ij.process.ImageProcessor"__id*#*!
+
+%1java.lang.Object"
+imageõ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaî î(.
+imij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor*
+1*⁄
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaí í(
+}
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaí í(
+imij.process.ImageProcessor"__id*
+""*
+2
+1*ƒ
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaï	 ï("q
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/GIF_Reader.javaï ï(!
+
+imij.process.ImageProcessor:
+""B
+ij.plugin.GifDecoder

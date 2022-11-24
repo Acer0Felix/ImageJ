@@ -1,0 +1,66 @@
+
+3ij.process.ImageProcessor#getInterpolatedValue(DD)DQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java³ ³()"16"6"7"1*ü
+16Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaµ
+ µ(%ÅÂ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaµ
+ µ(1
+%0double"Uij.process.ImageProcessor#getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)D*
+ij.process.ImageProcessor*
+""*
+""*
+ij.process.ImageProcessor2:getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaµ µ(2
+""*‚
+6Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaº º(#Ì
+É
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaº º()
+%1double"7ij.process.ImageProcessor#getInterpolatedEdgeValue(DD)D*
+ij.process.ImageProcessor*
+""*
+"""[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaº º(*
+""*³
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¸ ¸("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¸ ¸(
+""*‹
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÂ Â("ÓÐ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÂ Â(0
+%2float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ÓÐ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÃ Ã(3
+%3float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ÓÐ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÄ Ä(5
+%4float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ÓÐ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÅ Å(2
+%5float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)"[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÈ È(B
+"":
+"":
+""B
+ij.process.ImageProcessor

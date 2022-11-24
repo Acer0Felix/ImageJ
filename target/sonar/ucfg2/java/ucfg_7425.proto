@@ -1,0 +1,97 @@
+
+"ij.plugin.TextReader#showDialog()ZJ
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java" "("3*½
+2J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java' '(–
+“
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java' '(
+%5java.lang.String"__id*'*%
+ij.plugin.TextReader"
+	directory‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java' '(#
+%6java.lang.String"__id*"* 
+ij.plugin.TextReader"
+name¥
+¢
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java' '(#
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java' '(# 
+ij.plugin.TextReader"
+path"__id*
+
+%7java.lang.String*
+1*ú
+
+3J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java#' #(;xv
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java# #(&
+%0ij.io.OpenDialog"ij.io.OpenDialogÏ
+Ì
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java# #(B
+%1">ij.io.OpenDialog#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%0ij.io.OpenDialog*
+Open Text Image...*
+""‡
+„
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java# #(C
+odij.io.OpenDialog"__id*
+
+%0ij.io.OpenDialogÄÁ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java$ $(%
+%2java.lang.String"1ij.io.OpenDialog#getDirectory()Ljava/lang/String;*
+
+odij.io.OpenDialog2getDirectory()–
+“
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java$ $(%%
+ij.plugin.TextReader"
+	directory"__id*
+
+%2java.lang.StringÂ¿
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java% %(
+%3java.lang.String"0ij.io.OpenDialog#getFileName()Ljava/lang/String;*
+
+odij.io.OpenDialog2getFileName()‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java% %( 
+ij.plugin.TextReader"
+name"__id*
+
+%3java.lang.String‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java& &(
+%4java.lang.String"__id*"* 
+ij.plugin.TextReader"
+name*
+2
+1*¹
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java( ((‘
+Ž
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java( ((
+%8java.lang.String"__id*"* 
+ij.plugin.TextReader"
+name"T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/TextReader.java( ((
+""B
+ij.plugin.TextReader

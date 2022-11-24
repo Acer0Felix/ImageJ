@@ -1,0 +1,33 @@
+
+ij.ImagePlus#isVisible()ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaõ õ("3*˙
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú ú(Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú ú(
+%1ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win¢ü
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú ú(%
+%2boolean"java.awt.Component#isVisible()Z*
+
+%1ij.gui.ImageWindow2isVisible()*
+1*ÿ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú	 ú(Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú	 ú(
+%0ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win*
+2
+1*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú ú(&"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaú ú(&
+""B
+ij.ImagePlus

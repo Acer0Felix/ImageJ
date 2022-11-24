@@ -1,0 +1,275 @@
+
+*ij.io.FileInfo#getCode()Ljava/lang/String;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaŸ Ÿ("17*ª
+13F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java‡ ‡(c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java‡ ‡($	
+%2int"__id*
+""*
+11
+12*’
+14F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaﬂ ﬂ(
+}
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaﬂ ﬂ(
+typejava.lang.String"__id*
+GRAY16_UNSIGNED*
+7
+8*ª
+15F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaﬁ ﬁ(c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaﬁ ﬁ('	
+%1int"__id*
+""*
+13
+14*À
+16F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java› ›(u
+s
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java› ›(
+typejava.lang.String"__id*	
+GRAY8*
+7
+8*π
+17F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java⁄ ⁄(+á
+Ñ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java⁄ ⁄(,
+codejava.lang.String"__id*
+fi = new FileInfo();\nr
+p
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java€ €(
+typejava.lang.String"__id*
+""c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java‹ ‹(	
+%0int"__id*
+""*
+15
+16*±
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÓ Ó("d
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÓ Ó(
+
+codejava.lang.String*á
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÌ Ì(´
+®
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÌ Ì((
+%21java.lang.String"__concat*
+
+codejava.lang.String*
+fi.intelByteOrder = true;\nÜ
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÌ Ì((
+codejava.lang.String"__id*
+
+%21java.lang.String*
+1*»
+4F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î(ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î()
+%17long"ij.io.FileInfo#getOffset()J*
+ij.io.FileInfo2getOffset()ì
+ê
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î()
+%18java.lang.String"__concat*
+fi.longOffset = *
+
+%17longí
+è
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î(/
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+;\n•
+¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î(/
+%20java.lang.String"__concat*
+
+codejava.lang.String*
+
+%19java.lang.StringÜ
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÎ Î(/
+codejava.lang.String"__id*
+
+%20java.lang.String*
+2
+1*Ô
+5F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÍ	 Í(ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÍ	 Í(
+%16long"ij.io.FileInfo#getOffset()J*
+ij.io.FileInfo2getOffset()*	
+2
+4
+1*¢
+6F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÈ È(â
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÈ È("
+%13java.lang.String"__concat*
+fi.nImages = *
+""í
+è
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÈ È((
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+;\n•
+¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÈ È((
+%15java.lang.String"__concat*
+
+codejava.lang.String*
+
+%14java.lang.StringÜ
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÈ È((
+codejava.lang.String"__id*
+
+%15java.lang.String*
+5*Ó	
+7F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÊ Ê(	Ü
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÊ Ê( 
+%7java.lang.String"__concat*
+fi.width = *
+""ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÊ Ê(&
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+;\n£
+†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÊ Ê(&
+%9java.lang.String"__concat*
+
+codejava.lang.String*
+
+%8java.lang.StringÖ
+Ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÊ Ê(&
+codejava.lang.String"__id*
+
+%9java.lang.Stringà
+Ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÁ Á("
+%10java.lang.String"__concat*
+fi.height = *
+""í
+è
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÁ Á((
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+;\n•
+¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÁ Á((
+%12java.lang.String"__concat*
+
+codejava.lang.String*
+
+%11java.lang.StringÜ
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÁ Á((
+codejava.lang.String"__id*
+
+%12java.lang.String*
+5
+6*∫
+8F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÂ Â(
+¶
+£
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÂ Â(,
+%4java.lang.String"__concat*
+fi.fileType = FileInfo.*
+
+typejava.lang.Stringê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÂ Â(2
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+;\n£
+†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÂ Â(2
+%6java.lang.String"__concat*
+
+codejava.lang.String*
+
+%5java.lang.StringÖ
+Ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.javaÂ Â(2
+codejava.lang.String"__id*
+
+%6java.lang.String*
+7*…
+10F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java„ „(s
+q
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java„ „(
+typejava.lang.String"__id*
+RGB*
+7
+8*Ω
+11F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java‚ ‚(c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java‚ ‚(	
+%3int"__id*
+""*
+
+7
+8
+10*“
+12F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java· ·(|
+z
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/io/FileInfo.java· ·(
+typejava.lang.String"__id*
+GRAY32_FLOAT*
+7
+8B
+ij.io.FileInfo

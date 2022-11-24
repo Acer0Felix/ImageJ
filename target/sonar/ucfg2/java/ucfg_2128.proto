@@ -1,0 +1,51 @@
+
+"ij.macro.Interpreter#getBoolean()ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaí í("4*Î
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò(
+%4boolean"__id*
+
+%6boolean*
+1*Î
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò(
+%4boolean"__id*
+
+%5boolean*
+1*·
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaî î(­ª
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaî î(
+
+%0void"$ij.macro.Interpreter#getLeftParen()V*
+ij.macro.Interpreter2getLeftParen()¿¼
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaï ï('
+%1double",ij.macro.Interpreter#getLogicalExpression()D*
+ij.macro.Interpreter2getLogicalExpression()·´
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javað ð(
+
+%2void"%ij.macro.Interpreter#checkBoolean(D)V*
+ij.macro.Interpreter*
+""2checkBoolean(D)¯¬
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javañ ñ(
+
+%3void"%ij.macro.Interpreter#getRightParen()V*
+ij.macro.Interpreter2getRightParen()*
+2
+3*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaò ò(
+""B
+ij.macro.Interpreter

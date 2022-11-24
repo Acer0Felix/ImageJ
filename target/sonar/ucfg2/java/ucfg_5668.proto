@@ -1,0 +1,31 @@
+
+Dij.plugin.MacroInstaller#install(Ljava/lang/String;Ljava/awt/Menu;)IP
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÓ Ó("1*¶
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÔ Ô(ù
+ö
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÔ Ô($
+ij.plugin.MacroInstaller"
+text"__id*
+
+textjava.lang.String†
+ù
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java (*
+ij.plugin.MacroInstaller"
+
+macrosMenu"__id*
+
+menujava.awt.MenuØ¨
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÒ Ò(
+
+%0void"#ij.plugin.MacroInstaller#install()V*
+ij.plugin.MacroInstaller2	install()"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÚ Ú(
+"":
+textjava.lang.String:
+menujava.awt.MenuB
+ij.plugin.MacroInstaller

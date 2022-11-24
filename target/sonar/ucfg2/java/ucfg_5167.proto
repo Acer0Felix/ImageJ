@@ -1,0 +1,36 @@
+
+*ij.plugin.filter.Filler#isLineSelection()ZM
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaG	 G("3*Ç
+2M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH H(ê
+ç
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH H(
+%1
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roiïí
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH H("
+%2boolean"ij.gui.Roi#isLine()Z*
+
+%1
+ij.gui.Roi2isLine()*
+1*Ì
+3M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH	 H(ê
+ç
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH	 H(
+%0
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi*
+2
+1*´
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH H(#"W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Filler.javaH H(#
+""B
+ij.plugin.filter.Filler

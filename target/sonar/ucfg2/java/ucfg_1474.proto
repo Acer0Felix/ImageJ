@@ -1,0 +1,29 @@
+
+:ij.gui.MultiLineLabel#getMinimumSize()Ljava/awt/Dimension;K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaW W(#"1*ÿ
+1K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaX X(!˜
+•
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaX X(;	
+%0int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""}{
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaX X(
+%1java.awt.Dimension"java.awt.Dimension§
+¤
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaX X(U
+%2"java.awt.Dimension#<init>(II)V*
+
+%1java.awt.Dimension*
+	
+%0int*
+"""i
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/gui/MultiLineLabel.javaX X(V
+
+%1java.awt.DimensionB
+ij.gui.MultiLineLabel

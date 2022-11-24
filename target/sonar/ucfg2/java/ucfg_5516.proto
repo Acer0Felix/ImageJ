@@ -1,0 +1,33 @@
+
+Bij.plugin.filter.XYWriter#setup(Ljava/lang/String;Lij/ImagePlus;)IO
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java ("1*“
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java (—
+”
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java ($
+ij.plugin.filter.XYWriter"
+imp"__id*
+
+impij.ImagePlusl
+j
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java	 (	
+%0int"__id*
+""l
+j
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java (	
+%1int"__id*
+""l
+j
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java ()	
+%2int"__id*
+"""Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/XYWriter.java (*
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.XYWriter

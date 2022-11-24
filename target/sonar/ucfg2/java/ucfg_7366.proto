@@ -1,0 +1,121 @@
+
+Yij.plugin.RGBStackConverter#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZS
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaç ç(!"15*Ì
+14S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaé é(Ö
+Ç
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaé é(!
+
+%1void"ij.IJ#wait(I)V*	"
+ij.IJ*2d*
+
+3
+7
+12*®
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaë	 ë(¿Ω
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaë	 ë(
+%10boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ö
+Ç
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaí í(
+%11boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+1*Ò
+15S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaé é(Ö
+Ç
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaé é(
+%0boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+14
+3
+7
+12*‘
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê8 ê(9u
+s
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê8 ê(9	
+%7int"__id*
+	
+%9int*
+3*‘
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê0 ê(7u
+s
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê0 ê(7	
+%7int"__id*
+	
+%8int*
+3*¢
+7S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê ê(øº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaê ê(/
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+5
+6*ÿ
+10S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè8 è(9u
+s
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè8 è(9	
+%3int"__id*
+	
+%5int*
+3
+7*ÿ
+11S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè0 è(7u
+s
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè0 è(7	
+%3int"__id*
+	
+%4int*
+3
+7*•
+12S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè è(øº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaè è(/
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+10
+11*Â
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaì
+ ì(÷”
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaì
+ ì(
+%12java.awt.Component"5ij.gui.GenericDialog#getMessage()Ljava/awt/Component;*
+
+gdij.gui.GenericDialog2getMessage()ËÂ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaì# ì(5
+%13java.lang.String"@ij.plugin.RGBStackConverter#getNewDimensions()Ljava/lang/String;*
+ij.plugin.RGBStackConverter2getNewDimensions()Á‰
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaì ì(6
+%14void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%12java.awt.Component*
+
+%13java.lang.String2setText(Ljava/lang/String;)"]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/RGBStackConverter.javaî î(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.RGBStackConverter

@@ -1,0 +1,37 @@
+
++ij.process.BinaryInterpolator$IDT#init([B)IU
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.java‚ ‚(
+"7"1*Ý
+5U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.java‹ ‹(øõ
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.java‹ ‹(&
+%1boolean"2ij.process.BinaryInterpolator#isJustOutside([BII)Z*%#
+!ij.process.BinaryInterpolator$IDT*
+
+pbyte[]*
+""*
+""2isJustOutside([BII)*
+7
+1*Ú
+7U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.java‡ ‡(òï
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaˆ	 ˆ(
+%0boolean"/ij.process.BinaryInterpolator#isBoundary([BII)Z*%#
+!ij.process.BinaryInterpolator$IDT*
+
+pbyte[]*
+""*
+""2isBoundary([BII)*	
+5
+7
+1*»
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaŽ
+ Ž("_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/process/BinaryInterpolator.javaŽ Ž(
+"":
+pbyte[]B%#
+!ij.process.BinaryInterpolator$IDT

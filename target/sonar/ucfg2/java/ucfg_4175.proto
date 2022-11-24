@@ -1,0 +1,120 @@
+
+Åij.plugin.filter.ParticleAnalyzer#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java´ ´("1*√
+2Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaµ ∂("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∂ ∂(
+""*¥
+3Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≥ ¥(2ùö
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(!
+%10ij.process.ColorStatistics"ij.process.ColorStatistics∞
+≠
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(1
+%11"Xij.process.ColorStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*#
+!
+%10ij.process.ColorStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"Ä
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(2#
+!
+%10ij.process.ColorStatistics*Ø
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java± ≤(2úô
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤( 
+%8ij.process.FloatStatistics"ij.process.FloatStatisticsÆ
+´
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤(1
+%9"Xij.process.FloatStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*"
+ 
+%8ij.process.FloatStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤(2"
+ 
+%8ij.process.FloatStatistics*Ø
+5Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ ∞(2úô
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞( 
+%6ij.process.ShortStatistics"ij.process.ShortStatisticsÆ
+´
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞(1
+%7"Xij.process.ShortStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*"
+ 
+%6ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞(2"
+ 
+%6ij.process.ShortStatistics*™
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≠ Æ(1öó
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(
+%4ij.process.ByteStatistics"ij.process.ByteStatistics¨
+©
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(0
+%5"Wij.process.ByteStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*!
+
+%4ij.process.ByteStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"~
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(1!
+
+%4ij.process.ByteStatistics*œ
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¨
+ ¨(v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≠ ≠(	
+%0int"__id*
+""v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ Ø(	
+%1int"__id*
+""v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java± ±(	
+%2int"__id*
+""v
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≥ ≥(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6:
+ipij.process.ImageProcessor:
+"":
+calij.measure.CalibrationB%#
+!ij.plugin.filter.ParticleAnalyzer

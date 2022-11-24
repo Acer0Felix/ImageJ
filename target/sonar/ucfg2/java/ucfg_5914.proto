@@ -1,0 +1,92 @@
+
+?ij.plugin.frame.SyncWindows#getImageFromVector(I)Lij/ImagePlus;S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java¦ ¦($"7*·
+2S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java« «(!"]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java« «("
+""*ñ	
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java© ©(z
+x
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java© ©(
+impij.ImagePlus"__id*
+""¢
+Ÿ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaª) ª(.
+%3java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsÑÎ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaª) ª(;
+%4java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%3java.util.Vector*
+""2elementAt(I)¨¥
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaª ª(G	
+%5int"java.lang.Integer#intValue()I*
+
+%4java.lang.Object2
+intValue()»
+¸
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaª ª(H
+%6ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+	
+%5int‰
+†
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaª ª(H
+impij.ImagePlus"__id*
+
+%6ij.ImagePlus¤¡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java« «(
+%7boolean"ij.ImagePlus#isLocked()Z*
+
+impij.ImagePlus2
+isLocked()*
+2
+1*·
+4S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§9 §(="]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§2 §(>
+""*§
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§ §(#¢
+Ÿ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§ §(#
+%1java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsŸœ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§ §(*	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()*
+3
+4*…
+7S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§ §(¢
+Ÿ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java§ §(
+%0java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwins*
+4
+5*Æ
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java¬	 ¬("l
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java¬ ¬(
+
+impij.ImagePlus:
+""B
+ij.plugin.frame.SyncWindows

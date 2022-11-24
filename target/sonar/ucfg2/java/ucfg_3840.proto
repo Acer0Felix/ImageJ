@@ -1,0 +1,88 @@
+
+5ij.WindowManager#isDuplicateName(Ljava/lang/String;)ZH
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÄ Ä("6"7*¡
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÌ Ì("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÌ Ì(
+""*ð	
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÉ" É(+
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÉ" É(+
+%2java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÉ" É(2
+%3java.lang.Object"
+__arrayGet*
+
+%2java.util.Vector*
+""ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÉ É(3
+winij.gui.ImageWindow"__id*
+
+%3java.lang.Object¿¼
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÊ Ê($
+%4ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winij.gui.ImageWindow2getImagePlus()²¯
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÊ Ê(/
+%5java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%4ij.ImagePlus2
+getTitle()ˆ
+…
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÊ Ê(0
+name2java.lang.String"__id*
+
+%5java.lang.StringßÜ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaË Ë(
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+name2java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*ÿ
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÇ
+ Ç(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÇ
+ Ç(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÇ
+ Ç(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+4
+1*¡
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÆ
+ Æ("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÆ Æ(
+""*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÎ	 Î("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaÎ Î(
+"":
+namejava.lang.StringB"
+ij.WindowManager

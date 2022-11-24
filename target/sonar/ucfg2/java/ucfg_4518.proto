@@ -1,0 +1,30 @@
+
+>ij.gui.ShapeRoi#getFloatPolygon(DZZZ)Lij/process/FloatPolygon;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÜ Ü($"1*õ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÝ	 Ý(ˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÝ Ý(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape¯¬
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÝ	 Ý(\
+%1ij.process.FloatPolygon"Nij.gui.ShapeRoi#getFloatPolygon(Ljava/awt/Shape;DZZZ)Lij/process/FloatPolygon;*
+ij.gui.ShapeRoi*
+
+%0java.awt.Shape*
+""*
+""*
+""*
+""2%getFloatPolygon(Ljava/awt/Shape;DZZZ)"j
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÝ Ý(]
+
+%1ij.process.FloatPolygon:
+"":
+"":
+"":
+""B
+ij.gui.ShapeRoi

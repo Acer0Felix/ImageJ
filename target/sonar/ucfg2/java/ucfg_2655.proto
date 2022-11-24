@@ -1,0 +1,23 @@
+
+&ij.gui.Roi#magnificationForSubPixel()ZB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaí í(+"1*Ó
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî	 î(!™–
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî" î(4
+%0double"ij.gui.Roi#getMagnification()D*
+
+ij.gui.Roi2getMagnification()Ÿ
+œ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî	 î(5
+%1boolean"'ij.gui.Roi#magnificationForSubPixel(D)Z*"
+
+ij.gui.Roi*
+
+%0double"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaî î(6
+""B
+
+ij.gui.Roi

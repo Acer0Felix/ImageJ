@@ -1,0 +1,29 @@
+
+Jij.gui.TextRoi#create(DDLjava/lang/String;Ljava/awt/Font;)Lij/gui/TextRoi;D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java^ ^("1*…
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java_ _(nl
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java_ _(
+%0ij.gui.TextRoi"ij.gui.TextRoié
+æ
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java_	 _(&
+%1";ij.gui.TextRoi#<init>(DDLjava/lang/String;Ljava/awt/Font;)V*
+
+%0ij.gui.TextRoi*
+""*
+""*
+
+textjava.lang.String*
+
+fontjava.awt.Font"^
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.java_ _('
+
+%0ij.gui.TextRoi:
+"":
+"":
+textjava.lang.String:
+fontjava.awt.FontB"
+ij.gui.TextRoi

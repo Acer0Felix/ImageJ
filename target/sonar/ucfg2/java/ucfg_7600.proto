@@ -1,0 +1,34 @@
+
+ij.gui.PlotCanvas#isFrozen()ZG
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java) )("3*ò
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java* *(†
+ƒ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java* *(
+%1ij.gui.Plot"__id**
+ij.gui.PlotCanvas"
+plot•’
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java* *((
+%2boolean"ij.gui.Plot#isFrozen()Z*
+
+%1ij.gui.Plot2
+isFrozen()*
+1*Ý
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java*	 *(†
+ƒ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java*	 *(
+%0ij.gui.Plot"__id**
+ij.gui.PlotCanvas"
+plot*
+2
+1*Ÿ
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java* *()"Q
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PlotCanvas.java* *()
+""B
+ij.gui.PlotCanvas

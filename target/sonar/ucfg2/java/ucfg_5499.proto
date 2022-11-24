@@ -1,0 +1,34 @@
+
+!ij.plugin.DicomDecoder#getUInt()JG
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaù ù("3*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaÿ ÿ("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaÿ ÿ(/
+""*ä
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaú ú(¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaú ú(	
+%0int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaû û(	
+%1int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaü ü(	
+%2int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaı ı(	
+%3int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()*
+2
+1*Ÿ
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java ("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java (/
+""B
+ij.plugin.DicomDecoder

@@ -1,0 +1,121 @@
+
+8ij.measure.ResultsTable#getHeadings()[Ljava/lang/String;O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÜ Ü("17*ä
+3O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaï ï(´
+®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaï ï(
+%8"
+__arraySet*
+
+tempjava.lang.String[]*
+""*
+
+headingjava.lang.String*
+5
+1*ı
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaî  î(#Ö
+Ç
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaî  î()
+%7java.lang.String"__concat*
+C*
+""ë
+é
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaî î()
+headingjava.lang.String"__id*
+
+%7java.lang.String*
+3*±
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(ü
+ú
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(
+%5java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsú
+ô
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(
+%6java.lang.String"
+__arrayGet*
+
+%5java.lang.String[]*
+""ë
+é
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaì ì(
+headingjava.lang.String"__id*
+
+%6java.lang.String*
+3
+4*˛
+17O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaá
+ á(†
+ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaà à(
+%0java.lang.String[]"__id***(
+ij.measure.ResultsTable"
+	rowLabels*
+10*‹
+8O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaê ê(~
+|
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaê ê(
+headingjava.lang.String"__id*
+""*
+5
+1*©
+9O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaè è(§
+°
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaè è("
+%3java.lang.String"__id*0*.
+ij.measure.ResultsTable"
+rowLabelHeading¶
+£
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaè è("
+%4"
+__arraySet*
+
+tempjava.lang.String[]*
+""*
+
+%3java.lang.String*
+8*ô
+10O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaå å(Å
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaå å(
+%1java.lang.String[]"java.lang.String[]í
+è
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaå å( 
+tempjava.lang.String[]"__id*
+
+%1java.lang.String[]†
+ù
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaé é(
+%2java.lang.String[]"__id***(
+ij.measure.ResultsTable"
+	rowLabels*
+8
+9*≈
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò	 ò("o
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaò ò(
+
+tempjava.lang.String[]B
+ij.measure.ResultsTable

@@ -1,0 +1,33 @@
+
+Cij.plugin.filter.RoiWriter#setup(Ljava/lang/String;Lij/ImagePlus;)IP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java ("1*š
+1P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java (™
+–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java (%
+ij.plugin.filter.RoiWriter"
+imp"__id*
+
+impij.ImagePlusm
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java	 (	
+%0int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java (	
+%1int"__id*
+""m
+k
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java ()	
+%2int"__id*
+"""Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/RoiWriter.java (*
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.RoiWriter

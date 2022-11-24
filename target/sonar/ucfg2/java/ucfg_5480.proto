@@ -1,0 +1,79 @@
+
+@ij.plugin.HyperStackReducer#getNewDimensions()Ljava/lang/String;S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java∫ ∫("1*‘
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª(â
+Ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª(
+%0java.lang.String"__concat*
+""*
+xú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª("
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+""õ
+ò
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª(&
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+xú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª(.
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""è
+å
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaª ª(/
+sjava.lang.String"__id*
+
+%3java.lang.Stringö
+ó
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaº º(@
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""ê
+ç
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaº º(@
+%5java.lang.String"__concat*
+ (*
+
+
+%4longù
+ö
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaº º(F
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+MB)≠
+™
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaº º(F
+%7java.lang.String"__concat*
+
+sjava.lang.String*
+
+%6java.lang.Stringè
+å
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaº º(F
+sjava.lang.String"__id*
+
+%7java.lang.String"n
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaΩ Ω(
+
+sjava.lang.StringB
+ij.plugin.HyperStackReducer

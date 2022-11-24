@@ -1,0 +1,61 @@
+
+5ij.macro.Functions#appendToBuffer()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaú& ú&("3*˜
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý& ý&( …‚
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý& ý&(
+%2java.lang.StringBuffer"java.lang.StringBufferŸ
+œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý& ý&(!
+%3"!java.lang.StringBuffer#<init>(I)V*
+
+%2java.lang.StringBuffer*2€—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaý& ý&(! 
+ij.macro.Functions"
+buffer"__id*
+
+%2java.lang.StringBuffer*
+1*Ä
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû& û&(ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû& û&(
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaû& û&(
+textjava.lang.String"__id*
+
+%0java.lang.String—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaü& ü&(
+%1java.lang.StringBuffer"__id*"* 
+ij.macro.Functions"
+buffer*
+2
+1*Ò
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ& þ&(—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ& þ&(
+%4java.lang.StringBuffer"__id*"* 
+ij.macro.Functions"
+buffer
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaþ& þ&(
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%4java.lang.StringBuffer*
+
+textjava.lang.String2append(Ljava/lang/String;)"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÿ& ÿ&(
+""B
+ij.macro.Functions

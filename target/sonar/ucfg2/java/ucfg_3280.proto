@@ -1,0 +1,90 @@
+
+#ij.macro.Functions#getOrthoViews()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaê) ê)("3*š
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ)	 ñ)(ÃÀ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ)	 ñ)(!
+%4int[]"*ij.plugin.Orthogonal_Views#getCrossLoc()[I**
+(
+
+orthoViewsij.plugin.Orthogonal_Views2getCrossLoc()*
+1*ç
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë) ë)(ÎË
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë) ë)(!
+%0ij.macro.Variable"8ij.macro.Functions#getFirstVariable()Lij/macro/Variable;*
+ij.macro.Functions2getFirstVariable()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë) ë)("
+xij.macro.Variable"__id*
+
+%0ij.macro.VariableÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì) ì)( 
+%1ij.macro.Variable"7ij.macro.Functions#getNextVariable()Lij/macro/Variable;*
+ij.macro.Functions2getNextVariable()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì) ì)(!
+yij.macro.Variable"__id*
+
+%1ij.macro.VariableÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí) í)( 
+%2ij.macro.Variable"7ij.macro.Functions#getLastVariable()Lij/macro/Variable;*
+ij.macro.Functions2getLastVariable()ˆ
+…
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí) í)(!
+zij.macro.Variable"__id*
+
+%2ij.macro.Variable×
+Ô
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî)  î)(> 
+%3ij.plugin.Orthogonal_Views"Dij.plugin.Orthogonal_Views#getInstance()Lij/plugin/Orthogonal_Views;*"
+ij.plugin.Orthogonal_Views£
+ 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî) î)(?(
+
+orthoViewsij.plugin.Orthogonal_Views"__id*"
+ 
+%3ij.plugin.Orthogonal_Views*
+2
+1*˜
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò) ò)(ª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò) ò)(
+
+%5void"ij.macro.Variable#setValue(D)V*
+
+xij.macro.Variable*
+""2setValue(D)ª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó) ó)(
+
+%6void"ij.macro.Variable#setValue(D)V*
+
+yij.macro.Variable*
+""2setValue(D)ª§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaô) ô)(
+
+%7void"ij.macro.Variable#setValue(D)V*
+
+zij.macro.Variable*
+""2setValue(D)j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaõ)	 õ)(
+%8double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaõ) õ)(
+""B
+ij.macro.Functions

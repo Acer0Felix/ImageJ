@@ -1,0 +1,63 @@
+
+Jij.Prefs#getString(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaå å("5*®
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaê
+ ê("g
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaê ê(#
+!
+defaultStringjava.lang.String*Í
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaè è(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaè è(
+%1java.util.Properties"__id**
+
+ij.Prefs"
+propsÿü
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaè è(#
+%2java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%1java.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;){
+y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaè è($
+sjava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*®
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaç
+ ç("g
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaç ç(#
+!
+defaultStringjava.lang.String*Î
+5@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaæ æ(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaæ æ(
+%0java.util.Properties"__id**
+
+ij.Prefs"
+props*
+3
+4*¢
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaì
+ ì("[
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaì ì(
+
+sjava.lang.String:
+keyjava.lang.String:!
+defaultStringjava.lang.StringB"
+
+ij.Prefs

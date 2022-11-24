@@ -1,0 +1,56 @@
+
+oij.plugin.ControlPanel#newPanel(Ljavax/swing/tree/DefaultMutableTreeNode;Ljava/awt/Point;)Lij/plugin/TreePanel;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¸ ¸("1*Í
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¹ ¹(ú÷
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¹ ¹(%
+%0java.lang.Object"Ijavax.swing.tree.DefaultMutableTreeNode#getUserObject()Ljava/lang/Object;*1
+/
+node'javax.swing.tree.DefaultMutableTreeNode2getUserObject()®
+«
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¹- ¹(1-
+%1'javax.swing.tree.DefaultMutableTreeNode"__id*$*"
+ij.plugin.ControlPanel"
+rootøõ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¹- ¹(A
+%2java.lang.Object"Ijavax.swing.tree.DefaultMutableTreeNode#getUserObject()Ljava/lang/Object;*/
+-
+%1'javax.swing.tree.DefaultMutableTreeNode2getUserObject()àÝ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java¹ ¹(B
+%3boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.Object*
+
+%2java.lang.Object2equals(Ljava/lang/Object;)ƒ€
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaº º(!
+%4ij.plugin.TreePanel"ij.plugin.TreePanelÜ
+Ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaº º(=
+%5"oij.plugin.TreePanel#<init>(Ljavax/swing/tree/DefaultMutableTreeNode;Lij/plugin/ControlPanel;ZLjava/awt/Point;)V*
+
+%4ij.plugin.TreePanel*1
+/
+node'javax.swing.tree.DefaultMutableTreeNode*
+ij.plugin.ControlPanel*
+""*
+
+locationjava.awt.Point”
+‘
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaº º(>
+panelij.plugin.TreePanel"__id*
+
+%4ij.plugin.TreePanel"p
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java» »(
+
+panelij.plugin.TreePanel:/
+node'javax.swing.tree.DefaultMutableTreeNode:
+locationjava.awt.PointB
+ij.plugin.ControlPanel

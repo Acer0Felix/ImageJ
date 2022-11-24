@@ -1,0 +1,64 @@
+
+Hij.plugin.NextImageOpener#getDirectory(Lij/ImagePlus;)Ljava/lang/String;O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java7 7("5*Ö
+2O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java; ;(ô
+ñ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java; ;(#
+%2java.lang.String"__id*%*#
+
+fiij.io.FileInfo"
+	directoryç
+ä
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java; ;(#
+dirjava.lang.String"__id*
+
+%2java.lang.String*
+1*ä
+3O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java: :(õ
+ò
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java: :(
+%1java.lang.String"__id*'*%
+
+fiij.io.FileInfo"
+openNextDirç
+ä
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java: :(
+dirjava.lang.String"__id*
+
+%1java.lang.String*
+2
+1*Ø
+4O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java9 9("Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java9 9(
+""*∂
+5O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java8 8(Ã…
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java8 8()
+%0ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+impij.ImagePlus2getOriginalFileInfo()à
+Ö
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java8 8(*
+fiij.io.FileInfo"__id*
+
+%0ij.io.FileInfo*
+3
+4*¬
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java<	 <("l
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java< <(
+
+dirjava.lang.String:
+impij.ImagePlusB
+ij.plugin.NextImageOpener

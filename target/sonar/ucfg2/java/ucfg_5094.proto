@@ -1,0 +1,64 @@
+
+Rij.io.Opener#openJpegOrGifUsingURL(Ljava/lang/String;Ljava/net/URL;)Lij/ImagePlus;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java… …( "3"4*ç
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‰! ‰(&jh
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‰ ‰( 
+%2ij.ImagePlus"ij.ImagePlusÕ
+Ò
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‰ ‰(,
+%3"8ij.ImagePlus#<init>(Ljava/lang/String;Ljava/awt/Image;)V*
+
+%2ij.ImagePlus*
+
+titlejava.lang.String*
+
+imgjava.awt.Imagey
+w
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‰ ‰(-
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus"]
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaŠ Š(
+
+impij.ImagePlus*ð
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‡ ‡(¯
+¬
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‡ ‡()
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkitëè
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‡ ‡(:
+%1java.awt.Image"<java.awt.Toolkit#createImage(Ljava/net/URL;)Ljava/awt/Image;*
+
+%0java.awt.Toolkit*
+
+urljava.net.URL2createImage(Ljava/net/URL;)}
+{
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java‡ ‡(;
+imgjava.awt.Image"__id*
+
+%1java.awt.Image*
+2
+1*™
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java† †("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java† †(
+""*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaŒ
+ Œ("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaŒ Œ(
+"":
+titlejava.lang.String:
+urljava.net.URLB
+ij.io.Opener

@@ -1,0 +1,55 @@
+
+Nij.plugin.ZAxisProfiler#getPlot(Lij/ImagePlus;Ljava/lang/String;)Lij/gui/Plot;M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java ("1*ç
+
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java   ()äá
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java   ('
+%0ij.plugin.ZAxisProfiler"ij.plugin.ZAxisProfilerú
+ô
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java   ()
+%1"!ij.plugin.ZAxisProfiler#<init>()V*
+
+%0ij.plugin.ZAxisProfilerô
+ñ
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java   (*
+zapij.plugin.ZAxisProfiler"__id*
+
+%0ij.plugin.ZAxisProfilerò
+ï
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java! !('
+
+zapij.plugin.ZAxisProfiler"
+imp"__id*
+
+impij.ImagePlus§
+°
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java" "(+
+
+zapij.plugin.ZAxisProfiler"	
+options"__id*
+
+optionsjava.lang.String¬ø
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java$ $(
+%2ij.gui.Plot".ij.plugin.ZAxisProfiler#getPlot()Lij/gui/Plot;* 
+
+zapij.plugin.ZAxisProfiler2	getPlot()Å
+
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java$ $(
+plotij.gui.Plot"__id*
+
+%2ij.gui.Plot"f
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZAxisProfiler.java% %(
+
+plotij.gui.Plot:
+impij.ImagePlus:
+optionsjava.lang.StringB"
+ij.plugin.ZAxisProfiler

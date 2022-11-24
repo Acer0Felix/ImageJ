@@ -1,0 +1,55 @@
+
+%ij.gui.HistogramWindow#getXValues()[DN
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÃ Ã("5*Å
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(	ú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(
+%2ij.measure.Calibration"__id*#*!
+ij.gui.HistogramWindow"
+cal¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(" 
+%3ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaœ- œ(2 
+%4ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsΩ∫
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(;
+%5double"$ij.measure.Calibration#getCValue(D)D*
+
+%2ij.measure.Calibration*
+""2getCValue(D)*
+4*Ä
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ(¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ( 
+%1ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats*
+3
+1*˝
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÕ Õ($¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.javaÕ Õ($ 
+%0ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats*
+4*≠
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.java–	 –("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramWindow.java– –(
+""B
+ij.gui.HistogramWindow

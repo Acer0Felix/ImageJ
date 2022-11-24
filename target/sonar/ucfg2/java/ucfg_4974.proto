@@ -1,0 +1,21 @@
+
+9ij.gui.ProgressBar#getPreferredSize()Ljava/awt/Dimension;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProgressBar.java (%"1*Û
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProgressBar.javaž ž((|z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProgressBar.javaž ž(
+%0java.awt.Dimension"java.awt.Dimension¡
+ž
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProgressBar.javaž ž(7
+%1"java.awt.Dimension#<init>(II)V*
+
+%0java.awt.Dimension*
+""*
+"""h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProgressBar.javaž ž(8
+
+%0java.awt.DimensionB
+ij.gui.ProgressBar

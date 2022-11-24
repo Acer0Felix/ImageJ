@@ -1,0 +1,79 @@
+
+ij.io.FileSaver#saveAsPgm()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaú ú("6*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java†
+ †("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java† †(
+""*ë
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù ù(9ã
+à
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù ù(9
+	extensionjava.lang.String"__id*
+
+%2java.lang.String£†
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaû û()
+%5java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+PGM*
+
+	extensionjava.lang.String2-getPath(Ljava/lang/String;Ljava/lang/String;)Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaû û(*
+pathjava.lang.String"__id*
+
+%5java.lang.String*
+2
+1*ÿ
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù2 ù(8Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù2 ù(8
+%2java.lang.String"__id*
+
+%4java.lang.String*
+3*ÿ
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù+ ù(1Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù+ ù(1
+%2java.lang.String"__id*
+
+%3java.lang.String*
+3*˜
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù ù(Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù ù(
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+impôñ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaù ù(&	
+%1int"ij.ImagePlus#getBitDepth()I*
+
+%0ij.ImagePlus2getBitDepth()*
+4
+5*˝
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¢
+ ¢(€ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¢
+ ¢(
+%6boolean".ij.io.FileSaver#saveAsPgm(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsPgm(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¢ ¢(
+""B
+ij.io.FileSaver

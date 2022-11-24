@@ -1,0 +1,311 @@
+
+Zij.plugin.NextImageOpener#getNext(Ljava/lang/String;Ljava/lang/String;Z)Ljava/lang/String;O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaq q("40*˙
+36O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javax x(ü
+ú
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javax x(
+%5java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""ËÂ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javax x(!
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+	imageNamejava.lang.String2equals(Ljava/lang/Object;)*
+2
+36
+30
+32
+22
+1*ÿ
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaë ë(!o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaë# ë(.
+
+%26int"__id*
+""*
+2
+11
+22
+1*‹
+15Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaë ë(o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaë ë(
+
+%25int"__id*
+""*
+2
+14
+11
+22
+1*à
+38O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javat t(µ≤
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javat t(
+%3java.lang.String[]"&java.io.File#list()[Ljava/lang/String;*
+
+dirjava.io.File2list()ì
+ê
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javat t(
+namesjava.lang.String[]"__id*
+
+%3java.lang.String[] 
+«
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javau u("
+
+%4void"/ij.util.StringSorter#sort([Ljava/lang/String;)V*"
+ij.util.StringSorter*
+
+namesjava.lang.String[]*
+2
+36
+30
+32
+22
+1*ÿ
+16Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaé é(xv
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaé é(
+%21ij.io.Opener"ij.io.Openerå
+â
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaé é(
+%22"ij.io.Opener#<init>()V*
+
+%21ij.io.OpenerÜ
+É
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaé é(
+oij.io.Opener"__id*
+
+%21ij.io.OpenerÁ‰
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaè è(&
+
+%23int"-ij.io.Opener#getFileType(Ljava/lang/String;)I*
+
+oij.io.Opener*
+
+nextPathjava.lang.String2getFileType(Ljava/lang/String;)o
+m
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaê ê(!
+
+%24int"__id*
+""*
+2
+15
+11
+22
+1*∞
+39O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javas! s(%"Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javas s(&
+""*ú
+19Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaã+ ã(3Æ´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaã+ ã(A
+%20boolean"java.io.File#isDirectory()Z*
+
+nextFilejava.io.File2isDirectory()*
+2
+16
+11
+22
+1*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java°	 °("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java° °(
+""*â
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java† †(´
+®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java† †(5
+%27void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+OpenNext: Search failed*
+1*¿
+40O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javar r(us
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javar r(
+%0java.io.File"java.io.File∂
+≥
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javar r(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+pathjava.lang.StringÖ
+Ç
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javar r(
+dirjava.io.File"__id*
+
+%0java.io.File¶£
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javas s(
+%2boolean"java.io.File#isDirectory()Z*
+
+dirjava.io.File2isDirectory()*
+38
+39*∞
+30O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java~ ~( "Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java~ ~(!
+""*º
+20Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaâ â($xv
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaâ â(
+%16java.io.File"java.io.Fileæ
+ª
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaâ â(%
+%17"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%16java.io.File*
+
+nextPathjava.lang.Stringç
+ä
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaâ â(&
+nextFilejava.io.File"__id*
+
+%16java.io.File¢
+ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaã ã(
+%18java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""⁄◊
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaã ã('
+%19boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%18java.lang.String*
+.2startsWith(Ljava/lang/String;)*
+2
+16
+19
+11
+22
+1*ì
+21Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà à(ë
+é
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà à(3
+%11java.lang.String"__concat*
+
+OpenNext: *
+""ú
+ô
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà à(:
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+  ¢
+ü
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà= à(M
+%13java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""Ø
+¨
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà à(M
+%14java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.String©
+¶
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaà à(N
+%15void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%14java.lang.String*
+20*¶
+32O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java} }(ñ
+ì
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java} }(:
+%7java.lang.String"__concat*
+OpenNext.thisfile:*
+""•
+¢
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.java} }(;
+
+%8void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%7java.lang.String*
+2
+30
+22
+1*œ
+22Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaá á(°
+û
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaá á(,
+%9java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""Ø
+¨
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaá á(,
+%10java.lang.String"__concat*
+
+pathjava.lang.String*
+
+%9java.lang.Stringï
+í
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaá á(-
+nextPathjava.lang.String"__id*
+
+%10java.lang.String*
+20
+21*Ã
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaï ï("s
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/NextImageOpener.javaï ï(
+
+nextPathjava.lang.String:
+pathjava.lang.String:
+	imageNamejava.lang.String:
+""B
+ij.plugin.NextImageOpener

@@ -1,0 +1,14 @@
+
+-ij.gui.OvalRoi#getPolygon()Ljava/awt/Polygon;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¸ ¸("1*î
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¹	 ¹(¼¹
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¹	 ¹(
+%0java.awt.Polygon".ij.gui.OvalRoi#getPolygon(Z)Ljava/awt/Polygon;*
+ij.gui.OvalRoi*22getPolygon(Z)"b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/OvalRoi.java¹ ¹(
+
+%0java.awt.PolygonB
+ij.gui.OvalRoi

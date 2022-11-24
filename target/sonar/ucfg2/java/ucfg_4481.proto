@@ -1,0 +1,159 @@
+
+Aij.gui.ShapeRoi#makeShapeFromArray([F)Ljava/awt/geom/GeneralPath;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaã ã(&"13"12* 
+13G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaä ä("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaä ä(
+""*æ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaì ì(d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaî	 î( 	
+%9int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javañ	 ñ( 
+
+%10int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaô	 ô( 
+
+%11int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java÷	 ÷(!
+
+%12int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaú	 ú(
+
+%13int"__id*
+""*
+4
+5
+6
+7
+8
+10
+1*‚
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaú ü(ª§
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaû û(!
+
+%8void"!java.awt.geom.Path2D#closePath()V* 
+
+sjava.awt.geom.GeneralPath2closePath()*
+10
+1*À
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java÷ ù(èå
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaø ø(M
+
+%7void"+java.awt.geom.Path2D$Float#curveTo(FFFFFF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""*
+""*
+""*
+""*
+""2curveTo(FFFFFF)*
+10
+1*ª
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaô ö(ÒÏ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaõ õ(;
+
+%6void"(java.awt.geom.Path2D$Float#quadTo(FFFF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""*
+""*
+""2quadTo(FFFF)*
+10
+1*–
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javañ ó(¾»
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaò ò(,
+
+%5void"&java.awt.geom.Path2D$Float#lineTo(FF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)*
+10
+1*–
+8G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaî ð(¾»
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaï ï(,
+
+%4void"&java.awt.geom.Path2D$Float#moveTo(FF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""2
+moveTo(FF)*
+10
+1*€
+10G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê(¨
+¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaê ê((	
+%3int""ij.gui.ShapeRoi#getSegment([F[FI)I*"
+ij.gui.ShapeRoi*
+""*
+""*
+""*
+2
+1*Š
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaå" å(-d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaå" å(;	
+%0int"__id*
+""ˆ…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaå å(!
+%1java.awt.geom.GeneralPath"java.awt.geom.GeneralPath¨
+¥
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaå å(<
+%2"$java.awt.geom.GeneralPath#<init>(I)V*!
+
+%1java.awt.geom.GeneralPath*
+	
+%0int•
+’
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaå å(=
+sjava.awt.geom.GeneralPath"__id*!
+
+%1java.awt.geom.GeneralPath*
+10
+1*¹
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java€	 €(
+"k
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java€ €( 
+
+sjava.awt.geom.GeneralPath:
+""B"
+ij.gui.ShapeRoi

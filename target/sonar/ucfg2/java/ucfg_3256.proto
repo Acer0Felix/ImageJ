@@ -1,0 +1,32 @@
+
+&ij.macro.Functions#getCapsLockState()ZJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî% î%("5*…
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ%= ñ%(Eg
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ%= ñ%(R	
+%1int"__id*
+""ÅÂ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ% ñ%(S
+%2boolean"'java.awt.Toolkit#getLockingKeyState(I)Z*
+
+%0java.awt.Toolkit*
+	
+%1int2getLockingKeyState(I)*
+1*Œ
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ% ñ%(µ
+²
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ% ñ%()
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkit*
+4*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó%	 ó%("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaó% ó%(
+""B
+ij.macro.Functions

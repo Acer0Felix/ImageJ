@@ -1,0 +1,22 @@
+
+Nij.plugin.Clipboard#isDataFlavorSupported(Ljava/awt/datatransfer/DataFlavor;)ZK
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.java™ ™(%"1*ä
+1K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaš	 š(†
+ƒ
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaš	 š(&
+%0 java.awt.datatransfer.DataFlavor"__id*
+""±®
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaš	 š(.
+%1boolean"Ljava.awt.datatransfer.DataFlavor#equals(Ljava/awt/datatransfer/DataFlavor;)Z*(
+&
+%0 java.awt.datatransfer.DataFlavor*,
+*
+flavor java.awt.datatransfer.DataFlavor2*equals(Ljava/awt/datatransfer/DataFlavor;)"U
+K
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Clipboard.javaš š(/
+"":*
+flavor java.awt.datatransfer.DataFlavorB
+ij.plugin.Clipboard

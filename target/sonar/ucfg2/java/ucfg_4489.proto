@@ -1,0 +1,232 @@
+
+,ij.gui.ShapeRoi#createRoi([F[FI)Lij/gui/Roi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∑ ∑("14*Ω
+13G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏ ∏(#d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏' ∏(4	
+%1int"__id*
+""*
+11
+12*ç
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaº º(îë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaº# º(-
+%14double"ij.gui.Roi#getXBase()D*
+ij.gui.ShapeRoi2
+getXBase()•
+¢
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaº º(.
+%15void"ij.util.Tools#addToArray([FF)V*"
+ij.util.Tools*
+""*
+
+%14doubleîë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaΩ# Ω(-
+%16double"ij.gui.Roi#getYBase()D*
+ij.gui.ShapeRoi2
+getYBase()•
+¢
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaΩ Ω(.
+%17void"ij.util.Tools#addToArray([FF)V*"
+ij.util.Tools*
+""*
+
+%16doublee
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¿ ¿(
+
+%18int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¡ ¡(
+
+%19int"__id*
+""e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java« «(
+
+%20int"__id*
+""*
+3
+4
+5
+6*Ω
+14G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏ ∏(d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏ ∏(	
+%0int"__id*
+""*
+13
+12*É
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java  Ã(
+xv
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÀ À(
+%12ij.gui.PolygonRoi"ij.gui.PolygonRoi≤
+Ø
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÀ
+ À(C
+%13"!ij.gui.PolygonRoi#<init>([F[FII)V*
+
+%12ij.gui.PolygonRoi*
+""*
+""*
+""*
+""Ä
+~
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÀ À(C
+roi
+ij.gui.Roi"__id*
+
+%12ij.gui.PolygonRoi*
+1*´
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java« …(
+ä
+á
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java» »((
+%8int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""ä
+á
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java»* »(9
+%9int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""xv
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java» »(
+%10ij.gui.PolygonRoi"ij.gui.PolygonRoi¿
+Ω
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java»
+ »(S
+%11"!ij.gui.PolygonRoi#<init>([I[III)V*
+
+%10ij.gui.PolygonRoi*
+
+%8int[]*
+
+%9int[]*
+""*
+""Ä
+~
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java» »(S
+roi
+ij.gui.Roi"__id*
+
+%10ij.gui.PolygonRoi*
+1*ã
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¡ ∆(
+ñ
+ì
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¬ ¬(/
+%4double[]"ij.util.Tools#getMinMax([F)[D*"
+ij.util.Tools*
+""ñ
+ì
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java√ √(/
+%5double[]"ij.util.Tools#getMinMax([F)[D*"
+ij.util.Tools*
+""ig
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaƒ ƒ(
+%6
+ij.gui.Roi"
+ij.gui.Roi†
+ù
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaƒ
+ ≈(K
+%7"ij.gui.Roi#<init>(IIII)V*
+
+%6
+ij.gui.Roi*
+""*
+""*
+""*
+""x
+v
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaƒ ≈(K
+roi
+ij.gui.Roi"__id*
+
+%6
+ij.gui.Roi*
+1*ﬁ
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¿ ¿(\ki
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¿ ¿('
+%2ij.gui.Line"ij.gui.Line¢
+ü
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¿ ¿(T
+%3"ij.gui.Line#<init>(DDDD)V*
+
+%2ij.gui.Line*
+""*
+""*
+""*
+""y
+w
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java¿ ¿(T
+roi
+ij.gui.Roi"__id*
+
+%2ij.gui.Line*
+1*ü
+7G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∫j ∫(n"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∫c ∫(o
+""*√
+11G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaπ π(l
+j
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaπ π(
+roi
+ij.gui.Roi"__id*
+""*
+2
+7*†
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏= ∏(A"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∏6 ∏(B
+""*¨
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaŒ	 Œ("^
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaŒ Œ(
+
+roi
+ij.gui.Roi:
+"":
+"":
+""B
+ij.gui.ShapeRoi

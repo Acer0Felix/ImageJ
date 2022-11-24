@@ -1,0 +1,79 @@
+
+%ij.gui.StackWindow#validDimensions()ZJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÄ Ä("11*¥
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÍ
+ Í("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÍ Í(
+""*¥
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaË
+ Ë("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaË Ë(
+""*‹
+
+11J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(
+%0ij.ImagePlus"__id**
+ij.gui.StackWindow"
+impž›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(	
+%1int"ij.ImagePlus#getNChannels()I*
+
+%0ij.ImagePlus2getNChannels()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÆ
+ Æ(
+%2ij.ImagePlus"__id**
+ij.gui.StackWindow"
+impš—
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÆ
+ Æ(	
+%3int"ij.ImagePlus#getNSlices()I*
+
+%2ij.ImagePlus2getNSlices()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÇ
+ Ç(
+%4ij.ImagePlus"__id**
+ij.gui.StackWindow"
+impš—
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÇ
+ Ç(	
+%5int"ij.ImagePlus#getNFrames()I*
+
+%4ij.ImagePlus2getNFrames()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÉ É(
+%6ij.ImagePlus"__id**
+ij.gui.StackWindow"
+impž›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÉ É(	
+%7int"ij.ImagePlus#getStackSize()I*
+
+%6ij.ImagePlus2getStackSize()*	
+2
+7
+1*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÏ
+ Ï("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/StackWindow.javaÏ Ï(
+""B
+ij.gui.StackWindow

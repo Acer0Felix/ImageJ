@@ -1,0 +1,202 @@
+
+5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaØ Ø($"4"5*—
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¥ ¥( ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∂ ∂(&
+%5 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∑ ∑(&
+%6 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∏ ∏(&
+%7 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∏! ∏('&
+%8 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaπ π(&
+%9 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∫ ∫('
+%10 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∫! ∫(''
+%11 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaª ª('
+%12 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaª! ª(''
+%13 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaº º('
+%14 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaΩ Ω('
+%15 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+boundsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaΩ! Ω(''
+%16 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds}
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ æ(
+%17ij.process.FloatPolygon"ij.process.FloatPolygonß
+§
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ
+ æ(,
+%18"%ij.process.FloatPolygon#<init>([F[F)V* 
+
+%17ij.process.FloatPolygon*
+""*
+"""f
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaæ æ(- 
+
+%17ij.process.FloatPolygon*„
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≥% ≥(+ë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≥% ≥(+&
+%4 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+1*
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≥ ≥(ûõ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≥ ≥(!
+%3boolean" ij.gui.Roi#subPixelResolution()Z*
+
+ij.gui.Roi2subPixelResolution()*
+3
+1*ã
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java± ±(!nl
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java± ±(
+%0ij.gui.ShapeRoi"ij.gui.ShapeRoiù
+ö
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java± ±("
+%1"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%0ij.gui.ShapeRoi*
+
+ij.gui.Roi{
+y
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java± ±(#
+sij.gui.ShapeRoi"__id*
+
+%0ij.gui.ShapeRoiÕ 
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≤
+ ≤(
+%2ij.process.FloatPolygon":ij.gui.ShapeRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+sij.gui.ShapeRoi2getFloatPolygon()"e
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≤ ≤(
+
+%2ij.process.FloatPolygon*ª
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(©¶
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(
+%19java.awt.Polygon")ij.gui.Roi#getPolygon()Ljava/awt/Polygon;*
+
+ij.gui.Roi2getPolygon()~
+|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(
+pjava.awt.Polygon"__id*
+
+%19java.awt.Polygonâ
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(-
+%20float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡/ ¡(A
+%21float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""}
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(
+%22ij.process.FloatPolygon"ij.process.FloatPolygonƒ
+¡
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡
+ ¡(M
+%23"&ij.process.FloatPolygon#<init>([F[FI)V* 
+
+%22ij.process.FloatPolygon*
+
+%20float[]*
+
+%21float[]*
+"""f
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(N 
+
+%22ij.process.FloatPolygonB
+
+ij.gui.Roi

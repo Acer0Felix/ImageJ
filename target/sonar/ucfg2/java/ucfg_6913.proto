@@ -1,0 +1,56 @@
+
+0ij.gui.PolygonRoi#getPolygon()Ljava/awt/Polygon;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÜ Ü("7"9"1*Ò
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaé é(å
+â
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaè è(
+%2int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""å
+â
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaê ê(
+%3int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""*
+1*Ô
+9I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaä ä(ã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaã ã(
+%0int[]"ij.gui.Roi#toInt([F)[I*"
+
+ij.gui.Roi*
+""ã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaå å(
+%1int[]"ij.gui.Roi#toInt([F)[I*"
+
+ij.gui.Roi*
+""*
+1*ÿ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaú ú(wu
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaú ú(
+%4java.awt.Polygon"java.awt.Polygonß
+§
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaú	 ú(+
+%5"java.awt.Polygon#<init>([I[II)V*
+
+%4java.awt.Polygon*
+""*
+""*
+"""e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaú ú(,
+
+%4java.awt.PolygonB
+ij.gui.PolygonRoi

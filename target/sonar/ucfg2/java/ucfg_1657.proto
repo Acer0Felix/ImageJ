@@ -1,0 +1,70 @@
+
+%ij.gui.Plot#getDataObjectArrays(I)[[FC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaé	 é	(%"9*â
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaë	 ë	(v
+t
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaë	 ë	(
+
+plotObjectij.gui.PlotObject"__id*
+""—
+”
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaë	 ë	(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+8
+1*—
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaî	 î	($"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaî	 î	(l
+""*ç
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì	0 ì	(:`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì	C ì	(T	
+%2int"__id*
+""²¯
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì	0 ì	(U
+%3boolean"ij.gui.PlotObject#hasFlag(I)Z*!
+
+
+plotObjectij.gui.PlotObject*
+	
+%2int2
+hasFlag(I)*
+2
+4*²
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì	 ì	(`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaì	 ì	(,	
+%1int"__id*
+""*
+2
+7*Û
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaë	 ë	(-‹
+ˆ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaë	 ë	(-
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+2*—
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javañ		 ñ	("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javañ	 ñ	(
+"":
+""B
+ij.gui.Plot

@@ -1,0 +1,51 @@
+
+Aij.process.FHT#calculateAmplitude([FI)Lij/process/ImageProcessor;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÅ Å(""3"1*ó
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÑ Ñ(¡æ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÑ Ñ(!
+
+%0void"!ij.process.FHT#amplitude(II[F[F)V*
+ij.process.FHT*
+""*
+""*
+""*
+""2amplitude(II[F[F)*
+3
+1*Æ
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ) Ü(-áÑ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ Ü((
+%1ij.process.FloatProcessor"ij.process.FloatProcessorÿ
+’
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ Ü(?
+%2"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%1ij.process.FloatProcessor*
+""*
+""*
+""*
+""ï
+í
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ Ü(@
+ipij.process.ImageProcessor"__id*!
+
+%1ij.process.FloatProcessorˆÛ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaá á(
+
+%3void":ij.process.FHT#swapQuadrants(Lij/process/ImageProcessor;)V*
+ij.process.FHT*!
+
+ipij.process.ImageProcessor2*swapQuadrants(Lij/process/ImageProcessor;)"k
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaà à(!
+
+ipij.process.ImageProcessor:
+"":
+""B
+ij.process.FHT

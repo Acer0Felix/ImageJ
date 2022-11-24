@@ -1,0 +1,39 @@
+
+ij.io.FileSaver#saveAsGif()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaØ Ø("3*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÛ
+ Û("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÛ Û(
+""*ì
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÙ Ù(Œ‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÙ Ù(&
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+GIF*
+.gif2-getPath(Ljava/lang/String;Ljava/lang/String;)†
+ƒ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÙ Ù('
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*ý
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÝ
+ Ý(ÛØ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÝ
+ Ý(
+%1boolean".ij.io.FileSaver#saveAsGif(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsGif(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÝ Ý(
+""B
+ij.io.FileSaver

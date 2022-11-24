@@ -1,0 +1,101 @@
+
+ij.gui.Line#isHandle(II)IC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¡ ¡("18*ó
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÕ? Õ(@"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÕ8 Õ(A
+""*Ê	
+16C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaƒ ƒ(ãà
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java≈ ≈(
+%4double"ij.gui.Roi#getXBase()D*
+ij.gui.Line2
+getXBase()íè
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java≈ ≈($	
+%5int"ij.gui.Roi#screenXD(D)I*
+ij.gui.Line*
+""2screenXD(D)ãà
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java∆ ∆(
+%6double"ij.gui.Roi#getYBase()D*
+ij.gui.Line2
+getYBase()íè
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java∆ ∆($	
+%7int"ij.gui.Roi#screenYD(D)I*
+ij.gui.Line*
+""2screenYD(D)ãà
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java« «(
+%8double"ij.gui.Roi#getXBase()D*
+ij.gui.Line2
+getXBase()íè
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java« «($	
+%9int"ij.gui.Roi#screenXD(D)I*
+ij.gui.Line*
+""2screenXD(D)åâ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java» »(
+%10double"ij.gui.Roi#getYBase()D*
+ij.gui.Line2
+getYBase()ìê
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java» »($
+
+%11int"ij.gui.Roi#screenYD(D)I*
+ij.gui.Line*
+""2screenYD(D)*
+2
+7
+1
+12*¸
+17C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java√ √(ñì
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java√0 √(@
+%2float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()ë
+é
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java√' √(A
+%3double"java.lang.Math#log(D)D*"
+java.lang.Math*
+
+%2float*
+16*Œ
+18C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¬ ¬(`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¬ ¬(	
+%0int"__id*
+""ñì
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java√ √(
+%1float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()*
+16
+17*ó
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÃ; Ã(<"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÃ4 Ã(=
+""*ò
+12C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÀ; À(<"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaÀ4 À(=
+""*ó
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaŒ
+ Œ("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaŒ Œ(
+"":
+"":
+""B
+ij.gui.Line

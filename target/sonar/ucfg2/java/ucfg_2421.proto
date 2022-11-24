@@ -1,0 +1,63 @@
+
+*ij.process.AutoThresholder#MaxEntropy([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java¿ ¿("24"6"19"11"1*ˆ
+24R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaä
+ ä(™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaä
+ ä(
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+24
+6
+19
+11
+1*ÿ
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java„ „(™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java„- „(Q
+%3double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*
+
+6
+11
+1*„
+19R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaí
+ í(™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaí
+ í(
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+6
+19
+11
+1*€
+11R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaü ü(™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaü/ ü(S
+%2double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*
+
+6
+11
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java‘	 ‘("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java‘ ‘(
+"":
+""B
+ij.process.AutoThresholder

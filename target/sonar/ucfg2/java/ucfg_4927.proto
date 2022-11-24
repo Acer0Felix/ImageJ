@@ -1,0 +1,77 @@
+
+&ij.io.RoiDecoder#getPointCounters(I)[IH
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java ("11*ö
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¨ ¨(ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¨ ¨(#	
+%5int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)*
+3
+1*¡
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¥
+ ¥("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¥ ¥(
+""*Û
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¤ ¤(€
+~
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¤ ¤(
+%4byte[]"__id**
+ij.io.RoiDecoder"
+data*	
+3
+6
+1*¡
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java£
+ £("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java£ £(
+""*Ý
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¡ ¡(e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¡! ¡(0	
+%2int"__id*
+""ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java¡ ¡(1	
+%3int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)*
+7
+8*¢
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java 
+  ("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java   (
+""*ä
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaž ž(e
+c
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaž ž((	
+%0int"__id*
+""£ 
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.javaž ž()	
+%1int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+	
+%0int2	getInt(I)*
+9
+10*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java©	 ©("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/RoiDecoder.java© ©(
+"":
+""B
+ij.io.RoiDecoder

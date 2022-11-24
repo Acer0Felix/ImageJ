@@ -1,0 +1,68 @@
+
+/ij.macro.Functions#getTitle()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÂ: Â:("3*ä
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ: Å:(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ: Å:(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ: Å:(
+
+%3void" ij.macro.Interpreter#getComma()V*
+
+%2ij.macro.Interpreter2
+getComma()¾»
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ: Æ:(
+%4java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÆ: Æ:(
+titlejava.lang.String"__id*
+
+%4java.lang.String*
+1*“
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ: Ã:(w
+u
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÃ: Ã:(
+titlejava.lang.String"__id*
+""•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ: Ä:(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¨¥
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÄ: Ä:(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+
+%0ij.macro.Interpreter2nextToken()*
+2
+1*†
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ: È:(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ: È:(
+%5ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp±®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÈ: È:(
+
+%6void"%ij.macro.Interpreter#getRightParen()V*
+
+%5ij.macro.Interpreter2getRightParen()"i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ: É:(
+
+titlejava.lang.StringB
+ij.macro.Functions

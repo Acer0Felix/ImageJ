@@ -1,0 +1,43 @@
+
+8ij.plugin.frame.RoiManager#getRoisAsArray()[Lij/gui/Roi;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaè è()"1*Î	
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(¢
+Ÿ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(
+%0java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois¤¡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(#	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()xv
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaé é($
+%2ij.gui.Roi[]"ij.gui.Roi[]Š
+‡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(%
+arrayij.gui.Roi[]"__id*
+
+%2ij.gui.Roi[]¢
+Ÿ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê(
+%3java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+roisŠ‡
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê(#
+%4java.lang.Object[]"Cjava.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.ArrayList*
+
+arrayij.gui.Roi[]2toArray([Ljava/lang/Object;)"p
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê($
+
+%4java.lang.Object[]B
+ij.plugin.frame.RoiManager

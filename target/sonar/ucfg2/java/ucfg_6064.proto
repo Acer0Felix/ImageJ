@@ -1,0 +1,14 @@
+
+;ij.gui.TrimmedButton#getPreferredSize()Ljava/awt/Dimension;J
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/TrimmedButton.java (%"1*Œ
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/TrimmedButton.java (ÐÍ
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/TrimmedButton.java (
+%0java.awt.Dimension"9ij.gui.TrimmedButton#getMinimumSize()Ljava/awt/Dimension;*
+ij.gui.TrimmedButton2getMinimumSize()"h
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/TrimmedButton.java ( 
+
+%0java.awt.DimensionB
+ij.gui.TrimmedButton

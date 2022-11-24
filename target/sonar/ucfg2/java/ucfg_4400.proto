@@ -1,0 +1,39 @@
+
+ij.io.FileSaver#saveAsBmp()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaà à("3*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaã
+ ã("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaã ã(
+""*Ï
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaâ â(åâ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaâ â(&
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+BMP*
+.bmp2-getPath(Ljava/lang/String;Ljava/lang/String;)Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaâ â('
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*˝
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaç
+ ç(€ÿ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaç
+ ç(
+%1boolean".ij.io.FileSaver#saveAsBmp(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsBmp(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaç ç(
+""B
+ij.io.FileSaver

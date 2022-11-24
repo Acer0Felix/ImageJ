@@ -1,0 +1,63 @@
+
+‚ij.plugin.frame.SyncWindows#adaptEvent(Ljava/awt/event/MouseEvent;Ljava/awt/Component;Ljava/awt/Point;)Ljava/awt/event/MouseEvent;S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javað ð("1*Ø
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ(ª§
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ($	
+%0int"java.awt.AWTEvent#getID()I* 
+
+ejava.awt.event.MouseEvent2getID()·´
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ& ñ(1
+
+%1long"$java.awt.event.InputEvent#getWhen()J* 
+
+ejava.awt.event.MouseEvent2	getWhen()À½
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ3 ñ(C	
+%2int")java.awt.event.InputEvent#getModifiers()I* 
+
+ejava.awt.event.MouseEvent2getModifiers()Â¿
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaò ò( 	
+%3int"*java.awt.event.MouseEvent#getClickCount()I* 
+
+ejava.awt.event.MouseEvent2getClickCount()ÈÅ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaò" ò(4
+%4boolean"+java.awt.event.MouseEvent#isPopupTrigger()Z* 
+
+ejava.awt.event.MouseEvent2isPopupTrigger()”‘
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ(
+%5java.awt.event.MouseEvent"java.awt.event.MouseEvent²
+¯
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ	 ò(5
+%6">java.awt.event.MouseEvent#<init>(Ljava/awt/Component;IJIIIIZ)V*!
+
+%5java.awt.event.MouseEvent*
+
+cjava.awt.Component*
+	
+%0int*
+
+
+%1long*
+	
+%2int*
+""*
+""*
+	
+%3int*
+
+%4boolean"x
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ò(6!
+
+%5java.awt.event.MouseEvent:
+ejava.awt.event.MouseEvent:
+cjava.awt.Component:
+pjava.awt.PointB
+ij.plugin.frame.SyncWindows

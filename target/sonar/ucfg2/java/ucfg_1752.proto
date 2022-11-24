@@ -1,0 +1,266 @@
+
+0ij.gui.Plot#legendRect(IIII)Ljava/awt/Rectangle;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÑ Ñ("21*¬
+13C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(!
+
+%14int"__id*
+""Ž‹
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø("
+
+%15int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+
+
+%14int2sc(F)g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ Ø(5
+
+%11int"__id*
+
+
+%12int*
+11*§
+15C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÖ Ö(`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÖ+ Ö(9	
+%9int"__id*
+""ˆ…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÖ& Ö(:
+
+%10int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)e
+c
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÖ Ö(M	
+%4int"__id*
+	
+%6int*
+13
+12*¦
+16C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ($	
+%7int"__id*
+""‡„
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(%	
+%8int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)e
+c
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÕ Õ(8	
+%4int"__id*
+	
+%5int*
+13
+12*µ
+18C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÓ5 Ó(A`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÓE Ó(N	
+%3int"__id*
+""*
+15
+16*¹
+19C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÒ Ò(Q`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÓ) Ó(1	
+%2int"__id*
+""*
+15
+16
+18*Õ
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÞ Þ(vt
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÞ Þ(
+%32java.awt.Rectangle"java.awt.Rectangle®
+«
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÞ	 Þ(-
+%33" java.awt.Rectangle#<init>(IIII)V*
+
+%32java.awt.Rectangle*
+""*
+""*
+""*
+"""b
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÞ Þ(.
+
+%32java.awt.Rectangle*»
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ" Ý($a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ2 Ý(@
+
+%30int"__id*
+""ˆ…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ" Ý(C
+
+%31int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)*
+1*¶
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ Ý(g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ Ý(
+
+%27int"__id*
+
+
+%29int*
+2*¶
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ Ý(g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÝ Ý(
+
+%27int"__id*
+
+
+%28int*
+2*Õ
+6C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÜ Ü(a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÜ Ü(
+
+%25int"__id*
+""œ™
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÜ Ü(
+%26boolean"ij.gui.Plot#hasFlag(I)Z*
+ij.gui.Plot*
+
+
+%25int2
+hasFlag(I)*	
+3
+4
+1*»
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ# Û(%a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ3 Û(A
+
+%23int"__id*
+""ˆ…
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ# Û(B
+
+%24int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)*
+6*¶
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(
+
+%20int"__id*
+
+
+%22int*
+7*¶
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÛ Û(
+
+%20int"__id*
+
+
+%21int*
+7*±
+20C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÒ5 Ò(A`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÒE Ò(P	
+%1int"__id*
+""*
+19*µ
+21C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÒ Ò(%`
+^
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÒ) Ò(1	
+%0int"__id*
+""*
+19
+20*Ö
+11C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java× Ù(Ma
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÚ Ú(
+
+%18int"__id*
+""œ™
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÚ Ú(
+%19boolean"ij.gui.Plot#hasFlag(I)Z*
+ij.gui.Plot*
+
+
+%18int2
+hasFlag(I)*	
+6
+8
+9*¬
+12C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ Ù(a
+_
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ* Ù(8
+
+%16int"__id*
+""Ž‹
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ' Ù(9
+
+%17int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+
+
+%16int2sc(F)g
+e
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaÙ Ù(L
+
+%11int"__id*
+
+
+%13int*
+11:
+"":
+"":
+"":
+""B
+ij.gui.Plot

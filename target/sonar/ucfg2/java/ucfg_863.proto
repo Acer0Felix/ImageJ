@@ -1,0 +1,34 @@
+
+'ij.gui.GenericDialog#isPreviewActive()ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaª ª("3*¡
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«" «(1Ÿ
+œ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«" «(1
+%1java.awt.Checkbox"__id*-*+
+ij.gui.GenericDialog"
+previewCheckbox¦£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«" «(<
+%2boolean"java.awt.Checkbox#getState()Z*
+
+%1java.awt.Checkbox2
+getState()*
+1*û
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«	 «(Ÿ
+œ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java«	 «(
+%0java.awt.Checkbox"__id*-*+
+ij.gui.GenericDialog"
+previewCheckbox*
+2
+1*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java« «(="V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java« «(=
+""B
+ij.gui.GenericDialog

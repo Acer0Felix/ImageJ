@@ -1,0 +1,43 @@
+
+&ij.macro.Functions#getNumericArray()[DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÕ
+ Õ("5*™
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÙ Ù(™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÙ Ù(
+%1ij.macro.Variable"
+__arrayGet*
+
+a1ij.macro.Variable[]*
+""£ 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÙ Ù(
+%2double"ij.macro.Variable#getValue()D*
+
+%1ij.macro.Variable2
+getValue()*
+3
+1*«
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ Ö(Á¾
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ Ö(
+%0ij.macro.Variable[]"1ij.macro.Functions#getArray()[Lij/macro/Variable;*
+ij.macro.Functions2
+getArray()
+Š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÖ Ö(
+a1ij.macro.Variable[]"__id*
+
+%0ij.macro.Variable[]*
+3
+1*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ	 Ú("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÚ Ú(
+""B
+ij.macro.Functions

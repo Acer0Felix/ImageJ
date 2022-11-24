@@ -1,0 +1,42 @@
+
+ij.gui.Line#contains(II)ZC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¯ ¯("8*÷
+2C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java´ ´(«¨
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java´ ´(
+%1java.awt.Polygon"*ij.gui.Line#getPolygon()Ljava/awt/Polygon;*
+ij.gui.Line2getPolygon()¯¬
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java´ ´(%
+%2boolean"java.awt.Polygon#contains(II)Z*
+
+%1java.awt.Polygon*
+""*
+""2contains(II)"M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java´ ´(&
+""*—
+3C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java² ²("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java² ²(
+""*ì
+8C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java° °(–“
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java° °(
+%0float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()*	
+2
+3
+1*—
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¶
+ ¶("M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java¶ ¶(
+"":
+"":
+""B
+ij.gui.Line

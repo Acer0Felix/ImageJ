@@ -1,0 +1,66 @@
+
+(ij.process.FHT#getCopy()Lij/process/FHT;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.java˝ ˝("1*¶
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.java˛ ˛(∂
+≥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.java˛ ˛('
+%0ij.process.ImageProcessor"@ij.process.FloatProcessor#duplicate()Lij/process/ImageProcessor;*
+""ï
+í
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.java˛ ˛((
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorpn
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaˇ ˇ(
+%1ij.process.FHT"ij.process.FHT¡
+æ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaˇ ˇ(
+%2"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%1ij.process.FHT*!
+
+ipij.process.ImageProcessor
+}
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaˇ ˇ(
+fhtij.process.FHT"__id*
+
+%1ij.process.FHTè
+å
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÇ Ç(
+%3ij.process.ColorProcessor"__id**
+ij.process.FHT"
+rgbî
+ë
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÇ Ç(
+
+fhtij.process.FHT"
+rgb"__id*!
+
+%3ij.process.ColorProcessorû
+õ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ Ü(-
+%4java.awt.image.ColorModel"__id***(
+ij.process.FHT"
+originalColorModel£
+†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaÜ Ü(--
+
+fhtij.process.FHT"
+originalColorModel"__id*!
+
+%4java.awt.image.ColorModel"a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/FHT.javaà à(
+
+fhtij.process.FHTB
+ij.process.FHT

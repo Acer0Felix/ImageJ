@@ -1,0 +1,274 @@
+
+Aij.plugin.filter.Rotator#setup(Ljava/lang/String;Lij/ImagePlus;)IN
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java ("25*å
+13N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java*+ *(/ˆ
+…
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java*+ *(/
+%9java.awt.Rectangle"__id*
+
+%11
+<nulltype>*
+12*¯
+24N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java (¡ž
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java (	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()©¦
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java   (
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()
+}
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java   (
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+21
+23*¬
+14N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java* *(¼¹
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java* *(*
+%10java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()
+
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java* *(*
+%9java.awt.Rectangle"__id*
+
+%10java.awt.Rectangle*
+12*õ
+25N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java (•
+’
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java (#
+ij.plugin.filter.Rotator"
+imp"__id*
+
+impij.ImagePlus*
+24
+1*ÿ
+16N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java( ((ž›
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java( ((
+
+%8void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()*
+13
+14*›
+17N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java' '(k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java' '(	
+%7int"__id*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java' '(
+""*ñ
+18N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java% %(O´
+±
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java% %(P
+msgjava.lang.String"__id*@>
+<This image has an overlay so the\nselection will be removed.Ù
+Ö
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java&	 &(1
+%6boolean"Bij.IJ#showMessageWithCancel(Ljava/lang/String;Ljava/lang/String;)Z*	"
+ij.IJ*	
+Rotator*
+
+msgjava.lang.String*
+16
+17*‡
+19N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java$% $(*¢
+Ÿ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java$% $(7
+%5java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+13
+14
+18*­
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java4	 4("X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java4 4(
+""*
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java2 2(yw
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java2 2(
+%21ij.gui.Overlay"ij.gui.Overlay
+Š
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java2 2(
+%22"ij.gui.Overlay#<init>()V*
+
+%21ij.gui.Overlay›
+˜
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java2 2('
+ij.plugin.filter.Rotator"	
+overlay"__id*
+
+%21ij.gui.Overlay*
+1*¦
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java0 0(ª
+§
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java0 0(
+%19void"$ij.Undo#saveOverlay(Lij/ImagePlus;)V*"	
+ij.Undo*
+
+impij.ImagePlus›
+˜
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java1 1(
+%20ij.gui.Overlay"__id*)*'
+ij.plugin.filter.Rotator"	
+overlay*
+2
+1*ê
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java- -(l
+j
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java- -(
+
+%16int"__id*
+""³
+°
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java- -(#
+%17void"ij.Undo#setup(ILij/ImagePlus;)V*"	
+ij.Undo*
+
+
+%16int*
+
+impij.ImagePlusl
+j
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java. .(!
+
+%18int"__id*
+""*
+3*ô
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java+ +(_¨¥
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java, ,(
+
+%14int"ij.ImagePlus#getDisplayMode()I*
+
+impij.ImagePlus2getDisplayMode()l
+j
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java, ,()
+
+%15int"__id*
+""*
+3
+4*ù
+6N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java+E +(Fž›
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java+O +(^
+
+%13int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+5*ú
+8N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java+, +(-œ™
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java+5 +(C
+
+%12int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+5
+6*ÿ
+20N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java$ $(š
+—
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java$ $(
+%4ij.gui.Overlay"__id*)*'
+ij.plugin.filter.Rotator"	
+overlay*
+13
+14
+19*»
+21N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java# #(¹¶
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java# #(
+%3ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()š
+—
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java# #('
+ij.plugin.filter.Rotator"	
+overlay"__id*
+
+%3ij.gui.Overlay*
+13
+14
+20*Ï
+22N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java"
+ "(s
+q
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java" "(
+roi
+ij.gui.Roi"__id*
+""*
+21*ð
+12N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java* *(0Ž
+‹
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java* *(0
+rjava.awt.Rectangle"__id*
+
+%9java.awt.Rectangle*	
+5
+6
+8*ø
+23N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java! !(—”
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Rotator.java! !( 
+%2boolean"ij.gui.Roi#isLine()Z*
+
+roi
+ij.gui.Roi2isLine()*
+21
+22:
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Rotator

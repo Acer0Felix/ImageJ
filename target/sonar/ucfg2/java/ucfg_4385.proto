@@ -1,0 +1,62 @@
+
+ij.io.FileSaver#saveAsTiff()ZE
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaV V("5*É
+2E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java[
+ [(Â‚
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java[
+ [(
+%2boolean"4ij.io.FileSaver#saveAsTiffStack(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2#saveAsTiffStack(Ljava/lang/String;)"O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java[ [( 
+""*ÿ
+3E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaZ Z(É
+Ä
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaZ Z(
+%1ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi*
+2
+1*õ
+4E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaY
+ Y("O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaY Y(
+""*Á
+5E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaW W(ãà
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaW W('
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+TIFF*
+.tif2-getPath(Ljava/lang/String;Ljava/lang/String;)Ñ
+Å
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaW W((
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+3
+4*˘
+1E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java]
+ ](€ÿ
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java]
+ ](
+%3boolean"/ij.io.FileSaver#saveAsTiff(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsTiff(Ljava/lang/String;)"O
+E
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java] ](
+""B
+ij.io.FileSaver

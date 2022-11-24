@@ -1,0 +1,27 @@
+
+9ij.plugin.tool.PlugInTool#getToolName()Ljava/lang/String;O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java ("1*œ
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (ÄÁ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+ij.plugin.tool.PlugInTool2
+getClass()½º
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%0java.lang.Class2	getName()ÑÎ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (/
+%2java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+%1java.lang.String*
+_*
+ 2replace(CC)"k
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PlugInTool.java   (0
+
+%2java.lang.StringB
+ij.plugin.tool.PlugInTool

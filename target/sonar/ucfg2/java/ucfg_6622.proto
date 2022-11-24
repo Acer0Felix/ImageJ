@@ -1,0 +1,28 @@
+
+6ij.plugin.filter.Analyzer#getArea(Ljava/awt/Polygon;)DQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÚ Ú("8"1*¦
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÛ Û(q
+o
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÛ Û( 
+%0double"__id*
+"""[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaÛ Û(!
+""*Î
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaã
+ ã(˜
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaã
+ ã(
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+"""[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaã ã(
+"":
+pjava.awt.PolygonB
+ij.plugin.filter.Analyzer

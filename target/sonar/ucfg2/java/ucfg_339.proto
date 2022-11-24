@@ -1,0 +1,29 @@
+
+ij.gui.Line#getRawLength()DC
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.java∏ ∏("1*≠
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaπ	 π(Å
+
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaπ π(
+%0double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""Å
+
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaπ  π(,
+%1double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaπ	 π(-
+%2double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""M
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Line.javaπ π(.
+""B
+ij.gui.Line

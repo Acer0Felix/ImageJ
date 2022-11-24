@@ -1,0 +1,624 @@
+
+*ij.plugin.Zoom#setZoom(Lij/ImagePlus;DII)VF
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaú ú("68*”
+68F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaù ù(∂
+≥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaù ù(
+
+%0void"2ij.plugin.Zoom#waitUntilActivated(Lij/ImagePlus;)V*"
+ij.plugin.Zoom*
+
+impij.ImagePlus∑¥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaû û("
+%1ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()á
+Ñ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaû û(#
+icij.gui.ImageCanvas"__id*
+
+%1ij.gui.ImageCanvas*
+66
+67*˘
+24F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÿ ÿ(æª
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÿ ÿ("
+%44java.awt.Insets"/ij.gui.ImageWindow#getInsets()Ljava/awt/Insets;*
+
+winij.gui.ImageWindow2getInsets()Ü
+É
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÿ ÿ(#
+insetsjava.awt.Insets"__id*
+
+%44java.awt.Insetsd
+b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaŸA Ÿ(Q
+
+%45int"__id*
+""d
+b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java⁄C ⁄(S
+
+%46int"__id*
+""Æ´
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java⁄V ⁄(k
+
+%47int"%ij.gui.ImageWindow#getSliderHeight()I*
+
+winij.gui.ImageWindow2getSliderHeight()yw
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java€ €(!
+%48java.awt.Rectangle"java.awt.Rectangle±
+Æ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java€ €(P
+%49" java.awt.Rectangle#<init>(IIII)V*
+
+%48java.awt.Rectangle*
+""*
+""*
+""*
+""ÔÏ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java€ €(Q
+%50void"7ij.gui.ImageCanvas#setSourceRect(Ljava/awt/Rectangle;)V*
+
+icij.gui.ImageCanvas*
+
+%48java.awt.Rectangle2#setSourceRect(Ljava/awt/Rectangle;)∫∑
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java‹ ‹(
+%51void"'ij.gui.ImageCanvas#setMagnification(D)V*
+
+icij.gui.ImageCanvas*
+""2setMagnification(D)yw
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java› ›(
+%52java.awt.Dimension"java.awt.Dimensionü
+ú
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java› ›(F
+%53"java.awt.Dimension#<init>(II)V*
+
+%52java.awt.Dimension*
+""*
+""„‡
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java› ›(G
+%54void"1java.awt.Component#setSize(Ljava/awt/Dimension;)V*
+
+icij.gui.ImageCanvas*
+
+%52java.awt.Dimension2setSize(Ljava/awt/Dimension;)∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaﬁ ﬁ()
+%55void"java.awt.Window#setSize(II)V*
+
+winij.gui.ImageWindow*
+""*
+""2setSize(II)"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaﬂ ﬂ(
+
+""*Ï
+25F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java◊ ◊(óî
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java◊ ◊(
+%43void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()*
+24*Õ
+26F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java÷ ÷(éã
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java÷ ÷(%
+
+%41int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()d
+b
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java÷' ÷(4
+
+%42int"__id*
+""*
+24
+25*ë	
+50F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(ä
+á
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(,
+%27java.lang.String"__concat*
+Zoom.set(imp, *
+""ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(1
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+, ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(3
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+""ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(8
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+, ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(:
+%31java.lang.String"__concat*
+
+%30java.lang.String*
+""ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(?
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+);À
+»
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÕ Õ(@
+%33void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%32java.lang.String*
+45*¡
+51F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÀ À(ä
+á
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÀ À(,
+%24java.lang.String"__concat*
+Zoom.set(imp, *
+""ë
+é
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÀ À(1
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+);À
+»
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÀ À(2
+%26void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%25java.lang.String*
+45*º
+53F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java« «(∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java« «(&
+%22double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java» »('
+%23double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+50
+51*Û
+56F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¿	 ¿(∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¿	 ¿(
+%19double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¡ ¡(#
+%20double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∞≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¬ ¬(#
+%21double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+50
+51
+53*û
+57F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaø ø( "P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaø ø( 
+""*»
+36F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java“ “(p‹
+Ÿ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java” ”(0
+%40java.awt.Rectangle"Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+winij.gui.ImageWindowå
+â
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java” ”(1
+boundsjava.awt.Rectangle"__id*
+
+%40java.awt.Rectangle*
+24
+26
+17*±
+58F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaæ æ(®•
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaæ æ(
+%17void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()≠™
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaø ø(
+%18boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+57
+56*µ
+37F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java“U “(\‡›
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java“U “(o
+%39boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+optionsjava.lang.String*
+
+width=2"contains(Ljava/lang/CharSequence;)*
+36*ù
+59F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaª ª(¢ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaª ª(9
+%15void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Width:*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)£†
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaº º(;
+%16void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Height:*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)*
+58*Û
+15F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÈ È(é
+ã
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÈ È(-
+%58long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""é
+ã
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÍ Í(/
+%59long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+3*µ
+39F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java“: “(A‹Ÿ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java“: “(P
+%38boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+optionsjava.lang.String*
+x=2"contains(Ljava/lang/CharSequence;)*
+36
+37*·
+17F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java‰ ‰(∫∑
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java‰ ‰(
+%56void"'ij.gui.ImageCanvas#setMagnification(D)V*
+
+icij.gui.ImageCanvas*
+""2setMagnification(D)øº
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÁ Á(
+%57java.awt.Dimension"0java.awt.Component#getSize()Ljava/awt/Dimension;*
+
+icij.gui.ImageCanvas2	getSize()ä
+á
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÁ Á( 
+sizejava.awt.Dimension"__id*
+
+%57java.awt.Dimension*
+2
+15*d
+0 "]
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÅ Å(
+implicit return*Î
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaˇ ˇ(ûõ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaˇ ˇ(
+%68void"java.awt.Component#repaint()V*
+
+icij.gui.ImageCanvas2	repaint()x
+v
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÄ Ä(
+%69void"ij.IJ#wait(I)V*	"
+ij.IJ*2d*
+0*∑
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˘ ˘(≤Ø
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˚ ˚(,
+%63void"ij.gui.ImageCanvas#setSize(II)V*
+
+icij.gui.ImageCanvas*
+""*
+""2setSize(II)yw
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¸ ¸(!
+%64java.awt.Rectangle"java.awt.Rectangle©
+¶
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¸ ¸(<
+%65" java.awt.Rectangle#<init>(IIII)V*
+
+%64java.awt.Rectangle*2 *2 *
+""*
+""ÔÏ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¸ ¸(=
+%66void"7ij.gui.ImageCanvas#setSourceRect(Ljava/awt/Rectangle;)V*
+
+icij.gui.ImageCanvas*
+
+%64java.awt.Rectangle2#setSourceRect(Ljava/awt/Rectangle;)ñì
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˝ ˝(
+%67void"java.awt.Window#pack()V*
+
+winij.gui.ImageWindow2pack()*
+1*Ò
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˜ ˜(yw
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˜ ˜(!
+%60java.awt.Rectangle"java.awt.Rectangle±
+Æ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˜ ˜(<
+%61" java.awt.Rectangle#<init>(IIII)V*
+
+%60java.awt.Rectangle*
+""*
+""*
+""*
+""ÔÏ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java˜ ˜(=
+%62void"7ij.gui.ImageCanvas#setSourceRect(Ljava/awt/Rectangle;)V*
+
+icij.gui.ImageCanvas*
+
+%60java.awt.Rectangle2#setSourceRect(Ljava/awt/Rectangle;)*
+1*¡
+60F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∂( ∂(2|z
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∂ ∂('
+%9ij.gui.GenericDialog"ij.gui.GenericDialog∞
+≠
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∂ ∂(3
+%10"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%9ij.gui.GenericDialog*
+
+Set Zoomã
+à
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∂ ∂(4
+gdij.gui.GenericDialog"__id*
+
+%9ij.gui.GenericDialog≤Ø
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∑ ∑(4
+%11double"&ij.gui.ImageCanvas#getMagnification()D*
+
+icij.gui.ImageCanvas2getMagnification()§°
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∑ ∑(F
+%12void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Zoom:*
+""*2 *2*
+%28addNumericField(Ljava/lang/String;DIILjava/lang/String;)•¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∏ ∏(/
+%13void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+	X center:*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)•¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaπ π(/
+%14void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+	Y center:*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)*
+58
+59*õ
+61F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java≤ ≤(∑¥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java≤ ≤(#
+%8ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()à
+Ö
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java≤ ≤($
+winij.gui.ImageWindow"__id*
+
+%8ij.gui.ImageWindow*
+60
+45*Â
+62F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∞ ∞(ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java∞ ∞(
+srcRectjava.awt.Rectangle"__id*
+
+boundsjava.awt.Rectangle*
+61*¨
+63F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java´ ´(≥∞
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java´ ´(%
+%6java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()ã
+à
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java´ ´(&
+boundsjava.awt.Rectangle"__id*
+
+%6java.awt.Rectangleèå
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaÆ Æ(
+%7boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+61
+62*Ê
+42F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java— —(=â
+Ü
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java— —(=
+optionsjava.lang.String"__id*
+
+%35java.lang.String*
+36
+37
+39*…
+64F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaß ß(ƒ¡
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaß ß(%
+%4java.awt.Rectangle"3ij.gui.ImageCanvas#getSrcRect()Ljava/awt/Rectangle;*
+
+icij.gui.ImageCanvas2getSrcRect()å
+â
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.javaß ß(&
+srcRectjava.awt.Rectangle"__id*
+
+%4java.awt.Rectangle°û
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java® ®(
+%5
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()w
+u
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java® ®(
+roi
+ij.gui.Roi"__id*
+
+%5
+ij.gui.Roi*
+61
+63*“
+43F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java—8 —(<~
+|
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java—8 —(<
+%35java.lang.String"__id*
+
+%37
+<nulltype>*
+42*¯
+44F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java—% —(*õ
+ò
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java—% —(7
+%36java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.MacroÖ
+Ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java—% —(7
+%35java.lang.String"__id*
+
+%36java.lang.String*
+42*Ä
+66F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java° °(ìê
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java° °(	
+%2int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()ïí
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java¢ ¢(	
+%3int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+64*‘
+45F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java— —(|
+z
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java— —($
+%34boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+43
+44*û
+67F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java† †(
+"P
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Zoom.java† †(
+
+"":
+impij.ImagePlus:
+"":
+"":
+""B
+ij.plugin.Zoom

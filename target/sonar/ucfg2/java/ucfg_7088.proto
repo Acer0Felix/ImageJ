@@ -1,0 +1,19 @@
+
+Vij.plugin.Duplicator#cropOverlay(Lij/gui/Overlay;Ljava/awt/Rectangle;)Lij/gui/Overlay;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java­ ­(""1*·
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java®	 ®(ûø
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java®	 ®(
+%0ij.gui.Overlay"9ij.gui.Overlay#crop(Ljava/awt/Rectangle;)Lij/gui/Overlay;*
+
+overlayij.gui.Overlay*
+
+boundsjava.awt.Rectangle2crop(Ljava/awt/Rectangle;)"f
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Duplicator.java® ®(
+
+%0ij.gui.Overlay:
+overlayij.gui.Overlay:
+boundsjava.awt.RectangleB"
+ij.plugin.Duplicator

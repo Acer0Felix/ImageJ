@@ -1,0 +1,164 @@
+
+9ij.gui.Overlay#crop(Ljava/awt/Rectangle;)Lij/gui/Overlay;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaé é("19"20*Î
+13F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaò ò(õò
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaò ò(#
+%4boolean"4java.awt.Rectangle#intersects(Ljava/awt/Rectangle;)Z*
+
+boundsjava.awt.Rectangle*!
+
+	roiBoundsjava.awt.Rectangle2 intersects(Ljava/awt/Rectangle;)*
+11
+12*‡
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaø ø(´±
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaø ø(
+%13void"ij.gui.Overlay#translate(II)V*
+
+overlay2ij.gui.Overlay*
+""*
+""2translate(II)*
+1*¿
+5F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaö ö( j
+h
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaö ö( 
+
+%10int"__id*
+
+
+%12int*
+2
+1*™
+17F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaï ï(³°
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaï ï((
+%3java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()
+‹
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaï ï()
+	roiBoundsjava.awt.Rectangle"__id*
+
+%3java.awt.Rectangle*
+13*¿
+6F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaö ö(j
+h
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaö ö(
+
+%10int"__id*
+
+
+%11int*
+2
+1*®
+19F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaì ì(¨¥
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaì ì(
+%1ij.gui.Overlay"'ij.gui.Overlay#create()Lij/gui/Overlay;*
+ij.gui.Overlay2create()…
+‚
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaì ì(
+overlay2ij.gui.Overlay"__id*
+
+%1ij.gui.Overlay¥¢
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaí í(
+%2ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+ij.gui.Overlay2	toArray()
+}
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaí í(
+allRoisij.gui.Roi[]"__id*
+
+%2ij.gui.Roi[]*
+11*½
+8F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaõ õ( h
+f
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaõ õ( 	
+%7int"__id*
+	
+%9int*
+5
+6*½
+9F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaõ õ(h
+f
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaõ õ(	
+%7int"__id*
+	
+%8int*
+5
+6*ß
+20F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaë
+ ë(®«
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaë
+ ë(
+%0ij.gui.Overlay"*ij.gui.Overlay#duplicate()Lij/gui/Overlay;*
+ij.gui.Overlay2duplicate()"`
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaë ë(
+
+%0ij.gui.Overlay*Õ
+11F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaî î(k
+i
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaî î(
+roi
+ij.gui.Roi"__id*
+""
+Š
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaî î(
+roi
+ij.gui.Roi"
+__arrayGet*
+
+allRoisij.gui.Roi[]*
+""*
+
+17
+8
+9*Ä
+12F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaó ó(§¤
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaó ó(!
+%5java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()ÅÂ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaó ó("
+
+%6void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlay2ij.gui.Overlay*
+
+%5java.lang.Object2add(Lij/gui/Roi;)*
+11*³
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaù	 ù("f
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/Overlay.javaù ù(
+
+overlay2ij.gui.Overlay:
+boundsjava.awt.RectangleB
+ij.gui.Overlay

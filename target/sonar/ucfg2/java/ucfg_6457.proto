@@ -1,0 +1,48 @@
+
+Eij.plugin.frame.RoiManager#getInstance2()Lij/plugin/frame/RoiManager;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¢ ¢(&"4*ã
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¥ ¥(Þ
+Û
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¥ ¥(, 
+%2ij.plugin.frame.RoiManager"Iij.macro.Interpreter#getBatchModeRoiManager()Lij/plugin/frame/RoiManager;*"
+ij.macro.Interpreter£
+ 
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¥ ¥(, 
+rmij.plugin.frame.RoiManager"__id*"
+ 
+%2ij.plugin.frame.RoiManager*
+1*å
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¤ ¤(ƒ
+€
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¤ ¤(
+%1boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+2
+1*ç
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java£ £(ß
+Ü
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java£ £( 
+%0ij.plugin.frame.RoiManager"Dij.plugin.frame.RoiManager#getInstance()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManager£
+ 
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java£ £(  
+rmij.plugin.frame.RoiManager"__id*"
+ 
+%0ij.plugin.frame.RoiManager*
+3
+1*Ñ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¦	 ¦("x
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¦ ¦("
+ 
+rmij.plugin.frame.RoiManagerB"
+ij.plugin.frame.RoiManager

@@ -1,0 +1,31 @@
+
+;ij.plugin.ColorPanel#getPreferredSize()Ljava/awt/Dimension;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.java‰ ‰(%"1*¹
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ Š($i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ% Š(/	
+%0int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ6 Š(A	
+%1int"__id*
+""~|
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ Š(
+%2java.awt.Dimension"java.awt.Dimension£
+ 
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ Š(B
+%3"java.awt.Dimension#<init>(II)V*
+
+%2java.awt.Dimension*
+""*
+"""j
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/LUT_Editor.javaŠ Š(C
+
+%2java.awt.DimensionB
+ij.plugin.ColorPanel

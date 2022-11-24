@@ -1,0 +1,34 @@
+
+"ij.plugin.DicomDecoder#getFloat()FG
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¤ ¤("4*á
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¥ ¥(¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¥ ¥(	
+%0int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¦ ¦(	
+%1int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java§ §(	
+%2int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¡ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.java¨ ¨(	
+%3int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()*
+1*¼
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaµ	 µ(š
+—
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaµ	 µ("
+%4float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+"""Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/plugin/DICOM.javaµ µ(#
+""B
+ij.plugin.DicomDecoder

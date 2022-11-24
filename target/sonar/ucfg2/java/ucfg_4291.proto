@@ -1,0 +1,44 @@
+
+dij.plugin.FileInfoVirtualStack#getNumber(Ljava/util/Properties;Ljava/lang/String;)Ljava/lang/Double;V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java• •("6*œ
+3V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©("r
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(
+
+%1java.lang.Double*≈
+4V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(‚
+ﬂ
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+sjava.lang.String*
+3*ì
+6V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¶ ¶(òï
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¶ ¶(#
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)í
+è
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¶ ¶($
+sjava.lang.String"__id*
+
+%0java.lang.String*
+4
+1*Ω
+1V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¨	 ¨("`
+V
+J/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¨ ¨(
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB" 
+ij.plugin.FileInfoVirtualStack

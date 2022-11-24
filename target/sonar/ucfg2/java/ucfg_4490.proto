@@ -1,0 +1,39 @@
+
+ij.gui.ShapeRoi#contains(II)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaÞ Þ("3*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaß ß("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaß ß( 
+""*ß
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaß ß(ˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaß ß(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+2
+1*Ü
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaà	 à(ˆ
+…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaà	 à(
+%1java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape¯¬
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaà	 à(9
+%2boolean"java.awt.Shape#contains(DD)Z*
+
+%1java.awt.Shape*
+""*
+""2contains(DD)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaà à(:
+"":
+"":
+""B
+ij.gui.ShapeRoi

@@ -1,0 +1,594 @@
+
+4ij.io.FileSaver#saveAsTiffStack(Ljava/lang/String;)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∞ ∞("37*±
+26G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java√ √(»≈
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java√ √(&
+%23java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+vsij.ImageStack*
+""2getSliceLabel(I)à
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java√ √('
+labeljava.lang.String"__id*
+
+%23java.lang.String*
+19
+21
+22*Ó
+27G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¬ ¬(îë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¬ ¬( 
+
+%22int"ij.ImageStack#getSize()I*
+
+vsij.ImageStack2	getSize()*
+26
+19*Ñ
+28G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¿ ¿(w
+u
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¿ ¿(
+labelsjava.lang.String[]"__id*
+""Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¡ ¡(
+%20ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≠™
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¡ ¡(!
+%21ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%20ij.ImagePlus2
+getStack()~
+|
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java¡ ¡("
+vsij.ImageStack"__id*
+
+%21ij.ImageStack*
+27*
+29G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaΩ Ω(	Õ
+ 
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaΩ Ω(:
+%19void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*1/
+-TIFF virtual stacks cannot be saved in place."Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaæ æ(
+""*ä
+30G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaº" º(&ì
+ê
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaº. º(;
+%15java.lang.String"__id*&*$
+
+ofiij.io.FileInfo"
+	directoryí
+è
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaº< º(H
+%16java.lang.String"__id*%*#
+
+ofiij.io.FileInfo"
+
+fileName•
+¢
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaº. º(H
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.String›⁄
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaº" º(I
+%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+pathjava.lang.String*
+
+%17java.lang.String2equals(Ljava/lang/Object;)*
+28
+29*´
+32G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(
+%13ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≈¬
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(+
+%14ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+%13ij.ImagePlus2getOriginalFileInfo()Å
+
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaª ª(,
+ofiij.io.FileInfo"__id*
+
+%14ij.io.FileInfo*
+28
+30*‡
+10G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘ ‘(Yñ
+ì
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘ ‘(Y
+outjava.io.DataOutputStream"__id*!
+
+%54java.io.DataOutputStreamÚÔ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java’ ’(
+%56void"4ij.io.TiffEncoder#write(Ljava/io/DataOutputStream;)V*
+
+fileij.io.TiffEncoder*!
+
+outjava.io.DataOutputStream2!write(Ljava/io/DataOutputStream;)*
+9*©	
+33G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∏ ∏(Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∏ ∏(
+%8ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÑ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∏ ∏(
+%9ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp¿Ω
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∏ ∏(!
+%10java.lang.String"0ij.ImagePlus#getInfoProperty()Ljava/lang/String;*
+
+%9ij.ImagePlus2getInfoProperty()ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∏ ∏(!
+
+%8ij.io.FileInfo"
+info"__id*
+
+%10java.lang.StringÜ
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaπ π(
+%11ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÃ…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaπ π()
+%12java.lang.String"8ij.io.FileSaver#getDescriptionString()Ljava/lang/String;*
+ij.io.FileSaver2getDescriptionString()ï
+í
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaπ π()&
+
+%11ij.io.FileInfo"
+description"__id*
+
+%12java.lang.String*
+18
+32*∑
+11G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘	 ‘(YáÑ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘ ‘(
+%54java.io.DataOutputStream"java.io.DataOutputStream◊
+‘
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘	 ‘(Y
+%55"8java.io.DataOutputStream#<init>(Ljava/io/OutputStream;)V*!
+
+%54java.io.DataOutputStream*%
+#
+%52java.io.BufferedOutputStream*
+10*§
+34G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∑ ∑(Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∑ ∑(
+%5ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÑ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∑# ∑(&
+%6ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp´®
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∑# ∑(1
+%7ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%6ij.ImagePlus2
+getStack()ë
+é
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java∑ ∑(1&
+
+%5ij.io.FileInfo"
+virtualStack"__id*
+
+%7ij.ImageStack*
+33*Ã
+12G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘R ‘(Wèå
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘" ‘(6#
+%52java.io.BufferedOutputStream"java.io.BufferedOutputStream‰
+·
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘ ‘(X
+%53"=java.io.BufferedOutputStream#<init>(Ljava/io/OutputStream;I)V*%
+#
+%52java.io.BufferedOutputStream*!
+
+%50java.io.FileOutputStream*
+""*
+11*™
+35G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ µ(Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ µ(
+%2ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp´®
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ µ('
+%3ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%2ij.ImagePlus2
+getStack()õò
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ µ(3
+%4boolean"ij.ImageStack#isVirtual()Z*
+
+%3ij.ImageStack2isVirtual()*
+33
+34*¥
+13G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java” ”(*â
+Ü
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java” ”(*
+fileij.io.TiffEncoder"__id*
+
+%48ij.io.TiffEncoderáÑ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘; ‘(K
+%50java.io.FileOutputStream"java.io.FileOutputStream»
+≈
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‘7 ‘(Q
+%51"4java.io.FileOutputStream#<init>(Ljava/lang/String;)V*!
+
+%50java.io.FileOutputStream*
+
+pathjava.lang.String*
+12*’
+36G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java≤ ≤(≤
+Ø
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java≤ ≤(
+
+%1void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*
+This is not a stack"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java≥ ≥(
+""*é
+14G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java”& ”((Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java”& ”((
+%47ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fixv
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java” ”(%
+%48ij.io.TiffEncoder"ij.io.TiffEncoderµ
+≤
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java” ”()
+%49"+ij.io.TiffEncoder#<init>(Lij/io/FileInfo;)V*
+
+%48ij.io.TiffEncoder*
+
+%47ij.io.FileInfo*
+13*ﬂ
+37G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java± ±(Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java± ±(
+%0ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi*
+35
+36*œ
+15G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java— —(z
+x
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java— —(
+outjava.io.DataOutputStream"__id*
+""*
+14*ä
+16G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java– –(1Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java–2 –(5
+%44ij.ImagePlus"__id**
+ij.io.FileSaver"
+impÜ
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java–7 –(9
+%45ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi£†
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java– –(:
+%46void"Iij.io.FileSaver#saveDisplayRangesAndLuts(Lij/ImagePlus;Lij/io/FileInfo;)V*
+ij.io.FileSaver*
+
+%44ij.ImagePlus*
+
+%45ij.io.FileInfo28saveDisplayRangesAndLuts(Lij/ImagePlus;Lij/io/FileInfo;)*
+15*Ã
+17G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(
+%32ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ& Õ()
+%33ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp£†
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ& Õ(2
+%34
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%33ij.ImagePlus2getRoi()∏
+µ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(3
+%35byte[]"0ij.io.RoiEncoder#saveAsByteArray(Lij/gui/Roi;)[B*"
+ij.io.RoiEncoder*
+
+%34
+ij.gui.RoiÉ
+Ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÕ Õ(3
+
+%32ij.io.FileInfo"
+roi"__id*
+
+%35byte[]Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%36ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%37ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp∏
+µ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%38byte[][]"-ij.io.FileSaver#getOverlay(Lij/ImagePlus;)[[B*"
+ij.io.FileSaver*
+
+%37ij.ImagePlusâ
+Ü
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaŒ Œ("
+
+%36ij.io.FileInfo"	
+overlay"__id*
+
+%38byte[][]Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(
+%39ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(
+%40ij.ImagePlus"__id**
+ij.io.FileSaver"
+impŒÀ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(,
+%41java.lang.String[]"6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;*
+
+%40ij.ImagePlus2getPropertiesAsArray()ñ
+ì
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaœ œ(,%
+
+%39ij.io.FileInfo"
+
+properties"__id*
+
+%41java.lang.String[]Ö
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java– –(	
+%42ij.ImagePlus"__id**
+ij.io.FileSaver"
+impüú
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java– –(
+%43boolean"ij.ImagePlus#isComposite()Z*
+
+%42ij.ImagePlus2isComposite()*
+15
+16*ı
+18G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%28ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiÖ
+Ç
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%29ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≠™
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã("
+%30ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%29ij.ImagePlus2
+getStack()ƒ¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(3
+%31java.lang.String[]"1ij.ImageStack#getSliceLabels()[Ljava/lang/String;*
+
+%30ij.ImageStack2getSliceLabels()ó
+î
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaÃ Ã(3&
+
+%28ij.io.FileInfo"
+sliceLabels"__id*
+
+%31java.lang.String[]*
+17*˘
+19G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java   (Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java   (
+%27ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiö
+ó
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java   (&
+
+%27ij.io.FileInfo"
+sliceLabels"__id*
+
+labelsjava.lang.String[]*
+17*e
+0 "^
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‡ ‡(
+implicit return*÷
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(Ü
+É
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+%60ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fie
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+
+%61int"__id*
+""ƒ
+¡
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+%62void"-ij.io.FileSaver#updateImp(Lij/io/FileInfo;I)V*
+ij.io.FileSaver*
+
+%60ij.io.FileInfo*
+
+
+%61int"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaﬂ ﬂ(
+""*Å
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‹	 ‹(™ß
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java‹	 ‹(
+%59void"#java.io.FilterOutputStream#close()V*!
+
+outjava.io.DataOutputStream2close()*
+0
+1*Ñ
+9G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java÷ ÷(™ß
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java÷ ÷(
+%57void"#java.io.FilterOutputStream#close()V*!
+
+outjava.io.DataOutputStream2close()*	
+4
+0
+1*˙
+21G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java» »(
+§
+°
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java» »(
+%26"
+__arraySet*
+
+labelsjava.lang.String[]*
+""*
+
+labeljava.lang.String*
+27*ˆ
+22G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java« «(îë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java« «(%
+
+%24int"ij.ImageStack#getSize()I*
+
+vsij.ImageStack2	getSize()zx
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java« «(&
+%25java.lang.String[]"java.lang.String[]ç
+ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java« «(&
+labelsjava.lang.String[]"__id*
+
+%25java.lang.String[]*
+21:
+pathjava.lang.StringB
+ij.io.FileSaver

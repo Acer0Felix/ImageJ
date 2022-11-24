@@ -1,0 +1,69 @@
+
+@ij.process.FloatProcessor#createMask()Lij/process/ByteProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaû û( "9*¼
+
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaş ş(-ÄÁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaş ş(/
+%2double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.FloatProcessor2getMinThreshold()ÄÁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÿ ÿ(/
+%3double",ij.process.ImageProcessor#getMaxThreshold()D*
+ij.process.FloatProcessor2getMaxThreshold()
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java€	 €	((
+%4ij.process.ByteProcessor"ij.process.ByteProcessor´
+±
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java€	 €	(7
+%5"$ij.process.ByteProcessor#<init>(II)V* 
+
+%4ij.process.ByteProcessor*
+""*
+"" 
+
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java€	 €	(8 
+maskij.process.ByteProcessor"__id* 
+
+%4ij.process.ByteProcessor×Ô
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java	 	(+
+%6java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;*"
+ 
+maskij.process.ByteProcessor2getPixels()‰
+†
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java	 	(,
+mpixelsbyte[]"__id*
+
+%6java.lang.Object*
+1*³
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaı
+ ı("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaı ı(
+""*˜
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaü ü(ÄÁ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaü ü(
+%0double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.FloatProcessor2getMinThreshold()q
+o
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaü ü(%
+%1double"__id*
+""*
+7
+8*Ï
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java†		 †	("w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java†	 †	("
+ 
+maskij.process.ByteProcessorB
+ij.process.FloatProcessor

@@ -1,0 +1,96 @@
+
+!ij.Menus#getFont()Ljava/awt/Font;@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaï ï("10*Å
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ("]
+[
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ$ õ(.	
+%6int"__id*
+""hf
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(
+%7java.awt.Font"java.awt.Font²
+¯
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(5
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+SanSerif*
+	
+%6int*
+""{
+y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(5
+
+ij.Menus"
+
+menuFont"__id*
+
+%7java.awt.Font*
+1*È
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ(&‡
+„
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaò ò(%
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""r
+p
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaó ó(
+%5boolean"ij.IJ#isWindows()Z*	"
+ij.IJ*
+2*®
+7@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ(%b
+`
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ(%	
+%1int"__id*
+	
+%3int*
+6*®
+8@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ(b
+`
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javañ ñ(	
+%1int"__id*
+	
+%2int*
+6*Î
+10@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javağ ğ({
+y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javağ ğ(
+%0java.awt.Font"__id**
+
+ij.Menus"
+
+menuFont*	
+7
+8
+1*
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaø	 ø({
+y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaø	 ø(
+%9java.awt.Font"__id**
+
+ij.Menus"
+
+menuFont"Y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaø ø(
+
+%9java.awt.FontB"
+
+ij.Menus

@@ -1,0 +1,19 @@
+
+Jij.process.ShortProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ShortProcessor.java¨ ¨(&"1*É
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ShortProcessor.java©	 ©(õò
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ShortProcessor.java©	 ©(
+%0ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*
+ij.process.ShortProcessor*22convertToByte(Z)ýú
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ShortProcessor.java©	 ©(/"
+%1java.awt.image.BufferedImage"Jij.process.ImageProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;*!
+
+%0ij.process.ImageProcessor2getBufferedImage()"y
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ShortProcessor.java© ©(0$
+"
+%1java.awt.image.BufferedImageB
+ij.process.ShortProcessor

@@ -1,0 +1,41 @@
+
+.ij.macro.Interpreter#getBatchModeImageCount()IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java» »()"2"3*©
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java½
+ ½("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java½ ½(
+""*õ
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¼ ¼(™
+–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¼ ¼(
+%0java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable*
+2
+1*à
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿
+ ¿(™
+–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿
+ ¿(
+%1java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable˜•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿
+ ¿(	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿ ¿(
+""B"
+ij.macro.Interpreter

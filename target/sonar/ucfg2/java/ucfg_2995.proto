@@ -1,0 +1,711 @@
+
+>ij.gui.HistogramPlot#drawText(Lij/process/ImageProcessor;IIZ)VL
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaû û("31*Ê
+24L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆ- Æ(Cã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆ- Æ(C
+%18java.lang.String"__id*
+
+%19java.lang.String*
+22*◊
+26L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¶ ¶(ª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¶ ¶(
+%11java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""ãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¶ ¶($
+%12void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%11java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaß ß(
+%13java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaß ß()
+
+%14int"__id*
+""àÖ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaß, ß(>
+
+%15int"<ij.gui.HistogramPlot#getWidth(DLij/process/ImageProcessor;)I*
+ij.gui.HistogramPlot*
+""*!
+
+ipij.process.ImageProcessor2&getWidth(DLij/process/ImageProcessor;)ãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaß ß(G
+%16void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%13java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java® ®(
+
+%17int"__id*
+""*
+13
+11*´
+30L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java§ §(ò
+ï
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java§ §(
+%9ij.measure.Calibration"__id*!*
+ij.gui.HistogramPlot"
+calµ≤
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java§ §(#
+%10boolean"$ij.measure.Calibration#calibrated()Z*
+
+%9ij.measure.Calibration2calibrated()*
+26*û
+31L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaü ü(ê
+ç
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaü ü(
+%0java.awt.Font"__id*"* 
+ij.gui.HistogramPlot"
+fontÊ„
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaü ü(
+
+%1void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*!
+
+ipij.process.ImageProcessor*
+
+%0java.awt.Font2setFont(Ljava/awt/Font;)œÃ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java† †(
+
+%2void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*!
+
+ipij.process.ImageProcessor*22setAntialiasedText(Z)ò
+ï
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java° °(
+%3ij.measure.Calibration"__id*!*
+ij.gui.HistogramPlot"
+calû
+õ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java° °(# 
+%4ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java° °(,
+%5double"$ij.measure.Calibration#getCValue(D)D*
+
+%3ij.measure.Calibration*
+""2getCValue(D)ò
+ï
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¢ ¢(
+%6ij.measure.Calibration"__id*!*
+ij.gui.HistogramPlot"
+calû
+õ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¢ ¢(# 
+%7ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¢ ¢(,
+%8double"$ij.measure.Calibration#getCValue(D)D*
+
+%6ij.measure.Calibration*
+""2getCValue(D)*
+26
+30*ê
+11L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∑ ∑(ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∑ ∑(!
+%42ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsî
+ë
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∏ ∏(
+%43double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+9*õ
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaµ µ(j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaµ µ(2
+
+%40int"__id*
+""‘—
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaµ µ(3
+%41void".ij.process.ImageProcessor#setJustification(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%40int2setJustification(I)*
+11*˚
+
+13L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java© ©(j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java© ©(
+
+%30int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java´ ´(4
+
+%31int"__id*
+""‘—
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java´ ´(5
+%32void".ij.process.ImageProcessor#setJustification(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%31int2setJustification(I)…∆
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¨ ¨(>
+%33boolean".ij.process.ColorProcessor#weightedHistogram()Z*!
+
+ipij.process.ImageProcessor2weightedHistogram()j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆ	 Æ(
+
+%34int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØ	 Ø(
+
+%35int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∞	 ∞(
+
+%36int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java±	 ±(
+
+%37int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≤	 ≤(
+
+%38int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≥	 ≥(
+
+%39int"__id*
+""*$
+24
+14
+15
+16
+17
+19
+20
+12
+23*’
+14L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≥ ≥(3˙˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≥ ≥(*
+%29void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+Blue*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*÷
+15L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≤ ≤(4˚¯
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java≤ ≤(,
+%28void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*	
+Green*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*‘
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java± ±(0˘ˆ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java± ±((
+%27void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+Red*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*÷
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∞ ∞(2˚¯
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∞ ∞(*
+%26void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*	
+R+G+B*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*Ê
+18L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØ_ Ø(`ãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØ Ø(d
+%25void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%22java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*Ê
+19L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØF Ø(\ã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØF Ø(\
+%22java.lang.String"__id*
+
+%24java.lang.String*
+18*j
+0 "c
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java– –(
+implicit return*—
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÕ Õ(ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÕ  Õ(%!
+%86ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÕ Õ(,
+%87java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÕ Õ(,
+%88java.lang.String"__concat*
+
+Bins: *
+
+%87java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÕ Õ(9
+%89void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%88java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaŒ! Œ(.
+%90java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""†
+ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaŒ Œ(.
+%91java.lang.String"__concat*
+Bin Width: *
+
+%90java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaŒ Œ(;
+%92void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%91java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+0*ﬁ#
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∆ ∆(Ö
+Ç
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∆ ∆(
+%63java.lang.String"__concat*
+N: *
+""ãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∆ ∆(*
+%64void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%63java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java« «(#!
+%65ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java« «((
+%66java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""ö
+ó
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java« «((
+%67java.lang.String"__concat*	
+Min: *
+
+%66java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java« «(5
+%68void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%67java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java» »($!
+%69ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java» »(*
+%70java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java» »(*
+%71java.lang.String"__concat*
+
+Mean: *
+
+%70java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java» »(7
+%72void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%71java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java… …(#!
+%73ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java… …((
+%74java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""ö
+ó
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java… …((
+%75java.lang.String"__concat*	
+Max: *
+
+%74java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java… …(5
+%76void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%75java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java !  (&!
+%77ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java   (.
+%78java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""ù
+ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java   (.
+%79java.lang.String"__concat*
+
+StdDev: *
+
+%78java.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java   (;
+%80void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%79java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÀ À($!
+%81ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsª
+∏
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÀ À(+
+%82java.lang.String"-ij.gui.HistogramPlot#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramPlot*
+""õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÀ À(+
+%83java.lang.String"__concat*
+
+Mode: *
+
+%82java.lang.String∞
+≠
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÀ À(7
+%84java.lang.String"__concat*
+
+%83java.lang.String*
+
+	modeCountjava.lang.Stringãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÀ À(D
+%85void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%84java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+0
+1*—
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaƒ) ƒ(+y
+w
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaƒ ƒ(+
+	modeCountjava.lang.String"__id* *
+2*÷
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬ ¬(Lü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java√ √(!!
+%59ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsÑ
+Å
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java√ √(*
+%60java.lang.String"__concat*
+ (*
+""ñ
+ì
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java√ √(0
+%61java.lang.String"__concat*
+
+%60java.lang.String*
+)ë
+é
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java√ √(1
+	modeCountjava.lang.String"__id*
+
+%61java.lang.String§°
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaƒ ƒ(
+
+%62int"java.lang.String#length()I*
+
+	modeCountjava.lang.String2length()*
+2
+3*Î
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬; ¬(@ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬; ¬(@!
+%58ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsq
+o
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬; ¬(K
+%54long"__id*
+
+
+%56int*
+4*Ï
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬& ¬(+ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬& ¬(+!
+%57ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsr
+p
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬& ¬(:
+%54long"__id*
+
+%55long*
+4*∑
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaæ	 æ(m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaæ æ(
+%49double"__id*
+""m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaø ø(
+%50double"__id*
+""m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¿ ¿(
+%51double"__id*
+""m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¡ ¡(
+%52double"__id*
+""ü
+ú
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java¬ ¬(!
+%53ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+stats*
+5
+6*≈
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaΩ Ω(m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaΩ  Ω(%
+%48double"__id*
+""*
+7*å
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaπ π()j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.java∫	 ∫(
+
+%44int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaª	 ª(
+
+%45int"__id*
+""j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaª ª(
+
+%46int"__id*
+""m
+k
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaº º(
+%47double"__id*
+""*
+7
+8*Ê
+20L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØ- Ø(Eã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaØ- Ø(E
+%22java.lang.String"__id*
+
+%23java.lang.String*
+18*Ê
+22L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆ_ Æ(`ãà
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆ Æ(d
+%21void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%18java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+12*Ê
+23L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆD Æ(\ã
+à
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/HistogramPlot.javaÆD Æ(\
+%18java.lang.String"__id*
+
+%20java.lang.String*
+22:
+ipij.process.ImageProcessor:
+"":
+"":
+""B
+ij.gui.HistogramPlot

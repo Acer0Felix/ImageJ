@@ -1,0 +1,16 @@
+
+@ij.process.ImageProcessor#getStats()Lij/process/ImageStatistics;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaù ù( "1*ì
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaú	 ú(š
+—
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaú	 ú(, 
+%0ij.process.ImageStatistics"aij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*
+ij.process.ImageProcessor"w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaú ú(-"
+ 
+%0ij.process.ImageStatisticsB
+ij.process.ImageProcessor

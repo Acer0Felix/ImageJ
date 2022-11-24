@@ -1,0 +1,84 @@
+
+8ij.io.ImageReader#read8bitImage(Ljava/io/InputStream;)[BG
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java- -("11*û
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java; ;(¤
+¡
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java< <('
+
+%5void"#ij.io.ImageReader#showProgress(JJ)V*
+ij.io.ImageReader*
+""*
+""*
+4
+1*î
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java: :($š—
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java: :(&
+
+%4void"ij.io.ImageReader#eofError()V*
+ij.io.ImageReader2
+eofError()*
+1*œ
+4G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java9 9(ÅÂ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java9 9(5	
+%3int"java.io.InputStream#read([BII)I*
+
+injava.io.InputStream*
+
+pixelsbyte[]*
+""*
+""2
+read([BII)*
+2
+3*Á
+9G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java0 0("k
+i
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java0 0($
+pixelsbyte[]"__id*
+""*
+4
+1*­
+10G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java/
+ /(!‚ÿ
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java/
+ /(%
+%2byte[]"Bij.io.ImageReader#readCompressed8bitImage(Ljava/io/InputStream;)[B*
+ij.io.ImageReader*
+
+injava.io.InputStream2.readCompressed8bitImage(Ljava/io/InputStream;)"Y
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java/ /(&
+
+%2byte[]*Æ
+11G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java. .(‡
+„
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java. .(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fid
+b
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java. .(.	
+%1int"__id*
+""*
+9
+10*«
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java>	 >("]
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/io/ImageReader.java> >(
+
+pixelsbyte[]:
+injava.io.InputStreamB
+ij.io.ImageReader

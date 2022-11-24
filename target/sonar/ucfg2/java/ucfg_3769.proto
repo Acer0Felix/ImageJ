@@ -1,0 +1,33 @@
+
+ij.ImagePlus#isRGB()ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÅ Å("3*ê
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip≤Ø
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(&	
+%2int")ij.process.ImageProcessor#getNChannels()I*!
+
+%1ij.process.ImageProcessor2getNChannels()*
+1*ﬁ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ	 Ç(ä
+á
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ	 Ç(
+%0ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+2
+1*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(*"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÇ Ç(*
+""B
+ij.ImagePlus

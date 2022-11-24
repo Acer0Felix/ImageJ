@@ -1,0 +1,188 @@
+
+eij.plugin.tool.OverlayBrushTool$Options#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZW
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÊ Ê(""15"8*¿
+13W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÈ È("a
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÈ È(
+""*≤
+14W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(!∏
+µ
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(3
+%2ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerç
+ä
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(4
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+13
+12*ü
+15W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á( «
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á(
+%0java.lang.String".java.awt.AWTEvent#toString()Ljava/lang/String;*
+
+ejava.awt.AWTEvent2
+toString()ÈÊ
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á(/
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%0java.lang.String*
+Undo2"contains(Ljava/lang/CharSequence;)*
+14
+8*Í
+5W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÙ Ù(¡æ
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÙ Ù()
+%12double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¬ø
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaı ı(
+%13boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+1*‘
+6W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(Ø
+¨
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(&
+%10java.lang.String"__id*2*0!
+ij.plugin.tool.OverlayBrushTool"
+	WIDTH_KEYæ
+ª
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(*
+%11double""ij.Prefs#get(Ljava/lang/String;D)D*"
+
+ij.Prefs*
+
+%10java.lang.String*2*
+5*Î
+8W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÒ Ò(¿Ω
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÒ Ò($
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¡æ
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÚ Ú(
+%9boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+5
+6*ø
+9W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÔ Ô("a
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÔ Ô(
+""*ﬂ
+10W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï(§°
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï("	
+%5int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()≥∞
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï(%
+
+%6void"ij.gui.Overlay#remove(I)V*
+
+overlayij.gui.Overlay*
+""2	remove(I)ùö
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÌ Ì(
+
+%7void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+9*ç
+11W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÎ Î( §°
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÎ Î('	
+%4int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()*
+9
+10*√
+12W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í(¬ø
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í(&
+%3ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()ï
+í
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í('
+overlayij.gui.Overlay"__id*
+
+%3ij.gui.Overlay*
+9
+11*ö
+1W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜(‹Ÿ
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜((
+%14java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ú
+ô
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜()
+	colorNamejava.lang.String"__id*
+
+%14java.lang.Stringˇ
+¸
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java¯ ¯(/
+%15java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+	colorNamejava.lang.String*
+""î
+ë
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java¯ ¯(0
+colorjava.awt.Color"__id*
+
+%15java.awt.ColorŒ
+À
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˘ ˘($
+%16void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.ColorØ
+¨
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˙ ˙(
+%17java.lang.String"__id*2*0!
+ij.plugin.tool.OverlayBrushTool"
+	WIDTH_KEYæ
+ª
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˙ ˙(
+%18void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%17java.lang.String*
+"""a
+W
+K/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˚ ˚(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB+)
+'ij.plugin.tool.OverlayBrushTool$Options

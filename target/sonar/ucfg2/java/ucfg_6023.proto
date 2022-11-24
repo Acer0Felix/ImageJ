@@ -1,0 +1,19 @@
+
+ij.util.ThreadUtil#getNbCpus()IH
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/ThreadUtil.java' '("1*‹
+1H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/ThreadUtil.java(	 ((°
+­
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/ThreadUtil.java(	 ((
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime´±
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/ThreadUtil.java(	 ((3	
+%1int"(java.lang.Runtime#availableProcessors()I*
+
+%0java.lang.Runtime2availableProcessors()"R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/ThreadUtil.java( ((4
+""B"
+ij.util.ThreadUtil

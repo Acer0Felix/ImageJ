@@ -1,0 +1,74 @@
+
+:ij.ImagePlus#getProp(Ljava/lang/String;)Ljava/lang/String;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÜ Ü("5*”
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å(˚¯
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å("
+%4java.lang.String"Dij.ImagePlus#getStringProperty(Ljava/lang/String;)Ljava/lang/String;*
+ij.ImagePlus*
+
+keyjava.lang.String2%getStringProperty(Ljava/lang/String;)Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaå å("
+valuejava.lang.String"__id*
+
+%4java.lang.String*
+1*Û
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(!í
+è
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(!
+%2java.util.Properties"__id*%*#
+ij.ImagePlus"
+imagePropertiesÉÄ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(2
+%3java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%2java.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaä ä(3
+valuejava.lang.String"__id*
+
+%3java.lang.String*
+2
+1*©
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaà
+ à(˚¯
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaà
+ à( 
+%1java.lang.String"Dij.ImagePlus#getStringProperty(Ljava/lang/String;)Ljava/lang/String;*
+ij.ImagePlus*
+
+keyjava.lang.String2%getStringProperty(Ljava/lang/String;)"`
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaà à(!
+
+%1java.lang.String*Ê
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá á(í
+è
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaá á(
+%0java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties*
+3
+4*Æ
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaç
+ ç("c
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaç ç(
+
+valuejava.lang.String:
+keyjava.lang.StringB
+ij.ImagePlus

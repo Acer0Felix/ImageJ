@@ -1,0 +1,67 @@
+
+3ij.gui.PointRoi#crop(Lij/gui/Roi;)Lij/gui/PointRoi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaö ö("6*Ö
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaü ü(
+Æ´
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaü ü(
+
+%4void"ij.gui.PointRoi#deletePoint(I)V*
+
+pointsij.gui.PointRoi*
+""2deletePoint(I)*
+4
+1*Ç
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaû û(®•
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaû û(/
+%3boolean"ij.gui.Roi#contains(II)Z*
+
+roi
+ij.gui.Roi*
+""*
+""2contains(II)*	
+3
+4
+1*Ú
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(#≠™
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(%
+%0java.lang.Object")ij.gui.PointRoi#clone()Ljava/lang/Object;*
+ij.gui.PointRoi2clone()á
+Ñ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaõ õ(&
+pointsij.gui.PointRoi"__id*
+
+%0java.lang.Object¡æ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaú ú(!
+%1java.awt.Polygon"0ij.gui.PolygonRoi#getPolygon()Ljava/awt/Polygon;*
+
+pointsij.gui.PointRoi2getPolygon()É
+Ä
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaú ú("
+pjava.awt.Polygon"__id*
+
+%1java.awt.Polygonóî
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaù ù(	
+%2int"ij.gui.PolygonRoi#size()I*
+
+pointsij.gui.PointRoi2size()*
+4
+1*¥
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¢	 ¢("f
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.java¢ ¢(
+
+pointsij.gui.PointRoi:
+roi
+ij.gui.RoiB
+ij.gui.PointRoi

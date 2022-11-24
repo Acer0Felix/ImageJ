@@ -1,0 +1,23 @@
+
+ij.plugin.Memory#maxMemory()JH
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Memory.java   ("1*ø
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(°
+­
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime¡ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(*
+
+%1long"java.lang.Runtime#maxMemory()J*
+
+%0java.lang.Runtime2maxMemory()"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Memory.java¡ ¡(+
+""B
+ij.plugin.Memory

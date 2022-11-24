@@ -1,0 +1,20 @@
+
+'ij.plugin.TreePanel#getAutoSaveProps()ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ	 Ô("1*¢
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(5®
+«
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(5#
+%0javax.swing.JCheckBoxMenuItem"__id*.*,
+ij.plugin.TreePanel"
+pMenu_saveOnCloseÁ¾
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(B
+%1boolean"(javax.swing.AbstractButton#isSelected()Z*%
+#
+%0javax.swing.JCheckBoxMenuItem2isSelected()"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaÔ Ô(C
+""B
+ij.plugin.TreePanel

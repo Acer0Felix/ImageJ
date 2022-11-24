@@ -1,0 +1,20 @@
+
+)ij.gui.Roi#iterator()Ljava/util/Iterator;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÐ Ð( "1*ý
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÓ	 Ó($‘Ž
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÓ Ó("&
+%0 ij.gui.Roi$RoiPointsIteratorMask" ij.gui.Roi$RoiPointsIteratorMask¯
+¬
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÓ	 Ó($
+%1"6ij.gui.Roi$RoiPointsIteratorMask#<init>(Lij/gui/Roi;)V*(
+&
+%0 ij.gui.Roi$RoiPointsIteratorMask"n
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÓ Ó(%(
+&
+%0 ij.gui.Roi$RoiPointsIteratorMaskB
+
+ij.gui.Roi

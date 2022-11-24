@@ -1,0 +1,33 @@
+
+(ij.plugin.filter.ImageMath#previewing()ZR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaç	 ç("3*√
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé é(°
+û
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé é(
+%1ij.gui.GenericDialog"__id*&*$
+ij.plugin.filter.ImageMath"
+gd¿Ω
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé é()
+%2boolean"'ij.gui.GenericDialog#isPreviewActive()Z*
+
+%1ij.gui.GenericDialog2isPreviewActive()*
+1*É
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé	 é(°
+û
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé	 é(
+%0ij.gui.GenericDialog"__id*&*$
+ij.plugin.filter.ImageMath"
+gd*
+2
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé é(*"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaé é(*
+""B
+ij.plugin.filter.ImageMath

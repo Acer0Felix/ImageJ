@@ -1,0 +1,652 @@
+
+4ij.plugin.HyperStackReducer#run(Ljava/lang/String;)VQ
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java ("28*¥
+24Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java* *(
+"[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java* *(
+
+""*ƒ
+25Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java! !(ö
+ó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java! !(
+%6ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impùö
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java! !(	
+%7int"ij.ImagePlus#getWidth()I*
+
+%6ij.ImagePlus2
+getWidth()ö
+ó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java" "(
+%8ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impüú
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java" "(	
+%9int"ij.ImagePlus#getHeight()I*
+
+%8ij.ImagePlus2getHeight()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java# #(
+%10ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impØ¨
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java# #(1
+
+%11int" ij.ImagePlus#getBytesPerPixel()I*
+
+%10ij.ImagePlus2getBytesPerPixel()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java$ $(
+%12ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impß§
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java$ $(,
+
+%13int"ij.ImagePlus#getNChannels()I*
+
+%12ij.ImagePlus2getNChannels()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java% %(
+%14ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp£†
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java% %(&
+
+%15int"ij.ImagePlus#getNSlices()I*
+
+%14ij.ImagePlus2getNSlices()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java& &(
+%16ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp£†
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java& &(&
+
+%17int"ij.ImagePlus#getNFrames()I*
+
+%16ij.ImagePlus2getNFrames()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java' '(
+%18ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impüú
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java' '(
+
+%19int"ij.ImagePlus#getSlice()I*
+
+%18ij.ImagePlus2
+getSlice()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java( ((
+%20ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impüú
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java( ((
+
+%21int"ij.ImagePlus#getFrame()I*
+
+%20ij.ImagePlus2
+getFrame()¿Ω
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java) )(
+%22boolean")ij.plugin.HyperStackReducer#showDialog()Z*
+ij.plugin.HyperStackReducer2showDialog()*
+24
+21
+22*˛
+26Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java («
+ƒ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (-
+
+%5void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*	
+Reducer*
+HyperStack required"[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (
+
+""*¶
+27Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java ( ö
+ó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java ( 
+%3ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp•¢
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (/	
+%4int"ij.ImagePlus#getNChannels()I*
+
+%3ij.ImagePlus2getNChannels()*
+25
+26*ﬂ
+28Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (
+ï
+í
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJö
+ó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (&
+ij.plugin.HyperStackReducer"
+imp"__id*
+
+%0ij.ImagePlusö
+ó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (
+
+%1ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp©¶
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java (
+%2boolean"ij.ImagePlus#isHyperStack()Z*
+
+%1ij.ImagePlus2isHyperStack()*
+25
+27*ì
+10Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java?- ?(0õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java?- ?(0
+%66ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp¢ü
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java? ?(;
+
+%67int"ij.CompositeImage#getMode()I*
+
+%66ij.ImagePlus2	getMode()o
+m
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java?= ?(I
+
+%68int"__id*
+""*
+8
+9*∞
+
+11Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java> >(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java> >(
+%59ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp∂≥
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java> >(0
+%60double""ij.ImagePlus#getDisplayRangeMin()D*
+
+%59ij.ImagePlus2getDisplayRangeMin()õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java>2 >(5
+%61ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp∂≥
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java>2 >(J
+%62double""ij.ImagePlus#getDisplayRangeMax()D*
+
+%61ij.ImagePlus2getDisplayRangeMax()’“
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java> >(K
+%63void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+imp2ij.ImagePlus*
+
+%60double*
+
+%62double2setDisplayRange(DD)õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java? ?(
+
+%64ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp©¶
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java? ?(
+%65boolean"ij.ImagePlus#isComposite()Z*
+
+%64ij.ImagePlus2isComposite()*
+8
+10*¯	
+12Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java: :("õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java: :("
+%53ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp¢ü
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java: :(-
+
+%54int"ij.CompositeImage#getMode()I*
+
+%53ij.ImagePlus2	getMode()ÉÄ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java; ;(
+%55ij.CompositeImage"ij.CompositeImage≈
+¬
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java;
+ ;((
+%56"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%55ij.CompositeImage*
+
+imp2ij.ImagePlus*
+""é
+ã
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java; ;((
+imp2ij.ImagePlus"__id*
+
+%55ij.CompositeImageõ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java<# <(&
+%57ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impŸ÷
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java< <('
+%58void"+ij.CompositeImage#copyLuts(Lij/ImagePlus;)V*
+
+imp2ij.ImagePlus*
+
+%57ij.ImagePlus2copyLuts(Lij/ImagePlus;)*
+8*´
+13Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java96 9(9õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java96 9(9
+%51ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp©¶
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java96 9(G
+%52boolean"ij.ImagePlus#isComposite()Z*
+
+%51ij.ImagePlus2isComposite()*
+11
+12*©
+14Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java9 9(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java9  9(#
+%49ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impß§
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java9  9(2
+
+%50int"ij.ImagePlus#getNChannels()I*
+
+%49ij.ImagePlus2getNChannels()*
+13
+11*‡
+15Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java6 6(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java6# 6(&
+%42ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impÒÓ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java6# 6(:
+%43java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+%42ij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)îë
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java6 6(;
+%44void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp2ij.ImagePlus*
+Info*
+
+%43java.lang.Object21setProperty(Ljava/lang/String;Ljava/lang/Object;)õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java7 7(
+%45ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impÿ’
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java7 7(/
+%46java.lang.String[]"6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;*
+
+%45ij.ImagePlus2getPropertiesAsArray()ÓÎ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java7 7(0
+%47void"0ij.ImagePlus#setProperties([Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+
+%46java.lang.String[]2"setProperties([Ljava/lang/String;)ÈÊ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java8 8(
+%48void"3ij.plugin.HyperStackReducer#reduce(Lij/ImagePlus;)V*
+ij.plugin.HyperStackReducer*
+
+imp2ij.ImagePlus2reduce(Lij/ImagePlus;)*
+14
+11*Ö
+16Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5
+ 5(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5
+ 5(
+%38ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impõ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5D 5(G
+%39ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp•¢
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5D 5(U
+
+%40int"ij.ImagePlus#getBitDepth()I*
+
+%39ij.ImagePlus2getBitDepth()µ≤
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5
+ 5(V
+%41ij.ImagePlus"Cij.ImagePlus#createHyperStack(Ljava/lang/String;IIII)Lij/ImagePlus;*
+
+%38ij.ImagePlus*
+
+title2java.lang.String*
+""*
+""*
+""*
+
+
+%40int2(createHyperStack(Ljava/lang/String;IIII)â
+Ü
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java5 5(V
+imp2ij.ImagePlus"__id*
+
+%41ij.ImagePlus*
+15*‚
+17Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java1 1(…∆
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java1 1(2
+%33void" ij.ImagePlus#setDimensions(III)V*
+
+imp2ij.ImagePlus*
+""*
+""*
+""2setDimensions(III)õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java2 2(
+%34ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp’“
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java2 2(+
+%35ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%34ij.ImagePlus2getCalibration()˛˚
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java2 2(,
+%36void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%35ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)øº
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java3 3(!
+%37void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+imp2ij.ImagePlus*22setOpenAsHyperStack(Z)*
+15*¥
+18Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java0 0("[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java0 0(
+""*€
+19Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/
+ /(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/! /($
+%29ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp•¢
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/! /(2
+
+%30int"ij.ImagePlus#getBitDepth()I*
+
+%29ij.ImagePlus2getBitDepth()ë
+é
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/! /(9
+%31java.lang.String"__concat*
+
+
+%30int*
+-bitë
+é
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/
+ /(d
+%32ij.ImagePlus"Hij.IJ#createImage(Ljava/lang/String;Ljava/lang/String;III)Lij/ImagePlus;*	"
+ij.IJ*
+
+title2java.lang.String*
+
+%31java.lang.String*
+""*
+""*
+""â
+Ü
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java/ /(d
+imp2ij.ImagePlus"__id*
+
+%32ij.ImagePlus*
+17
+18*o
+0 "h
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaN N(
+implicit return*¥
+1Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaK K(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaK K(
+%76ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impõ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaL L(
+%77ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impöó
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaL L(
+%78void"ij.ImagePlus#close()V*
+
+%77ij.ImagePlus2close()*
+0*§
+3Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaH H(√¿
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaH H(
+%75void"ij.ImagePlus#setPosition(III)V*
+
+imp2ij.ImagePlus*2*
+""*
+""2setPosition(III)*
+0
+1*˝
+5Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaF F(ôñ
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaF F(
+%74void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*	
+3
+0
+1*®
+6Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaC C(õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaC C(
+%72ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp‘—
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaC C(
+%73void"&ij.ImagePlus#setImage(Lij/ImagePlus;)V*
+
+%72ij.ImagePlus*
+
+imp2ij.ImagePlus2setImage(Lij/ImagePlus;)"[
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaD D(
+
+""*¬
+8Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaB B(	õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaB B(	
+%70ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp√¿
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.javaB B(
+%71ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%70ij.ImagePlus2getWindow()*
+5
+6*≥
+9Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java@ @(’
+“
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java@ @(
+%69void">ij.IJ#run(Lij/ImagePlus;Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+imp2ij.ImagePlus*	
+Grays* *
+8*Ú
+20Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java, ,(Rì
+ê
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java, ,(R
+title2java.lang.String"__id*
+
+%23java.lang.Stringy
+w
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java- -(
+imp2ij.ImagePlus"__id*
+""*
+16
+19*Œ
+21Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,C ,(Fõ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,C ,(F
+%28ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impΩ∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,C ,(Q
+%25java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%28ij.ImagePlus2
+getTitle()ê
+ç
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,C ,(Q
+%23java.lang.String"__id*
+
+%25java.lang.String*
+20*∑
+22Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java, ,($õ
+ò
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,3 ,(6
+%26ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impΩ∫
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java,3 ,(A
+%27java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%26ij.ImagePlus2
+getTitle()Ê
+„
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java, ,(B
+%24java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+%27java.lang.Stringê
+ç
+Q
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/HyperStackReducer.java, ,(B
+%23java.lang.String"__id*
+
+%24java.lang.String*
+20:
+argjava.lang.StringB
+ij.plugin.HyperStackReducer

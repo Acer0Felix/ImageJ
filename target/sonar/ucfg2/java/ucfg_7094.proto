@@ -1,0 +1,257 @@
+
+Bij.plugin.ImageInfo#getImageInfo(Lij/ImagePlus;)Ljava/lang/String;I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java< <("18*Ú
+14I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaD D(ì
+ê
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaD D( 
+infoPropertyjava.lang.String"__id*
+
+labeljava.lang.String*
+8
+10
+11*ã
+15I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaC C(®•
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaC C()	
+%6int"java.lang.String#indexOf(I)I*
+
+labeljava.lang.String*
+\n2
+indexOf(I)*
+14
+8
+10
+11*û
+16I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaA A(Æ´
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaA A($
+%3ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()É
+Ä
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaA A(%
+stackij.ImageStack"__id*
+
+%3ij.ImageStack§°
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaB& B(;	
+%4int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()—Œ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaB B(<
+%5java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+	
+%4int2getSliceLabel(I)â
+Ü
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaB B(=
+labeljava.lang.String"__id*
+
+%5java.lang.String*
+15
+8
+10
+11*á
+17I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java@ @(§°
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java@ @($
+%2boolean"ij.ImagePlus#hasImageStack()Z*
+
+impij.ImagePlus2hasImageStack()*
+16
+8
+10
+11*Â
+18I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java= =(ŒÀ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java= =((
+%0ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ò
+ï
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java= =()
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor}
+{
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java> >( 
+infoPropertyjava.lang.String"__id*
+""ûõ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.java? ?(&	
+%1int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+16
+17*∑
+1I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaX
+ X("g
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaX X(
+
+infojava.lang.String*≠
+2I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaV
+ V(…
+∆
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaV
+ V(I
+%15java.lang.String"__concat*"
+ 
+infoPropertyjava.lang.String*20
+.--------------------------------------------\n®
+•
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaV
+ V(P
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+
+infojava.lang.String"f
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaV V(Q
+
+%16java.lang.String*˘
+3I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaT T(î
+ë
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaT T( 
+%14java.lang.String"Xij.plugin.ImageInfo#getInfo(Lij/ImagePlus;Lij/process/ImageProcessor;)Ljava/lang/String;*
+ij.plugin.ImageInfo*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessorâ
+Ü
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaT T(!
+infojava.lang.String"__id*
+
+%14java.lang.String*
+2
+1*Ó
+4I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaQ Q(ò
+ï
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaQ Q( 
+infoPropertyjava.lang.String"__id* 
+
+
+propertiesjava.lang.String*
+3*∏
+5I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaO O(õ
+ò
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaO O(%
+%12java.lang.String"__concat* 
+
+
+propertiesjava.lang.String*
+\n∞
+≠
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaO O(4
+%13java.lang.String"__concat*
+
+%12java.lang.String*"
+ 
+infoPropertyjava.lang.Stringë
+é
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaO O(4 
+infoPropertyjava.lang.String"__id*
+
+%13java.lang.String*
+3*œ
+7I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaL L()·
+ﬁ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaL L(.
+%11java.lang.String"Hij.plugin.ImageInfo#getImageProperties(Lij/ImagePlus;)Ljava/lang/String;*
+ij.plugin.ImageInfo*
+
+impij.ImagePlusè
+å
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaL L(/
+
+propertiesjava.lang.String"__id*
+
+%11java.lang.String*	
+3
+4
+5*æ
+8I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaK K(	Â‚
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaK K(
+%10java.lang.String":ij.ImagePlus#getProp(Ljava/lang/String;)Ljava/lang/String;*
+
+impij.ImagePlus*
+
+HideInfo2getProp(Ljava/lang/String;)*
+3
+7*ﬂ
+9I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaI I(ˆÛ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaI I(#
+%9java.lang.String"Aij.plugin.ImageInfo#getExifData(Lij/ImagePlus;)Ljava/lang/String;*
+ij.plugin.ImageInfo*
+
+impij.ImagePlus2getExifData(Lij/ImagePlus;)ê
+ç
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaI I(# 
+infoPropertyjava.lang.String"__id*
+
+%9java.lang.String*
+8*’
+10I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaG G(ËÂ
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaG G(1
+%8java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)ê
+ç
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaG G(1 
+infoPropertyjava.lang.String"__id*
+
+%8java.lang.Object*
+8
+9*â
+11I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaF) F(,Æ´
+I
+?/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ImageInfo.javaF) F(7
+%7ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()*
+8
+10:
+impij.ImagePlusB
+ij.plugin.ImageInfo

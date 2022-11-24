@@ -1,0 +1,14 @@
+
+"ij.plugin.JpegWriter#getQuality()IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java‘ ‘("1*À
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java’	 ’(”
+‘
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java’	 ’(#	
+%0int"!ij.io.FileSaver#getJpegQuality()I*"
+ij.io.FileSaver"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/JpegWriter.java’ ’($
+""B"
+ij.plugin.JpegWriter

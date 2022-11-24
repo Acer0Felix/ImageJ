@@ -1,0 +1,22 @@
+
+ij.measure.CurveFitter#getSD()DN
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÑ Ñ("5*“
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÒ Ò(#¸µ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÒ Ò(%
+%0double[]"'ij.measure.CurveFitter#getResiduals()[D*
+ij.measure.CurveFitter2getResiduals()*
+1*Æ
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÙ Ù(–
+“
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÚ	 Ú("
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/CurveFitter.javaÚ Ú(#
+""B
+ij.measure.CurveFitter

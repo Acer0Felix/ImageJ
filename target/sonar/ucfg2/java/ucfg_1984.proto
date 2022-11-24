@@ -1,0 +1,26 @@
+
+/ij.IJ#getProcessor()Lij/process/ImageProcessor;=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java… …(*"1*â
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java† †(€
+~
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java† †(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJr
+p
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java† †( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlusÂ¿
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‡	 ‡(
+%1ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()"b
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java‡ ‡(!
+
+%1ij.process.ImageProcessorB	"
+ij.IJ

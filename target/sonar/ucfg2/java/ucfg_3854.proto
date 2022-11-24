@@ -1,0 +1,151 @@
+
+=ij.WindowManager#getFrame(Ljava/lang/String;)Ljava/awt/Frame;H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java• •( "11*ö
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java   (sq
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java   (
+%10java.awt.Frame"java.awt.Frame¤
+¡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java   (
+%11"*java.awt.Frame#<init>(Ljava/lang/String;)V*
+
+%10java.awt.Frame*	
+Proxy…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java   (
+framejava.awt.Frame"__id*
+
+%10java.awt.Frame*
+1*·
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaž ž(Ø
+Õ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaž ž( 
+%9java.awt.Window"?ij.WindowManager#getWindow(Ljava/lang/String;)Ljava/awt/Window;*"
+ij.WindowManager*
+
+titlejava.lang.String„
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaž ž(!
+winjava.awt.Window"__id*
+
+%9java.awt.Window*
+2
+1*º
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaœ œ(Û
+Ø
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaœ œ(%
+%8java.awt.Frame"Cij.WindowManager#getImageWindow(Ljava/lang/String;)Ljava/awt/Frame;*"
+ij.WindowManager*
+
+titlejava.lang.String„
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaœ œ(&
+framejava.awt.Frame"__id*
+
+%8java.awt.Frame*
+3
+1*´
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaš š("e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.javaš š(
+
+winjava.lang.Object*Ê
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜ ˜(G‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜ ˜(G
+winTitlejava.lang.String"__id*
+
+%4java.lang.Stringãà
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java™ ™(
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+titlejava.lang.String*
+
+winTitlejava.lang.String2equals(Ljava/lang/Object;)*
+6
+11*Ò
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜B ˜(F~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜B ˜(F
+%4java.lang.String"__id*
+
+%6
+<nulltype>*
+7*–
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜2 ˜(5¹¶
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜* ˜(A
+%5java.lang.String"+java.awt.Frame#getTitle()Ljava/lang/String;*
+
+winjava.lang.Object2
+getTitle()…
+‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java˜* ˜(A
+%4java.lang.String"__id*
+
+%5java.lang.String*
+7*‹
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java— —(“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java— —(
+%2java.util.Vector"__id*&*$
+ij.WindowManager"
+nonImageList“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java— —(#
+%3java.lang.Object"
+__arrayGet*
+
+%2java.util.Vector*
+""†
+ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java— —($
+winjava.lang.Object"__id*
+
+%3java.lang.Object*
+8
+9*„
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java– –(“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java– –(
+%0java.util.Vector"__id*&*$
+ij.WindowManager"
+nonImageList”‘
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java– –(%	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+4
+10*´
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¢	 ¢("e
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¢ ¢(
+
+framejava.awt.Frame:
+titlejava.lang.StringB"
+ij.WindowManager

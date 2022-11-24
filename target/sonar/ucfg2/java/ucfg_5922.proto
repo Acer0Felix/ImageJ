@@ -1,0 +1,280 @@
+
+Rij.plugin.frame.SyncWindows#commandExecuting(Ljava/lang/String;)Ljava/lang/String;S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÖ Ö("23*à
+13S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaã ã(œÃ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaã ã(!
+%10java.awt.Point"1ij.gui.ImageCanvas#getCursorLoc()Ljava/awt/Point;*
+
+cicij.gui.ImageCanvas2getCursorLoc()é
+ã
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaã ã("
+locjava.awt.Point"__id*
+
+%10java.awt.Pointøº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaå å(
+%11boolean"%ij.gui.ImageCanvas#cursorOverImage()Z*
+
+cicij.gui.ImageCanvas2cursorOverImage()*
+11
+12*œ
+14S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaä ä("t
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaä ä(
+
+commandjava.lang.String*˚
+15S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(4ï
+í
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(4
+cicij.gui.ImageCanvas"__id*
+
+%7ij.gui.ImageCanvas*
+13
+14*Ó
+16S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà/ à(3å
+â
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà/ à(3
+%7ij.gui.ImageCanvas"__id*
+
+%9
+<nulltype>*
+15*Ω
+17S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à("ƒ¡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(.
+%8ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()î
+ë
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(.
+%7ij.gui.ImageCanvas"__id*
+
+%8ij.gui.ImageCanvas*
+15*¶
+18S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á( ¥
+±
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á(2
+%6ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerâ
+Ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á(3
+impij.ImagePlus"__id*
+
+%6ij.ImagePlus*
+16
+17*¬
+19S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ[ Ü(d›⁄
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ[ Ü(t
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
+Out [-]*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+18
+1*Œ
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java£	 £("t
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.java£ £(
+
+commandjava.lang.String*ç
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaù ù(
+¨©
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaù ù(
+%23void"ij.ImagePlus#repaintWindow()V*
+
+impij.ImagePlus2repaintWindow()*
+10*£
+4S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaú
+ ú(øº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaú
+ ú(
+%22double"&ij.gui.ImageCanvas#getMagnification()D*
+
+icij.gui.ImageCanvas2getMagnification()*
+3
+10*ü
+5S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaõ õ(	øº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaõ õ(
+%21void"ij.gui.ImageCanvas#zoomOut(II)V*
+
+icij.gui.ImageCanvas*
+""*
+""2zoomOut(II)*
+4*ù
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaô ô(	Ω∫
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaô ô(
+%20void"ij.gui.ImageCanvas#zoomIn(II)V*
+
+icij.gui.ImageCanvas*
+""*
+""2
+zoomIn(II)*
+4*¿
+7S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaò
+ ò(›⁄
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaò
+ ò("
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+In [+]*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+5
+6*¡
+8S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ(≈¬
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ(%
+%18ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+impij.ImagePlus2getCanvas()ï
+í
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javañ ñ(&
+icij.gui.ImageCanvas"__id*
+
+%18ij.gui.ImageCanvas*
+7
+10*ﬂ
+9S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaî
+ î(ÓÎ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaî
+ î(
+%17ij.ImagePlus"?ij.plugin.frame.SyncWindows#getImageFromVector(I)Lij/ImagePlus;*
+ij.plugin.frame.SyncWindows*
+""2getImageFromVector(I)ä
+á
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaî î(
+impij.ImagePlus"__id*
+
+%17ij.ImagePlus*
+8
+10*¬
+20S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ? Ü(G‹Ÿ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ? Ü(W
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+In [+]*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+18
+19*ª
+21S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ' Ü(/¶
+£
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ' Ü(/
+%2java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScaling≠™
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ' Ü(:
+%3boolean"java.awt.Checkbox#getState()Z*
+
+%2java.awt.Checkbox2
+getState()*
+20
+1*´
+10S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaì ì(£
+†
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaì ì(
+%15java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwins°û
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaì ì(
+
+%16int"java.util.Vector#size()I*
+
+%15java.util.Vector2size()*
+9
+1*ã
+22S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü(¶
+£
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü(
+%1java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScaling*
+21
+1*œ
+11S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaë ë(µ≤
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaë ë(
+
+%13int"ij.gui.ImageCanvas#screenX(I)I*
+
+cicij.gui.ImageCanvas*
+""2
+screenX(I)µ≤
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaí í(
+
+%14int"ij.gui.ImageCanvas#screenY(I)I*
+
+cicij.gui.ImageCanvas*
+""2
+screenY(I)*
+10*á
+23S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü(¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü(
+%0java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwins*
+22
+1*“
+12S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç(”–
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç((
+%12java.awt.Rectangle"3ij.gui.ImageCanvas#getSrcRect()Ljava/awt/Rectangle;*
+
+cicij.gui.ImageCanvas2getSrcRect()ö
+ó
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç()
+srcRectjava.awt.Rectangle"__id*
+
+%12java.awt.Rectangle*
+11:
+commandjava.lang.StringB
+ij.plugin.frame.SyncWindows

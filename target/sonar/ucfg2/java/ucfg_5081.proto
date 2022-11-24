@@ -1,0 +1,33 @@
+
+4ij.io.Opener#openAndAddToRecent(Ljava/lang/String;)ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaµ µ(""3*Å
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java∏ ∏(∞
+≠
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java∏ ∏( 
+
+%1void"/ij.Menus#addOpenRecentItem(Ljava/lang/String;)V*"
+
+ij.Menus*
+
+pathjava.lang.String*
+1*ô
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java∂ ∂(≈¬
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java∂ ∂(
+
+%0void"&ij.io.Opener#open(Ljava/lang/String;)V*
+ij.io.Opener*
+
+pathjava.lang.String2open(Ljava/lang/String;)*
+2
+1*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaπ	 π("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaπ π(
+"":
+pathjava.lang.StringB
+ij.io.Opener

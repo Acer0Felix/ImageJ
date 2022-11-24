@@ -1,0 +1,85 @@
+
+8ij.plugin.filter.GaussianBlur#makeGaussianKernel(DDI)[[FU
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaò ò('"30*ä
+24U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaû û(ú
+ô
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaû# û(A
+%3double"java.lang.Math#exp(D)D*"
+java.lang.Math*
+""*
+24
+6
+20
+1*ˆ
+6U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥ ≥(u
+s
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥& ≥(-
+%6double"__id*
+""ù
+ö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥ ≥(.
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*á
+18U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java£ £(ù
+ö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java§ §(2
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+
+6
+18
+1* 
+30U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô ô(ú
+ô
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô8 ô(J
+%0double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""ù
+ö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô+ ô(K
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""ù
+ö
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô ô(L
+%2double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""*
+24
+6
+20
+1*ﬁ
+20U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java† †(%u
+s
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.java† †(/
+%4double"__id*
+""*
+
+6
+18
+1*ª
+1U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaΩ Ω("_
+U
+I/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/GaussianBlur.javaΩ Ω(
+"":
+"":
+"":
+""B!
+ij.plugin.filter.GaussianBlur

@@ -1,0 +1,108 @@
+
+Sij.plugin.Coordinates#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)ZM
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¡ ¡(!"17*À
+13M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java© ©(¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java© ©(!
+%5double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.javaª ª(!
+%6double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java« «(!
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¬ ¬(!
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+5
+12*æ
+14M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java§ §(·´
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java§ §(
+%4boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java§ §( 
+""*’
+15M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¦ ¦(¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¦ ¦(
+%3double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+14*Ï
+16M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java£ £(¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java£ £(
+%1double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¤ ¤(
+%2double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+14
+15*’
+5M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java² ²(¸µ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java² ²(
+%12boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+1*É
+17M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¢ ¢(
+j
+h
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¢ ¢(	
+%0int"__id*
+""*
+13
+16*«
+6M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java° °(C"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java° °(C
+""*†
+12M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java® ®(¶³
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java® ®("
+%9double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()·´
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java¯ ¯("
+%10double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¸µ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java° °(
+%11boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+6*«
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java² ²(4"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Coordinates.java² ²(4
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.Coordinates

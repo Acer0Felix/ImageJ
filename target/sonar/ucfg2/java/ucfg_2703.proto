@@ -1,0 +1,18 @@
+
++ij.gui.Roi#getListeners()Ljava/util/Vector;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¿ ¿(""1*Æ
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡	 ¡(Ñ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡	 ¡(
+%0java.util.Vector"__id**
+
+ij.gui.Roi"
+	listeners"^
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¡ ¡(
+
+%0java.util.VectorB"
+
+ij.gui.Roi

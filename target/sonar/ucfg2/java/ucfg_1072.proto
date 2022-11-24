@@ -1,0 +1,664 @@
+
+/ij.plugin.FitsDecoder#getInfo()Lij/io/FileInfo;K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaL
+ L("50*®
+24M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaã ã(√
+¿
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaã ã()
+
+%42int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+2
+5
+44
+1*Ú
+47K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java[ [(ò
+ï
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java[ [(
+%21java.io.DataInputStream"__id* *
+ij.plugin.FitsDecoder"
+f¨©
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java[ [(
+%22void""java.io.FilterInputStream#close()V* 
+
+%21java.io.DataInputStream2close()"U
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java[ [(
+""*≥
+25M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaä ä(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaä ä("
+%41boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+NAXIS12equals(Ljava/lang/Object;)*
+24
+23*·
+48K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaW W(âÜ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaW
+ W(
+%14java.io.DataInputStream"java.io.DataInputStreamŒ
+À
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaW W(
+%15"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V* 
+
+%14java.io.DataInputStream*
+
+isjava.io.InputStreamò
+ï
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaW W(
+ij.plugin.FitsDecoder"
+f"__id* 
+
+%14java.io.DataInputStreamŒÀ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaX X(
+%16java.lang.String"4ij.plugin.FitsDecoder#getString(I)Ljava/lang/String;*
+ij.plugin.FitsDecoder*2P2getString(I)ã
+à
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaX X(
+linejava.lang.String"__id*
+
+%16java.lang.Stringö
+ó
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaY Y(
+%17java.lang.StringBuffer"__id*#*!
+ij.plugin.FitsDecoder"
+infoó
+î
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaY Y(
+%18java.lang.String"__concat*
+
+linejava.lang.String*
+\níè
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaY Y(
+%19java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%17java.lang.StringBuffer*
+
+%18java.lang.String2append(Ljava/lang/String;)⁄◊
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaZ Z( 
+%20boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+linejava.lang.String*
+
+SIMPLE2startsWith(Ljava/lang/String;)*
+2
+47
+44
+1*≈
+26M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaÜ Ü(»
+≈
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaÜ Ü(G
+%38void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*:8
+6BITPIX must be 8, 16, 32, -32 (float) or -64 (double).ö
+ó
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaá á(
+%39java.io.DataInputStream"__id* *
+ij.plugin.FitsDecoder"
+fÆ´
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaá á(
+%40void""java.io.FilterInputStream#close()V* 
+
+%39java.io.DataInputStream2close()"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaà à(
+""*Ë
+49K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaVG V(Iïí
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV7 V(F$
+%12java.util.zip.GZIPInputStream"java.util.zip.GZIPInputStream⁄
+◊
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV3 V(J
+%13"<java.util.zip.GZIPInputStream#<init>(Ljava/io/InputStream;)V*&
+$
+%12java.util.zip.GZIPInputStream*
+
+isjava.io.InputStreamô
+ñ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV. V(J
+isjava.io.InputStream"__id*&
+$
+%12java.util.zip.GZIPInputStream*
+48*≈
+50K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaM M(us
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaM M(
+%0ij.io.FileInfo"ij.io.FileInfoà
+Ö
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaM M(
+%1"ij.io.FileInfo#<init>()V*
+
+%0ij.io.FileInfoÑ
+Å
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaM M(
+fiij.io.FileInfo"__id*
+
+%0ij.io.FileInfoó
+î
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaO O(
+%2java.lang.String"__id*'*%
+ij.plugin.FitsDecoder"
+
+fileNameî
+ë
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaO O("
+
+fiij.io.FileInfo"
+
+fileName"__id*
+
+%2java.lang.Stringò
+ï
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaP P(
+%3java.lang.String"__id*(*&
+ij.plugin.FitsDecoder"
+	directoryï
+í
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaP P(#
+
+fiij.io.FileInfo"
+	directory"__id*
+
+%3java.lang.Stringò
+ï
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU' U(0
+%4java.lang.String"__id*(*&
+ij.plugin.FitsDecoder"
+	directoryó
+î
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU3 U(;
+%5java.lang.String"__id*'*%
+ij.plugin.FitsDecoder"
+
+fileName¶
+£
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU' U(;
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.StringàÖ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU U(&
+%7java.io.FileInputStream"java.io.FileInputStream∆
+√
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU U(<
+%8"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%7java.io.FileInputStream*
+
+%6java.lang.Stringí
+è
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaU U(=
+isjava.io.InputStream"__id*
+
+%7java.io.FileInputStreamó
+î
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV V(
+%9java.lang.String"__id*'*%
+ij.plugin.FitsDecoder"
+
+fileNameƒ¡
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV V(
+%10java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%9java.lang.String2toLowerCase()“œ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaV V(,
+%11boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+%10java.lang.String*
+.gz2endsWith(Ljava/lang/String;)*
+48
+49*◊
+10M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaô ô(ÚÔ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaô ô()
+%56double"6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)D*
+ij.plugin.FitsDecoder*
+
+valuejava.lang.String2parseDouble(Ljava/lang/String;)*
+2
+5
+44
+1*≤
+11M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaò ò(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaò ò(
+%55boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+CDELT32equals(Ljava/lang/Object;)*
+9
+10*◊
+12M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaó ó(ÚÔ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaó ó(*
+%54double"6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)D*
+ij.plugin.FitsDecoder*
+
+valuejava.lang.String2parseDouble(Ljava/lang/String;)*
+2
+5
+44
+1*≥
+13M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javañ ñ(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javañ ñ(
+%53boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+CDELT22equals(Ljava/lang/Object;)*
+11
+12*®
+36K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaz z(¡
+æ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaz z(1
+
+%37int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+2
+26
+5
+44
+1*◊
+14M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaï ï(ÚÔ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaï ï()
+%52double"6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)D*
+ij.plugin.FitsDecoder*
+
+valuejava.lang.String2parseDouble(Ljava/lang/String;)*
+2
+5
+44
+1*Ø
+37K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javay y(
+—Œ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javay y(
+%36boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+BITPIX2equals(Ljava/lang/Object;)*
+25
+36*≥
+15M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaî î(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaî î(
+%51boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+CDELT12equals(Ljava/lang/Object;)*
+13
+14*◊
+16M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaì ì(ÚÔ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaì ì(!
+%50double"6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)D*
+ij.plugin.FitsDecoder*
+
+valuejava.lang.String2parseDouble(Ljava/lang/String;)*
+2
+5
+44
+1*Æ
+39K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javav v(
+ŒÀ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javav v(
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+END2equals(Ljava/lang/Object;)*
+
+2
+37
+1*≤
+17M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaí í(“œ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaí í(
+%49boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*	
+BZERO2equals(Ljava/lang/Object;)*
+15
+16*◊
+18M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaë ë(ÚÔ
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaë ë("
+%48double"6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)D*
+ij.plugin.FitsDecoder*
+
+valuejava.lang.String2parseDouble(Ljava/lang/String;)*
+2
+5
+44
+1*≥
+19M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaê ê(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaê ê( 
+%47boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+BSCALE2equals(Ljava/lang/Object;)*
+17
+18*â
+1M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java£ £(ö
+ó
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java£ £(
+%60java.io.DataInputStream"__id* *
+ij.plugin.FitsDecoder"
+fÆ´
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java£ £(
+%61void""java.io.FilterInputStream#close()V* 
+
+%60java.io.DataInputStream2close()"g
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java• •(
+
+fiij.io.FileInfo*›
+2M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java° °(É
+Ä
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java° °(
+
+fiij.io.FileInfo"
+unit"__id*	
+pixel*
+1*˘
+5M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaû û(ö
+ó
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaû û(
+%58java.io.DataInputStream"__id* *
+ij.plugin.FitsDecoder"
+fÆ´
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaû û(
+%59void""java.io.FilterInputStream#close()V* 
+
+%58java.io.DataInputStream2close()"W
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaû û(
+""*˘
+8M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaõ õ(ï
+í
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaõ õ(
+
+fiij.io.FileInfo"
+unit"__id*
+
+valuejava.lang.String*
+2
+5
+44
+1*∫
+9M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaö ö(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaö ö(
+%57boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+CTYPE12equals(Ljava/lang/Object;)*
+2
+5
+8
+44
+1*ï
+40K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaq
+ q(∏µ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaq
+ q(
+%34java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+linejava.lang.String2trim()ä
+á
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaq q(
+keyjava.lang.String"__id*
+
+%34java.lang.Stringt
+r
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javar r(
+valuejava.lang.String"__id* *
+39*ï	
+41K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javan
+ n(“œ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javan
+ n(%
+%30java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+linejava.lang.String*2 *
+""2substring(II)∑¥
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javan
+ n(-
+%31java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%30java.lang.String2trim()ä
+á
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javan n(-
+keyjava.lang.String"__id*
+
+%31java.lang.String÷”
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javao o(6
+%32java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+linejava.lang.String*
+""*
+""2substring(II)∑¥
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javao o(>
+%33java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%32java.lang.String2trim()å
+â
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javao o(>
+valuejava.lang.String"__id*
+
+%33java.lang.String*
+39*Õ
+42K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javak k(v
+t
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javak k(
+keyjava.lang.String"__id*
+""x
+v
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javal l(
+valuejava.lang.String"__id*
+""*
+40
+41*®
+20M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaè è(√
+¿
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaè è(+
+
+%46int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+2
+5
+44
+1*¯
+43K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javah h(ûõ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javah h(!
+
+%29int"java.lang.String#length()I*
+
+linejava.lang.String2length()*
+42*≥
+21M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaé é(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaé é( 
+%45boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+NAXIS32equals(Ljava/lang/Object;)*
+19
+20*¨
+44K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java^ ^(ŒÀ
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java_
+ _(
+%23java.lang.String"4ij.plugin.FitsDecoder#getString(I)Ljava/lang/String;*
+ij.plugin.FitsDecoder*2P2getString(I)ã
+à
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java_ _(
+linejava.lang.String"__id*
+
+%23java.lang.Stringö
+ó
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java` `(
+%24java.lang.StringBuffer"__id*#*!
+ij.plugin.FitsDecoder"
+infoó
+î
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java` `(
+%25java.lang.String"__concat*
+
+linejava.lang.String*
+\níè
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.java` `(
+%26java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%24java.lang.StringBuffer*
+
+%25java.lang.String2append(Ljava/lang/String;)À»
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javac c(#
+
+%27int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+linejava.lang.String*
+=2indexOf(Ljava/lang/String;)’“
+K
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaf f(1
+
+%28int".java.lang.String#indexOf(Ljava/lang/String;I)I*
+
+linejava.lang.String*
+/*
+""2indexOf(Ljava/lang/String;I)*
+42
+43*®
+22M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaç ç(√
+¿
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaç ç()
+
+%44int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+2
+5
+44
+1*≥
+23M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaå å(”–
+M
+A/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FITS_Reader.javaå å( 
+%43boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+keyjava.lang.String*
+
+NAXIS22equals(Ljava/lang/Object;)*
+21
+22B
+ij.plugin.FitsDecoder

@@ -1,0 +1,1345 @@
+
+0ij.ImageJ#keyPressed(Ljava/awt/event/KeyEvent;)VA
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß("162*Ç
+24A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£5 £(D®
+•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£5 £(I
+%76boolean"*ij.ImageJ#ignoreArrowKeys(Lij/ImagePlus;)Z*
+	ij.ImageJ*
+
+impij.ImagePlus*
+9
+20
+0
+23*¿
+68A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÜ
+ Ü(o
+m
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÜ Ü(
+cmdjava.lang.String"__id*	
+Clear*
+9
+0*∏
+25A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£ £( _
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£" £(0
+
+%75int"__id*
+""*
+24
+9
+20
+0*î
+69A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÖ Ö("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÖ Ö(
+""*¬
+27A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¢ ¢(q
+o
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¢ ¢(
+cmdjava.lang.String"__id*	
+Out [-]*
+9
+0*¬
+28A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°O °(VÉ
+Ä
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°O °(b
+
+%73int"ij.gui.Toolbar#getToolId()I*"
+ij.gui.Toolbar_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°c °(q
+
+%74int"__id*
+""*
+25
+27
+9
+20
+0*Ü
+29A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°7 °(F®
+•
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°7 °(K
+%72boolean"*ij.ImageJ#ignoreArrowKeys(Lij/ImagePlus;)Z*
+	ij.ImageJ*
+
+impij.ImagePlus*
+25
+28
+9
+20
+0*ï
+131A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java« «("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java« «(
+""*…
+132A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆+ ∆(-s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆+ ∆(8
+%33boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+
+125
+131*µ
+133A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆	 ∆(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∆ ∆(#
+
+%32int"__id*
+""*
+
+125
+132*ï
+134A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaƒ ƒ("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaƒ ƒ(
+""*Ä
+135A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java√	 √(©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java√	 √(
+%31boolean"+ij.ImageJ#deleteOverlayRoi(Lij/ImagePlus;)Z*
+	ij.ImageJ*
+
+impij.ImagePlus*
+
+134
+133*µ
+136A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¬+ ¬(2_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¬4 ¬(F
+
+%30int"__id*
+""*
+
+135
+133*µ
+137A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¬ ¬(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¬ ¬('
+
+%29int"__id*
+""*
+
+135
+136*˝
+70A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÑ- Ñ(0©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÑ2 Ñ(K
+%58ij.ImagePlus"1ij.plugin.GelAnalyzer#getGelImage()Lij/ImagePlus;*"
+ij.plugin.GelAnalyzer*
+68
+69*Å
+71A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÑ Ñ(≠™
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÑ Ñ(%
+%57ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+68
+70*î
+73A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÉ É("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÉ É(
+""*º
+30A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java° °( _
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java°" °(2
+
+%71int"__id*
+""*
+25
+29
+9
+20
+0*Å
+74A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÇ
+ Ç(©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÇ
+ Ç(
+%56boolean"+ij.ImageJ#deleteOverlayRoi(Lij/ImagePlus;)Z*
+	ij.ImageJ*
+
+impij.ImagePlus*
+68
+71
+73*Õ
+32A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java† †(|
+z
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java† †(
+cmdjava.lang.String"__id*
+Previous Slice [<]*
+9
+0*¿
+33A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaü ü(!_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaü# ü(3
+
+%70int"__id*
+""*
+25
+9
+30
+20
+32
+0*…
+35A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaû û(x
+v
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaû û(
+cmdjava.lang.String"__id*
+Next Slice [>]*
+9
+0*ƒ
+36A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaù ù(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaù ù(/
+
+%69int"__id*
+""*
+35
+25
+9
+30
+20
+33
+0*Ñ
+141A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¡ ¡(≠™
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¡ ¡(
+%28ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+
+137
+133*Ó
+143A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaø ø(ùö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaø ø(
+%27
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaø ø(
+roi
+ij.gui.Roi"__id*
+
+%27
+ij.gui.Roi*
+116
+141
+122*Õ
+106A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ' È(._
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ0 È(C
+
+%49int"__id*
+""*"
+90
+9
+93
+86
+87
+99
+11
+88
+0*“
+107A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ È(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÈ È(#
+
+%48int"__id*
+""*'
+106
+90
+9
+93
+86
+87
+99
+11
+88
+0*“
+109A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaË Ë(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaË Ë("
+
+%47int"__id*
+""*'
+90
+107
+9
+93
+86
+87
+99
+11
+88
+0*ü
+82A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˇ ˇ(<à
+Ö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˇ ˇ(3
+%55void"ij.WindowManager#putBehind()V*"
+ij.WindowManager"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˇ5 ˇ(<
+""*Õ
+86A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¯ ¯(*x
+v
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¯ ¯("
+cmdjava.lang.String"__id*
+Reslice [/]...*
+
+9
+11
+0*∆
+87A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java˜ ˜(#q
+o
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java˜ ˜(
+cmdjava.lang.String"__id*	
+Out [-]*
+
+9
+11
+0*≈
+88A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˆ ˆ(,p
+n
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˆ ˆ($
+cmdjava.lang.String"__id*
+
+In [+]*
+
+9
+11
+0*˝
+44A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ õ(óî
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaõ õ(*
+
+%68int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+36
+25
+9
+30
+20
+33
+0*Ò
+45A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaô ô(
+°û
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaô ô(
+%67void"java.awt.Component#repaint()V*"
+ 
+rmij.plugin.frame.RoiManager2	repaint()*
+44*≤
+46A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaò2 ò(9_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaò; ò(I
+
+%66int"__id*
+""*
+44
+45*≤
+47A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaò ò(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaò  ò(0
+
+%65int"__id*
+""*
+46
+45*˝
+49A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaó% ó('©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaó) ó(H
+%64java.awt.Window"3ij.WindowManager#getActiveWindow()Ljava/awt/Window;*"
+ij.WindowManager*
+47
+44*Û
+150A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaº$ º('óî
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaº$ º(6
+
+%26int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+116
+143
+122*Î
+151A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∫ ∫(l
+j
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∫ ∫(
+cmdjava.lang.String"__id*
+""£
+†
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaª ª(1
+%25ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerw
+u
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaª ª(2
+impij.ImagePlus"__id*
+
+%25ij.ImagePlus*
+116
+150
+143
+122*ï
+152A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaπ π(
+"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaπ π(
+
+""*…
+153A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∏( ∏(*s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∏( ∏(5
+%24boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+
+151
+152*◊
+111A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ2 Á(9_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ; Á(O
+
+%46int"__id*
+""*,
+90
+107
+9
+109
+93
+86
+87
+99
+11
+88
+0*π
+155A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¥ ¥(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¥ ¥(.
+
+%19int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaµ µ(/
+
+%20int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∂ ∂(*
+
+%21int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∑ ∑(,
+
+%22int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∏ ∏(
+
+%23int"__id*
+""*
+
+151
+153*‹
+112A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ Ê(L_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÁ Á(.
+
+%45int"__id*
+""*1
+90
+107
+9
+109
+93
+86
+87
+99
+11
+88
+0
+111*®
+156A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ±(á
+Ñ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ±(8
+%7java.lang.String"__concat*
+keyPressed: code=*
+""ä
+á
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ±(?
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+ (º
+π
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java±B ±(^
+%9java.lang.String"7java.awt.event.KeyEvent#getKeyText(I)Ljava/lang/String;*"
+java.awt.event.KeyEvent*
+""ù
+ö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ±(^
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Stringî
+ë
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≤(
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+
+), char=\"å
+â
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≤(
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+""é
+ã
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≤($
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+\" (å
+â
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≤(3
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+""ì
+ê
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≤(A
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+	), flags=∆
+√
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≥ ≥((
+%16java.lang.String"@java.awt.event.KeyEvent#getKeyModifiersText(I)Ljava/lang/String;*"
+java.awt.event.KeyEvent*
+""ü
+ú
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≥((
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.Stringô
+ñ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java± ≥()
+%18void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%17java.lang.String*
+155*∞
+113A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ3 Ê(:_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ< Ê(K
+
+%44int"__id*
+""*
+112*≠
+157A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaØ Ø(ß§
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaØ Ø(
+
+%5char"%java.awt.event.KeyEvent#getKeyChar()C*
+
+ejava.awt.event.KeyEvent2getKeyChar()¨©
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞ ∞(	
+%6int")java.awt.event.InputEvent#getModifiers()I*
+
+ejava.awt.event.KeyEvent2getModifiers()*
+
+156
+155*µ
+114A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ Ê(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÊ! Ê(/
+
+%43int"__id*
+""*
+
+112
+113*ï
+158A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(
+"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(
+
+""*¥
+159A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠& ≠(-^
+\
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠/ ≠(@	
+%4int"__id*
+""*
+
+157
+158*∞
+116A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‰ ‰(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java‰ ‰($
+
+%42int"__id*
+""*
+114*Ï
+117A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java› ›(Ö
+Ç
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java› ›(
+	ij.ImageJ"
+commandName"__id*
+
+cmdjava.lang.StringÃ
+…
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬁ ﬁ()
+%41void">ij.plugin.MacroInstaller#runMacroShortcut(Ljava/lang/String;)V*"
+ij.plugin.MacroInstaller*
+
+cmdjava.lang.String"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaﬂ ﬂ(
+""*Õ
+90A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaı3 ı(Cx
+v
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaı/ ı(C
+cmdjava.lang.String"__id*
+Next Slice [>]*
+
+9
+11
+0*π
+119A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java€ €(!∞
+≠
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java€& €(>
+%39java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""Æ
+´
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java€ €(?
+%40java.lang.Object"__mapGet*'
+%
+macroShortcutsjava.util.Hashtable*
+
+%39java.lang.Integer
+}
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java€ €(?
+cmdjava.lang.String"__id*
+
+%40java.lang.Object*
+
+116
+117*—
+93A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÙ) Ù(=|
+z
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÙ% Ù(=
+cmdjava.lang.String"__id*
+Previous Slice [<]*
+
+9
+11
+0*Ω
+50A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javañ ñ( œ
+Ã
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javañ ñ(.!
+%63ij.plugin.frame.RoiManager"Dij.plugin.frame.RoiManager#getInstance()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManagerì
+ê
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javañ ñ(/ 
+rmij.plugin.frame.RoiManager"__id*#
+!
+%63ij.plugin.frame.RoiManager*
+47
+49
+44*∆
+51A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaï ï(s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaï ï('
+%62boolean"ij.IJ#isJava18()Z*	"
+ij.IJ*
+50
+44*«
+96A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÔ Ô(∞
+≠
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÔ  Ô(8
+%53java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÔ Ô(9
+%54java.lang.Object"__mapGet*"
+ 
+	shortcutsjava.util.Hashtable*
+
+%53java.lang.Integer
+}
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÔ Ô(9
+cmdjava.lang.String"__id*
+
+%54java.lang.Object*
+90
+9
+93
+86
+87
+11
+88
+0*∆
+52A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaï	 ï(s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaï	 ï(
+%61boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+51
+44*«
+97A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ Ì(∞
+≠
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ  Ì(<
+%51java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""©
+¶
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ Ì(=
+%52java.lang.Object"__mapGet*"
+ 
+	shortcutsjava.util.Hashtable*
+
+%51java.lang.Integer
+}
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÌ Ì(=
+cmdjava.lang.String"__id*
+
+%52java.lang.Object*
+90
+9
+93
+86
+87
+11
+88
+0*î
+53A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaî î("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaî î(
+""*Ñ
+54A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaì ì(∞
+≠
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaì ì(0
+%60ij.ImagePlus"3ij.plugin.Orthogonal_Views#getImage()Lij/ImagePlus;*"
+ij.plugin.Orthogonal_Views*
+52
+53*Å
+99A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÎ Î(û
+õ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÎ Î(-
+%50java.util.Hashtable",ij.Menus#getShortcuts()Ljava/util/Hashtable;*"
+
+ij.Menuså
+â
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÎ Î(. 
+	shortcutsjava.util.Hashtable"__id*
+
+%50java.util.Hashtable*
+96
+97*…
+11A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java˛ ˛(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaˇ	 ˇ(
+
+%85int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ	 Ä(
+
+%86int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÄ& Ä(8
+
+%87int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaã	 ã(
+
+%88int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaå	 å(
+
+%89int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaç	 ç(
+
+%90int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaé	 é(
+
+%91int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaè	 è(
+
+%92int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaê	 ê(
+
+%93int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaê  ê(1
+
+%94int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaê8 ê(F
+
+%95int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaêM ê(]
+
+%96int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠	 ≠(
+
+%97int"__id*
+""_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞	 ∞(
+
+%98int"__id*
+""*2
+13
+14
+59
+0
+9
+82
+62
+74
+64
+65
+66
+55
+56*Ê
+55A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaí í(ùö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaí í(
+%59
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()s
+q
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaí í(
+roi
+ij.gui.Roi"__id*
+
+%59
+ij.gui.Roi*
+52
+54*î
+56A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaë ë("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaë ë(
+""*º
+13A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞ ∞(@•
+¢
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞ ∞(7
+%84void"+ij.WindowManager#toFront(Ljava/awt/Frame;)V*"
+ij.WindowManager*
+	ij.ImageJ"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∞9 ∞(@
+""*„
+14A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠ Ø(Ã…
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaÆ Æ(
+%83void"-ij.ImageJ#abortPluginOrMacro(Lij/ImagePlus;)V*
+	ij.ImageJ*
+
+impij.ImagePlus2"abortPluginOrMacro(Lij/ImagePlus;)"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaØ Ø(
+""*…
+59A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaè9 è(Ix
+v
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaè5 è(I
+cmdjava.lang.String"__id*
+Next Slice [>]*
+9
+0*î
+16A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java™ ™("K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java™ ™(
+""*‡
+17A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(
+êç
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(
+%82void"ij.gui.Roi#nudge(I)V*
+
+roi
+ij.gui.Roi*
+""2nudge(I)*
+16*Ï
+18A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß(
+úô
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaß ß(
+%81void"ij.gui.Roi#nudgeCorner(I)V*
+
+roi
+ij.gui.Roi*
+""2nudgeCorner(I)*
+16*≤
+19A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¶- ¶(2_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¶5 ¶(G
+
+%80int"__id*
+""*
+17
+18*Ÿ
+160A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java™ ™(¶£
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java™ ™(	
+%1int"%java.awt.event.KeyEvent#getKeyCode()I*
+
+ejava.awt.event.KeyEvent2getKeyCode()z
+x
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java´ ´(
+
+%2void"ij.IJ#setKeyDown(I)V*	"
+ij.IJ*
+""^
+\
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java≠ ≠("	
+%3int"__id*
+""*
+
+158
+159*ï
+161A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(
+"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java© ©(
+
+""*É
+162A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java® ®(¨©
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java® ®(
+%0boolean"'java.awt.event.InputEvent#isConsumed()Z*
+
+ejava.awt.event.KeyEvent2isConsumed()*
+
+160
+161*π
+120A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŸ Ÿ(!∞
+≠
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŸ& Ÿ(B
+%37java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""Æ
+´
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŸ Ÿ(C
+%38java.lang.Object"__mapGet*'
+%
+macroShortcutsjava.util.Hashtable*
+
+%37java.lang.Integer
+}
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaŸ Ÿ(C
+cmdjava.lang.String"__id*
+
+%38java.lang.Object*
+
+116
+117*_
+0 "X
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¡ ¡(
+implicit return*∂
+122A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java÷ ÷(#£
+†
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java÷ ÷(7
+%35java.util.Hashtable"1ij.Menus#getMacroShortcuts()Ljava/util/Hashtable;*"
+
+ij.Menusë
+é
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java÷ ÷(8%
+macroShortcutsjava.util.Hashtable"__id*
+
+%35java.util.Hashtable†ù
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java◊ ◊(
+
+%36int"java.util.Hashtable#size()I*'
+%
+macroShortcutsjava.util.Hashtable2size()*
+116
+119
+120*¥
+1A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaº º(«ƒ
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaº º(
+%105void"(ij.ImageJ#doCommand(Ljava/lang/String;)V*
+	ij.ImageJ*
+
+cmdjava.lang.String2doCommand(Ljava/lang/String;)ë
+é
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaΩ Ω(/
+%106long"%java.lang.System#currentTimeMillis()J*"
+java.lang.Systemà
+Ö
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaæ æ(
+	ij.ImageJ"
+lastKeyCommand"__id*
+
+cmdjava.lang.String*
+0*õ
+2A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∫ ∫(Õ
+ 
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∫ ∫((
+%104void">ij.plugin.MacroInstaller#runMacroShortcut(Ljava/lang/String;)V*"
+ij.plugin.MacroInstaller*
+
+cmdjava.lang.String*
+0*œ
+3A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaπ π(
+õò
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaπ π(
+%102char"java.lang.String#charAt(I)C*
+
+cmdjava.lang.String*2 2	charAt(I)a
+_
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaπ π(2
+%103char"__id*
+""*
+2
+1*∞
+125A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaœ œ(òï
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaœ œ(#
+%34void"ij.gui.TextRoi#addChar(C)V*
+
+roi
+ij.gui.Roi*
+""2
+addChar(C)"K
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java– –(
+""*î
+5A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∑1 ∑(4∆√
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∑1 ∑(C
+%101boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Draw2equals(Ljava/lang/Object;)*
+3*ó
+6A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∑ ∑( ∆√
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∑ ∑(/
+%100boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Fill2equals(Ljava/lang/Object;)*
+3
+5*÷
+8A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∂ ∂(Ö
+Ç
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java∂ ∂(
+	ij.ImageJ"
+commandName"__id*
+
+cmdjava.lang.String*
+3
+6*ê
+9A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaµ µ(øº
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaµ µ("
+%99boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String* 2equals(Ljava/lang/Object;)*
+8
+0*Õ
+62A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaé8 é(L|
+z
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaé4 é(L
+cmdjava.lang.String"__id*
+Previous Slice [<]*
+9
+0*≤
+20A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¶ ¶(_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java¶ ¶($
+
+%79int"__id*
+""*
+18
+19*…
+64A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaç ç(Cx
+v
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaç' ç(;
+cmdjava.lang.String"__id*
+Reslice [/]...*
+9
+0*¬
+65A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaå å(1q
+o
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaå å()
+cmdjava.lang.String"__id*	
+Out [-]*
+9
+0*¡
+22A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java§ §(p
+n
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java§ §(
+cmdjava.lang.String"__id*
+
+In [+]*
+9
+0*¡
+66A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaã ã(1p
+n
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.javaã ã()
+cmdjava.lang.String"__id*
+
+In [+]*
+9
+0*æ
+23A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£M £(TÉ
+Ä
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£M £(`
+
+%77int"ij.gui.Toolbar#getToolId()I*"
+ij.gui.Toolbar_
+]
+A
+5/Users/edi/Development/MISO/ImageJ/src/ij/ImageJ.java£a £(o
+
+%78int"__id*
+""*
+9
+20
+22
+0:
+ejava.awt.event.KeyEventB
+	ij.ImageJ

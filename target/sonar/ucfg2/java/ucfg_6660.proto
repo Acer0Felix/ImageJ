@@ -1,0 +1,79 @@
+
+:ij.plugin.ZProjector#getMethodAsString()Ljava/lang/String;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÈ È($"1*ª
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÐ Ð("W
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÐ Ð(
+avg*­
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(*"Z
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(*
+
+median*©
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÎ Î(""V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÎ Î("
+sd*ª
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÍ Í($"W
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÍ Í($
+sum*ª
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÌ Ì($"W
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÌ Ì($
+min*ª
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaË Ë($"W
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaË Ë($
+max*ª
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÊ Ê(%"W
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÊ Ê(%
+avg*ê
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÉ É(i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÊ Ê(	
+%0int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaË Ë(	
+%1int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÌ Ì(	
+%2int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÍ Í(	
+%3int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÎ Î(	
+%4int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(	
+%5int"__id*
+""*
+2
+3
+4
+5
+6
+7
+8B
+ij.plugin.ZProjector

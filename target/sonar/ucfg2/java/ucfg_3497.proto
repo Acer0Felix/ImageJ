@@ -1,0 +1,20 @@
+
+%ij.io.RandomAccessStream#readFloat()FP
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java± ±( "1*ç
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java≤ ≤(Æ´
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java≤$ ≤(-	
+%0int"#ij.io.RandomAccessStream#readInt()I*
+ij.io.RandomAccessStream2	readInt()®
+•
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java≤ ≤(.
+%1float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+	
+%0int"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/io/RandomAccessStream.java≤ ≤(/
+""B
+ij.io.RandomAccessStream

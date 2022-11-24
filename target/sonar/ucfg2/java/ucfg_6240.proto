@@ -1,0 +1,17 @@
+
+2ij.plugin.frame.ContrastAdjuster#set16bitRange(I)IX
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaï ï( "1*î
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java÷ ÷(ª
+§
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java÷ ÷('
+
+%0void"%ij.ImagePlus#setDefault16bitRange(I)V*"
+ij.ImagePlus*
+"""b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaø ø(
+"":
+""B$""
+ ij.plugin.frame.ContrastAdjuster

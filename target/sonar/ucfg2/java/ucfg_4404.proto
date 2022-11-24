@@ -1,0 +1,39 @@
+
+ij.io.FileSaver#saveAsPng()ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java° °("3*Ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java³
+ ³("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java³ ³(
+""*ì
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java± ±(Œ‰
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java± ±(&
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+PNG*
+.png2-getPath(Ljava/lang/String;Ljava/lang/String;)†
+ƒ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.java± ±('
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*ý
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ
+ µ(ÛØ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ
+ µ(
+%1boolean".ij.io.FileSaver#saveAsPng(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsPng(Ljava/lang/String;)"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/io/FileSaver.javaµ µ(
+""B
+ij.io.FileSaver

@@ -1,0 +1,79 @@
+
+Bij.gui.TextRoi#getFontGraphics(Ljava/awt/Font;)Ljava/awt/Graphics;F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaç ç(!"3*è
+2F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaè' è((c
+a
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaè- è(G	
+%1int"__id*
+""çä
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaè è(&"
+%2java.awt.image.BufferedImage"java.awt.image.BufferedImageª
+∏
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaè è(H
+%3")java.awt.image.BufferedImage#<init>(III)V*$
+"
+%2java.awt.image.BufferedImage*2*2*
+	
+%1intõ
+ò
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaè è(I"
+bijava.awt.image.BufferedImage"__id*$
+"
+%2java.awt.image.BufferedImageÿ’
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaê ê(.
+%4java.awt.Graphics"=java.awt.image.BufferedImage#getGraphics()Ljava/awt/Graphics;*$
+"
+bijava.awt.image.BufferedImage2getGraphics()ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaê ê(."
+ij.gui.TextRoi"
+fontGraphics"__id*
+
+%4java.awt.Graphics*
+1*Ê
+3F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaé é(ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaé é(
+%0java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphics*
+2
+1*´
+1F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaí í(ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaí í(
+%5java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphics“œ
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaí í(
+
+%6void"+java.awt.Graphics#setFont(Ljava/awt/Font;)V*
+
+%5java.awt.Graphics*
+
+fontjava.awt.Font2setFont(Ljava/awt/Font;)ê
+ç
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaì
+ ì(
+%7java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphics"c
+F
+:/Users/edi/Development/MISO/ImageJ/src/ij/gui/TextRoi.javaì ì(
+
+%7java.awt.Graphics:
+fontjava.awt.FontB
+ij.gui.TextRoi

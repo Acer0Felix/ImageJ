@@ -1,0 +1,45 @@
+
+9ij.macro.Functions#saveColumnHeaders()Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java„: „:(#"1*ý	
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java…: …:(!§¤
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java…: …:(#
+%0double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()°
+­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†:$ †:(.
+%1java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.Functionsñ
+î
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†: †:(/
+%2ij.measure.ResultsTable"Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+%1java.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java†: †:(0
+rtij.measure.ResultsTable"__id*
+
+%2ij.measure.ResultsTableÉÆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‡: ‡:(
+
+%3void"-ij.measure.ResultsTable#saveColumnHeaders(Z)V*
+
+rtij.measure.ResultsTable*
+""2saveColumnHeaders(Z) 
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaˆ: ˆ:((
+ij.macro.Functions"
+unUpdatedTable"__id*
+
+rtij.measure.ResultsTable"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‰: ‰:(
+""B
+ij.macro.Functions

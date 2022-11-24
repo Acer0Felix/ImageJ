@@ -1,0 +1,68 @@
+
+-ij.Menus#validMacroName(Ljava/lang/String;Z)Z@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaó ó(&"2"4"6"8"10"1*”
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ7 õ(;ÇÄ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ7 õ(K
+%4boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.py2endsWith(Ljava/lang/String;)*
+1*˜
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ("ÈÅ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(3
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.bsh2endsWith(Ljava/lang/String;)*
+2
+1*š
+6@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(
+ÇÄ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaõ õ(
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.js2endsWith(Ljava/lang/String;)*	
+2
+4
+1*ž
+8@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô3 ô(7ÈÅ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô3 ô(H
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+2
+4
+6
+1*¢
+10@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô ô(ÈÅ
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô ô(.
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+2
+4
+6
+8
+1*‘
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô õ(L"J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Menus.javaô õ(L
+"":
+namejava.lang.String:
+""B"
+
+ij.Menus

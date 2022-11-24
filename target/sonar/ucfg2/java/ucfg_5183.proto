@@ -1,0 +1,84 @@
+
+Aij.plugin.filter.Shadows#setup(Ljava/lang/String;Lij/ImagePlus;)IN
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java ("5*÷
+2N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (π
+∂
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (6
+
+%2void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*+)
+'Shadows Demo does not work with stacks.k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java
+ (	
+%3int"__id*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (
+""*Ø
+3N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java+ (.—Œ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java+ (=
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+demo2equals(Ljava/lang/Object;)*
+2
+1*Å
+4N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (£†
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (%	
+%0int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+3
+1*è
+5N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (ô
+ñ
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (#
+ij.plugin.filter.Shadows"
+arg"__id*
+
+argjava.lang.Stringï
+í
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (#
+ij.plugin.filter.Shadows"
+imp"__id*
+
+impij.ImagePlus*
+4
+1*∑
+1N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java	 (k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (%	
+%4int"__id*
+""k
+i
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java& (6	
+%5int"__id*
+""≠
+™
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java	 (7	
+%6int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""X
+N
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Shadows.java (8
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Shadows

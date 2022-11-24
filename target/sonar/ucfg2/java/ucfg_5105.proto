@@ -1,0 +1,398 @@
+
+6ij.io.Opener#openZip(Ljava/lang/String;)Lij/ImagePlus;D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÂ Â("42*∂
+24D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÛ Û(„
+‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÛ Û(l
+%12void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*`^
+\Use roiManager(\"Open\", path) instead of open(path)\nto open ROI sets in batch mode macros.*
+22*©
+26D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ6 Ú(@“
+œ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ6 Ú(N!
+%11ij.plugin.frame.RoiManager"Dij.plugin.frame.RoiManager#getInstance()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManager*
+24
+23*Ô
+28D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ Ú($ò
+ï
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ Ú(2
+%10boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+26
+23* 
+30D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ	 Ú(t
+r
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÚ	 Ú(
+%9boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+28
+23*É
+32D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java (¨©
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java (
+
+%8void"%java.util.zip.ZipInputStream#close()V*%
+#
+zisjava.util.zip.ZipInputStream2close()*
+30
+22*Ó
+10D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ Ç(ú
+ô
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÇ Ç(
+%22void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+msgjava.lang.String*
+8*Ø
+11D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÄ Ä(X”
+–
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÄ Ä(]
+%21java.lang.String"__concat*IG
+EThis ZIP archive does not contain a TIFF or DICOM file, or ROIs:\n   *
+
+pathjava.lang.StringÉ
+Ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÄ Ä(^
+msgjava.lang.String"__id*
+
+%21java.lang.String*
+9
+10*©
+34D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ Ó(!É
+Ä
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ Ó(!
+namejava.lang.String"__id*
+
+%6java.lang.StringÃ…
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÔ Ô(
+%7boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.roi2endsWith(Ljava/lang/String;)*
+21
+32*Ä
+12D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaˇ ˇ(≠™
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaˇ ˇ(
+%20void"%java.util.zip.ZipInputStream#close()V*%
+#
+zisjava.util.zip.ZipInputStream2close()*
+11*ñ
+35D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ Ó(√¿
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÓ Ó( 
+%6java.lang.String"2java.util.zip.ZipEntry#getName()Ljava/lang/String;*!
+
+entryjava.util.zip.ZipEntry2	getName()*
+34*Œ
+13D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˝
+ ˝(}
+{
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˝ ˝(
+impij.ImagePlus"__id*
+
+dcmij.plugin.DICOM*
+7*ö
+36D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÏ Ï("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÏ Ï(
+""*•
+14D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˚ ˚(Ä
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˚ ˚(
+dcmij.plugin.DICOM"__id*
+
+%17ij.plugin.DICOMœÃ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¸ ¸(
+%19void"(ij.plugin.DICOM#run(Ljava/lang/String;)V*
+
+dcmij.plugin.DICOM*
+
+namejava.lang.String2run(Ljava/lang/String;)*
+13*ˇ
+37D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÎ Î(¨©
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÎ Î(
+
+%5void"%java.util.zip.ZipInputStream#close()V*%
+#
+zisjava.util.zip.ZipInputStream2close()*
+36*á
+15D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˚ ˚(qo
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˚ ˚(
+%17ij.plugin.DICOM"ij.plugin.DICOM¡
+æ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˚ ˚(
+%18".ij.plugin.DICOM#<init>(Ljava/io/InputStream;)V*
+
+%17ij.plugin.DICOM*%
+#
+zisjava.util.zip.ZipInputStream*
+14*Á
+38D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÈ È('ê
+ç
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÈ È('
+entryjava.util.zip.ZipEntry"__id*
+
+%4java.util.zip.ZipEntry*
+35
+37*”
+39D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË Ë(Fö
+ó
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË Ë(F#
+zisjava.util.zip.ZipInputStream"__id*$
+"
+%2java.util.zip.ZipInputStream„‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÈ È(&
+%4java.util.zip.ZipEntry"Cjava.util.zip.ZipInputStream#getNextEntry()Ljava/util/zip/ZipEntry;*%
+#
+zisjava.util.zip.ZipInputStream2getNextEntry()*
+38*§
+17D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˙ ˙(Õ 
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˙ ˙(#
+%16boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.dcm2endsWith(Ljava/lang/String;)*
+15
+12*À
+18D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˘ ˘(z
+x
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˘ ˘(
+impij.ImagePlus"__id*
+
+%15ij.ImagePlus*
+7*á
+19D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˘
+ ˘(¥±
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java˘
+ ˘(
+%15ij.ImagePlus"Lij.io.Opener#openTiff(Ljava/io/InputStream;Ljava/lang/String;)Lij/ImagePlus;*
+ij.io.Opener*%
+#
+zisjava.util.zip.ZipInputStream*
+
+namejava.lang.String21openTiff(Ljava/io/InputStream;Ljava/lang/String;)*
+18*®
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaï	 ï("]
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaï ï(
+
+impij.ImagePlus*˘
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaì ì(o
+m
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaì ì((
+%32java.lang.String"__id*
+""•
+¢
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaì ì((
+%33java.lang.String"__concat*
+
+parentjava.lang.String*
+
+%32java.lang.Stringè
+å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaì ì((#
+
+fiij.io.FileInfo"
+	directory"__id*
+
+%33java.lang.String*
+1*Õ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaè è(¨©
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaê ê(
+%30java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+fjava.io.File2	getName()é
+ã
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaê ê("
+
+fiij.io.FileInfo"
+
+fileName"__id*
+
+%30java.lang.String∞≠
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaë ë( 
+%31java.lang.String"*java.io.File#getParent()Ljava/lang/String;*
+
+fjava.io.File2getParent()Ü
+É
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaë ë(!
+parentjava.lang.String"__id*
+
+%31java.lang.String*
+2
+1*¨
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaå å(ki
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaå å(
+%27java.io.File"java.io.File≠
+™
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaå å(
+%28"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%27java.io.File*
+
+pathjava.lang.Stringx
+v
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaå å(
+fjava.io.File"__id*
+
+%27java.io.File¬ø
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaç ç()
+%29ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+impij.ImagePlus2getOriginalFileInfo()}
+{
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaç ç(*
+fiij.io.FileInfo"__id*
+
+%29ij.io.FileInfo*
+3
+1*˛
+7D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaá á(≠™
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaá á(
+%24void"%java.util.zip.ZipInputStream#close()V*%
+#
+zisjava.util.zip.ZipInputStream2close()*
+4*ô
+8D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÖ Ö("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÖ Ö(
+""*ç
+9D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÑ Ñ(º
+π
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÑ Ñ(
+%23void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+Opener*
+
+msgjava.lang.String*
+8*¥
+40D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË Ë(Eãà
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË Ë(*"
+%2java.util.zip.ZipInputStream"java.util.zip.ZipInputStream”
+–
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË Ë(E
+%3";java.util.zip.ZipInputStream#<init>(Ljava/io/InputStream;)V*$
+"
+%2java.util.zip.ZipInputStream*
+
+%0java.io.FileInputStream*
+39*ó
+41D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË? Ë(CÄ~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË/ Ë(>
+%0java.io.FileInputStream"java.io.FileInputStream¡
+æ
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaË+ Ë(D
+%1"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%0java.io.FileInputStream*
+
+pathjava.lang.String*
+40*Ω
+42D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÊ Ê(k
+i
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaÊ Ê(
+impij.ImagePlus"__id*
+""*
+41*§
+21D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¯ ¯(Õ 
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.java¯ ¯(
+%14boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.tif2endsWith(Ljava/lang/String;)*
+17
+19*ö
+22D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaˆ ˆ("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaˆ ˆ(
+""*Œ
+23D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaı ı(˚
+¯
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/io/Opener.javaı ı(?
+%13java.lang.String"Fij.IJ#runMacro(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*(&
+$roiManager(\"Open\", getArgument());*
+
+pathjava.lang.String*
+22:
+pathjava.lang.StringB
+ij.io.Opener

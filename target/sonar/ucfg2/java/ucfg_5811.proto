@@ -1,0 +1,55 @@
+
+<ij.plugin.FolderOpener#excludedFileType(Ljava/lang/String;)ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaë ë('"5"7*­
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaï ï("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaï ï(
+""*‡
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaî î(¢
+Ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaî î("
+%1java.lang.String[]"__id*-*+
+ij.plugin.FolderOpener"
+excludedTypes›
+˜
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaî î(%
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""æã
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaî î(&
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+
+%2java.lang.String2endsWith(Ljava/lang/String;)*
+3
+5*€
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaí í(¢
+Ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaí í(
+%0java.lang.String[]"__id*-*+
+ij.plugin.FolderOpener"
+excludedTypes*
+4
+1*­
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaì ì("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaì ì(
+""*­
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javañ	 ñ("X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javañ ñ(
+"":
+namejava.lang.StringB"
+ij.plugin.FolderOpener

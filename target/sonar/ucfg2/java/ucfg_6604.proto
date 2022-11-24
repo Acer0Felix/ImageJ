@@ -1,0 +1,133 @@
+
+Bij.plugin.filter.Analyzer#setup(Ljava/lang/String;Lij/ImagePlus;)IO
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaV V("9*Œ
+2O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javac c(≠
+™
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javac c(
+%9boolean")ij.plugin.filter.Analyzer#resetCounter()Z*"
+ij.plugin.filter.Analyzerm
+k
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javad
+ d(
+
+%10int"__id*
+"""Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javad d(
+""*·
+4O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaa a(	Ö
+Ç
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaa a(
+%8boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+2*≤
+5O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java` `(”–
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java` `( 
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+clear2equals(Ljava/lang/Object;)*
+4
+1*‘
+6O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java^ ^(¥±
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java^ ^(
+
+%5void"&ij.plugin.filter.Analyzer#summarize()V*
+ij.plugin.filter.Analyzer2summarize()l
+j
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java_
+ _(	
+%6int"__id*
+"""Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java_ _(
+""*∞
+7O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java] ](—Œ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java] ](
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+sum2equals(Ljava/lang/Object;)*
+5
+6*ÿ
+8O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java[ [(∏µ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java[ [(
+
+%2void"(ij.plugin.filter.Analyzer#doSetDialog()V*
+ij.plugin.filter.Analyzer2doSetDialog()l
+j
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java\
+ \(	
+%3int"__id*
+"""Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.java\ \(
+""*Ç
+9O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaW W(õ
+ò
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaW W($
+ij.plugin.filter.Analyzer"
+arg"__id*
+
+argjava.lang.Stringó
+î
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaX X($
+ij.plugin.filter.Analyzer"
+imp"__id*
+
+impij.ImagePlusó
+î
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaY Y(
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""—Œ
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaZ Z(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+set2equals(Ljava/lang/Object;)*
+7
+8*ç
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaf
+ f(m
+k
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaf
+ f(
+
+%11int"__id*
+""m
+k
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaf f(
+
+%12int"__id*
+"""Y
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Analyzer.javaf f(
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Analyzer

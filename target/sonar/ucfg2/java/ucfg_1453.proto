@@ -1,0 +1,57 @@
+
+6ij.gui.GUI#getZeroBasedMaxBounds()Ljava/awt/Rectangle;@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java| |(."7*é
+2@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java} }(#|
+z
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java} }(#(
+configjava.awt.GraphicsConfiguration"__id*
+""›
+˜
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java} }(#(
+configjava.awt.GraphicsConfiguration"
+__arrayGet*
+
+%0java.util.List*
+""*
+6
+1*­
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java€ €("d
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java€ €(
+
+boundsjava.awt.Rectangle*°
+6@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java~ ~(ØÕ
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java~ ~((
+%1java.awt.Rectangle">java.awt.GraphicsConfiguration#getBounds()Ljava/awt/Rectangle;**
+(
+configjava.awt.GraphicsConfiguration2getBounds()…
+‚
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java~ ~()
+boundsjava.awt.Rectangle"__id*
+
+%1java.awt.Rectangle*
+2
+3*ç
+7@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java}& }(6š
+—
+@
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java}& }(8
+%0java.util.List"-ij.gui.GUI#getScreenConfigs()Ljava/util/List;*"
+
+ij.gui.GUI*
+2*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java‚	 ‚("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/GUI.java‚ ‚(
+""B"
+
+ij.gui.GUI

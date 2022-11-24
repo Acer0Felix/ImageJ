@@ -1,0 +1,46 @@
+
+0ij.measure.ResultsTable$ComparableEntry#isStr()ZO
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÈ
+ È("5*⁄
+2O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ; Í(A´
+®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ; Í(A
+%2java.lang.String"__id*7*5)
+'ij.measure.ResultsTable$ComparableEntry"
+sValue–Õ
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ; Í(P
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+NaN2equals(Ljava/lang/Object;)*
+1*ä
+4O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ& Í(,´
+®
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ& Í(,
+%1java.lang.String"__id*7*5)
+'ij.measure.ResultsTable$ComparableEntry"
+sValue*
+2
+1*ˇ
+5O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ Í(ù
+ö
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ Í( 
+%0boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*	
+2
+4
+1*Ø
+1O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ Í(Q"Y
+O
+C/Users/edi/Development/MISO/ImageJ/src/ij/measure/ResultsTable.javaÍ Í(Q
+""B+)
+'ij.measure.ResultsTable$ComparableEntry

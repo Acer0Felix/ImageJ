@@ -1,0 +1,79 @@
+
+7ij.gui.Roi#getRotationCenter()Lij/process/FloatPolygon;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java∆ ∆(&"3*Ü
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (ß§
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   (
+%4double"&java.awt.geom.RectangularShape#getX()D* 
+
+rjava.awt.geom.Rectangle2D2getX()Ø¨
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java   ("
+%5double"*java.awt.geom.RectangularShape#getWidth()D* 
+
+rjava.awt.geom.Rectangle2D2
+getWidth()ß§
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À(
+%6double"&java.awt.geom.RectangularShape#getY()D* 
+
+rjava.awt.geom.Rectangle2D2getY()±Æ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÀ À(#
+%7double"+java.awt.geom.RectangularShape#getHeight()D* 
+
+rjava.awt.geom.Rectangle2D2getHeight()*
+1*Ú
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(%~|
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(#
+%0ij.process.FloatPolygon"ij.process.FloatPolygonë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(%
+%1"!ij.process.FloatPolygon#<init>()V*
+
+%0ij.process.FloatPolygonå
+â
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(&
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon–Õ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java» »("&
+%2 java.awt.geom.Rectangle2D$Double"=ij.gui.Roi#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;*
+
+ij.gui.Roi2getFloatBounds()ó
+î
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java» »(#
+rjava.awt.geom.Rectangle2D"__id*(
+&
+%2 java.awt.geom.Rectangle2D$Doubleê
+ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java… …(
+%3boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+1*Ë
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÕ Õ(∏µ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÕ Õ(
+
+%8void"%ij.process.FloatPolygon#addPoint(DD)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(DD)"d
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŒ Œ(
+
+pij.process.FloatPolygonB
+
+ij.gui.Roi

@@ -1,0 +1,92 @@
+
+$ij.ImageStack#getVoxels(IIIIII[FI)[FE
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaõ õ("16"32"1*ü
+16E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaı ı(ˆ
+…
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaı ı(
+%1java.lang.Object[]"__id**
+ij.ImageStack"
+stack’
+
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaı ı(
+%2java.lang.Object"
+__arrayGet*
+
+%1java.lang.Object[]*
+""*
+16
+10
+11
+1*ı
+32E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java÷
+ ÷(ŞÛ
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java÷
+ ÷(0
+%0float[]"#ij.ImageStack#getVoxels(IIIIII[F)[F*
+ij.ImageStack*
+""*
+""*
+""*
+""*
+""*
+""*
+""2getVoxels(IIIIII[F)"O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java÷ ÷(1
+""*ç
+10E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€: €(B°­
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€: €(K
+%5double"ij.ImageStack#getVoxel(III)D*
+ij.ImageStack*
+""*
+""*
+""2getVoxel(III)j
+h
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€: €(K	
+%3int"__id*
+
+%5doublej
+h
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€5 €(K	
+%3int"__id*
+
+%5double*
+16
+10
+11
+1*Å
+11E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€ €(g
+e
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.java€ €(4	
+%3int"__id*
+	
+%4int*
+16
+10
+11
+1*›
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ	 Š("O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaŠ Š(
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B
+ij.ImageStack

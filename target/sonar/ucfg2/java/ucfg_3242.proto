@@ -1,0 +1,91 @@
+
+4ij.macro.Functions#selectionName()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java×" ×"("7*Þ
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"(‡
+„
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"(
+%5java.lang.String"__id*
+
+%6java.lang.String*
+1*à
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"(‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"(
+%5java.lang.String"__id*
+
+namejava.lang.String*
+1*•
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ"
+ Ý"(¯¬
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ"
+ Ý"(
+%4java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()‰
+†
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÝ" Ý"(
+namejava.lang.String"__id*
+
+%4java.lang.String*
+2
+3*É
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ" Û"(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ" Û"(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp×Ô
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÛ" Û"(
+
+%3void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%2ij.macro.Interpreter*
+No selection2error(Ljava/lang/String;)*
+2
+3*ª
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ" Ø"(´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ" Ø"(
+%0ij.ImagePlus"+ij.macro.Functions#getImage()Lij/ImagePlus;*
+ij.macro.Functions2
+getImage()¤¡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ" Ø"(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%0ij.ImagePlus2getRoi(){
+y
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaØ" Ø"( 
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roiv
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÙ" Ù"(
+namejava.lang.String"__id*
+""*
+5
+6*·
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"("f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÞ" Þ"(
+
+%5java.lang.StringB
+ij.macro.Functions

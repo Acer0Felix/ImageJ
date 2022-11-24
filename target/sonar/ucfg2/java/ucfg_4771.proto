@@ -1,0 +1,307 @@
+
+0ij.io.ImportDialog#getFileInfo()Lij/io/FileInfo;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaë ë("37*í
+35J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaî î(’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaî î(
+%1java.lang.String[]"__id*!*
+ij.io.ImportDialog"
+types—
+”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaî î(+
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""Ž
+‹
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaî î(,
+	imageTypejava.lang.String"__id*
+
+%2java.lang.Stringtr
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaï ï(
+%3ij.io.FileInfo"ij.io.FileInfo‡
+„
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaï ï(
+%4"ij.io.FileInfo#<init>()V*
+
+%3ij.io.FileInfoƒ
+€
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaï ï(
+fiij.io.FileInfo"__id*
+
+%3ij.io.FileInfo“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javañ ñ(
+%5java.lang.String"__id*$*"
+ij.io.ImportDialog"
+
+fileName“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javañ ñ("
+
+fiij.io.FileInfo"
+
+fileName"__id*
+
+%5java.lang.String”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaò ò('
+%6java.lang.String"__id*%*#
+ij.io.ImportDialog"
+	directoryÆ
+Ã
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaò ò((
+%7java.lang.String"8ij.IJ#addSeparator(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+%6java.lang.String”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaò ò((#
+ij.io.ImportDialog"
+	directory"__id*
+
+%7java.lang.String”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaó ó(
+%8java.lang.String"__id*%*#
+ij.io.ImportDialog"
+	directory”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaó ó(#
+
+fiij.io.FileInfo"
+	directory"__id*
+
+%8java.lang.String*
+32*¾
+24J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‡ ‡(ßÜ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‡ ‡(.
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Unsigned2equals(Ljava/lang/Object;)*
+
+2
+22
+1*¦
+36J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaí
+ í("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaí í(
+""*¹
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‘ ‘(Ú×
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‘ ‘()
+%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+
+24-bit BGR2equals(Ljava/lang/Object;)*
+
+2
+12
+1*ƒ
+37J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaì ì(¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaì ì(
+%0boolean" ij.io.ImportDialog#showDialog()Z*
+ij.io.ImportDialog2showDialog()*
+35
+36*¼
+26J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java… …(ÝÚ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java… …(,
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Signed2equals(Ljava/lang/Object;)*
+
+24
+2
+1*À
+16J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (áÞ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (0
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+24-bit RGB Planar2equals(Ljava/lang/Object;)*
+
+2
+14
+1*¾
+28J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaƒ ƒ(ßÜ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaƒ ƒ(.
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+16-bit Unsigned2equals(Ljava/lang/Object;)*
+
+2
+26
+1*¹
+18J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (Ú×
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java ()
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+
+24-bit RGB2equals(Ljava/lang/Object;)*
+
+2
+16
+1*†
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaž ž(³°
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaž ž(%
+%25java.lang.Object"(ij.io.FileInfo#clone()Ljava/lang/Object;*
+
+fiij.io.FileInfo2clone()˜
+•
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaž ž(%&
+ij.io.ImportDialog"
+lastFileInfo"__id*
+
+%25java.lang.Object"d
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaŸ Ÿ(
+
+fiij.io.FileInfo*š
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (ž
+›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (.
+%23java.lang.String"__concat*
+ImportDialog: *
+
+fiij.io.FileInfo¢
+Ÿ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (/
+%24void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%23java.lang.String*
+1*¶
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java™ ™(ÜÙ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java™ ™(+
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+1-bit Bitmap2equals(Ljava/lang/Object;)*
+2
+1*¸
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java— —(ÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java— —(*
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit ABGR2equals(Ljava/lang/Object;)*	
+2
+6
+1*¼
+30J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (ÝÚ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java (,
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+16-bit Signed2equals(Ljava/lang/Object;)*
+
+2
+28
+1*º
+20J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‹ ‹(ÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‹ ‹(*
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+64-bit Real2equals(Ljava/lang/Object;)*
+
+2
+18
+1*³
+32J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaú ú(ÔÑ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.javaÿ ÿ(
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*	
+8-bit2equals(Ljava/lang/Object;)*
+
+2
+30
+1*¹
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java• •(ÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java• •(*
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit ARGB2equals(Ljava/lang/Object;)*	
+2
+8
+1*º
+22J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‰ ‰(ÛØ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java‰ ‰(*
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Real2equals(Ljava/lang/Object;)*
+
+2
+20
+1*½
+12J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java“ “(ÞÛ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/io/ImportDialog.java“ “(-
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+24-bit Integer2equals(Ljava/lang/Object;)*
+
+2
+10
+1B
+ij.io.ImportDialog

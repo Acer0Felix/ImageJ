@@ -1,0 +1,228 @@
+
+.ij.macro.Interpreter#numericStringFunction(I)ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∏	 ∏	(&"19*»
+13L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	G Ω	(Kj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	M Ω	(P
+
+%12int"__id*
+""*
+10
+12*»
+14L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	9 Ω	(=j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	? Ω	(E
+
+%11int"__id*
+""*
+13
+10*»
+15L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	- Ω	(1j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	3 Ω	(7
+
+%10int"__id*
+""*
+14
+10*«
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	 Ω	(#i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	% Ω	(+	
+%9int"__id*
+""*
+15
+10*é
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaª	 ª	(í
+è
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaª	 ª	(
+%3ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmi
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaª	 ª	((	
+%4int"__id*
+""í
+è
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº	 º	(
+%5ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmï
+í
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº	 º	(
+%6ij.macro.Symbol[]"__id*#*!
+
+%5ij.macro.Program"
+tableó
+î
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaº	 º	(
+%7ij.macro.Symbol"
+__arrayGet*
+
+%6ij.macro.Symbol[]*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	 Ω	(	
+%8int"__id*
+""*
+16
+10*™
+18L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∫	
+ ∫	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java∫	 ∫	(
+""*«
+19L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ	 π	(
+í
+è
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ	 π	(
+
+%0ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmi
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ	 π	(	
+%1int"__id*
+""i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaπ	  π	(/	
+%2int"__id*
+""*
+17
+18*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java√		 √	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java√	 √	(
+""*©
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬	
+ ¬	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬	 ¬	(
+""*€
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	P ¡	(Sì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	P ¡	(S
+%21ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	g ¡	(v
+
+%22int"__id*
+""*
+2
+1*Ô
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	6 ¡	(9ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	6 ¡	(9
+%20ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm*
+3
+1*Ô
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	 ¡	(!ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	 ¡	(!
+%19ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm*
+4
+1*Ô
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	 ¡	(	ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¡	 ¡	(	
+%18ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm*
+5
+1*©
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿	
+ ¿	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¿	 ¿	(
+""*€
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø	 ø	("ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø	 ø	("
+%16ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgmj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø	6 ø	(E
+
+%17int"__id*
+""*
+6
+7*Ô
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø	 ø	(	ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaø	 ø	(	
+%15ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm*
+6
+8*™
+10L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ	
+ æ	("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaæ	 æ	(
+""*«
+11L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	^ Ω	(bj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	d Ω	(k
+
+%14int"__id*
+""*
+9
+10*»
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	R Ω	(Vj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.javaΩ	X Ω	(\
+
+%13int"__id*
+""*
+10
+11:
+""B
+ij.macro.Interpreter

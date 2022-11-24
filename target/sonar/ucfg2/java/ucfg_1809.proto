@@ -1,0 +1,64 @@
+
+0ij.plugin.frame.LineWidthAdjuster#isSplineFit()ZY
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaè	 è("7*√
+2Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaî+ î(0"c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaî$ î(1
+""*√
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaì ì("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaì ì(
+""*Æ
+5Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(¥±
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ã
+à
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*	
+2
+4
+1*√
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaë ë("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaë ë(
+""*µ
+7Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(∫
+∑
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerè
+å
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+5
+6*˘
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï ï(≥∞
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï	 ï((
+%2boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+roi
+ij.gui.Roi2isSplineFit()"c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï ï()
+""B%#
+!ij.plugin.frame.LineWidthAdjuster

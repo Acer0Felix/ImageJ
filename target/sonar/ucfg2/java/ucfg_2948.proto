@@ -1,0 +1,65 @@
+
+/ij.plugin.ScaleBar#getVUnit()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÚ Ú("3*Õ
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÝ Ý(h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÝ Ý(
+
+%4char"__id*
+""†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÝ Ý(
+%5java.lang.String"__concat*
+
+
+%4char*
+m‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÝ Ý(
+vUnitsjava.lang.String"__id*
+
+%5java.lang.String*
+1*ä
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(Š
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(
+%0ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+impÌÉ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(&
+%1ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%0ij.ImagePlus2getCalibration()ÊÇ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(2
+%2java.lang.String"4ij.measure.Calibration#getYUnits()Ljava/lang/String;*
+
+%1ij.measure.Calibration2getYUnits()‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÛ Û(3
+vUnitsjava.lang.String"__id*
+
+%2java.lang.StringÓÐ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÜ Ü(
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+vUnitsjava.lang.String*	
+microns2equals(Ljava/lang/Object;)*
+2
+1*»
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÞ	 Þ("j
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaÞ Þ(
+
+vUnitsjava.lang.StringB
+ij.plugin.ScaleBar

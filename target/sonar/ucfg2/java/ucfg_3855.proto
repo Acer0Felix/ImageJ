@@ -1,0 +1,85 @@
+
+Cij.WindowManager#getImageWindow(Ljava/lang/String;)Ljava/awt/Frame;H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¥ ¥('"10*ñ
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¬ ¬(¹¶
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¬ ¬(
+%7ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()"f
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¬ ¬(
+
+%7ij.gui.ImageWindow*î
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java« «(³°
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java« «(
+%5java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()ÝÚ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java« «($
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+titlejava.lang.String2equals(Ljava/lang/Object;)*	
+3
+5
+1*…
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java© ©(«
+¨
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java© ©(%
+%4ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""}
+{
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java© ©(&
+impij.ImagePlus"__id*
+
+%4ij.ImagePlus*	
+4
+5
+1*Á
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java§% §(&j
+h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java§% §(&	
+%1int"__id*
+	
+%3int*
+5
+1*Á
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java§ §(j
+h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java§ §($	
+%1int"__id*
+	
+%2int*
+5
+1*é
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¦ ¦(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¦ ¦(
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+8
+9*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¯	 ¯("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/WindowManager.java¯ ¯(
+"":
+titlejava.lang.StringB"
+ij.WindowManager

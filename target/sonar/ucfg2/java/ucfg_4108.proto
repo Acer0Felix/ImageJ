@@ -1,0 +1,57 @@
+
+2ij.gui.PointRoi#getCountsTitle()Ljava/lang/String;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaã ã("4*ÿ
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå- å(/Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå- å(/
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*ì
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(!Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(!
+%4ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp±Æ
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(,
+%2java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%4ij.ImagePlus2
+getTitle()Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(,
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*€
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå	 å(Ñ
+Å
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(
+%0ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp*
+2
+3*…
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå	 å(0ï
+í
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå	 å(0
+%5java.lang.String"__concat*	
+Counts_*
+
+%1java.lang.String"c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/PointRoi.javaå å(1
+
+%5java.lang.StringB
+ij.gui.PointRoi

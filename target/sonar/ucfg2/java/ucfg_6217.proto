@@ -1,0 +1,92 @@
+
+Qij.plugin.frame.ContrastAdjuster#setup(Lij/ImagePlus;)Lij/process/ImageProcessor;X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÃ Ã("7*Ä
+2X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaË Ë(ßÜ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaË Ë(
+
+%7void"Zij.plugin.frame.ContrastAdjuster#setupNewImage(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor28setupNewImage(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+1*ä
+5X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÆ Æ(ÝÚ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÆ Æ((
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()§
+¤
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÆ Æ()
+ipij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor£ 
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÇ Ç(	
+%3int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()³°
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÈ È(#	
+%4int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()u
+s
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÉ É(&	
+%5int"__id*
+""Ÿœ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ Ê(	
+%6int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()*
+2
+1*‡
+6X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÅ Å(¢Ÿ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÅ Å(
+
+%1void"ij.gui.Roi#endPaste()V*
+
+roi
+ij.gui.Roi2
+endPaste()*
+5*¨
+7X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÄ Ä(³°
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÄ Ä(
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()Š
+‡
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÄ Ä(
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi*
+5
+6*þ
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ Ì(Ÿœ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ Ì(	
+%8int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()"}
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÏ Ï(!
+
+ipij.process.ImageProcessor:
+impij.ImagePlusB$"
+ ij.plugin.frame.ContrastAdjuster

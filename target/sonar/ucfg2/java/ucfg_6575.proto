@@ -1,0 +1,282 @@
+
+Vij.plugin.filter.PlugInFilterRunner#checkImagePlus(Lij/ImagePlus;ILjava/lang/String;)Z[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˚ ˚("29*…
+13[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaí í(˛
+˚
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaí í(
+%11void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaí í(*
+""*»
+24[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÅ Å(˝
+˙
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÅ Å(
+
+%3void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÅ Å()
+""*Â
+14[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaê ì(y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaë ë($
+
+%10int"__id*
+""*
+13
+7*Õ
+25[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÄ Ä(
+‡›
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÄ Ä(
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()*
+24
+8*»
+16[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaé é(˝
+˙
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaé é(
+
+%9void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaé é(*
+""*‘
+27[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˛ ˛(â
+Ü
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˛ ˛(
+
+%1void"ij.IJ#noImage()V*	"
+ij.IJ"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˛ ˛(
+""*‰
+17[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaå è(x
+v
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaç ç($	
+%8int"__id*
+""*
+16
+7*Ë
+29[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java¸ ¸( x
+v
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java¸! ¸(?	
+%0int"__id*
+""*
+25
+27
+1*»
+19[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaä ä(˝
+˙
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaä ä(
+
+%7void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaä ä(*
+""*«
+1[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaû	 û("e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaû û(
+""*¥
+2[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaú ú(Í
+Á
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaú ú(2
+%25void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+cmdjava.lang.String*!
+This command requires a stack"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaú4 ú(A
+""*ú
+3[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaõ1 õ(4±Æ
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaõ1 õ(C
+
+%24int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+2
+1*„
+4[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaõ õ(y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaõ õ()
+
+%23int"__id*
+""*
+3
+1*∏
+5[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaö ö(Ó
+Î
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaö ö(6
+%22void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+cmdjava.lang.String*%#
+!This command requires a selection"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaö8 ö(E
+""*¢
+6[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaô/ ô(2∑¥
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaô/ ô(;
+%21
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()*
+4
+5*„
+7[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaô ô(y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaô ô('
+
+%20int"__id*
+""*
+4
+6*ä
+8[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÇ Ç(ß§
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÇ Ç(
+
+%14int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÑ	 Ñ(
+
+%15int"__id*
+""y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaà	 à(
+
+%16int"__id*
+""y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaå	 å(
+
+%17int"__id*
+""y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaê	 ê(
+
+%18int"__id*
+""y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaî	 î(
+
+%19int"__id*
+""*
+14
+17
+7
+20
+11
+23*‰
+20[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaà ã(x
+v
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaâ â($	
+%6int"__id*
+""*
+7
+19*…
+10[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javañ ñ(˛
+˚
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javañ ñ(
+%13void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javañ ñ(*
+""*»
+22[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÜ Ü(˝
+˙
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÜ Ü(
+
+%5void"Cij.plugin.filter.PlugInFilterRunner#wrongType(ILjava/lang/String;)V*'"%
+#ij.plugin.filter.PlugInFilterRunner*
+""*
+
+cmdjava.lang.String"e
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÜ Ü(*
+""*Â
+11[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaî ó(y
+w
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaï ï(%
+
+%12int"__id*
+""*
+7
+10*‰
+23[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÑ á(x
+v
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÖ Ö($	
+%4int"__id*
+""*
+7
+22:
+impij.ImagePlus:
+"":
+cmdjava.lang.StringB'%
+#ij.plugin.filter.PlugInFilterRunner

@@ -1,0 +1,90 @@
+
+Dij.process.TypeConverter#convertToShort()Lij/process/ImageProcessor;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaé é(%"1*±
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaô ö("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaö ö(
+""*ÿ
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javañ ò( ÓÎ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaó	 ó(
+%7ij.process.ByteProcessor"Eij.process.TypeConverter#convertRGBToByte()Lij/process/ByteProcessor;*
+ij.process.TypeConverter2convertRGBToByte()°
+û
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaó ó("
+ij.process.TypeConverter"
+ip"__id* 
+
+%7ij.process.ByteProcessorÙÒ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaò ò(
+%8ij.process.ShortProcessor"Hij.process.TypeConverter#convertByteToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertByteToShort()"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaò ò( !
+
+%8ij.process.ShortProcessor*≈
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaî ï(!ˆÛ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaï ï( 
+%6ij.process.ShortProcessor"Iij.process.TypeConverter#convertFloatToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertFloatToShort()"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaï ï(!!
+
+%6ij.process.ShortProcessor*Ò
+5P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaí ì(¢
+ü
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaì ì(
+%5ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaì ì(!
+
+%5ij.process.ImageProcessor*√
+6P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaê ë( ÙÒ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaë ë(
+%4ij.process.ShortProcessor"Hij.process.TypeConverter#convertByteToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertByteToShort()"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaë ë( !
+
+%4ij.process.ShortProcessor*¢
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaè
+ è(m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaê ê(	
+%0int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaí í(	
+%1int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaî î(	
+%2int"__id*
+""m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javañ ñ(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6B
+ij.process.TypeConverter

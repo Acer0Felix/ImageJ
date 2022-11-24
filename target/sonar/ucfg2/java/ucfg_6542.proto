@@ -1,0 +1,74 @@
+
+@ij.macro.Program#lookupWord(Ljava/lang/String;)Lij/macro/Symbol;F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javat t("7*²
+3F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javaz z("e
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.java{ {(
+
+symbolij.macro.Symbol*Ä
+4F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javay' y(*
+Œ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javay2 y(<
+%3java.lang.String"__id*$*"
+
+symbolij.macro.Symbol"
+strÙÖ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javay' y(=
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+strjava.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*	
+3
+5
+1*å
+5F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javax x(‹
+ˆ
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javax x(
+%0ij.macro.Symbol[]"__id**
+ij.macro.Program"
+table‘
+Ž
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javax x(
+%1ij.macro.Symbol"
+__arrayGet*
+
+%0ij.macro.Symbol[]*
+""…
+‚
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javax x(
+symbolij.macro.Symbol"__id*
+
+%1ij.macro.Symbolc
+a
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javay y(#	
+%2int"__id*
+""*	
+4
+5
+1*È
+7F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javau u(s
+q
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.javau u(
+symbolij.macro.Symbol"__id*
+""*
+5
+1*
+1F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.java~	 ~("P
+F
+</Users/edi/Development/MISO/ImageJ/src/ij/macro/Program.java~ ~(
+"":
+strjava.lang.StringB
+ij.macro.Program

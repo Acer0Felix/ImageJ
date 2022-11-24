@@ -1,0 +1,687 @@
+
+<ij.plugin.filter.ImageMath#run(Lij/process/ImageProcessor;)VP
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java4 4("70"71*”
+68P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java9 9(ú
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java9 9(
+%3java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg—Œ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java9 9(
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+sub2equals(Ljava/lang/Object;)*
+66
+67*÷
+24P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javan n(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javan n(
+%57java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javan n(
+%58boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%57java.lang.String*
+sqr2equals(Ljava/lang/Object;)*
+22
+23*ï
+69P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java8 8(∑¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java8 8(
+
+%2void"!ij.process.ImageProcessor#add(D)V*!
+
+ipij.process.ImageProcessor*
+""2add(D)*
+0*å
+25P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javam m(Æ´
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javam m(
+%56void" ij.process.ImageProcessor#exp()V*!
+
+ipij.process.ImageProcessor2exp()*
+0*÷
+26P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javal l(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javal l(
+%54java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javal l(
+%55boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%54java.lang.String*
+exp2equals(Ljava/lang/Object;)*
+24
+25*å
+27P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javak k(Æ´
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javak k(
+%53void" ij.process.ImageProcessor#log()V*!
+
+ipij.process.ImageProcessor2log()*
+0*÷
+28P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaj j(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaj j(
+%51java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaj j(
+%52boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%51java.lang.String*
+log2equals(Ljava/lang/Object;)*
+26
+27*ñ
+29P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javai i(∏µ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javai i(
+%50void"!ij.process.ImageProcessor#set(D)V*!
+
+ipij.process.ImageProcessor*
+""2set(D)*
+0*”
+70P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java7 7(
+ú
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java7 7(
+
+%0java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg—Œ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java7 7(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+add2equals(Ljava/lang/Object;)*
+68
+69*≤
+71P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java6 6("Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java6 6(
+""*÷
+30P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javah h(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javah h(
+%48java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javah h(
+%49boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%48java.lang.String*
+set2equals(Ljava/lang/Object;)*
+28
+29*ö
+31P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javag g(ºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javag g(
+%47void"#ij.process.ImageProcessor#gamma(D)V*!
+
+ipij.process.ImageProcessor*
+""2gamma(D)*
+0*ï
+33P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javab b(∑
+¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javac c(4
+%46void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*&$
+"Gamma must be between 0.05 and 5.0*
+0*ü
+35P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaa
+ a(Ω∫
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaa
+ a(
+%45boolean"(ij.plugin.filter.ImageMath#previewing()Z*
+ij.plugin.filter.ImageMath2previewing()*
+0
+33*‹
+38P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java_ _(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java_ _(
+%43java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg’“
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java_ _( 
+%44boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%43java.lang.String*	
+gamma2equals(Ljava/lang/Object;)*
+35
+30
+31*¢
+39P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java^ ^(ƒ¡
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java^ ^(
+%42void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()*
+0*ö
+40P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java\ \(∏µ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java\ \(
+%41void"!ij.process.ImageProcessor#max(D)V*!
+
+ipij.process.ImageProcessor*
+""2max(D)*
+39
+0*÷
+41P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java[ [(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java[ [(
+%39java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java[ [(
+%40boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%39java.lang.String*
+max2equals(Ljava/lang/Object;)*
+38
+40*¢
+42P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaZ Z(ƒ¡
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaZ Z(
+%38void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()*
+0*ö
+43P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaX X(∏µ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaX X(
+%37void"!ij.process.ImageProcessor#min(D)V*!
+
+ipij.process.ImageProcessor*
+""2min(D)*
+42
+0*÷
+44P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaW W(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaW W(
+%35java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaW W(
+%36boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%35java.lang.String*
+min2equals(Ljava/lang/Object;)*
+41
+43*ú
+46P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaR R((æª
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaR R((
+%32void"!ij.process.ImageProcessor#xor(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%31int2xor(I)*
+0*œ
+47P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaR R(¢
+ü
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaR R($
+%30java.lang.String"__id*,**
+ij.plugin.filter.ImageMath"
+
+andValueÀ
+»
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaR R('
+
+%31int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer*
+
+%30java.lang.String*2*
+46*÷
+49P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaP P(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaP P(
+%28java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaP P(
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%28java.lang.String*
+xor2equals(Ljava/lang/Object;)*
+47
+44*ö
+51P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaK K('ºπ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaK K('
+%25void" ij.process.ImageProcessor#or(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%24int2or(I)*
+0*œ
+52P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaK K(¢
+ü
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaK K(#
+%23java.lang.String"__id*,**
+ij.plugin.filter.ImageMath"
+
+andValueÀ
+»
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaK
+ K(&
+
+%24int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer*
+
+%23java.lang.String*2*
+51*’
+54P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaI I(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaI I(
+%21java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg“œ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaI I(
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%21java.lang.String*
+or2equals(Ljava/lang/Object;)*
+49
+52*‘
+10P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java} }(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java} }(
+%70java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java} }(
+%71boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%70java.lang.String*
+nan2equals(Ljava/lang/Object;)*
+8
+9*¢
+11P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java| |(ƒ¡
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java| |(
+%69void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()*
+0*ú
+56P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaD D((æª
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaD D((
+%18void"!ij.process.ImageProcessor#and(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%17int2and(I)*
+0*œ
+57P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaD D(¢
+ü
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaD D($
+%16java.lang.String"__id*,**
+ij.plugin.filter.ImageMath"
+
+andValueÀ
+»
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaD D('
+
+%17int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer*
+
+%16java.lang.String*2*
+56*÷
+59P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaB B(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaB B(
+%14java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaB B(
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%14java.lang.String*
+and2equals(Ljava/lang/Object;)*
+57
+54*÷
+16P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javav v(∑¥
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javav v( 
+
+%67int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()π∂
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javav! v(/
+
+%68int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+16
+11*∂
+17P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javau u(◊‘
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javau u(+
+%66java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()*
+16*≤
+18P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javat t("Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javat t(
+""*Û
+19P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javas s(êç
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javas s(
+%65boolean"@ij.plugin.filter.ImageMath#isFloat(Lij/process/ImageProcessor;)Z*
+ij.plugin.filter.ImageMath*!
+
+ipij.process.ImageProcessor2$isFloat(Lij/process/ImageProcessor;)*
+17
+18*p
+0 "i
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaã ã(
+implicit return*À
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaà à(Ï
+È
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaà à(
+%83void"Cij.plugin.filter.ImageMath#applyMacro(Lij/process/ImageProcessor;)V*
+ij.plugin.filter.ImageMath*!
+
+ipij.process.ImageProcessor*
+0*€
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaá á(ü
+ú
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaá á(
+%81java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg◊‘
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaá á( 
+%82boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%81java.lang.String*	
+macro2equals(Ljava/lang/Object;)*
+0
+1*ÿ
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÑ Ñ(∞≠
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÑ Ñ(
+%79void" ij.process.ImageProcessor#abs()V*!
+
+ipij.process.ImageProcessor2abs()∆√
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÖ Ö(
+%80void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()*
+0*ú
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÅ Å(Ω
+∫
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÅ Å(6
+%78void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ**(
+&32-bit or signed 16-bit image required*
+0*õ
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÄ) Ä(,õ
+ò
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÄ) Ä(,
+%75ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+imp÷”
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÄ) Ä(=
+%76ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%75ij.ImagePlus2getCalibration()¬ø
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaÄ) Ä(M
+%77boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+%76ij.measure.Calibration2isSigned16Bit()*
+3
+4*Ÿ
+8P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java (ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java (
+%73java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg”–
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java (
+%74boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%73java.lang.String*
+abs2equals(Ljava/lang/Object;)*
+2
+3
+4
+6*Ä
+9P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java~ ~(£†
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java~ ~(
+%72void"Kij.plugin.filter.ImageMath#setBackgroundToNaN(Lij/process/ImageProcessor;)V*
+ij.plugin.filter.ImageMath*!
+
+ipij.process.ImageProcessor2/setBackgroundToNaN(Lij/process/ImageProcessor;)*
+0*†
+60P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaA A(¬ø
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaA A(
+%13void"&ij.process.ImageProcessor#multiply(D)V*!
+
+ipij.process.ImageProcessor*
+""2multiply(D)*
+0*≤
+61P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java? ?("Z
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java? ?(
+""*£
+62P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java> >(ô
+ñ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java> >(
+%11ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+imp§°
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java> >((
+
+%12int"ij.ImagePlus#getBitDepth()I*
+
+%11ij.ImagePlus2getBitDepth()*
+60
+61*ÿ
+64P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java= =(ú
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java= =(
+%9java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg“œ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java= =(
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%9java.lang.String*
+div2equals(Ljava/lang/Object;)*
+59
+60
+62*›
+20P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javar r(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javar r(
+%63java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg⁄◊
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javar r(%
+%64boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%63java.lang.String*
+
+reciprocal2equals(Ljava/lang/Object;)*
+19
+10*ü
+65P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java< <(¡æ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java< <(
+
+%8void"&ij.process.ImageProcessor#multiply(D)V*!
+
+ipij.process.ImageProcessor*
+""2multiply(D)*
+0*é
+21P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaq q(∞≠
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javaq q(
+%62void"!ij.process.ImageProcessor#sqrt()V*!
+
+ipij.process.ImageProcessor2sqrt()*
+0*”
+66P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java; ;(ú
+ô
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java; ;(
+%6java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg—Œ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java; ;(
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%6java.lang.String*
+mul2equals(Ljava/lang/Object;)*
+64
+65*◊
+22P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javap p(ù
+ö
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javap p(
+%60java.lang.String"__id*'*%
+ij.plugin.filter.ImageMath"
+arg‘—
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javap p(
+%61boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%60java.lang.String*
+sqrt2equals(Ljava/lang/Object;)*
+20
+21*ü
+67P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java: :(¡æ
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.java: :(
+
+%5void"&ij.process.ImageProcessor#subtract(D)V*!
+
+ipij.process.ImageProcessor*
+""2subtract(D)*
+0*å
+23P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javao o(Æ´
+P
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ImageMath.javao o(
+%59void" ij.process.ImageProcessor#sqr()V*!
+
+ipij.process.ImageProcessor2sqr()*
+0:
+ipij.process.ImageProcessorB
+ij.plugin.filter.ImageMath

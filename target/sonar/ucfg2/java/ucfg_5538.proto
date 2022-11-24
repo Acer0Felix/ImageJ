@@ -1,0 +1,53 @@
+
+Eij.io.FileOpener#getDouble(Ljava/util/Properties;Ljava/lang/String;)DH
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java” ”("4*Ä
+2H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java–! –($p
+n
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java–! –($
+%1double"__id*
+
+%3double*
+1*ë
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –(¤¡
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –( 
+%2double"java.lang.Double#doubleValue()D*
+
+njava.lang.Double2doubleValue()p
+n
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –( 
+%1double"__id*
+
+%2double*
+1*î
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java• •(
+Œ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java• •("
+%0java.lang.Double"Vij.io.FileOpener#getNumber(Ljava/util/Properties;Ljava/lang/String;)Ljava/lang/Double;*
+ij.io.FileOpener*
+
+propsjava.util.Properties*
+
+keyjava.lang.String„
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java• •(#
+njava.lang.Double"__id*
+
+%0java.lang.Double*
+2
+3*¡
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –(%"R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java– –(%
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB
+ij.io.FileOpener

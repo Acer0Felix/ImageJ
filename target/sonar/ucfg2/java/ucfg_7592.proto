@@ -1,0 +1,47 @@
+
+(ij.plugin.PointToolOptions#getCounter()IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java· ·(!"4*Ò
+2R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹( ¹()t
+r
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹( ¹()	
+%1int"__id*
+	
+%3int*
+1*þ
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹ ¹(©¦
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹ ¹('	
+%2int"ij.gui.PointRoi#getCounter()I*
+
+roiij.gui.PointRoi2getCounter()t
+r
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹ ¹('	
+%1int"__id*
+	
+%2int*
+1*¼
+4R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¸ ¸( É
+Æ
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¸ ¸("
+%0ij.gui.PointRoi"9ij.plugin.PointToolOptions#getPointRoi()Lij/gui/PointRoi;*"
+ij.plugin.PointToolOptionsŽ
+‹
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¸ ¸(#
+roiij.gui.PointRoi"__id*
+
+%0ij.gui.PointRoi*
+2
+3*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹ ¹(*"\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/PointToolOptions.java¹ ¹(*
+""B"
+ij.plugin.PointToolOptions

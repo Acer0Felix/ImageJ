@@ -1,0 +1,78 @@
+
+'ij.process.ImageProcessor#isColorLut()ZQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¬ ¬("9*ù
+
+7Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∆ ∆(∆√
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∆ ∆( 	
+%1int",java.awt.image.IndexColorModel#getMapSize()I*'
+%
+icmjava.awt.image.IndexColorModel2getMapSize()s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java« «("
+redsbyte[]"__id*
+""u
+s
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java» »($
+greensbyte[]"__id*
+""t
+r
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java… …(#
+bluesbyte[]"__id*
+""◊‘
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java   (
+
+%2void"+java.awt.image.IndexColorModel#getReds([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+redsbyte[]2getReds([B)›⁄
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÀ À(
+
+%3void"-java.awt.image.IndexColorModel#getGreens([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+greensbyte[]2getGreens([B)⁄◊
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÃ Ã(
+
+%4void",java.awt.image.IndexColorModel#getBlues([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+bluesbyte[]2getBlues([B)*
+1*≥
+8Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≈
+ ≈("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≈ ≈(
+""*˙
+9Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java√ √(*Î
+Ë
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java√ √(,$
+%0java.awt.image.IndexColorModel"Nij.process.ImageProcessor#getIndexColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ImageProcessor´
+®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java√ √(-%
+icmjava.awt.image.IndexColorModel"__id*&
+$
+%0java.awt.image.IndexColorModel*
+7
+8*≥
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java‘	 ‘("[
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java‘ ‘(
+""B
+ij.process.ImageProcessor

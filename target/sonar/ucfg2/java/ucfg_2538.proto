@@ -1,0 +1,120 @@
+
+-ij.gui.Roi#lineCircleIntersection(DDDDDDDZ)[DB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaå å(."14*ñ
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java† †("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java† †(
+""*æ
+14B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaê ê(ä
+á
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaí í(5
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""ä
+á
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaò ò(3
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""î
+ë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaö ö(&
+%2double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+""î
+ë
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaõ õ(&
+%3double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+""â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaù ù(%
+%4double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaû û(%
+%5double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaü ü(
+%6double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+13
+12*Ê
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≠ ≠(ä
+á
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java≠ ≠(#
+%10double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""ä
+á
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÆ Æ(#
+%11double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""*
+1*Á
+9B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaß ß(â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaß ß(#
+%8double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java® ®(#
+%9double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""*
+5
+1*‡
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java° °(ä
+á
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java° °(5
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*	
+5
+9
+1*∂
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¥ ¥(û
+õ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¥ ¥(2
+%12double[]"java.util.Arrays#copyOf([DI)[D*"
+java.util.Arrays*
+""*
+"""L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaµ µ(
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B"
+
+ij.gui.Roi

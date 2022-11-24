@@ -1,0 +1,34 @@
+
+0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaÜ Ü("2"1*õ
+2E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaà
+ à("O
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaà à(
+""*Õ
+1E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaä
+ ä(à
+Ö
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaä
+ ä(
+%0java.lang.String[]"__id**
+ij.ImageStack"
+labelí
+è
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaä
+ ä(
+%1java.lang.String"
+__arrayGet*
+
+%0java.lang.String[]*
+"""a
+E
+9/Users/edi/Development/MISO/ImageJ/src/ij/ImageStack.javaä ä(
+
+%1java.lang.String:
+""B
+ij.ImageStack

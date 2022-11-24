@@ -1,0 +1,40 @@
+
+<ij.text.TextPanel#getResultsTable()Lij/measure/ResultsTable;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÉ É($"2"1*µ
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÊ Ê(’
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÊ/ Ê(1
+%0ij.measure.ResultsTable"__id**
+ij.text.TextPanel"
+rt¨
+¥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÊ Ê(1
+%1java.lang.String"__concat*
+getResultsTable: *
+
+%0ij.measure.ResultsTableŸ
+œ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaÊ Ê(2
+
+%2void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%1java.lang.String*
+1*Ñ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaË	 Ë(’
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaË	 Ë(
+%3ij.measure.ResultsTable"__id**
+ij.text.TextPanel"
+rt"l
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/text/TextPanel.javaË Ë(
+
+%3ij.measure.ResultsTableB
+ij.text.TextPanel

@@ -1,0 +1,73 @@
+
+)ij.plugin.CalibrationBar#getFontHeight()IP
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java‚ ‚("2"3*½
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ$ ƒ((m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ$ ƒ(.	
+%2int"__id*
+""r
+p
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ$ ƒ(.	
+%0int"__id*
+	
+%2int*
+1*½
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ ƒ(m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ ƒ(#	
+%1int"__id*
+""r
+p
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ ƒ(#	
+%0int"__id*
+	
+%1int*
+1*Æ	
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.javaƒ ƒ(/xv
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java„ „(
+%3java.awt.Font"java.awt.Font¾
+»
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java„ „(E
+%4"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%3java.awt.Font*
+	SansSerif*
+""*
+""‰
+†
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java„ „(F
+fontjava.awt.Font"__id*
+
+%3java.awt.Fontø
+õ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java… …(,
+%5java.awt.FontMetrics"Nij.plugin.CalibrationBar#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;*
+ij.plugin.CalibrationBar*
+
+fontjava.awt.Fontš
+—
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java… …(-
+metricsjava.awt.FontMetrics"__id*
+
+%5java.awt.FontMetrics³°
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java†	 †(	
+%6int"!java.awt.FontMetrics#getHeight()I*!
+
+metricsjava.awt.FontMetrics2getHeight()"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java† †(
+""B
+ij.plugin.CalibrationBar

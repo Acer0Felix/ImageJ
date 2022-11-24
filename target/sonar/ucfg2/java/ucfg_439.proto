@@ -1,0 +1,96 @@
+
+Nij.macro.Tokenizer#addSpacesToEmptyLines(Ljava/lang/String;)Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java˜ ˜(%"8*Ù
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaŸ Ÿ(ÿü
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaŸ Ÿ(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+6
+1*ƒ
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaž ž(!¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaž ž(.
+
+%5char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)*	
+3
+6
+1*ä
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaœ œ(¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaœ œ(
+
+%3char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)ÞÛ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java (
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)*	
+4
+6
+1*³
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java™ ™((‡„
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java™ ™(&
+%0java.lang.StringBuilder"java.lang.StringBuilder™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java™ ™((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java™ ™()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder›˜
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.javaš š(	
+%2int"java.lang.String#length()I*
+
+pgmjava.lang.String2length()*
+6
+1*”
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java¡ ¡(¦£
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java¡ ¡(
+
+%7char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)äá
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java¡ ¡(
+%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+
+%7char2	append(C)ÊÇ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java¢	 ¢(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Tokenizer.java¢ ¢(
+
+%9java.lang.String:
+pgmjava.lang.StringB
+ij.macro.Tokenizer

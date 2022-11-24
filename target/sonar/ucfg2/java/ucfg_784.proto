@@ -1,0 +1,47 @@
+
+Bij.gui.GenericDialog#makeLabel(Ljava/lang/String;)Ljava/awt/Label;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaß ß("3*ÿ
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaá á(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaá á(
+%1java.lang.String"__concat*
+
+labeljava.lang.String*
+ Œ
+‰
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaá á(
+labeljava.lang.String"__id*
+
+%1java.lang.String*
+1*Ü
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaà à(€
+~
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaà à(
+%0boolean"ij.IJ#isMacintosh()Z*	"
+ij.IJ*
+2
+1*ì
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaâ â(vt
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaâ â(
+%2java.awt.Label"java.awt.Label¸
+µ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaâ	 â(
+%3"*java.awt.Label#<init>(Ljava/lang/String;)V*
+
+%2java.awt.Label*
+
+labeljava.lang.String"f
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaâ â(
+
+%2java.awt.Label:
+labeljava.lang.StringB
+ij.gui.GenericDialog

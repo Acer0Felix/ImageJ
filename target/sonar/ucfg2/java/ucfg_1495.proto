@@ -1,0 +1,16 @@
+
+=ij.plugin.ControlPanel#getTreeCommands()Ljava/util/Hashtable;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaê ê("1*ç
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaë	 ë(¢
+Ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaë	 ë(
+%0java.util.Hashtable"__id*,**
+ij.plugin.ControlPanel"
+treeCommands"m
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaë ë(
+
+%0java.util.HashtableB
+ij.plugin.ControlPanel

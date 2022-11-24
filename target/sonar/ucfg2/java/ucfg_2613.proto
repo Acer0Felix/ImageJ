@@ -1,0 +1,53 @@
+
+ij.gui.Roi#getStrokeWidth()FB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’("5*¶
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“C “(Eh
+f
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“C “(E
+%1float"__id*
+
+%3float*
+1*é
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“- “(3…
+‚
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“- “(3
+%4java.awt.BasicStroke"__id**
+
+ij.gui.Roi"
+stroke¨¥
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“- “(B
+%2float"$java.awt.BasicStroke#getLineWidth()F*
+
+%4java.awt.BasicStroke2getLineWidth()h
+f
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“- “(B
+%1float"__id*
+
+%2float*
+1*×
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“
+ “(…
+‚
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“
+ “(
+%0java.awt.BasicStroke"__id**
+
+ij.gui.Roi"
+stroke*
+2
+3*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(F"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(F
+""B
+
+ij.gui.Roi

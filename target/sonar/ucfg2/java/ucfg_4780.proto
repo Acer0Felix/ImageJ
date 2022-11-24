@@ -1,0 +1,294 @@
+
+8ij.plugin.Resizer#zScale(Lij/ImagePlus;II)Lij/ImagePlus;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaœ œ("18*˘
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java€ €(≠™
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java€ €((
+%6double""ij.ImagePlus#getDisplayRangeMin()D*
+
+impij.ImagePlus2getDisplayRangeMin()≠™
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‹ ‹((
+%7double""ij.ImagePlus#getDisplayRangeMax()D*
+
+impij.ImagePlus2getDisplayRangeMax()∫∑
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java› ›(!
+
+%8void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+imp2ij.ImagePlus*
+""*
+""2setDisplayRange(DD)*
+7
+10
+12*§
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java⁄ ⁄("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java⁄ ⁄(
+""*‡
+16I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‘ ‘()f
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‘* ‘(2	
+%2int"__id*
+""ûõ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java÷ ÷(%	
+%3int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()úô
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java◊ ◊(#	
+%4int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()€
+ÿ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÿ
+ ÿ(5
+%5ij.ImagePlus"9ij.plugin.Resizer#resizeZ(Lij/ImagePlus;II)Lij/ImagePlus;*
+ij.plugin.Resizer*
+
+impij.ImagePlus*
+""*
+""
+}
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÿ ÿ(5
+imp2ij.ImagePlus"__id*
+
+%5ij.ImagePlus*
+14
+15*ƒ
+17I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java“
+ “(‰
+·
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java“
+ “(>
+%1ij.ImagePlus"Bij.plugin.Resizer#zScaleHyperstack(Lij/ImagePlus;II)Lij/ImagePlus;*
+ij.plugin.Resizer*
+
+impij.ImagePlus*
+""*
+""
+}
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java“ “(>
+imp2ij.ImagePlus"__id*
+
+%1ij.ImagePlus*
+7
+10
+12*Ò
+18I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java– –(q
+o
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java– –(
+imp2ij.ImagePlus"__id*
+""¢ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java— —(
+%0boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*
+16
+17*≥
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java	 ("c
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java (
+
+imp2ij.ImagePlus*ø
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÔ Ô(£†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÔ Ô(.
+%28boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()√¿
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÔ Ô(/
+%29void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+imp2ij.ImagePlus*
+
+%28boolean2setOpenAsHyperStack(Z)*
+1*∏
+3I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÌ Ì(–Õ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÌ Ì(/
+%25java.lang.String[]"6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;*
+
+impij.ImagePlus2getPropertiesAsArray()Ê„
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÌ Ì(0
+%26void"0ij.ImagePlus#setProperties([Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+
+%25java.lang.String[]2"setProperties([Ljava/lang/String;)£†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÓ Ó(
+%27boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*
+2
+1*„
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÏ Ï(çä
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÏ Ï(0
+%24void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp2ij.ImagePlus*
+Info*
+
+infojava.lang.Object21setProperty(Ljava/lang/String;Ljava/lang/Object;)*
+3*Œ
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÎ Î(ÈÊ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÎ Î('
+%23java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)â
+Ü
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÎ Î((
+infojava.lang.Object"__id*
+
+%23java.lang.Object*
+3
+4*ê
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÍ Í(õò
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÍ. Í(>
+
+%21int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()úô
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÍ? Í(P
+
+%22int"ij.ImagePlus#getNSlices()I*
+
+imp2ij.ImagePlus2getNSlices()*
+5*µ
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaË Ë(Õ 
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaË Ë(*
+%17ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()ˆÛ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaË Ë(+
+%18void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%17ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)ŒÀ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÈ È()
+%19ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()î
+ë
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÈ È(*
+calij.measure.Calibration"__id*
+
+%19ij.measure.Calibration´®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÍ Í(
+%20boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+5
+6*¿
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÊ Ê(œÃ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÊ Ê(" 
+%14ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()«ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÊ Ê(+
+%15ij.process.LUT"2ij.process.ImageProcessor#getLut()Lij/process/LUT;*"
+ 
+%14ij.process.ImageProcessor2getLut()ŒÀ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.javaÊ Ê(,
+%16void"&ij.ImagePlus#setLut(Lij/process/LUT;)V*
+
+imp2ij.ImagePlus*
+
+%15ij.process.LUT2setLut(Lij/process/LUT;)*
+7*è
+9I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java„ „("öó
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java„$ „(C
+
+%10int"ij.CompositeImage#getMode()I*
+
+impij.ImagePlus2	getMode()zx
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java„ „(
+%11ij.CompositeImage"ij.CompositeImage√
+¿
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java„ „(D
+%12"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%11ij.CompositeImage*
+
+imp2ij.ImagePlus*
+
+
+%10intÜ
+É
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java„ „(D
+imp2ij.ImagePlus"__id*
+
+%11ij.CompositeImage—Œ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‰ ‰((
+%13void"+ij.CompositeImage#copyLuts(Lij/ImagePlus;)V*
+
+imp2ij.ImagePlus*
+
+impij.ImagePlus2copyLuts(Lij/ImagePlus;)*
+7*˙
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‚ ‚(
+†ù
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‚ ‚(
+%9boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+8
+9*§
+12I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‡
+ ‡("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Resizer.java‡ ‡(
+"":
+impij.ImagePlus:
+"":
+""B
+ij.plugin.Resizer

@@ -1,0 +1,49 @@
+
+)ij.gui.ShapeRoi#trySimplify()Lij/gui/Roi;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‡ ‡("4*Ë
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(!x
+v
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(!
+%1
+ij.gui.Roi"__id*
+
+roi
+ij.gui.Roi*
+1*Ï
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(|
+z
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(
+%1
+ij.gui.Roi"__id*
+
+%2ij.gui.ShapeRoi*
+1*ü
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaˆ ˆ(«¨
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaˆ ˆ(
+%0
+ij.gui.Roi"(ij.gui.ShapeRoi#shapeToRoi()Lij/gui/Roi;*
+ij.gui.ShapeRoi2shapeToRoi()x
+v
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaˆ ˆ(
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi*
+2
+3*«
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(""]
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰("
+
+%1
+ij.gui.RoiB
+ij.gui.ShapeRoi

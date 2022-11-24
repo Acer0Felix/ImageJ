@@ -1,0 +1,121 @@
+
+Lij.gui.PlotObject#cloneArrayList(Ljava/util/ArrayList;)Ljava/util/ArrayList;C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java®" ®"(!"11*˛
+4C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java∞" ∞"(1≠
+™
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java∞" ∞"(1
+%8java.lang.Object"
+__arraySet*
+
+destjava.util.ArrayList*
+""*
+
+%7java.lang.Object*
+10*º
+5C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ" Ø"(Dô
+ñ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ" Ø"(D'
+cloneMethodjava.lang.reflect.Method"__id* 
+
+%6java.lang.reflect.Method–Õ
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java∞" ∞"(0
+%7java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*)
+'
+cloneMethodjava.lang.reflect.Method*
+
+ojava.lang.Object*!
+
+	noObjectsjava.lang.Object[]2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+4*ä
+6C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ"0 Ø"(7∫∑
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ" Ø"(C
+%6java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+%5java.lang.Class*	
+clone* 
+
+	noClassesjava.lang.Class[]2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+5*Ç
+7C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ" Ø"(≤Ø
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.javaØ" Ø"(%
+%5java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+6*Á
+9C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠" ≠"(ì
+ê
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠" ≠"(
+%4java.lang.Object"
+__arrayGet*
+
+destjava.util.ArrayList*
+""~
+|
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≠" ≠"(
+ojava.lang.Object"__id*
+
+%4java.lang.Object*
+7
+10*Î
+10C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨" ¨"(óî
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java¨" ¨"(	
+%3int"java.util.ArrayList#size()I*
+
+destjava.util.ArrayList2size()*
+9
+1*ñ
+11C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©" ©"("∂≥
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©" ©"(*
+%0java.lang.Object"-java.util.ArrayList#clone()Ljava/lang/Object;*
+
+srcjava.util.ArrayList2clone()Ö
+Ç
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java©" ©"(,
+destjava.util.ArrayList"__id*
+
+%0java.lang.Objectsq
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java™" ™"("
+%1java.lang.Class[]"java.lang.Class[]â
+Ü
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java™" ™"(#
+	noClassesjava.lang.Class[]"__id*
+
+%1java.lang.Class[]us
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java´" ´"($
+%2java.lang.Object[]"java.lang.Object[]ã
+à
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java´" ´"(%
+	noObjectsjava.lang.Object[]"__id*
+
+%2java.lang.Object[]*
+10*Æ
+1C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≥"	 ≥"("d
+C
+7/Users/edi/Development/MISO/ImageJ/src/ij/gui/Plot.java≥" ≥"(
+
+destjava.util.ArrayList:
+srcjava.util.ArrayListB
+ij.gui.PlotObject

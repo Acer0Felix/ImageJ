@@ -1,0 +1,64 @@
+
+Kij.plugin.tool.PixelInspector#getIndex(Lij/gui/Overlay;Ljava/lang/String;)IZ
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java£ £("6"7*≈
+3Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java® ®("d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java® ®(
+""*º
+4Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaß ß(ù
+ö
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaß ß(
+%1
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""æª
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaß ß($
+%2java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+%1
+ij.gui.Roi2	getName()ÓÎ
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaß ß(%
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*¿
+6Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java• •(¬ø
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java• •( 
+%0ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+
+overlayij.gui.Overlay2	toArray()ë
+é
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java• •(!
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]*
+4
+1*≈
+7Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §("d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §(
+""*≈
+1Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java™
+ ™("d
+Z
+N/Users/edi/Development/MISO/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java™ ™(
+"":
+overlayij.gui.Overlay:
+namejava.lang.StringB!"
+ij.plugin.tool.PixelInspector

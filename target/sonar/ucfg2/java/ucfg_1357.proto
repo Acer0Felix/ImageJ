@@ -1,0 +1,104 @@
+
+2ij.OtherInstance#loadPrefs()Ljava/util/Properties;H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaß ß(&"7*ó
+3H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaå å(ž›
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaå å(
+%10void"java.io.InputStream#close()V*
+
+injava.io.InputStream2close()*
+1*Ó
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã ã(G“
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã ã(G
+injava.io.InputStream"__id*#
+!
+%7java.io.BufferedInputStreamèå
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaä ä(
+
+%9void"1java.util.Properties#load(Ljava/io/InputStream;)V* 
+
+resultjava.util.Properties*
+
+injava.io.InputStream2load(Ljava/io/InputStream;)*
+3*º
+5H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã ã(FŠ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã ã(+!
+%7java.io.BufferedInputStream"java.io.BufferedInputStreamÕ
+Ò
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã ã(F
+%8":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%7java.io.BufferedInputStream*
+
+%5java.io.FileInputStream*
+4*š
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã@ ã(D…‚
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã0 ã(?
+%5java.io.FileInputStream"java.io.FileInputStream½
+º
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaã, ã(E
+%6"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%5java.io.FileInputStream*
+
+filejava.io.File*
+5*ô
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaà à(&~|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaà à($
+%0java.util.Properties"java.util.Properties‘
+Ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaà à(&
+%1"java.util.Properties#<init>()V*
+
+%0java.util.Properties‘
+Ž
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaà à('
+resultjava.util.Properties"__id*
+
+%0java.util.Properties³
+°
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaá á(*
+%2java.lang.String"6ij.OtherInstance#getPrefsDirectory()Ljava/lang/String;*"
+ij.OtherInstancenl
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaá á(
+%3java.io.File"java.io.FileÑ
+Î
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaá á(;
+%4":java.io.File#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%3java.io.File*
+
+%2java.lang.String*
+IJ_Prefs.txt~
+|
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaá á(<
+filejava.io.File"__id*
+
+%3java.io.File*
+6*»
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaç	 ç("l
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/OtherInstance.javaç ç( 
+
+resultjava.util.PropertiesB"
+ij.OtherInstance

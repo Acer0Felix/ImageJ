@@ -1,0 +1,40 @@
+
+ij.ImagePlus#getStackSize()ID
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÈ	 È	("6*Þ
+3D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(€
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(
+%1ij.ImageStack"__id**
+ij.ImagePlus"
+stackŠ‡
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(	
+%2int"ij.ImageStack#size()I*
+
+%1ij.ImageStack2size()*
+1*™
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ	
+ Ê	("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÊ	 Ê	(
+""*Ô
+6D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÉ	 É	(€
+~
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÉ	 É	(
+%0ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+3
+4*™
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ	
+ Î	("N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaÎ	 Î	(
+""B
+ij.ImagePlus

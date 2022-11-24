@@ -1,0 +1,21 @@
+
+1ij.gui.ImageCanvas#getCursorLoc()Ljava/awt/Point;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÒ Ò("1*Ç
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÓ Ó(tr
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÓ Ó(
+%0java.awt.Point"java.awt.Point™
+–
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÓ	 Ó("
+%1"java.awt.Point#<init>(II)V*
+
+%0java.awt.Point*
+""*
+"""d
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.javaÓ Ó(#
+
+%0java.awt.PointB
+ij.gui.ImageCanvas

@@ -1,0 +1,79 @@
+
+4ij.macro.Functions#renameColumn()Lij/macro/Variable;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaë9 ë9("6*÷
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò9 ò9( 
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaò9 ò9((
+ij.macro.Functions"
+unUpdatedTable"__id*
+
+rtij.measure.ResultsTable*
+1*’
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ9 ñ9(»¸
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javañ9 ñ9($
+
+%4void"Kij.measure.ResultsTable#renameColumn(Ljava/lang/String;Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*
+
+oldNamejava.lang.String*
+
+newNamejava.lang.String22renameColumn(Ljava/lang/String;Ljava/lang/String;)*
+2*Õ
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì9 ì9(!ÈÅ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì9 ì9(#
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaì9 ì9($
+oldNamejava.lang.String"__id*
+
+%0java.lang.StringÆÃ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí9 í9("
+%1java.lang.String"4ij.macro.Functions#getNextString()Ljava/lang/String;*
+ij.macro.Functions2getNextString()Œ
+‰
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaí9 í9(#
+newNamejava.lang.String"__id*
+
+%1java.lang.String°
+­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî9 î9(
+%2java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.FunctionsŠ
+‡
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaî9 î9(
+titlejava.lang.String"__id*
+
+%2java.lang.Stringô
+ñ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï9 ï9(*
+%3ij.measure.ResultsTable"Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+titlejava.lang.String•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaï9 ï9(+
+rtij.measure.ResultsTable"__id*
+
+%3ij.measure.ResultsTable*
+5*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaö9	 ö9("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaö9 ö9(
+""B
+ij.macro.Functions

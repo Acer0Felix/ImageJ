@@ -1,0 +1,75 @@
+
+9ij.plugin.frame.RoiManager#getROIs()Ljava/util/Hashtable;R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java® ®("5*â
+3R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(°
+­
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²("
+%3javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModelîë
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(+
+%4java.lang.Object">javax.swing.DefaultListModel#getElementAt(I)Ljava/lang/Object;*$
+"
+%3javax.swing.DefaultListModel*
+""2getElementAt(I)•
+’
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java²- ²(4
+%5
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""Ä
+Á
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(5
+%6java.lang.Object"__mapSet*
+
+htjava.util.Hashtable*
+
+%4java.lang.Object*
+
+%5
+ij.gui.Roi*
+3
+1*ƒ
+5R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(×Ô
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(
+%0ij.gui.Roi[]"8ij.plugin.frame.RoiManager#getRoisAsArray()[Lij/gui/Roi;*
+ij.plugin.frame.RoiManager2getRoisAsArray()‰
+†
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯( 
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]‡„
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java° °(
+%1java.util.Hashtable"java.util.Hashtable™
+–
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java° °( 
+%2"java.util.Hashtable#<init>()V*
+
+%1java.util.Hashtable•
+’
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java° °(!
+htjava.util.Hashtable"__id*
+
+%1java.util.Hashtable*
+3
+1*Ê
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java³	 ³("q
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/RoiManager.java³ ³(
+
+htjava.util.HashtableB
+ij.plugin.frame.RoiManager

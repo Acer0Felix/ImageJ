@@ -1,0 +1,203 @@
+
++ij.plugin.ScaleBar#askUserConfiguration(Z)ZJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¨	 ¨("7"8*
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java² ²(ÆÃ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java² ²(+
+%11void"-ij.plugin.ScaleBar#computeDefaultBarWidth(Z)V*
+ij.plugin.ScaleBar*
+""2computeDefaultBarWidth(Z)*
+1*„
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java± ±(%ª
+§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java± ±(%/
+%10(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config*
+2
+1*ƒ
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java± ±(©
+¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java± ±(.
+%9(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config*
+2
+4*Æ
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java° °(	©
+¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java° °(	.
+%5(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java° °(..
+%6(ij.plugin.ScaleBar$ScaleBarConfiguration"(ij.plugin.ScaleBar$ScaleBarConfiguration»
+¸
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java° °(0
+%7"2ij.plugin.ScaleBar$ScaleBarConfiguration#<init>()V*0
+.
+%6(ij.plugin.ScaleBar$ScaleBarConfigurationÙÖ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java° °(1
+
+%8void"`ij.plugin.ScaleBar$ScaleBarConfiguration#updateFrom(Lij/plugin/ScaleBar$ScaleBarConfiguration;)V*0
+.
+%5(ij.plugin.ScaleBar$ScaleBarConfiguration*0
+.
+%6(ij.plugin.ScaleBar$ScaleBarConfiguration26updateFrom(Lij/plugin/ScaleBar$ScaleBarConfiguration;)*
+5*Ó
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¯ ¯(z
+x
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¯ ¯(
+%4boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+5
+6*°
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(	©
+¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(	.
+%0(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+configv
+t
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(
+%1java.lang.String[]"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(+	
+%2int"__id*
+""œ
+™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(,
+%3java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+	
+%2int­
+ª
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java­ ­(,<
+.
+%0(ij.plugin.ScaleBar$ScaleBarConfiguration"
+
+location"__id*
+
+%3java.lang.String*
+7*ó
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java· ·(´±
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java· ·(
+%12void"%ij.plugin.ScaleBar#updateScalebar(Z)V*
+ij.plugin.ScaleBar*22updateScalebar(Z)‹
+ˆ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaº º(
+%13ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+imp 
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.javaº º(-
+
+%14int"ij.ImagePlus#getStackSize()I*
+
+%13ij.ImagePlus2getStackSize()½º
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java»' »(1
+%15java.lang.String"/ij.plugin.ScaleBar#getHUnit()Ljava/lang/String;*
+ij.plugin.ScaleBar2
+getHUnit()½º
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java»3 »(=
+%16java.lang.String"/ij.plugin.ScaleBar#getVUnit()Ljava/lang/String;*
+ij.plugin.ScaleBar2
+getVUnit()ª
+§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java»? »(E/
+%17(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+configª
+§
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java»O »(U/
+%18(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java» »(&#
+%19ij.plugin.ScaleBar$BarDialog"ij.plugin.ScaleBar$BarDialog®
+«
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java» »(n
+%20"aij.plugin.ScaleBar$BarDialog#<init>(Lij/plugin/ScaleBar;Ljava/lang/String;Ljava/lang/String;IIZ)V*%
+#
+%19ij.plugin.ScaleBar$BarDialog*
+
+%15java.lang.String*
+
+%16java.lang.String*
+""*
+""*
+""œ
+™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java» »(o
+dialogij.gui.GenericDialog"__id*%
+#
+%19ij.plugin.ScaleBar$BarDialog¢Ÿ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¼& ¼(7+
+%21$ij.plugin.ScaleBar$BarDialogListener"$ij.plugin.ScaleBar$BarDialogListenerÒ
+Ï
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¼" ¼(G
+%22"Cij.plugin.ScaleBar$BarDialogListener#<init>(Lij/plugin/ScaleBar;Z)V*-
++
+%21$ij.plugin.ScaleBar$BarDialogListener*
+""­
+ª
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¼ ¼(H'
+dialogListenerij.gui.DialogListener"__id*-
++
+%21$ij.plugin.ScaleBar$BarDialogListener—”
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java½ ½(*
+%23void"@ij.gui.GenericDialog#addDialogListener(Lij/gui/DialogListener;)V* 
+
+dialogij.gui.GenericDialog*)
+'
+dialogListenerij.gui.DialogListener2*addDialogListener(Lij/gui/DialogListener;)°­
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¾ ¾(
+%24void""ij.gui.GenericDialog#showDialog()V* 
+
+dialogij.gui.GenericDialog2showDialog()­ª
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¿	 ¿(
+%25boolean"ij.gui.GenericDialog#wasOKed()Z* 
+
+dialogij.gui.GenericDialog2	wasOKed()"T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ScaleBar.java¿ ¿(
+"":
+""B
+ij.plugin.ScaleBar

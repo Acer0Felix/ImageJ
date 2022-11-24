@@ -1,0 +1,59 @@
+
+Nij.plugin.CalibrationBar#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¢ ¢(#"1*¥
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java£& £('m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java£, £(F	
+%0int"__id*
+""—”
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java£ £(%"
+%1java.awt.image.BufferedImage"java.awt.image.BufferedImageÅ
+Â
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java£ £(G
+%2")java.awt.image.BufferedImage#<init>(III)V*$
+"
+%1java.awt.image.BufferedImage*2*2*
+	
+%0int¥
+¢
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java£ £(H"
+bijava.awt.image.BufferedImage"__id*$
+"
+%1java.awt.image.BufferedImageâß
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¤ ¤(+
+%3java.awt.Graphics"=java.awt.image.BufferedImage#getGraphics()Ljava/awt/Graphics;*$
+"
+bijava.awt.image.BufferedImage2getGraphics()Ž
+‹
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¤ ¤(,
+gjava.awt.Graphics"__id*
+
+%3java.awt.GraphicsÛØ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¥ ¥(
+
+%4void"+java.awt.Graphics#setFont(Ljava/awt/Font;)V*
+
+gjava.awt.Graphics*
+
+fontjava.awt.Font2setFont(Ljava/awt/Font;)Ž‹
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¦	 ¦(
+%5java.awt.FontMetrics"Gjava.awt.Graphics#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;*
+
+gjava.awt.Graphics*
+
+fontjava.awt.Font2getFontMetrics(Ljava/awt/Font;)"p
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/CalibrationBar.java¦ ¦( 
+
+%5java.awt.FontMetrics:
+fontjava.awt.FontB
+ij.plugin.CalibrationBar

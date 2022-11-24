@@ -1,0 +1,34 @@
+
+.ij.macro.Functions#addDrawing(Lij/ImagePlus;)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java7 7("1*À
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‘7 ‘7(•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‘7 ‘7(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp©¦
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java‘7 ‘7(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()èå
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java’7 ’7(
+
+%2void"7ij.macro.Functions#addDrawingToOverlay(Lij/ImagePlus;)V*
+ij.macro.Functions*
+
+impij.ImagePlus2#addDrawingToOverlay(Lij/ImagePlus;)j
+h
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“7	 “7(
+%3double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java“7 “7(
+"":
+impij.ImagePlusB
+ij.macro.Functions

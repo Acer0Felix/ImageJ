@@ -1,0 +1,88 @@
+
+?ij.io.FileOpener#readPixels(Lij/io/FileInfo;)Ljava/lang/Object;H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÇ Ç("12*þ
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÎ Î(!‰
+†
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÎ Î(!
+pixelsjava.lang.Object"__id*
+
+%3java.lang.Objectš
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÑ Ñ(
+
+%4void"java.io.InputStream#close()V*
+
+isjava.io.InputStream2close()*
+1*î
+7H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÍ Í(,‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÍ Í(,
+readerij.io.ImageReader"__id*
+
+%1ij.io.ImageReader‹ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÎ Î(!
+%3java.lang.Object"Eij.io.ImageReader#readPixels(Ljava/io/InputStream;)Ljava/lang/Object;*
+
+readerij.io.ImageReader*
+
+isjava.io.InputStream2!readPixels(Ljava/io/InputStream;)*
+6*‚
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÍ( Í(*xv
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÍ Í('
+%1ij.io.ImageReader"ij.io.ImageReader³
+°
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÍ Í(+
+%2"+ij.io.ImageReader#<init>(Lij/io/FileInfo;)V*
+
+%1ij.io.ImageReader*
+
+fiij.io.FileInfo*
+7*¡
+9H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÌ Ì("R
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÌ Ì(
+""*ä
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê(*‹
+ˆ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê(*
+isjava.io.InputStream"__id*
+
+%0java.io.InputStream*
+8
+9*Ý
+11H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê(%†ƒ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÊ Ê()
+%0java.io.InputStream"Iij.io.FileOpener#createInputStream(Lij/io/FileInfo;)Ljava/io/InputStream;*
+ij.io.FileOpener*
+
+fiij.io.FileInfo2#createInputStream(Lij/io/FileInfo;)*
+10*Ì
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ È(v
+t
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.javaÈ È(
+pixelsjava.lang.Object"__id*
+""*
+11*·
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java×	 ×("h
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/io/FileOpener.java× ×(
+
+pixelsjava.lang.Object:
+fiij.io.FileInfoB
+ij.io.FileOpener

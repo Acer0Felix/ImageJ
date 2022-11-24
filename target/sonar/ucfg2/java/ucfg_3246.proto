@@ -1,0 +1,76 @@
+
+0ij.macro.Functions#closeFile()Ljava/lang/String;J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¸# ¸#("5*
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½# ½#(	”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½# ½#(	
+%5java.io.PrintWriter"__id*"* 
+ij.macro.Functions"
+writerŸœ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java½# ½#(
+
+%6void"java.io.PrintWriter#close()V*
+
+%5java.io.PrintWriter2close()~
+|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¾# ¾#( 
+ij.macro.Functions"
+writer"__id*
+""*
+1*î
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¼# ¼#(”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¼# ¼#(
+%4java.io.PrintWriter"__id*"* 
+ij.macro.Functions"
+writer*
+2
+1*Ï
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java»# »#(	•
+’
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java»# »#(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpàÝ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java»# »#((
+
+%3void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%2ij.macro.Interpreter*
+Invalid file variable2error(Ljava/lang/String;)*
+3*ô
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹# ¹#(ÄÁ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹# ¹#(
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()†
+ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¹# ¹#(
+fjava.lang.String"__id*
+
+%0java.lang.StringÊÇ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaº# º#(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+fjava.lang.String*
+~0~2equals(Ljava/lang/Object;)*
+3
+4*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ#	 À#("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÀ# À#(
+""B
+ij.macro.Functions

@@ -1,0 +1,115 @@
+
+9ij.plugin.filter.Calibrator#getData(Ljava/lang/String;)[DS
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÌ
+ Ì("19*Ù
+3S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˛ ˛(ëé
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˛ ˛(
+%9double"@ij.plugin.filter.Calibrator#getNum(Ljava/util/StringTokenizer;)D*
+ij.plugin.filter.Calibrator*!
+
+stjava.util.StringTokenizer2#getNum(Ljava/util/StringTokenizer;)*
+3
+1*ô
+17S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÒ Ò(±Æ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÒ Ò(
+
+%3char"java.lang.String#charAt(I)C*
+
+xDatajava.lang.String*
+""2	charAt(I)*
+
+17
+7
+9*∑
+6S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˙ ˙("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˙ ˙(
+""*£	
+7S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaı
+ ı(—Œ
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaı
+ ı(
+%5java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()ì
+ê
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaı ı(
+xDatajava.lang.String"__id*
+
+%5java.lang.Stringîë
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˜ ˜(*
+%6java.util.StringTokenizer"java.util.StringTokenizer’
+“
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˜ ˜(1
+%7"5java.util.StringTokenizer#<init>(Ljava/lang/String;)V*!
+
+%6java.util.StringTokenizer*
+
+xDatajava.lang.String¢
+ü
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java˜ ˜(2
+stjava.util.StringTokenizer"__id*!
+
+%6java.util.StringTokenizerøº
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.java¯ ¯( 	
+%8int"(java.util.StringTokenizer#countTokens()I*!
+
+stjava.util.StringTokenizer2countTokens()*	
+3
+6
+1*Á
+19S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÓ Ó(¶£
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÓ Ó(	
+%0int"java.lang.String#length()I*
+
+xDatajava.lang.String2length()éã
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÔ Ô($
+%1java.lang.StringBuffer"java.lang.StringBuffer©
+¶
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÔ Ô()
+%2"!java.lang.StringBuffer#<init>(I)V*
+
+%1java.lang.StringBuffer*
+""ú
+ô
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÔ Ô(*
+sbjava.lang.StringBuffer"__id*
+
+%1java.lang.StringBuffer*
+17
+7*«
+9S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÛ Û(„‡
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÛ Û(
+%4java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+""2	append(C)*
+17
+7*∑
+1S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÄ	 Ä("]
+S
+G/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Calibrator.javaÄ Ä(
+"":
+xDatajava.lang.StringB
+ij.plugin.filter.Calibrator

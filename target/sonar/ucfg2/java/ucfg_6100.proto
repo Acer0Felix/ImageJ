@@ -1,0 +1,166 @@
+
+@ij.measure.Minimizer#initializeSimplex([[D[DLjava/util/Random;)ZL
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaª ª(%"36"48"49"5"6"8"33"1*ı
+46L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java¿" ¿((ö
+ó
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java¿" ¿(5
+%4boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+44*™
+36L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÃ Ã( "V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÃ Ã(!
+""*Ë
+48L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaø) ø(,ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaø/ ø(C
+%3double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaø) ø(C
+%0double"__id*
+
+%2double*
+46
+44*“
+49L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaø ø(#t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaø ø(&
+%0double"__id*
+
+%1double*
+46
+44*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÌ Ì("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÌ Ì(
+""*”
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍK Í(Qj
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍU Í(m
+
+%13int"__id*
+""*
+36
+5
+6
+8
+33
+1*”
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍ6 Í(<j
+h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍ@ Í(G
+
+%12int"__id*
+""*
+3
+36
+5
+6
+8
+33*∑
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍ Í(£
+†
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍ" Í(0
+%10double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""§
+°
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÍ Í(1
+%11boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%10double*
+36
+4
+5
+6
+8
+33
+1*¸
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÈ È(£
+†
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaÈ È(!
+
+%9void""ij.measure.Minimizer#evaluate([D)V*
+ij.measure.Minimizer*
+""*
+5*
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaË Ë(î
+ë
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.javaË9 Ë(J
+%8double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+6
+8*Ü
+43L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java√ √(ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java√ √(2
+%6double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+36
+48
+49
+5
+6
+8
+33
+1*ä
+44L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java¬ ¬(ì
+ê
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java¬ ¬(*
+%5double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""* 
+36
+48
+49
+5
+6
+8
+43
+33
+1*å
+33L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java” ”(®•
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/measure/Minimizer.java”# ”(5
+%7float"java.util.Random#nextFloat()F*
+
+randomjava.util.Random2nextFloat()*
+5
+6
+8
+33:
+"":
+"":
+randomjava.util.RandomB
+ij.measure.Minimizer

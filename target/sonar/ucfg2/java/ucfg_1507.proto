@@ -1,0 +1,35 @@
+
+Cij.plugin.ControlPanel#hasPanelShowingProperty(Ljava/lang/String;)ZN
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.javaŸ	 Ÿ( "1*Œ
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java⁄ ⁄(àÖ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java⁄ ⁄(
+%0java.lang.String"Eij.plugin.ControlPanel#pStr2Key(Ljava/lang/String;)Ljava/lang/String;*
+ij.plugin.ControlPanel*
+
+itemjava.lang.String2pStr2Key(Ljava/lang/String;)ä
+á
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java⁄ ⁄(
+sjava.lang.String"__id*
+
+%0java.lang.String†
+ù
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java€	 €(
+%1java.util.Vector"__id*-*+
+ij.plugin.ControlPanel"
+visiblePanels„‡
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java€	 €("
+%2boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%1java.util.Vector*
+
+sjava.lang.String2contains(Ljava/lang/Object;)"X
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/ControlPanel.java€ €(#
+"":
+itemjava.lang.StringB
+ij.plugin.ControlPanel

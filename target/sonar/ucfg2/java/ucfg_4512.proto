@@ -1,0 +1,62 @@
+
++ij.gui.ShapeRoi#setShape(Ljava/awt/Shape;)ZG
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java≠	 ≠("3"4*ü
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∞  ∞(%"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(&
+""*∏
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(à
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape÷”
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(
+%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.awt.Shape*
+
+rhsjava.awt.Shape2equals(Ljava/lang/Object;)*
+2
+1*ü
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaØ Ø("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.javaØ Ø(
+""*Å
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java±
+ ±(â
+Ü
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java± ±(
+ij.gui.ShapeRoi"
+shape"__id*
+
+rhsjava.awt.Shapeà
+Ö
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥(
+%2java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeª∏
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥($
+%3java.awt.Rectangle".java.awt.Shape#getBounds()Ljava/awt/Rectangle;*
+
+%2java.awt.Shape2getBounds()ä
+á
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥(%
+rectjava.awt.Rectangle"__id*
+
+%3java.awt.Rectangle"Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/ShapeRoi.java∂ ∂(
+"":
+rhsjava.awt.ShapeB
+ij.gui.ShapeRoi

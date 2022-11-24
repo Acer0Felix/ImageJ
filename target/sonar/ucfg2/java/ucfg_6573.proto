@@ -1,0 +1,31 @@
+
+Çij.plugin.filter.PlugInFilterRunner#duplicateProcessor(Lij/process/ImageProcessor;Ljava/awt/Rectangle;)Lij/process/ImageProcessor;[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ Á(""1*Ï
+1[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaË' Ë()Ÿ÷
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaË' Ë(1
+%0java.lang.Object"3ij.process.ImageProcessor#clone()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2clone()¢
+ü
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaË Ë(2 
+ip2ij.process.ImageProcessor"__id*
+
+%0java.lang.ObjectÑÅ
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÈ È(
+
+%1void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+roijava.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)"Å
+[
+O/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÍ Í("
+ 
+ip2ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+roijava.awt.RectangleB'%
+#ij.plugin.filter.PlugInFilterRunner

@@ -1,0 +1,82 @@
+
+Kij.process.ImageProcessor#getIndexSampleModel()Ljava/awt/image/SampleModel;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java© ©(*"3*®
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java´ ´(-ÖÇ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java´ ´(/$
+%1java.awt.image.IndexColorModel"Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ImageProcessor2getDefaultColorModel()´
+®
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java´ ´(0%
+icmjava.awt.image.IndexColorModel"__id*&
+$
+%1java.awt.image.IndexColorModel∂≥
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(?#
+%2java.awt.image.WritableRaster"`java.awt.image.IndexColorModel#createCompatibleWritableRaster(II)Ljava/awt/image/WritableRaster;*'
+%
+icmjava.awt.image.IndexColorModel*2*22"createCompatibleWritableRaster(II)®
+•
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(@#
+wrjava.awt.image.WritableRaster"__id*%
+#
+%2java.awt.image.WritableRasterıÚ
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≠ ≠($ 
+%3java.awt.image.SampleModel"Bjava.awt.image.Raster#getSampleModel()Ljava/awt/image/SampleModel;*%
+#
+wrjava.awt.image.WritableRaster2getSampleModel()Æ
+´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≠ ≠($,
+ij.process.ImageProcessor"
+sampleModel"__id*"
+ 
+%3java.awt.image.SampleModelÆ
+´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÆ Æ( 
+%4java.awt.image.SampleModel"__id*.*,
+ij.process.ImageProcessor"
+sampleModel•¢
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÆ Æ(G 
+%5java.awt.image.SampleModel"Vjava.awt.image.SampleModel#createCompatibleSampleModel(II)Ljava/awt/image/SampleModel;*"
+ 
+%4java.awt.image.SampleModel*
+""*
+""2createCompatibleSampleModel(II)Æ
+´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaÆ Æ(G,
+ij.process.ImageProcessor"
+sampleModel"__id*"
+ 
+%5java.awt.image.SampleModel*
+1*è
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java™ ™(Æ
+´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java™ ™( 
+%0java.awt.image.SampleModel"__id*.*,
+ij.process.ImageProcessor"
+sampleModel*
+2
+1*Ä
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∞	 ∞(Æ
+´
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∞	 ∞( 
+%6java.awt.image.SampleModel"__id*.*,
+ij.process.ImageProcessor"
+sampleModel"w
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java∞ ∞("
+ 
+%6java.awt.image.SampleModelB
+ij.process.ImageProcessor

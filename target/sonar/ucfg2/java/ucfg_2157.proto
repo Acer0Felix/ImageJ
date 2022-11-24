@@ -1,0 +1,109 @@
+
+>ij.macro.Interpreter#lookupLocalVariable(I)Lij/macro/Variable;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java   (#"12*›
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬	 ¬(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬	 ¬(
+%6ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack›
+˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬	 ¬(
+%7ij.macro.Variable"
+__arrayGet*
+
+%6ij.macro.Variable[]*
+""Š
+‡
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¬ ¬(
+vij.macro.Variable"__id*
+
+%7ij.macro.Variable*
+1*”
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(
+%4ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack›
+˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java« «(
+%5ij.macro.Variable"
+__arrayGet*
+
+%4ij.macro.Variable[]*
+""*	
+3
+4
+1*ž
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¥ ¥(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¥ ¥(
+%2ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack›
+˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¥ ¥(
+%3ij.macro.Variable"
+__arrayGet*
+
+%2ij.macro.Variable[]*
+""Š
+‡
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¥ ¥(
+vij.macro.Variable"__id*
+
+%3ij.macro.Variable*
+4
+1*™
+10L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¤ ¤(—
+”
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¤ ¤(
+%0ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack›
+˜
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¤ ¤(
+%1ij.macro.Variable"
+__arrayGet*
+
+%0ij.macro.Variable[]*
+""*
+4
+9
+10
+1*Ö
+12L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¢ ¢(v
+t
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java¢ ¢(
+vij.macro.Variable"__id*
+""*
+
+4
+10
+1*»
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java±	 ±(
+"h
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/macro/Interpreter.java± ±(
+
+vij.macro.Variable:
+""B
+ij.macro.Interpreter

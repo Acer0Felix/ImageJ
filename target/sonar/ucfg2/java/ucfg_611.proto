@@ -1,0 +1,45 @@
+
+Nij.process.ImageProcessor#convertToColorProcessor()Lij/process/ColorProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaƒ ƒ(."4*Ï
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java… …(ÎË
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java… …(+
+%1ij.process.ImageProcessor"Cij.process.ImageProcessor#convertToRGB()Lij/process/ImageProcessor;*
+ij.process.ImageProcessor2convertToRGB()†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java… …(+
+cpij.process.ColorProcessor"__id*!
+
+%1ij.process.ImageProcessor*
+1*Ê
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java« «(Â‚
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java« «((
+%0ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*
+ij.process.ImageProcessor2duplicate()†
+ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java« «((
+cpij.process.ColorProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+1*Ê
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≈ ≈(Ö
+Ç
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java≈ ≈(
+cpij.process.ColorProcessor"__id*
+""*
+2
+3*Œ
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java 	  ("v
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java   (!
+
+cpij.process.ColorProcessorB
+ij.process.ImageProcessor

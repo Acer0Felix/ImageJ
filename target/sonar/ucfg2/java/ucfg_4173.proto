@@ -1,0 +1,255 @@
+
+`ij.plugin.filter.ParticleAnalyzer#setThresholdLevels(Lij/ImagePlus;Lij/process/ImageProcessor;)ZY
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaŸ	 Ÿ("46*Â
+46Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java   (ÐÍ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java   ("
+%0double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()ÐÍ
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡("
+%1double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()´±
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¢ ¢(+
+%2boolean"ij.ImagePlus#isInvertedLut()Z*
+
+impij.ImagePlus2isInvertedLut()*
+41*€
+24Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀN À(P˜
+•
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀN À(P
+%11java.lang.String"__id*
+
+%13java.lang.String*
+23*€
+25Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀ, À(M˜
+•
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀ, À(M
+%11java.lang.String"__id*
+
+%12java.lang.String*
+23*Ç
+38Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java® ®(Û
+Ø
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ °(/
+%6java.lang.String"__concat*,*
+(A threshold has not been set using the\n*+)
+'Image->Adjust->Threshold tool or the \nÅ
+Â
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ±(-
+%7java.lang.String"__concat*
+
+%6java.lang.String*)'
+%setThreshold(min,max) macro function.Ú
+×
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java® ±(.
+
+%8void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Particle Analyzer*
+
+%7java.lang.String"c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java³ ³(
+""*á
+17Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ Ì(w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÌ Ì(
+
+%20int"__id*
+""*
+9
+12*Ã
+1Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaá	 á("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaá á(
+""*£
+4Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÜ Ü(½
+º
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÜ Ü( 
+%26ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+1*¦
+6Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÚ Ú(½
+º
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÚ Ú( 
+%25ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+4
+1*¦
+8Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ Ø(½
+º
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ Ø( 
+%24ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+6
+1*¦
+9Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÖ Ö(½
+º
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java× ×( 
+%23ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+8
+1*ü
+40Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java« «(èå
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(1 
+%4ij.process.ImageStatistics";ij.ImagePlus#getRawStatistics()Lij/process/ImageStatistics;*
+
+impij.ImagePlus2getRawStatistics()­
+ª
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(2#
+statsij.process.ImageStatistics"__id*"
+ 
+%4ij.process.ImageStatisticsv
+t
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java­ ­(	
+%5int"__id*
+""*
+38
+34*ä
+41Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaª ª(y
+w
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaª
+ ª(%
+%3double"__id*
+""*
+40
+22*Ä
+10Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÔ Ô("c
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÔ Ô(
+""*á
+22Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÅ Å(w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ Ç(
+
+%19int"__id*
+""*
+17
+9*ß
+11Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÒ Ò(y
+w
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÒ Ò(!
+%22float"__id*
+""*
+9*å
+33Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¾ ¾('w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¾) ¾(-
+
+%10int"__id*
+""*
+24
+25
+9*â
+12Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ(w
+u
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ(
+
+%21int"__id*
+""*
+10
+11*õ
+34Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java½ ½(
+Š
+‡
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java½ ½(
+%9boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+9
+33*…	
+23Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀ À(Q›
+˜
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÀ À(Q
+suffixjava.lang.String"__id*
+
+%11java.lang.StringÂ
+¿
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(M
+%14java.lang.String"__concat*75
+3ParticleAnalyzer: threshold not set; assumed to be *
+""£
+ 
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(Q
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+-¤
+¡
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(]
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+""º
+·
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(d
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+
+suffixjava.lang.String±
+®
+Y
+M/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÁ Á(e
+%18void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%17java.lang.String*
+9:
+impij.ImagePlus:
+ipij.process.ImageProcessorB%#
+!ij.plugin.filter.ParticleAnalyzer

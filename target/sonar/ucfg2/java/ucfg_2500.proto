@@ -1,0 +1,35 @@
+
+@ij.plugin.filter.Writer#setup(Ljava/lang/String;Lij/ImagePlus;)IM
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java ("1*≥
+1M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java (ó
+î
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java ("
+ij.plugin.filter.Writer"
+arg"__id*
+
+argjava.lang.Stringì
+ê
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java ("
+ij.plugin.filter.Writer"
+imp"__id*
+
+impij.ImagePlusj
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java	 (	
+%0int"__id*
+""j
+h
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java (	
+%1int"__id*
+"""W
+M
+C/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/Writer.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Writer

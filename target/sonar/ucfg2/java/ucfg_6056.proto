@@ -1,0 +1,70 @@
+
+lij.gui.ProfilePlot#getStraightLineProfile(Lij/gui/Roi;Lij/measure/Calibration;Lij/process/ImageProcessor;)[DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java¥
+ ¥( "6*æ
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java« «(ÎË
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java« «(*
+%2ij.process.FloatPolygon"5ij.gui.Line#getFloatPoints()Lij/process/FloatPolygon;*
+
+lineij.gui.Line2getFloatPoints()”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java« «(+
+pij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java® ®(1
+%3double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java± ±(6
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*¥
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java© ©( "T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java© ©(!
+""*Å
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java¦ ¦(ÇÄ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java¦ ¦(,
+
+%0void",ij.process.ImageProcessor#setInterpolate(Z)V*!
+
+ipij.process.ImageProcessor*
+""2setInterpolate(Z)~
+|
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java§ §(
+lineij.gui.Line"__id*
+
+roi
+ij.gui.Roiž›
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java¨ ¨(%
+%1double[]"ij.gui.Line#getPixels()[D*
+
+lineij.gui.Line2getPixels()*	
+2
+5
+1*¥
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java´
+ ´("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ProfilePlot.java´ ´(
+"":
+roi
+ij.gui.Roi:
+calij.measure.Calibration:
+ipij.process.ImageProcessorB
+ij.gui.ProfilePlot

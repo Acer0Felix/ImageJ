@@ -1,0 +1,80 @@
+
+.ij.process.FloatProcessor#create8BitImage(Z)[BQ
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¾ ¾("14*î
+13Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÁ Á(Ž
+‹
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÁ Á((
+ij.process.FloatProcessor"	
+pixels8"__id*
+""*
+12*ú
+14Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.java¿ ¿(–
+“
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÀ À(
+%0byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+13
+12*÷
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÍ Í(
+–
+“
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÍ Í(
+
+%6byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+3
+1*Ô
+10Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÇ" Ç(%s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÇ" Ç(%	
+%3int"__id*
+	
+%5int*
+3
+1*Ô
+11Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÇ Ç(!s
+q
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÇ Ç(!	
+%3int"__id*
+	
+%4int*
+3
+1*Ë
+12Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÂ Â(²¯
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÄ Ä(
+%1double"#ij.process.FloatProcessor#getMin()D*
+ij.process.FloatProcessor2getMin()²¯
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÅ Å(
+%2double"#ij.process.FloatProcessor#getMax()D*
+ij.process.FloatProcessor2getMax()*
+10
+11*Ô
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÏ	 Ï(–
+“
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÏ	 Ï(
+%7byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8"c
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/FloatProcessor.javaÏ Ï(
+
+%7byte[]:
+""B
+ij.process.FloatProcessor

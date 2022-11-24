@@ -1,0 +1,147 @@
+
+ ij.macro.Functions#updatePlot()DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÅ Å("9*≤
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä ä(«ƒ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä ä('
+%9ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*!
+
+
+plotWindowij.gui.PlotWindow2getImagePlus()ëé
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaä ä(/
+
+%10int"ij.ImagePlus#getID()I*
+
+%9ij.ImagePlus2getID()*
+1*ß
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à( ä
+á
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à( 
+%7ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot¨©
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à('
+%8ij.gui.PlotWindow"%ij.gui.Plot#show()Lij/gui/PlotWindow;*
+
+%7ij.gui.Plot2show()ë
+é
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaà à((
+
+plotWindowij.gui.PlotWindow"__id*
+
+%8ij.gui.PlotWindow*
+2
+1*∂
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ Ü(ä
+á
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ Ü(#
+%5ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot“œ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÜ Ü($
+
+%6void"*ij.gui.PlotWindow#drawPlot(Lij/gui/Plot;)V*
+
+winij.gui.ImageWindow*
+
+%5ij.gui.Plot2drawPlot(Lij/gui/Plot;)*
+1*Ê
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ Ñ(@å
+â
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ Ñ(@
+winij.gui.ImageWindow"__id*
+
+%2ij.gui.ImageWindow*
+3
+4*⁄
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ; Ñ(?É
+Ä
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ; Ñ(?
+%2ij.gui.ImageWindow"__id*
+
+%4
+<nulltype>*
+5*¶
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ% Ñ(.¡æ
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ% Ñ(:
+%3ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+	plotImageij.ImagePlus2getWindow()ã
+à
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÑ% Ñ(:
+%2ij.gui.ImageWindow"__id*
+
+%3ij.gui.ImageWindow*
+5*ê
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(&≠
+™
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(7
+%1ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""Ü
+É
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÉ É(8
+	plotImageij.ImagePlus"__id*
+
+%1ij.ImagePlus*
+6
+7*‰
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(
+ä
+á
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaÇ Ç(
+
+%0ij.gui.Plot"__id* *
+ij.macro.Functions"
+plot*
+8
+1*◊
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç	 ç(|
+z
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaç ç(
+ij.macro.Functions"
+plot"__id*
+""ñ
+ì
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(
+%11ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp´®
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaé é(
+%12void"!ij.macro.Interpreter#getParens()V*
+
+%11ij.macro.Interpreter2getParens()k
+i
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè	 è(
+%13double"__id*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaè è(
+""B
+ij.macro.Functions

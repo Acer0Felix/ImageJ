@@ -1,0 +1,25 @@
+
+'ij.process.AutoThresholder#Moments([I)IR
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java” ”("6*–
+6R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaµ µ(	š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java¸ ¸(5
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""š
+—
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.java¹ ¹(5
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*µ
+1R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÆ	 Æ("\
+R
+F/Users/edi/Development/MISO/ImageJ/src/ij/process/AutoThresholder.javaÆ Æ(
+"":
+""B
+ij.process.AutoThresholder

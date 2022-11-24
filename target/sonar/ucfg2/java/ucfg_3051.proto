@@ -1,0 +1,224 @@
+
+ij.macro.Functions#math(I)DJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java— —("1*»
+13J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›(!
+%14double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›("
+""*»
+14J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š(!
+%13double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š("
+""*Œ
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜ ˜(š
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java˜ ˜(
+%0double"ij.macro.Functions#getArg()D*
+ij.macro.Functions2getArg()g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaš š(	
+%1int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java› ›(	
+%2int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ(	
+%3int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (	
+%4int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž(	
+%5int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(	
+%6int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (	
+%7int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(	
+%8int"__id*
+""g
+e
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¢ ¢(	
+%9int"__id*
+""h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(
+
+%10int"__id*
+""h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤ ¤(
+
+%11int"__id*
+""h
+f
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥ ¥(
+
+%12int"__id*
+""*,
+13
+14
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12*¥
+2J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¦ ¦("T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¦ ¦(
+""*»
+3J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥ ¥($“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥ ¥(#
+%24double"java.lang.Math#acos(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¥ ¥($
+""*»
+4J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤ ¤($“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤ ¤(#
+%23double"java.lang.Math#asin(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¤ ¤($
+""*»
+5J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £($“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £(#
+%22double"java.lang.Math#atan(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java£ £($
+""*º
+6J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¢ ¢("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¢ ¢(!
+%21double"java.lang.Math#tan(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¢ ¢("
+""*»
+7J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡($“
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡(#
+%20double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java¡ ¡($
+""*º
+8J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   ("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   (!
+%19double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java   ("
+""*¼
+9J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(,”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(+
+%18double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaŸ Ÿ(,
+""*»
+10J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž(!
+%17double"java.lang.Math#log(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaž ž("
+""*½
+11J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (&”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (%
+%16double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.java (&
+""*»
+12J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ("’
+
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ(!
+%15double"java.lang.Math#exp(D)D*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/macro/Functions.javaœ œ("
+"":
+""B
+ij.macro.Functions

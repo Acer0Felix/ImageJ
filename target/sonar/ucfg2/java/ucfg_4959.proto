@@ -1,0 +1,252 @@
+
+2ij.util.DicomTools#getVoxelDepth(Lij/ImageStack;)DH
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaa a(#"15*¢
+13H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javac c(ÉÆ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javac c(-
+%2java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*22getSliceLabel(I)ù
+ö
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javac c(;
+%3java.lang.String"Qij.util.DicomTools#getTag(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.DicomTools*
+
+%2java.lang.String*
+	0020,0032‡
+„
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javac c(<
+pos0java.lang.String"__id*
+
+%3java.lang.Stringt
+r
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javad d(
+posnjava.lang.String"__id*
+""*
+
+2
+12
+1*°
+14H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javab b(ÙÖ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javab b(.
+%1ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)*
+13*ú
+15H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javab b(Ÿœ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javab b(
+%0boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+13
+14*¡
+1H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javas	 s("R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javas s(
+""*
+2H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(˜
+•
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(B
+%18java.lang.String"__concat*
+DicomTools.getVoxelDepth: *
+""“
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(G
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+  §
+¤
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(L
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+
+pos0java.lang.String“
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(Q
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+  §
+¤
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(V
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+
+posnjava.lang.String 
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javar r(W
+%23void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%22java.lang.String*
+1*Ø
+4H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javao o(•
+’
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javao" o((
+%14java.lang.String"
+__arrayGet*
+
+xyzjava.lang.String[]*2À
+½
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javao o()
+%15double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%14java.lang.String’
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javap& p(2
+
+%16int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()
+
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javap p(8
+%17double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+2
+1*¡
+5H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javan n('"R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javan n((
+""*Î
+6H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javam	 m(èå
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javam	 m(
+%13java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+posnjava.lang.String*
+\\\\2split(Ljava/lang/String;)‹
+ˆ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javam m(
+xyzjava.lang.String[]"__id*
+
+%13java.lang.String[]*
+4
+5*¡
+7H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javal l($"R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javal l(%
+""*È
+8H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javak
+ k(’
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javak% k(1
+
+%10int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()ÒÏ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javak k(2
+%11java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+
+
+%10int2getSliceLabel(I)û
+ø
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javak
+ k(@
+%12java.lang.String"Qij.util.DicomTools#getTag(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.DicomTools*
+
+%11java.lang.String*
+	0020,0032ˆ
+…
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javak k(@
+posnjava.lang.String"__id*
+
+%12java.lang.String*
+6
+7*É
+9H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaj j(‘Ž
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaj- j(9	
+%8int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()àÝ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaj j(:
+%9ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+	
+%8int2getProcessor(I)*
+8*Ð
+10H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javai i(”
+‘
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javai" i((
+%5java.lang.String"
+__arrayGet*
+
+xyzjava.lang.String[]*2¾
+»
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javai i()
+%6double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%5java.lang.StringŸœ
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javaj j(
+%7boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+8
+9*¢
+11H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javah h('"R
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javah h((
+""*Ï
+12H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javag g(çä
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javag g($
+%4java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+pos0java.lang.String*
+\\\\2split(Ljava/lang/String;)Š
+‡
+H
+>/Users/edi/Development/MISO/ImageJ/src/ij/util/DicomTools.javag g(%
+xyzjava.lang.String[]"__id*
+
+%4java.lang.String[]*
+10
+11:
+stackij.ImageStackB"
+ij.util.DicomTools

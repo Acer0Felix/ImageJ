@@ -1,0 +1,70 @@
+
+Bij.process.TypeConverter#convertToRGB()Lij/process/ImageProcessor;P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaö ö(#"3*ñ
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaø
+ ø(¢
+Ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaø
+ ø(
+%1ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaø ø(!
+
+%1ij.process.ImageProcessor*Ì
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java÷ ÷(
+m
+k
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.java÷ ÷(	
+%0int"__id*
+""*
+2
+1*Í
+
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaú ú(¢
+Ÿ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaú ú(
+%2ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ipú÷
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaú ú(3
+%3ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+%2ij.process.ImageProcessor*
+""2convertToByte(Z) 
+
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaú ú(4 
+ip2ij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor×Ô
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaû û(.
+%4java.awt.Image"7ij.process.ImageProcessor#createImage()Ljava/awt/Image;*"
+ 
+ip2ij.process.ImageProcessor2createImage()‘
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaû û(
+%5ij.process.ColorProcessor"ij.process.ColorProcessorË
+È
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaû
+ û(/
+%6"3ij.process.ColorProcessor#<init>(Ljava/awt/Image;)V*!
+
+%5ij.process.ColorProcessor*
+
+%4java.awt.Image"u
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/process/TypeConverter.javaû û(0!
+
+%5ij.process.ColorProcessorB
+ij.process.TypeConverter

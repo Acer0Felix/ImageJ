@@ -1,0 +1,64 @@
+
+%ij.ImagePlus#isDisplayedHyperStack()ZD
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaë
+ ë
+(%"5*Ä
+2D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+B í
+(EÑ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+B í
+(E
+%2ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win®•
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+4 í
+(U
+%3boolean""ij.gui.StackWindow#isHyperStack()Z*
+
+%2ij.gui.ImageWindow2isHyperStack()*
+1*ÿ
+4D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+ í
+(Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+ í
+(
+%1ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win*
+2
+1*€
+5D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+	 í
+(Ñ
+Å
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+	 í
+(
+%0ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win*	
+2
+4
+1*ô
+1D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+ í
+(V"N
+D
+8/Users/edi/Development/MISO/ImageJ/src/ij/ImagePlus.javaí
+ í
+(V
+""B
+ij.ImagePlus

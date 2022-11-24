@@ -1,0 +1,146 @@
+
+Dij.gui.NewImage#createRGBImage(Ljava/lang/String;IIII)Lij/ImagePlus;G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java° °('"30*Á
+2G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÓ Ó(n
+l
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÓ Ó(
+impij.ImagePlus"__id*
+""*
+1*Ó
+3G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÒ Ò(e
+c
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÒ- Ò(0
+
+%11int"__id*
+""•
+’
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÒ Ò(:
+%12boolean"Jij.gui.NewImage#createStack(Lij/ImagePlus;Lij/process/ImageProcessor;III)Z*"
+ij.gui.NewImage*
+
+impij.ImagePlus*!
+
+ipij.process.ColorProcessor*
+""*
+
+
+%11int*
+""*
+2
+1*²
+4G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÐ  Ð(%mk
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÐ Ð(
+%9ij.ImagePlus"ij.ImagePlusî
+ë
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÐ Ð(*
+%10"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%9ij.ImagePlus*
+
+titlejava.lang.String*!
+
+ipij.process.ColorProcessor|
+z
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÐ Ð(+
+impij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+3
+1*É
+5G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java´ ´(ˆ…
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaµ µ((
+%3ij.process.ColorProcessor"ij.process.ColorProcessor¶
+³
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaµ µ(?
+%4"'ij.process.ColorProcessor#<init>(II[I)V*!
+
+%3ij.process.ColorProcessor*
+""*
+""*
+""–
+“
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaµ µ(@
+ipij.process.ColorProcessor"__id*!
+
+%3ij.process.ColorProcessord
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java· ·(	
+%5int"__id*
+""d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java» »(	
+%6int"__id*
+""d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java¿ ¿(	
+%7int"__id*
+""d
+b
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Ì(	
+%8int"__id*
+""*
+4
+6*§
+6G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÌ Î(
+Ó
+Ð
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÍ Í(
+
+%2void";ij.gui.NewImage#fillNoiseRGB(Lij/process/ColorProcessor;Z)V*"
+ij.gui.NewImage*!
+
+ipij.process.ColorProcessor*2*
+4* 
+29G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java³ ³("Q
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java³ ³(
+""*‡
+30G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java± ±(‘
+Ž
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java± ±(	
+%0int"ij.gui.NewImage#getFill(I)I*"
+ij.gui.NewImage*
+""š
+—
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.java² ²(#	
+%1int"ij.gui.NewImage#getSize(II)I*"
+ij.gui.NewImage*
+""*
+""*
+5
+29*®
+1G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÕ	 Õ("`
+G
+;/Users/edi/Development/MISO/ImageJ/src/ij/gui/NewImage.javaÕ Õ(
+
+impij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+""B"
+ij.gui.NewImage

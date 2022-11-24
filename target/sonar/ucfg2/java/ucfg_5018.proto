@@ -1,0 +1,34 @@
+
+,ij.CompositeImage#getImage()Ljava/awt/Image;G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javad d("3*Ù
+2G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaf f(†ù
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaf f(
+
+%1void" ij.CompositeImage#updateImage()V*
+ij.CompositeImage2updateImage()*
+1*ﬂ
+3G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javae e(	à
+Ö
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javae e(	
+%0java.awt.Image"__id**
+ij.CompositeImage"
+img*
+2
+1*∫
+1G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javag	 g(à
+Ö
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javag	 g(
+%2java.awt.Image"__id**
+ij.CompositeImage"
+img"a
+G
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javag g(
+
+%2java.awt.ImageB
+ij.CompositeImage

@@ -1,0 +1,68 @@
+
+Aij.CompositeImage#getRGBSampleModel()Ljava/awt/image/SampleModel;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∂ ∂("1*ñ
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∑ ∑(!ñì
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∑ ∑(%
+%0java.awt.image.DirectColorModel"java.awt.image.DirectColorModel 
+«
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∑
+ ∑(:
+%1"-java.awt.image.DirectColorModel#<init>(IIII)V*'
+%
+%0java.awt.image.DirectColorModel*2*2ÄÄ¸*2Ä˛*2ˇù
+ö
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∑ ∑(:
+ij.CompositeImage"
+rgbCM"__id*'
+%
+%0java.awt.image.DirectColorModeló
+î
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∏ ∏(
+%2java.awt.image.ColorModel"__id* *
+ij.CompositeImage"
+rgbCM£†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∏ ∏(@#
+%3java.awt.image.WritableRaster"[java.awt.image.ColorModel#createCompatibleWritableRaster(II)Ljava/awt/image/WritableRaster;*!
+
+%2java.awt.image.ColorModel*2*22"createCompatibleWritableRaster(II)†
+ù
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∏ ∏(A#
+wrjava.awt.image.WritableRaster"__id*%
+#
+%3java.awt.image.WritableRasterÌÍ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaπ π(/ 
+%4java.awt.image.SampleModel"Bjava.awt.image.Raster#getSampleModel()Ljava/awt/image/SampleModel;*%
+#
+wrjava.awt.image.WritableRaster2getSampleModel()£
+†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaπ π(0)
+sampleModeljava.awt.image.SampleModel"__id*"
+ 
+%4java.awt.image.SampleModel¶£
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∫ ∫(F 
+%5java.awt.image.SampleModel"Vjava.awt.image.SampleModel#createCompatibleSampleModel(II)Ljava/awt/image/SampleModel;*+
+)
+sampleModeljava.awt.image.SampleModel*
+""*
+""2createCompatibleSampleModel(II)£
+†
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.java∫ ∫(F)
+sampleModeljava.awt.image.SampleModel"__id*"
+ 
+%5java.awt.image.SampleModel"x
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/CompositeImage.javaª ª(+
+)
+sampleModeljava.awt.image.SampleModelB
+ij.CompositeImage

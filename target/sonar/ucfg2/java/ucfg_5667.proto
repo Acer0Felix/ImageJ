@@ -1,0 +1,109 @@
+
+5ij.plugin.MacroInstaller#install(Ljava/lang/String;)IP
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java· ·("3"5*√
+2P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÁ Á(û
+õ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÁ Á(
+%3java.awt.Menu"__id*,**
+ij.plugin.MacroInstaller"
+
+macrosMenuß
+§
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÁ# Á(+
+%4ij.plugin.MacroInstaller"__id***(
+ij.plugin.MacroInstaller"
+
+listenerõò
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÁ Á(,
+
+%5void"Hjava.awt.MenuItem#removeActionListener(Ljava/awt/event/ActionListener;)V*
+
+%3java.awt.Menu* 
+
+%4ij.plugin.MacroInstaller25removeActionListener(Ljava/awt/event/ActionListener;)*
+1*Ï
+3P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java‰ ‰(ù
+ö
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java‰ ‰($
+ij.plugin.MacroInstaller"
+text"__id*
+
+textjava.lang.String°
+û
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÂ Â($
+%1java.awt.Menu"'ij.Menus#getMacrosMenu()Ljava/awt/Menu;*"
+
+ij.Menusû
+õ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÂ Â($*
+ij.plugin.MacroInstaller"
+
+macrosMenu"__id*
+
+%1java.awt.Menuß
+§
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÊ Ê(
+%2ij.plugin.MacroInstaller"__id***(
+ij.plugin.MacroInstaller"
+
+listener*
+2
+1*±
+4P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java„
+ „("Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java„ „(
+""*˙
+5P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java‚ ‚(ö
+ó
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.java‚ ‚(
+%0ij.macro.Program"__id*%*#
+ij.plugin.MacroInstaller"
+pgm*
+3
+4*æ
+1P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaË Ë(û
+õ
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaË Ë(
+%6java.awt.Menu"__id*,**
+ij.plugin.MacroInstaller"
+
+macrosMenuëé
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaË Ë($
+
+%7void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%6java.awt.Menu*
+ij.plugin.MacroInstaller22addActionListener(Ljava/awt/event/ActionListener;)£
+†
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÈ È((
+ij.plugin.MacroInstaller"
+
+listener"__id*
+ij.plugin.MacroInstallerØ¨
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÍ Í(
+
+%8void"#ij.plugin.MacroInstaller#install()V*
+ij.plugin.MacroInstaller2	install()"Z
+P
+D/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MacroInstaller.javaÎ Î(
+"":
+textjava.lang.StringB
+ij.plugin.MacroInstaller

@@ -1,0 +1,149 @@
+
+ ij.gui.Roi#isActiveOverlayRoi()ZB
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¥ ¥(("12*“
+2B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java­ ­(!ÄÁ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java­ ­(0
+%11boolean"&ij.gui.Overlay#contains(Lij/gui/Roi;)Z*
+
+overlayij.gui.Overlay*
+
+ij.gui.Roi2contains(Lij/gui/Roi;)*
+1*Ð
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬ ¬(-
+}
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬ ¬(-
+overlayij.gui.Overlay"__id*
+
+%8ij.gui.Overlay*
+2
+1*Å
+4B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬) ¬(-w
+u
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬) ¬(-
+%8ij.gui.Overlay"__id*
+
+%10
+<nulltype>*
+3*‹
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬ ¬(À½
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬ ¬((
+%9ij.gui.Overlay"3ij.gui.ImageCanvas#getShowAllList()Lij/gui/Overlay;*
+
+icij.gui.ImageCanvas2getShowAllList()z
+x
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¬ ¬((
+%8ij.gui.Overlay"__id*
+
+%9ij.gui.Overlay*
+3*…
+6B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(
+%6ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp²¯
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «("
+%7ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%6ij.ImagePlus2getCanvas()ƒ
+€
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java« «(#
+icij.gui.ImageCanvas"__id*
+
+%7ij.gui.ImageCanvas*
+4
+5*•
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaª
+ ª("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaª ª(
+""*•
+8B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java© ©(ÃÀ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java© ©(-
+%5boolean"&ij.gui.Overlay#contains(Lij/gui/Roi;)Z*
+
+overlayij.gui.Overlay*
+
+ij.gui.Roi2contains(Lij/gui/Roi;)*
+6
+7*ú
+9B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¨ ¨(y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¨ ¨(
+%3ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp¬©
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¨ ¨($
+%4ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+%3ij.ImagePlus2getOverlay()
+}
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¨ ¨(%
+overlayij.gui.Overlay"__id*
+
+%4ij.gui.Overlay*
+6
+8*–
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java§
+ §("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java§ §(
+""*ë
+11B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¦ ¦(y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¦ ¦(
+%1ij.ImagePlus"__id**
+
+ij.gui.Roi"
+impœ™
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¦ ¦(%
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%1ij.ImagePlus2getRoi()*
+9
+10*Í
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¦ ¦(	y
+w
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java¦ ¦(	
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp*
+10
+11*•
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java­ ­(1"L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java­ ­(1
+""B
+
+ij.gui.Roi

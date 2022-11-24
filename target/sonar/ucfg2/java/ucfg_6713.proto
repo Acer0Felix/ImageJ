@@ -1,0 +1,36 @@
+
+Hij.process.ColorProcessor#createProcessor(II)Lij/process/ImageProcessor;O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javab b(&"1*ó
+1O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javac* c(/êç
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javac c()
+%0ij.process.ColorProcessor"ij.process.ColorProcessor¥
+±
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javac c(8
+%1"%ij.process.ColorProcessor#<init>(II)V*!
+
+%0ij.process.ColorProcessor*
+""*
+""ü
+ú
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javac c(9 
+ip2ij.process.ImageProcessor"__id*!
+
+%0ij.process.ColorProcessor›⁄
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javad d(1
+
+%2void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*"
+ 
+ip2ij.process.ImageProcessor*
+""2setInterpolationMethod(I)"u
+O
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ColorProcessor.javae e("
+ 
+ip2ij.process.ImageProcessor:
+"":
+""B
+ij.process.ColorProcessor

@@ -1,0 +1,58 @@
+
+=ij.gui.PolygonRoi#getNonSplineCoordinates()Ljava/awt/Polygon;I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaì ì('"2"1*„
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî î(Œ
+‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî î(!
+%0int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""Œ
+‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî# î(.
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""wu
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî î(
+%2java.awt.Polygon"java.awt.Polygonµ
+²
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî
+ î(8
+%3"java.awt.Polygon#<init>([I[II)V*
+
+%2java.awt.Polygon*
+
+%0int[]*
+
+%1int[]*
+"""e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî î(9
+
+%2java.awt.Polygon*Ø
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javað ð(wu
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javað ð(
+%4java.awt.Polygon"java.awt.Polygon§
+¤
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javað
+ ð(&
+%5"java.awt.Polygon#<init>([I[II)V*
+
+%4java.awt.Polygon*
+""*
+""*
+"""e
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javað ð('
+
+%4java.awt.PolygonB
+ij.gui.PolygonRoi

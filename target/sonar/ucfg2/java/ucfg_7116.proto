@@ -1,0 +1,560 @@
+
+Iij.plugin.MontageMaker#makeMontage2(Lij/ImagePlus;IIDIIIIZ)Lij/ImagePlus;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaò ò("36*Ê
+35N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java® ®(≥
+∞
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java® ®()
+%12java.awt.Color"3ij.gui.Toolbar#getForegroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbarç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java® ®()
+fgColorjava.awt.Color"__id*
+
+%12java.awt.Color≥
+∞
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java© ©()
+%13java.awt.Color"3ij.gui.Toolbar#getBackgroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbarç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java© ©()
+bgColorjava.awt.Color"__id*
+
+%13java.awt.Color*
+28*Ò
+13N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java€ €(ã
+à
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java€ €(6
+%43void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+3
+5
+9
+20*’
+24N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaø ø(
+¯ı
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaø ø(
+%28void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*&
+$
+montageij.process.ImageProcessor*
+
+fgColorjava.awt.Color2setColor(Ljava/awt/Color;)*
+22*∂
+36N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaô ô(õò
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaô ô(!	
+%0int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()ùö
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaö ö(#	
+%1int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()£†
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaõ õ("	
+%2int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()”–
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java† †((
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ù
+ö
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java† †()
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessorÜÉ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java° °(J
+%4ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2createProcessor(II)¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java° °(K$
+montageij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessortr
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢( 
+%5ij.ImagePlus"ij.ImagePlusÈ
+Ê
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢(4
+%6"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%5ij.ImagePlus*	
+Montage*&
+$
+montageij.process.ImageProcessorÖ
+Ç
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢(5
+imp2ij.ImagePlus"__id*
+
+%5ij.ImagePlus—Œ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java£ £(*
+%7ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()˘ˆ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java£ £(+
+
+%8void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%7ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)‘—
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java§ §(
+%9ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java§ §($
+montageij.process.ImageProcessor"__id*!
+
+%9ij.process.ImageProcessorw
+u
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java• •(
+%10java.awt.Color"__id*
+""ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java• •(
+fgColorjava.awt.Color"__id*
+
+%10java.awt.Colorw
+u
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¶ ¶(
+%11java.awt.Color"__id*
+""ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¶ ¶(
+bgColorjava.awt.Color"__id*
+
+%11java.awt.Color*
+35
+28
+29
+32*‹
+25N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaΩ Ω(	≥∞
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaΩ Ω(
+%25void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()ú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaæ æ(/
+%26double"$ij.gui.Toolbar#getForegroundValue()D*"
+ij.gui.Toolbar¶
+£
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaæ æ(0
+%27boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%26double*
+24
+23*∏
+26N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaº º(
+€ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaº º(%
+%24void"5ij.process.ImageProcessor#setGlobalBackgroundColor()V*&
+$
+montageij.process.ImageProcessor2setGlobalBackgroundColor()*
+25*’
+27N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java∫ ∫(
+¯ı
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java∫ ∫(
+%23void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*&
+$
+montageij.process.ImageProcessor*
+
+bgColorjava.awt.Color2setColor(Ljava/awt/Color;)*
+25*Ô
+17N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java” ”(âÜ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java” ”(F
+%42void"Vij.plugin.MontageMaker#drawLabel(Lij/process/ImageProcessor;ILjava/lang/String;IIIII)V*
+ij.plugin.MontageMaker*&
+$
+montageij.process.ImageProcessor*
+""*
+
+labeljava.lang.String*
+""*
+""*
+""*
+""*
+""2>drawLabel(Lij/process/ImageProcessor;ILjava/lang/String;IIIII)*
+13
+3
+5
+9*¶
+28N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaπ π(ú
+ô
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaπ π(/
+%21double"$ij.gui.Toolbar#getBackgroundValue()D*"
+ij.gui.Toolbar¶
+£
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaπ π(0
+%22boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%21double*
+26
+27*É
+18N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java– –(
+®•
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java– –(
+%40void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*&
+$
+montageij.process.ImageProcessor*%
+#
+aSliceij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)‹Ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java— —(1
+%41java.lang.String"5ij.ImageStack#getShortSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getShortSliceLabel(I)è
+å
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java— —(2
+labeljava.lang.String"__id*
+
+%41java.lang.String*
+13
+3
+5
+17
+9*Ï
+29N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(w
+u
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(
+%19java.awt.Color"__id*
+""ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(
+fgColorjava.awt.Color"__id*
+
+%19java.awt.Colorw
+u
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java∂ ∂(
+%20java.awt.Color"__id*
+""ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java∂ ∂(
+bgColorjava.awt.Color"__id*
+
+%20java.awt.Color*
+28*‹
+19N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÃ Ã(
+l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÃ" Ã(9
+
+%37int"__id*
+""Ê„
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÃ Ã(:
+%38void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*%
+#
+aSliceij.process.ImageProcessor*
+
+
+%37int2setInterpolationMethod(I)ÉÄ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaŒ Œ(@ 
+%39ij.process.ImageProcessor"@ij.process.ImageProcessor#resize(IIZ)Lij/process/ImageProcessor;*%
+#
+aSliceij.process.ImageProcessor*
+""*
+""*
+""2resize(IIZ)¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaŒ Œ(@#
+aSliceij.process.ImageProcessor"__id*"
+ 
+%39ij.process.ImageProcessor*
+18*æ
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ Ó(ç
+ä
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(4
+%51java.lang.String"__concat*
+	xMontage=*
+""¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(B
+%52java.lang.String"__concat*
+
+%51java.lang.String*
+\nyMontage=ô
+ñ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(G
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+""ô
+ñ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(L
+%54java.lang.String"__concat*
+
+%53java.lang.String*
+\nëé
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÓ Ó(M
+%55void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp2ij.ImagePlus*
+Info*
+
+%54java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/Object;)"h
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÔ Ô(
+
+imp2ij.ImagePlus*ã
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaË Ë(ã
+à
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaË Ë(
+%48void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""”–
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÈ È()
+%49ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()ô
+ñ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÈ È(*
+calij.measure.Calibration"__id*
+
+%49ij.measure.Calibration∞≠
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÍ Í(
+%50boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+1*Ô
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java‰ ‰(€ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java‰ ‰(3
+%46void"'ij.process.ImageProcessor#setRoi(IIII)V*&
+$
+montageij.process.ImageProcessor*2 *
+""*
+""*
+""2setRoi(IIII)≥∞
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÂ Â(
+%47void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()*
+3
+5*Ú
+9N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java‡ ‡(€ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java‡ ‡(4
+%44void"'ij.process.ImageProcessor#setRoi(IIII)V*&
+$
+montageij.process.ImageProcessor*
+""*2 *
+""*
+""2setRoi(IIII)≥∞
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java· ·(
+%45void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()*	
+3
+5
+9*Ë
+20N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java   (‚ﬂ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java   (% 
+%36ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)¢
+ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java   (%#
+aSliceij.process.ImageProcessor"__id*"
+ 
+%36ij.process.ImageProcessor*
+18
+19*˝	
+32N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java≠ ≠(‘—
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java≠ ≠(0
+%14void"'ij.process.ImageProcessor#setRoi(IIII)V*!
+
+ipij.process.ImageProcessor*2 *
+""*
+""*22setRoi(IIII)l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÆ> Æ(O
+
+%15int"__id*
+""À
+»
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÆ Æ(V!
+%16ij.process.ImageStatistics"zij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*!
+
+ipij.process.ImageProcessor*
+
+
+%15int*
+""£
+†
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaÆ Æ(W#
+statsij.process.ImageStatistics"__id*#
+!
+%16ij.process.ImageStatistics∂≥
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaØ Ø(
+%17void"%ij.process.ImageProcessor#resetRoi()V*!
+
+ipij.process.ImageProcessor2
+resetRoi()™ß
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java± ±(
+%18boolean"ij.ImagePlus#isInvertedLut()Z*
+
+impij.ImagePlus2isInvertedLut()*
+28
+29*©
+22N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(	l
+j
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¬( ¬(2
+
+%30int"__id*
+""wu
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(
+%31java.awt.Font"java.awt.Fontƒ
+¡
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(=
+%32"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%31java.awt.Font*
+	SansSerif*
+
+
+%30int*
+""ÔÏ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(>
+%33void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*&
+$
+montageij.process.ImageProcessor*
+
+%31java.awt.Font2setFont(Ljava/awt/Font;)◊‘
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java√ √("
+%34void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*&
+$
+montageij.process.ImageProcessor*22setAntialiasedText(Z)¥±
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaƒ ƒ(#
+%35ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()â
+Ü
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.javaƒ ƒ($
+stackij.ImageStack"__id*
+
+%35ij.ImageStackÜ
+É
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java« «(#
+aSliceij.process.ImageProcessor"__id*
+""*
+3
+5
+9
+20*∏
+23N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¡ ¡(
+€ÿ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/MontageMaker.java¡ ¡(%
+%29void"5ij.process.ImageProcessor#setGlobalForegroundColor()V*&
+$
+montageij.process.ImageProcessor2setGlobalForegroundColor()*
+22:
+impij.ImagePlus:
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B
+ij.plugin.MontageMaker

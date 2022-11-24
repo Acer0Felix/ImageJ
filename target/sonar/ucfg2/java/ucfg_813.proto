@@ -1,0 +1,119 @@
+
+ij.gui.GenericDialog#digits(D)IL
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java∆ ∆("8"9*É
+2L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java’ ’(…∆
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java’% ’(8
+%9java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+sjava.lang.String*
+""2substring(I)ﬁ
+€
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java’ ’(9
+%10java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%9java.lang.String*
+1*˘
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java‘ ‘(
+†ù
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java‘ ‘(	
+%8int"java.lang.String#length()I*
+
+numberjava.lang.String2length()*
+2*ë
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java“ “(”–
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java“ “(2
+%6java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+sjava.lang.String*
+""*
+""2substring(II)ç
+ä
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java“ “(3
+numberjava.lang.String"__id*
+
+%6java.lang.StringœÃ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java” ”(
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+numberjava.lang.String*
+02equals(Ljava/lang/Object;)*
+2
+3*¡
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java– –(…∆
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java– –(!
+%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+sjava.lang.String*
+""2substring(I)úô
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java– –(*	
+%5int"java.lang.String#length()I*
+
+%4java.lang.String2length()*
+1*§
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(»≈
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(	
+%3int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+sjava.lang.String*
+.2indexOf(Ljava/lang/String;)*
+4
+5*°
+7L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÃ Ã(»≈
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.javaÃ Ã(	
+%2int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+sjava.lang.String*
+e2indexOf(Ljava/lang/String;)*
+6*È
+8L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java… …(∑
+¥
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java… …( 
+%0java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+""à
+Ö
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java… …(!
+sjava.lang.String"__id*
+
+%0java.lang.String»≈
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java   (	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+sjava.lang.String*
+E2indexOf(Ljava/lang/String;)*
+6
+7*©
+9L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java»
+ »("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java» »(
+""*©
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java◊	 ◊("V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/gui/GenericDialog.java◊ ◊(
+"":
+""B"
+ij.gui.GenericDialog

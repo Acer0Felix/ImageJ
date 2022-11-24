@@ -1,0 +1,47 @@
+
+Mij.process.ImageProcessor#convertToByteProcessor(Z)Lij/process/ByteProcessor;Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaõ õ(,"4*˜
+2Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java† †(˜Ù
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java† †(0
+%1ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*
+ij.process.ImageProcessor*
+""2convertToByte(Z)ü
+ú
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java† †(0
+bpij.process.ByteProcessor"__id*!
+
+%1ij.process.ImageProcessor*
+1*Â
+3Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaû û(Â‚
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaû û('
+%0ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*
+ij.process.ImageProcessor2duplicate()ü
+ú
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaû û('
+bpij.process.ByteProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+1*Â
+4Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaú ú(Ñ
+Å
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.javaú ú(
+bpij.process.ByteProcessor"__id*
+""*
+2
+3*Õ
+1Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java°	 °("u
+Q
+E/Users/edi/Development/MISO/ImageJ/src/ij/process/ImageProcessor.java° °( 
+
+bpij.process.ByteProcessor:
+""B
+ij.process.ImageProcessor

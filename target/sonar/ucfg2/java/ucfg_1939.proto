@@ -1,0 +1,60 @@
+
+ij.IJ#is64Bit()Z=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¼	 ¼	("5*ý
+2=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿	(v
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿	(
+%3java.lang.String"__id**
+ij.IJ"
+osarch»¸
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿	(-	
+%4int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+%3java.lang.String*
+642indexOf(Ljava/lang/String;)*
+1*Â
+3=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿		 ¿	(v
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿		 ¿	(
+%2java.lang.String"__id**
+ij.IJ"
+osarch*
+2
+1*ƒ
+4=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¾	 ¾	(Á
+¾
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¾	 ¾	()
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.archv
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¾	 ¾	()
+ij.IJ"
+osarch"__id*
+
+%1java.lang.String*
+3*Â
+5=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java½	 ½	(v
+t
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java½	 ½	(
+%0java.lang.String"__id**
+ij.IJ"
+osarch*
+3
+4*‹
+1=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿	(2"G
+=
+1/Users/edi/Development/MISO/ImageJ/src/ij/IJ.java¿	 ¿	(2
+""B	"
+ij.IJ

@@ -1,0 +1,82 @@
+
+Gij.measure.Calibration#pluralForm(Ljava/lang/String;)Ljava/lang/String;N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java† †(!"8*Î
+2N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java© ©(ê
+ç
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java© ©(
+unitsjava.lang.String"__id*
+
+unitjava.lang.String*
+1*Ÿ
+3N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.javaß ß(
+}
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.javaß ß(
+unitsjava.lang.String"__id*
+
+inches*
+1*∞
+4N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java¶ ¶(“œ
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java¶ ¶(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+inch2equals(Ljava/lang/Object;)*
+2
+3*€
+5N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java• •(Ä
+~
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java• •(
+unitsjava.lang.String"__id*	
+microns*
+1*≤
+6N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java§ §(‘—
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java§ §( 
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+
+micron2equals(Ljava/lang/Object;)*
+4
+5*Ÿ
+7N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java£ £(
+}
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java£ £(
+unitsjava.lang.String"__id*
+
+pixels*
+1*Æ
+8N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java° °({
+y
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java° °(
+unitsjava.lang.String"__id*
+""”–
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java¢ ¢(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*	
+pixel2equals(Ljava/lang/Object;)*
+6
+7*¬
+1N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java™ ™("m
+N
+B/Users/edi/Development/MISO/ImageJ/src/ij/measure/Calibration.java™ ™(
+
+unitsjava.lang.String:
+unitjava.lang.StringB"
+ij.measure.Calibration

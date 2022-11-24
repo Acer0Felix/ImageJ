@@ -1,0 +1,733 @@
+
+7ij.plugin.frame.ColorThresholder#apply(Lij/ImagePlus;)VX
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java› ›("130"131*‡
+25X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java≠	 ≠	(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java≠	 ≠	(
+%72byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÆ	 Æ	(
+%73byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaØ	 Ø	(
+%74byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+25
+16*‘
+28X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	= ´	(F≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	= ´	(F
+%70java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	= ´	(Q
+%71boolean"java.awt.Checkbox#getState()Z*
+
+%70java.awt.Checkbox2
+getState()*
+25
+16*‘
+29X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	% ´	(.≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	% ´	(.
+%68java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	% ´	(9
+%69boolean"java.awt.Checkbox#getState()Z*
+
+%68java.awt.Checkbox2
+getState()*
+16
+28*é
+130X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaﬂ. ﬂ(1˜Ù
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaﬂ. ﬂ(E
+%1java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Mask2getProperty(Ljava/lang/String;)¶
+£
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaﬂ ﬂ(F'
+
+fillMaskIPij.process.ImageProcessor"__id*
+
+%1java.lang.Object*
+
+128
+129*ô
+131X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaﬁ ﬁ(∞
+≠
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaﬁ ﬁ(4
+
+%0void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+ColorThresholder.apply*
+130*€
+112X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ? Ô(H≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ? Ô(H
+%16java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ? Ô(S
+%17boolean"java.awt.Checkbox#getState()Z*
+
+%16java.awt.Checkbox2
+getState()*
+16
+109
+100*◊
+113X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ& Ô(/≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ& Ô(/
+%14java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ& Ô(:
+%15boolean"java.awt.Checkbox#getState()Z*
+
+%14java.awt.Checkbox2
+getState()*
+
+112
+100*◊
+114X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ Ô(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ Ô(
+%12java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ Ô(!
+%13boolean"java.awt.Checkbox#getState()Z*
+
+%12java.awt.Checkbox2
+getState()*
+
+113
+100*ÿ
+70X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	? ç	(H≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	? ç	(H
+%43java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	? ç	(S
+%44boolean"java.awt.Checkbox#getState()Z*
+
+%43java.awt.Checkbox2
+getState()*
+58
+16
+67*‘
+71X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	& ç	(/≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	& ç	(/
+%41java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	& ç	(:
+%42boolean"java.awt.Checkbox#getState()Z*
+
+%41java.awt.Checkbox2
+getState()*
+58
+70*‘
+72X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	 ç	(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	 ç	(
+%39java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç	 ç	(!
+%40boolean"java.awt.Checkbox#getState()Z*
+
+%39java.awt.Checkbox2
+getState()*
+58
+71*‡
+95X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˚ ˚(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˚ ˚(
+%27byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java¸ ¸(
+%28byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˝ ˝(
+%29byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+16
+95*‘
+30X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	 ´	(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	 ´	(
+%66java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java´	 ´	( 
+%67boolean"java.awt.Checkbox#getState()Z*
+
+%66java.awt.Checkbox2
+getState()*
+16
+29*‡
+53X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaô	 ô	(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaô	 ô	(
+%54byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaö	 ö	(
+%55byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaõ	 õ	(
+%56byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+16
+53*ÿ
+98X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘= ˘(F≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘= ˘(F
+%25java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘= ˘(Q
+%26boolean"java.awt.Checkbox#getState()Z*
+
+%25java.awt.Checkbox2
+getState()*
+16
+95
+86*‘
+99X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘$ ˘(-≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘$ ˘(-
+%23java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘$ ˘(8
+%24boolean"java.awt.Checkbox#getState()Z*
+
+%23java.awt.Checkbox2
+getState()*
+86
+98*‰
+11X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaª	1 ª	(;|
+z
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaª	1 ª	(;
+
+%78int"__id*
+
+
+%80int*
+8
+9*‰
+12X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaª	& ª	(0|
+z
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaª	& ª	(0
+
+%78int"__id*
+
+
+%79int*
+8
+9*ÿ
+56X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	= ó	(F≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	= ó	(F
+%52java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	= ó	(Q
+%53boolean"java.awt.Checkbox#getState()Z*
+
+%52java.awt.Checkbox2
+getState()*
+16
+53
+44* 
+13X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∫	 ∫	(ﬂ‹
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∫	 ∫	('
+%77java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()*
+11
+12*‘
+57X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	% ó	(.≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	% ó	(.
+%50java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	% ó	(9
+%51boolean"java.awt.Checkbox#getState()Z*
+
+%50java.awt.Checkbox2
+getState()*
+44
+56*ﬂ
+14X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaπ	 π	(
+v
+t
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaπ	 π	(
+
+%76int"__id*
+""*
+13
+1*‘
+58X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	 ó	(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	 ó	(
+%48java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó	 ó	(!
+%49boolean"java.awt.Checkbox#getState()Z*
+
+%48java.awt.Checkbox2
+getState()*
+57
+44*¬
+15X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∏	 ∏	("b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∏	 ∏	(
+""*Ù
+16X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∑	 ∑	(ﬁ€
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∑	 ∑	(( 
+%75ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()®
+•
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java∑	 ∑	()
+ipij.process.ImageProcessor"__id*"
+ 
+%75ij.process.ImageProcessor*
+14
+15*‡
+39X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java£	 £	(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java£	 £	(
+%63byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java§	 §	(
+%64byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java•	 •	(
+%65byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+16
+39*v
+0 "o
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java«	 «	(
+implicit return*’
+100X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘ ˘(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘ ˘(
+%21java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘ ˘( 
+%22boolean"java.awt.Checkbox#getState()Z*
+
+%21java.awt.Checkbox2
+getState()*
+86
+99*Ï
+1X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaƒ	 ƒ	(ÔÏ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaƒ	 ƒ	(
+%84java.awt.Color"Aij.plugin.frame.ColorThresholder#thresholdColor()Ljava/awt/Color;*$"
+ ij.plugin.frame.ColorThresholder2thresholdColor()˘ˆ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaƒ	 ƒ	( 
+%85void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%84java.awt.Color2setColor(Ljava/awt/Color;)ôñ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java≈	 ≈	(
+%86void"<ij.process.ImageProcessor#fill(Lij/process/ImageProcessor;)V*!
+
+ipij.process.ImageProcessor*)
+'
+
+fillMaskIPij.process.ImageProcessor2!fill(Lij/process/ImageProcessor;)*
+0*·
+123X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÁ Á(§
+°
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÁ Á(
+%9byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaË Ë(
+%10byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÈ È(
+%11byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*	
+123
+16*ÿ
+126X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ6 Â(?±
+Æ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ6 Â(?
+%7java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ6 Â(J
+%8boolean"java.awt.Checkbox#getState()Z*
+
+%7java.awt.Checkbox2
+getState()*
+123
+114
+16*‘
+127X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ Â('±
+Æ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ Â('
+%5java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ Â(2
+%6boolean"java.awt.Checkbox#getState()Z*
+
+%5java.awt.Checkbox2
+getState()*
+
+114
+126*—
+128X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java· ·(&Ê„
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java· ·(2
+%2java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*)
+'
+
+fillMaskIPij.process.ImageProcessor2getPixels()ë
+é
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java· ·(3
+fillMaskbyte[]"__id*
+
+%2java.lang.Object±
+Æ
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ Â(
+%3java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH≤Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÂ Â(
+%4boolean"java.awt.Checkbox#getState()Z*
+
+%3java.awt.Checkbox2
+getState()*
+
+114
+127*√
+129X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java‡ ‡("b
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java‡ ‡(
+""*‡
+8X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaº	1 º	(;|
+z
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaº	1 º	(;
+
+%81int"__id*
+
+
+%83int*
+0*‡
+81X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÖ	 Ö	(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÖ	 Ö	(
+%36byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÜ	 Ü	(
+%37byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaá	 á	(
+%38byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+16
+81*‡
+9X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaº	& º	(0|
+z
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaº	& º	(0
+
+%81int"__id*
+
+
+%82int*
+0*‚
+109X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÒ Ò(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÒ Ò(
+%18byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÚ Ú(
+%19byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÛ Û(
+%20byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*	
+16
+109*ÿ
+84X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	> É	(G≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	> É	(G
+%34java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	> É	(R
+%35boolean"java.awt.Checkbox#getState()Z*
+
+%34java.awt.Checkbox2
+getState()*
+16
+81
+72*‘
+85X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	& É	(/≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	& É	(/
+%32java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	& É	(:
+%33boolean"java.awt.Checkbox#getState()Z*
+
+%32java.awt.Checkbox2
+getState()*
+72
+84*‘
+86X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	 É	(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	 É	(
+%30java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ	 É	(!
+%31boolean"java.awt.Checkbox#getState()Z*
+
+%30java.awt.Checkbox2
+getState()*
+72
+85*ÿ
+42X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	? °	(H≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	? °	(H
+%61java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassB¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	? °	(S
+%62boolean"java.awt.Checkbox#getState()Z*
+
+%61java.awt.Checkbox2
+getState()*
+16
+39
+30*‘
+43X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	& °	(/≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	& °	(/
+%59java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassS¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	& °	(:
+%60boolean"java.awt.Checkbox#getState()Z*
+
+%59java.awt.Checkbox2
+getState()*
+30
+42*‘
+44X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	 °	(≤
+Ø
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	 °	(
+%57java.awt.Checkbox"__id*3*1"
+ ij.plugin.frame.ColorThresholder"
+	bandPassH¥±
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.java°	 °	("
+%58boolean"java.awt.Checkbox#getState()Z*
+
+%57java.awt.Checkbox2
+getState()*
+30
+43*‡
+67X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaè	 è	(•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaè	 è	(
+%45byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê	 ê	(
+%46byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource•
+¢
+X
+L/Users/edi/Development/MISO/ImageJ/src/ij/plugin/frame/ColorThresholder.javaë	 ë	(
+%47byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource*
+16
+67:
+impij.ImagePlusB$"
+ ij.plugin.frame.ColorThresholder

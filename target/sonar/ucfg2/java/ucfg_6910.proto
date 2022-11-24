@@ -1,0 +1,38 @@
+
+%ij.gui.PolygonRoi#getYCoordinates()[II
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaã ã("2"4"1*²
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaç
+ ç(Œ
+‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaç
+ ç(
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+"""S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaç ç(
+""*²
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaå
+ å(Œ
+‰
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaå
+ å(
+%0int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+"""S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaå å(
+""*£
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaé
+ é("S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaé é(
+""B
+ij.gui.PolygonRoi

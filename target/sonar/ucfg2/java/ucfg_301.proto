@@ -1,0 +1,195 @@
+
+[ij.plugin.filter.EDM#makeFloatEDM(Lij/process/ImageProcessor;IZ)Lij/process/FloatProcessor;L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaé é(&"35*€
+35L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaè è(≤Ø
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaè è(!	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()¥±
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaê ê(#	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()çä
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaë  ë(.
+%2ij.process.FloatProcessor"ij.process.FloatProcessor±
+Æ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaë ë(=
+%3"%ij.process.FloatProcessor#<init>(II)V*!
+
+%2ij.process.FloatProcessor*
+""*
+""õ
+ò
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaë ë(>
+fpij.process.FloatProcessor"__id*!
+
+%2ij.process.FloatProcessor“œ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaí! í(/
+%4java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()Ñ
+Å
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaí í(0
+bPixelsbyte[]"__id*
+
+%4java.lang.Object“œ
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaì# ì(1
+%5java.lang.Object"7ij.process.FloatProcessor#getPixels()Ljava/lang/Object;*!
+
+fpij.process.FloatProcessor2getPixels()*
+33
+34*á
+16L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaß ß(¶
+£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaß ß(-
+%13void"$ij.plugin.filter.EDM#addProgress(D)V*
+ij.plugin.filter.EDM*
+""*
+
+6
+19
+1*…
+27L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaõ$ õ(%i
+g
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaú ú(%	
+%9int"__id*
+""*
+
+6
+19
+1*™
+17L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¶C ¶(G"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¶< ¶(H
+""*∆
+18L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(¥
+±
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(*
+%11java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread∞≠
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(:
+%12boolean"!java.lang.Thread#isInterrupted()Z*
+
+%11java.lang.Thread2isInterrupted()*
+16
+17*◊
+19L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java§ §(Ú
+Ô
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java§ §([
+%10void"+ij.plugin.filter.EDM#edmLine([B[F[[IIIIII)V*
+ij.plugin.filter.EDM*
+
+bPixelsbyte[]*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+6
+18
+19
+1*Û
+1L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java∏ ∏(
+¨©
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java∏ ∏(
+%18void"!ij.process.FloatProcessor#sqrt()V*!
+
+fpij.process.FloatProcessor2sqrt()"q
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javaπ π(!
+
+fpij.process.FloatProcessor*Ç
+3L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¥ ¥(¶
+£
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java¥ ¥(-
+%17void"$ij.plugin.filter.EDM#addProgress(D)V*
+ij.plugin.filter.EDM*
+""*
+6
+1*©
+4L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java≥C ≥(G"V
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java≥< ≥(H
+""*√
+5L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(¥
+±
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(*
+%15java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread∞≠
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(:
+%16boolean"!java.lang.Thread#isInterrupted()Z*
+
+%15java.lang.Thread2isInterrupted()*
+3
+4*—
+6L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java± ±(Ú
+Ô
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.java± ±([
+%14void"+ij.plugin.filter.EDM#edmLine([B[F[[IIIIII)V*
+ij.plugin.filter.EDM*
+
+bPixelsbyte[]*
+""*
+""*
+""*
+""*
+""*
+""*
+""*	
+5
+6
+1*À
+33L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javañP ñ(Qq
+o
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javañP ñ(Q
+%6double"__id*
+	
+%8int*
+27*Œ
+34L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javañ9 ñ(<t
+r
+L
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/filter/EDM.javañ9 ñ(M
+%6double"__id*
+
+%7double*
+27:
+ipij.process.ImageProcessor:
+"":
+""B
+ij.plugin.filter.EDM

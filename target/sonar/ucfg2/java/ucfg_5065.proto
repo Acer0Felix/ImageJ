@@ -1,0 +1,65 @@
+
+ij.process.LUT#getBytes()[BD
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java5 5("15*¬
+13D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java8 8(g
+e
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java8 8(!
+bytesbyte[]"__id*
+""*
+3
+7
+11
+1*ö
+14D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java7 7("N
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java7 7(
+""*¸
+3D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java; ;(!®•
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java;1 ;(;	
+%3int"*java.awt.image.IndexColorModel#getBlue(I)I*
+ij.process.LUT*
+""2
+getBlue(I)*
+3
+1*˚
+15D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java6 6(§°
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java6 6(	
+%0int",java.awt.image.IndexColorModel#getMapSize()I*
+ij.process.LUT2getMapSize()*
+13
+14*Å
+7D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java: :(!™ß
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java:1 :(<	
+%2int"+java.awt.image.IndexColorModel#getGreen(I)I*
+ij.process.LUT*
+""2getGreen(I)*	
+3
+7
+1*Ç
+11D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java9 9(!¶£
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java9- 9(6	
+%1int")java.awt.image.IndexColorModel#getRed(I)I*
+ij.process.LUT*
+""2	getRed(I)*
+3
+7
+11
+1*§
+1D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java<	 <("Y
+D
+:/Users/edi/Development/MISO/ImageJ/src/ij/process/LUT.java< <(
+
+bytesbyte[]B
+ij.process.LUT

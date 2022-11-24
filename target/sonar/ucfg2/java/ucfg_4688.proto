@@ -1,0 +1,23 @@
+
+"ij.gui.ImageCanvas#offScreenY2(I)IJ
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java± ±("1*Ð
+1J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java²	 ²(”
+‘
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java²	 ²(
+%0java.awt.Rectangle"__id*#*!
+ij.gui.ImageCanvas"	
+srcRect‘
+Ž
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java² ²(6
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""T
+J
+>/Users/edi/Development/MISO/ImageJ/src/ij/gui/ImageCanvas.java² ²(7
+"":
+""B
+ij.gui.ImageCanvas

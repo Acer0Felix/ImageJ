@@ -1,0 +1,208 @@
+
+ ij.plugin.Options#conversions()VI
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaù ù("14*ù
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaØ Ø(«
+ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaØ Ø(:
+%22void"3ij.process.ColorProcessor#setWeightingFactors(DDD)V*"
+ij.process.ColorProcessor*
+""*
+""*
+""*
+1*à
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaû û(#∞
+≠
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaû û(9
+%0double[]"1ij.process.ColorProcessor#getWeightingFactors()[D*"
+ij.process.ColorProcessor*
+10*ù
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java≠ ≠(«
+ƒ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java≠ ≠(:
+%21void"3ij.process.ColorProcessor#setWeightingFactors(DDD)V*"
+ij.process.ColorProcessor*
+""*
+""*
+""*
+1*Ü
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java™ ™(∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java™ ™(1
+%18boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()∏
+µ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java™ ™(2
+%19void"*ij.process.ImageConverter#setDoScaling(Z)V*"
+ij.process.ImageConverter*
+
+%18boolean∂≥
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java´ ´(+
+%20boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*	
+2
+5
+1*£
+7I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java© ©(
+"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java© ©(
+
+""*≥
+8I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java¶ ¶(˘ˆ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java¶ ¶("
+%15void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+
+promptjava.lang.String*
+""2 addCheckbox(Ljava/lang/String;Z)´®
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaß ß(
+%16void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()∞≠
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java® ®(
+%17boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+6
+7*à
+9I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(	ô
+ñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(&
+%5java.lang.String"ij.IJ#d2s(D)Ljava/lang/String;*	"
+ij.IJ*
+""í
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(&
+%6java.lang.String"__concat*
+ (*
+
+%5java.lang.Stringë
+é
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(,
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+,ô
+ñ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java•/ •(A
+%8java.lang.String"ij.IJ#d2s(D)Ljava/lang/String;*	"
+ij.IJ*
+""§
+°
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(A
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.Stringí
+è
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(G
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+,ö
+ó
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java•I •([
+%11java.lang.String"ij.IJ#d2s(D)Ljava/lang/String;*	"
+ij.IJ*
+""ß
+§
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •([
+%12java.lang.String"__concat*
+
+%10java.lang.String*
+
+%11java.lang.Stringì
+ê
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(a
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+)™
+ß
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(a
+%14java.lang.String"__concat*
+
+promptjava.lang.String*
+
+%13java.lang.Stringã
+à
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java• •(a
+promptjava.lang.String"__id*
+
+%14java.lang.String*
+8*‰
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.javaü ü(S}
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java° °(&
+%1ij.gui.GenericDialog"ij.gui.GenericDialogº
+π
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java° °(<
+%2"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%1ij.gui.GenericDialog*
+Conversion Optionsé
+ã
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java° °(=
+gdij.gui.GenericDialog"__id*
+
+%1ij.gui.GenericDialogß
+§
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java¢* ¢(G
+%3boolean")ij.process.ImageConverter#getDoScaling()Z*"
+ij.process.ImageConverter˛˚
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java¢ ¢(H
+
+%4void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Scale when converting*
+
+%3boolean2 addCheckbox(Ljava/lang/String;Z)é
+ã
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java£ £(-
+promptjava.lang.String"__id*
+Weighted RGB conversions*
+8
+9*£
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java∞ ∞(	"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/plugin/Options.java∞ ∞(	
+""B
+ij.plugin.Options

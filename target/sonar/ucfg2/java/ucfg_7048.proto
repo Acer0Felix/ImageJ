@@ -1,0 +1,66 @@
+
+)ij.Prefs#getBoolean(Ljava/lang/String;Z)Z@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java” ”(!"5*‘
+2@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java˜
+ ˜("J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java˜ ˜(
+""*Í
+3@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java– –(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java– –(
+%1java.util.Properties"__id**
+
+ij.Prefs"
+propsÿü
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java– –(#
+%2java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%1java.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;){
+y
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java– –($
+sjava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*‘
+4@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java• •(&"J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java• •('
+""*Î
+5@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java• •(
+}
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.java• •(
+%0java.util.Properties"__id**
+
+ij.Prefs"
+props*
+3
+4*Õ
+1@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaš
+ š(Á¾
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaš
+ š(
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+sjava.lang.String*
+true2equals(Ljava/lang/Object;)"J
+@
+4/Users/edi/Development/MISO/ImageJ/src/ij/Prefs.javaš š(
+"":
+keyjava.lang.String:
+""B"
+
+ij.Prefs

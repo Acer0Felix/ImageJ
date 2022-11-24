@@ -1,0 +1,207 @@
+
+Pij.plugin.Binner#shrink(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java– –("19"21*•
+4H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java© ©(Ý
+Ú
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java© ©($
+%13float"7ij.plugin.Binner#getSum(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""ÏÌ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java© ©(%
+%14void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%13float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*•
+6H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java§ §(Ý
+Ú
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java§ §($
+%11float"7ij.plugin.Binner#getMax(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""ÏÌ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java§ §(%
+%12void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%11float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*ƒ
+18H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java
+ (Ã
+À
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java
+ (D
+%4ij.process.ImageProcessor"nij.plugin.Binner#shrinkRGB(Lij/process/ColorProcessor;Lij/process/ColorProcessor;I)Lij/process/ImageProcessor;*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+"""m
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java (E!
+
+%4ij.process.ImageProcessor*ê
+19H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java™
+ ™(®«
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java™
+ ™(	
+%1int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()°­
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.javaš
+ š(	
+%2int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()€ý
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java› ›(/
+%3ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2createProcessor(II)˜
+•
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java› ›(0 
+ip2ij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+4
+6
+18
+8
+10
+1
+12*“
+8H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¥ ¥(Ü
+Ù
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¥ ¥($
+%9float"7ij.plugin.Binner#getMin(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""ÎË
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¥ ¥(%
+%10void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%9float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*ç
+21H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java— —(
+
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java— —( 
+%0java.lang.String[]"__id*!*
+ij.plugin.Binner"	
+methods*
+19*–
+10H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java£ £(ß
+Ü
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java£ £('
+%7float":ij.plugin.Binner#getMedian(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""ÍÊ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java£ £((
+
+%8void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%7float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*—
+12H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¡ ¡(à
+Ý
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¡ ¡((
+%5float";ij.plugin.Binner#getAverage(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""ÍÊ
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¡ ¡()
+
+%6void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%5float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*½
+1H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¬	 ¬("n
+H
+</Users/edi/Development/MISO/ImageJ/src/ij/plugin/Binner.java¬ ¬("
+ 
+ip2ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+""B
+ij.plugin.Binner

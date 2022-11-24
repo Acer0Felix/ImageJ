@@ -1,0 +1,185 @@
+
+,ij.gui.PolygonRoi#getLength(Lij/ImagePlus;)DI
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaî
+ î
+("15*„
+2I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaı
+
+ ı
+(Ş
+Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaı
+
+ ı
+(7
+%8double"2ij.gui.PolygonRoi#getLength([F[FIZLij/ImagePlus;)D*"
+ij.gui.PolygonRoi*
+""*
+""*
+""*
+""*
+
+impij.ImagePlus"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaı
+ ı
+(8
+""*Œ
+14I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javağ
+
+ ğ
+(åâ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javağ
+
+ ğ
+(!
+%1double"5ij.gui.PolygonRoi#getTracedPerimeter(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+impij.ImagePlus2"getTracedPerimeter(Lij/ImagePlus;)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javağ
+ ğ
+("
+""*ò
+15I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaï
+ ï
+(“
+
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaï
+ ï
+(
+%0boolean"ij.gui.PolygonRoi#isTraced()Z*
+ij.gui.PolygonRoi*
+14
+5
+12*„
+4I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaû
+
+ û
+(Ş
+Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaû
+
+ û
+(D
+%7double"2ij.gui.PolygonRoi#getLength([F[FIZLij/ImagePlus;)D*"
+ij.gui.PolygonRoi*
+""*
+""*
+""*
+""*
+
+impij.ImagePlus"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaû
+ û
+(E
+""*ğ
+5I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaù
+ ù
+(”‘
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaù
+ ù
+(
+%6boolean"ij.gui.Roi#isArea()Z*
+ij.gui.PolygonRoi2isArea()*	
+2
+4
+1*‘
+6I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+( ëè
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+(%
+%5double"8ij.gui.PolygonRoi#getSmoothedLineLength(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+impij.ImagePlus2%getSmoothedLineLength(Lij/ImagePlus;)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaö
+ ö
+(&
+""*¿
+10I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ
+ õ
+(f
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaõ
+ õ
+(	
+%4int"__id*
+""*
+5
+6*
+11I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaô
+ ô
+(éæ
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaô
+ ô
+($
+%3double"7ij.gui.PolygonRoi#getSmoothedPerimeter(Lij/ImagePlus;)D*
+ij.gui.PolygonRoi*
+
+impij.ImagePlus2$getSmoothedPerimeter(Lij/ImagePlus;)"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaô
+ ô
+(%
+""*Á
+12I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaó
+ ó
+(f
+d
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaó
+ ó
+(	
+%2int"__id*
+""*
+10
+11*„
+1I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÿ
+
+ ÿ
+(Ş
+Û
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÿ
+
+ ÿ
+(5
+%9double"2ij.gui.PolygonRoi#getLength([I[IIZLij/ImagePlus;)D*"
+ij.gui.PolygonRoi*
+""*
+""*
+""*
+""*
+
+impij.ImagePlus"S
+I
+=/Users/edi/Development/MISO/ImageJ/src/ij/gui/PolygonRoi.javaÿ
+ ÿ
+(6
+"":
+impij.ImagePlusB
+ij.gui.PolygonRoi

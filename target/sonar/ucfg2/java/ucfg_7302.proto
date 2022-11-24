@@ -1,0 +1,74 @@
+
+)ij.plugin.SpecifyROI#validDialogValues()ZJ
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaN	 N("7*•
+2J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaT
+ T("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaT T(
+""*Å
+3J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS  S($å
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS( S(+
+%4ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+impòï
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS( S(7	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()*
+2
+1*ˇ
+4J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS S(
+å
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS S(
+%2ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+impñì
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaS S(	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()*
+2
+3*•
+5J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaR
+ R("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaR R(
+""*Ã
+7J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaO O(å
+â
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaO O(
+%0ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+impÃ…
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaO O((
+%1ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%0ij.ImagePlus2getCalibration()î
+ë
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaO O()
+calij.measure.Calibration"__id*
+
+%1ij.measure.Calibration*
+4
+5*•
+1J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaU	 U("T
+J
+@/Users/edi/Development/MISO/ImageJ/src/ij/plugin/SpecifyROI.javaU U(
+""B
+ij.plugin.SpecifyROI

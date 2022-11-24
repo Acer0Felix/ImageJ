@@ -1,0 +1,24 @@
+
+Cij.plugin.FolderOpener#openFolder(Ljava/lang/String;)Lij/ImagePlus;L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javap p("1*Æ
+1L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javaq q(ﬂ‹
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javar r(
+
+%0void"/ij.plugin.FolderOpener#run(Ljava/lang/String;)V*
+ij.plugin.FolderOpener*
+
+pathjava.lang.String2run(Ljava/lang/String;)í
+è
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javas	 s(
+%1ij.ImagePlus"__id*%*#
+ij.plugin.FolderOpener"
+image"d
+L
+B/Users/edi/Development/MISO/ImageJ/src/ij/plugin/FolderOpener.javas s(
+
+%1ij.ImagePlus:
+pathjava.lang.StringB
+ij.plugin.FolderOpener

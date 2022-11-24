@@ -1,0 +1,220 @@
+
+,ij.gui.Roi#getProperties()Ljava/lang/String;B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaÕ Õ("14*ñ
+13B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaœ
+ œ("L
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaœ œ(
+""*Ÿ
+14B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŒ Œ(Ñ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŒ Œ(
+%0java.util.Properties"__id**
+
+ij.gui.Roi"
+props*
+13
+12*Æ
+3B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(í
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(
+%15java.lang.String"
+__arrayGet*
+
+keysjava.lang.String[]*
+""àÖ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(
+%16java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+
+%15java.lang.String2append(Ljava/lang/String;)ıÚ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java⁄ ⁄(
+%17java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+: 2append(Ljava/lang/String;)Ö
+Ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €(
+%18java.util.Properties"__id**
+
+ij.gui.Roi"
+propsí
+è
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €(
+%19java.lang.String"
+__arrayGet*
+
+keysjava.lang.String[]*
+""§
+°
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €(
+%20java.lang.Object"__mapGet*
+
+%18java.util.Properties*
+
+%19java.lang.StringàÖ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java€ €( 
+%21java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/Object;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+
+%20java.lang.Object2append(Ljava/lang/Object;)ıÚ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java‹ ‹(
+%22java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+\n2append(Ljava/lang/String;)*
+3
+1*©
+5B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java÷ ÷(µ
+≤
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java÷ ÷(
+%12void"+java.util.Arrays#sort([Ljava/lang/Object;)V*"
+java.util.Arrays*
+
+keysjava.lang.String[]}{
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java◊ ◊($
+%13java.lang.StringBuffer"java.lang.StringBufferë
+é
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java◊ ◊(&
+%14" java.lang.StringBuffer#<init>()V*
+
+%13java.lang.StringBufferå
+â
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java◊ ◊('
+sbjava.lang.StringBuffer"__id*
+
+%13java.lang.StringBuffer*
+3
+1*∞
+7B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(¿Ω
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(#
+%10java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*
+""2elementAt(I)õ
+ò
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java’ ’(#
+%11"
+__arraySet*
+
+keysjava.lang.String[]*
+""*
+
+%10java.lang.Object*
+5
+7*›
+9B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”(çä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”(%	
+%8int"java.util.Vector#size()I*
+
+vjava.util.Vector2size()tr
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”(&
+%9java.lang.String[]"java.lang.String[]Ö
+Ç
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java” ”('
+keysjava.lang.String[]"__id*
+
+%9java.lang.String[]*
+5
+7*
+10B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(ƒ¡
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “( 
+%6java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+enjava.util.Enumeration2nextElement()ÿ’
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java“ “(!
+
+%7void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+vjava.util.Vector*
+
+%6java.lang.Object2addElement(Ljava/lang/Object;)*
+11*Ü
+11B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java—$ —(&≤Ø
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java—$ —(8
+%5boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+enjava.util.Enumeration2hasMoreElements()*
+9
+10*ô
+12B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java– –(pn
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java– –(
+%1java.util.Vector"java.util.VectorÉ
+Ä
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java– –(
+%2"java.util.Vector#<init>()V*
+
+%1java.util.Vector}
+{
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java– –(
+vjava.util.Vector"__id*
+
+%1java.util.VectorÑ
+Å
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —(
+%3java.util.Properties"__id**
+
+ij.gui.Roi"
+propsæª
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —("
+%4java.util.Enumeration"2java.util.Properties#keys()Ljava/util/Enumeration;*
+
+%3java.util.Properties2keys()â
+Ü
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.java— —("
+enjava.util.Enumeration"__id*
+
+%4java.util.Enumeration*
+11*Ï
+1B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaﬁ	 ﬁ(¡æ
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaﬁ	 ﬁ(
+%23java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"_
+B
+6/Users/edi/Development/MISO/ImageJ/src/ij/gui/Roi.javaﬁ ﬁ(
+
+%23java.lang.StringB
+
+ij.gui.Roi
